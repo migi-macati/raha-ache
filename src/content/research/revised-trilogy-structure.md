@@ -12,7 +12,7 @@ timeline: []
 
 Birth and youth in Maynila through the flight to Brunei.
 
-Later revision title: **Heir of the River**.
+Current Book I title: **Raha Ache — The King of Luzon**. **Heir of the River** is retained as an earlier Part I development title.
 
 Tondo actively pressures Maynila. Ache's departure becomes a pursued sea journey through the Mindoro/Palawan corridor rather than a simple transition.
 
