@@ -130,3 +130,50 @@ footer{
 .relation-row span,.relation-row small{font-family:ui-sans-serif,system-ui,sans-serif;color:var(--muted);font-size:.8rem}
 .relation-row a{text-decoration:none}
 @media(max-width:560px){.relation-row{grid-template-columns:1fr 1fr}.relation-row small{grid-column:2}}
+
+.feedback-panel{
+  margin-top:3rem;
+  padding:1.25rem 0;
+  border-top:2px solid var(--deep);
+  border-bottom:1px solid var(--line);
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:1.25rem;
+  align-items:start;
+}
+.feedback-panel h2{
+  margin:0 0 .35rem;
+  font-size:1.1rem;
+  font-family:ui-sans-serif,system-ui,sans-serif;
+}
+.feedback-panel p{
+  margin:0;
+  color:var(--muted);
+  font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.9rem;
+}
+.feedback-actions{
+  display:flex;
+  gap:.55rem;
+  flex-wrap:wrap;
+  justify-content:flex-end;
+}
+.feedback-actions a{
+  font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.85rem;
+  text-decoration:none;
+  border:1px solid var(--line);
+  padding:.48rem .7rem;
+  border-radius:3px;
+  background:#fffaf1;
+}
+.feedback-actions a:hover{border-color:var(--deep)}
+.feedback-actions .feedback-primary{
+  background:var(--deep);
+  color:#fff8ef;
+  border-color:var(--deep);
+}
+@media(max-width:700px){
+  .feedback-panel{grid-template-columns:1fr}
+  .feedback-actions{justify-content:flex-start}
+}

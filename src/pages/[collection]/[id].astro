@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import FeedbackPanel from '../../components/FeedbackPanel.astro';
 import { render } from 'astro:content';
 import { entityIndex, getEverything, referencedIds } from '../../lib/entities';
 
@@ -88,5 +89,7 @@ const backlinks = all
         </div>
       </section>
     )}
+
+    <FeedbackPanel collection={collection} id={data.id} title={data.name} />
   </article>
 </BaseLayout>

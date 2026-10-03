@@ -1,0 +1,40 @@
+---
+interface Props {
+  collection: string;
+  id: string;
+  title: string;
+}
+
+const { collection, id, title } = Astro.props;
+const repoUrl = 'https://github.com/migi-macati/raha-ache';
+const key = `${collection}/${id}`;
+const pageUrl = new URL(`${import.meta.env.BASE_URL}${collection}/${id}/`, Astro.site).toString();
+const issueTitle = `[Feedback: ${key}] ${title}`;
+const issueBody = [
+  `Page: ${pageUrl}`,
+  `Page key: ${key}`,
+  '',
+  'Feedback / correction:',
+  '',
+  '',
+  'Reason or source (optional):',
+  ''
+].join('\n');
+
+const addUrl = `${repoUrl}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+const openQuery = `is:issue is:open in:title "[Feedback: ${key}]"`;
+const closedQuery = `is:issue is:closed in:title "[Feedback: ${key}]"`;
+const openUrl = `${repoUrl}/issues?q=${encodeURIComponent(openQuery)}`;
+const archiveUrl = `${repoUrl}/issues?q=${encodeURIComponent(closedQuery)}`;
+---
+<section class="feedback-panel" aria-labelledby="feedback-heading">
+  <div>
+    <h2 id="feedback-heading">Comments and corrections</h2>
+    <p>Each feedback item is a separate thread. Reply in the thread; resolved items stay in the archive.</p>
+  </div>
+  <div class="feedback-actions">
+    <a class="feedback-primary" href={addUrl} target="_blank" rel="noreferrer">Add feedback</a>
+    <a href={openUrl} target="_blank" rel="noreferrer">Open feedback</a>
+    <a href={archiveUrl} target="_blank" rel="noreferrer">Resolved archive</a>
+  </div>
+</section>
