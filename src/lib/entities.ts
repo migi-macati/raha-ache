@@ -1,7 +1,7 @@
 import { getCollection } from 'astro:content';
 import { withBase } from './base';
 
-export const collectionNames = ['characters','places','events','sources','books','chapters','research'] as const;
+export const collectionNames = ['characters','places','events','objects','technologies','practices','ideas','sources','books','chapters','research'] as const;
 export type CollectionName = typeof collectionNames[number];
 
 export async function getEverything() {
@@ -9,6 +9,10 @@ export async function getEverything() {
     getCollection('characters'),
     getCollection('places'),
     getCollection('events'),
+    getCollection('objects'),
+    getCollection('technologies'),
+    getCollection('practices'),
+    getCollection('ideas'),
     getCollection('sources'),
     getCollection('books'),
     getCollection('chapters'),
@@ -34,7 +38,7 @@ export async function entityIndex() {
 }
 
 export function referencedIds(data: Record<string, unknown>) {
-  const keys = ['related','sources','timeline','characters','places','chapters','events'];
+  const keys = ['related','sources','timeline','characters','places','chapters','events','objects','technologies','practices','ideas'];
   const flat = keys.flatMap((key) => Array.isArray(data[key]) ? data[key] as string[] : []);
   const relationTargets = Array.isArray(data.relations)
     ? (data.relations as Array<{ target?: string }>).map((relation) => relation.target).filter(Boolean) as string[]
