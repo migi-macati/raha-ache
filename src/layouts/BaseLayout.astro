@@ -2,7 +2,7 @@
 import '../styles/global.css';
 const {
   title = 'Raha Ache',
-  description = 'Public story bible, historical research archive, and manuscript workspace for the Raha Ache trilogy.'
+  description = 'Raha Ache archive.'
 } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
@@ -28,9 +28,6 @@ const base = import.meta.env.BASE_URL;
       </nav>
     </header>
     <main><slot /></main>
-    <footer>
-      <strong>Raha Ache Archive</strong><br />
-      Historical evidence, interpretation, reconstruction, and novel canon are kept distinct.
-    </footer>
+    <footer>Raha Ache</footer>
   </body>
 </html>
