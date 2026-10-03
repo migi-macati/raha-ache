@@ -4,7 +4,7 @@ name: Revised trilogy structure
 aliases: []
 status: fictional
 developmentStatus: current
-related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
+related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
 sources: []
 timeline: []
 ---
