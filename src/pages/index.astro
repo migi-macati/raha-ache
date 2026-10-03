@@ -13,45 +13,107 @@ const [characters, places, events, sources, books, chapters, research] = await P
   getCollection('research')
 ]);
 
-const sortByName = (a, b) => a.data.name.localeCompare(b.data.name);
+const currentBooks = [...books]
+  .filter((item) => item.data.developmentStatus === 'current')
+  .sort((a,b)=>a.data.id.localeCompare(b.data.id,undefined,{numeric:true}));
+
+const bookKickers = {
+  'book-1': 'Flight · survival · first companions',
+  'book-2': 'Training · campaigns · command',
+  'book-3': 'Return · state-building · legacy'
+};
+
+const universeCards = [
+  { label:'Characters', count:characters.length, path:'characters/', note:'Rulers, allies, rivals and family' },
+  { label:'Places', count:places.length, path:'places/', note:'Maynila, Brunei and the maritime world' },
+  { label:'Timeline', count:events.length, path:'timeline/', note:'Follow the story world chronologically' },
+  { label:'Events', count:events.length, path:'events/', note:'Historical events and reconstructed sequence' }
+];
+
+const studioCards = [
+  { label:'Chapters', count:chapters.length, path:'chapters/', note:'Current, working and superseded chapter material' },
+  { label:'Research', count:research.length, path:'research/', note:'Canon decisions, questions and development' },
+  { label:'Sources', count:sources.length, path:'sources/', note:'Primary records and scholarship' },
+  { label:'Feedback', count:null, path:'feedback/', note:'Corrections and revision queue' }
+];
 ---
 <BaseLayout title="Raha Ache">
-  <header class="home-head"><h1>Raha Ache</h1></header>
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">Historical web novel · Maritime epic</p>
+      <h1>Raha Ache</h1>
+      <p class="hero-deck">A young prince loses Maynila, crosses the seas, learns command, and returns to build a kingdom that history will not leave untouched.</p>
+      <div class="hero-actions">
+        <a class="button primary" href={withBase('novel/')}>Enter the novel</a>
+        <a class="button" href={withBase('universe/')}>Explore the universe</a>
+      </div>
+    </div>
 
-  <section class="index-section"><h2><a href={withBase('timeline/')}>Timeline</a></h2></section>
-
-  <section class="index-section">
-    <h2>Characters</h2>
-    <div class="plain-list">{characters.sort(sortByName).map((item) => <a href={withBase(`characters/${item.data.id}/`)}>{item.data.name}</a>)}</div>
+    <form class="hero-search" action={withBase('search/')} method="get">
+      <label for="home-search">Search the story world</label>
+      <div class="search-field">
+        <input id="home-search" name="q" type="search" placeholder="Ache, Brunei, 1521, Pigafetta…" />
+        <button type="submit">Search</button>
+      </div>
+    </form>
   </section>
 
-  <section class="index-section">
-    <h2>Places</h2>
-    <div class="plain-list">{places.sort(sortByName).map((item) => <a href={withBase(`places/${item.data.id}/`)}>{item.data.name}</a>)}</div>
+  <section class="home-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">The trilogy</p>
+        <h2>Follow Ache’s journey</h2>
+      </div>
+      <a class="section-link" href={withBase('novel/')}>Novel view</a>
+    </div>
+
+    <div class="book-grid">
+      {currentBooks.map((book, index) => (
+        <a class="book-card" href={withBase(`books/${book.data.id}/`)}>
+          <span class="book-number">0{index + 1}</span>
+          <h3>{book.data.name.replace(/^Book [IVX]+:\s*/, '')}</h3>
+          <p>{bookKickers[book.data.id] ?? 'Current trilogy'}</p>
+        </a>
+      ))}
+    </div>
   </section>
 
-  <section class="index-section">
-    <h2>Events</h2>
-    <div class="plain-list">{events.sort((a,b)=>(a.data.dateSort??99999999)-(b.data.dateSort??99999999)).map((item) => <a href={withBase(`events/${item.data.id}/`)}>{item.data.name}</a>)}</div>
+  <section class="home-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Public universe</p>
+        <h2>Explore the world</h2>
+      </div>
+      <a class="section-link" href={withBase('universe/')}>Universe view</a>
+    </div>
+
+    <div class="explore-grid">
+      {universeCards.map((item) => (
+        <a class="explore-card" href={withBase(item.path)}>
+          <div><h3>{item.label}</h3><p>{item.note}</p></div>
+          <span>{item.count}</span>
+        </a>
+      ))}
+    </div>
   </section>
 
-  <section class="index-section">
-    <h2>Sources</h2>
-    <div class="plain-list">{sources.sort(sortByName).map((item) => <a href={withBase(`sources/${item.data.id}/`)}>{item.data.name}</a>)}</div>
-  </section>
+  <section class="home-section studio-preview">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Writing workspace</p>
+        <h2>Studio</h2>
+      </div>
+      <a class="section-link" href={withBase('studio/')}>Open studio</a>
+    </div>
 
-  <section class="index-section">
-    <h2>Books</h2>
-    <div class="plain-list">{books.sort((a,b)=>a.data.id.localeCompare(b.data.id,undefined,{numeric:true})).map((item) => <a href={withBase(`books/${item.data.id}/`)}>{item.data.name}</a>)}</div>
-  </section>
-
-  <section class="index-section">
-    <h2>Chapters</h2>
-    <div class="plain-list">{chapters.sort((a,b)=>String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) || a.data.chapterNumber-b.data.chapterNumber).map((item) => <a href={withBase(`chapters/${item.data.id}/`)}>{item.data.name}</a>)}</div>
-  </section>
-
-  <section class="index-section">
-    <h2>Research</h2>
-    <div class="plain-list">{research.sort(sortByName).map((item) => <a href={withBase(`research/${item.data.id}/`)}>{item.data.name}</a>)}</div>
+    <div class="studio-mini-grid">
+      {studioCards.map((item) => (
+        <a href={withBase(item.path)}>
+          <strong>{item.label}</strong>
+          <span>{item.note}</span>
+          {item.count !== null && <small>{item.count}</small>}
+        </a>
+      ))}
+    </div>
   </section>
 </BaseLayout>

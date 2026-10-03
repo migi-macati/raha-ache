@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { withBase } from '../lib/base';
+
+const books = (await getCollection('books'))
+  .filter((item)=>item.data.developmentStatus === 'current')
+  .sort((a,b)=>a.data.id.localeCompare(b.data.id,undefined,{numeric:true}));
+
+const chapters = await getCollection('chapters');
+const currentChapters = chapters
+  .filter((item)=>item.data.developmentStatus === 'current')
+  .sort((a,b)=>String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) || a.data.chapterNumber-b.data.chapterNumber);
+---
+<BaseLayout title="Novel">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Novel</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Read</p>
+    <h1>The novel</h1>
+    <p>The current trilogy and chapter sequence. Development material stays in Studio.</p>
+  </header>
+
+  <section class="novel-books">
+    {books.map((book,index)=>(
+      <a class="novel-book-row" href={withBase(`books/${book.data.id}/`)}>
+        <span>0{index+1}</span>
+        <div><strong>{book.data.name.replace(/^Book [IVX]+:\s*/, '')}</strong><small>{book.data.developmentStatus}</small></div>
+      </a>
+    ))}
+  </section>
+
+  {currentChapters.length > 0 && (
+    <section class="directory-section">
+      <div class="directory-section-head">
+        <h2>Current chapter sequence</h2>
+        <span>{currentChapters.length}</span>
+      </div>
+      <div class="directory-grid">
+        {currentChapters.map((chapter)=>(
+          <a class="directory-card" href={withBase(`chapters/${chapter.data.id}/`)}>
+            <strong>{chapter.data.name}</strong>
+            <small>{chapter.data.draftStatus}</small>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { withBase } from '../lib/base';
+
+const [chapters,research,sources,characters,places] = await Promise.all([
+  getCollection('chapters'),
+  getCollection('research'),
+  getCollection('sources'),
+  getCollection('characters'),
+  getCollection('places')
+]);
+
+const workingChapters=chapters.filter((item)=>item.data.developmentStatus==='working' || item.data.developmentStatus==='early-outline').length;
+const openResearch=research.filter((item)=>item.data.status==='uncertain').length;
+const workingCharacters=characters.filter((item)=>item.data.developmentStatus==='working').length;
+const workingPlaces=places.filter((item)=>item.data.developmentStatus==='working').length;
+
+const tools=[
+  {label:'Chapter workspace',note:`${workingChapters} working outlines`,path:'chapters/'},
+  {label:'Research & canon',note:`${openResearch} uncertain/research items`,path:'research/'},
+  {label:'Sources',note:`${sources.length} source records`,path:'sources/'},
+  {label:'Feedback queue',note:'Comments, corrections and resolved archive',path:'feedback/'},
+  {label:'Open questions',note:'Unresolved historical and story decisions',path:'research/open-questions/'},
+  {label:'Working characters',note:`${workingCharacters} character entries in development`,path:'characters/'},
+  {label:'Working places',note:`${workingPlaces} locations in development`,path:'places/'},
+  {label:'Source audit',note:'Citation gaps and evidence work',path:'research/source-audit/'}
+];
+---
+<BaseLayout title="Studio">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Studio</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Writing workspace</p>
+    <h1>Studio</h1>
+    <p>Draft structure, canon, research, sources, questions and revision feedback.</p>
+  </header>
+
+  <div class="studio-grid">
+    {tools.map((item)=>(
+      <a class="studio-card" href={withBase(item.path)}>
+        <strong>{item.label}</strong>
+        <span>{item.note}</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

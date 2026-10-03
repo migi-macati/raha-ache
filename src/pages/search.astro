@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEverything } from '../lib/entities';
+import { withBase } from '../lib/base';
+
+const all = (await getEverything())
+  .map(({ collection, item }) => ({
+    collection,
+    id: item.data.id,
+    name: item.data.name,
+    aliases: item.data.aliases ?? [],
+    status: item.data.developmentStatus ?? item.data.status ?? '',
+    url: withBase(`${collection}/${item.data.id}/`)
+  }))
+  .sort((a,b)=>a.name.localeCompare(b.name));
+---
+<BaseLayout title="Search">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Search</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Archive</p>
+    <h1>Search</h1>
+    <p>Search the novel universe and the writing archive.</p>
+  </header>
+
+  <div class="archive-search">
+    <label for="archive-search">Search {all.length} entries</label>
+    <input id="archive-search" type="search" autocomplete="off" placeholder="Type a name, alias or section…" />
+    <p id="search-count" class="search-count">{all.length} results</p>
+  </div>
+
+  <div id="search-results" class="search-results">
+    {all.map((item) => (
+      <a class="search-result" href={item.url} data-search={`${item.name} ${item.aliases.join(' ')} ${item.collection} ${item.status}`.toLowerCase()}>
+        <span class="result-type">{item.collection}</span>
+        <strong>{item.name}</strong>
+        {item.aliases.length > 0 && <small>{item.aliases.slice(0,3).join(' · ')}</small>}
+      </a>
+    ))}
+  </div>
+
+  <script is:inline>
+    const input=document.getElementById('archive-search');
+    const count=document.getElementById('search-count');
+    const items=[...document.querySelectorAll('.search-result')];
+    const params=new URLSearchParams(location.search);
+    input.value=params.get('q')||'';
+    function filter(){
+      const q=input.value.trim().toLowerCase();
+      let visible=0;
+      for(const item of items){
+        const show=!q||item.dataset.search.includes(q);
+        item.hidden=!show;
+        if(show) visible++;
+      }
+      count.textContent=visible+(visible===1?' result':' results');
+    }
+    input.addEventListener('input',filter);
+    filter();
+  </script>
+</BaseLayout>

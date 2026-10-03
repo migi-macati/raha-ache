@@ -1,35 +1,62 @@
 ---
 import '../styles/global.css';
 import { withBase } from '../lib/base';
+
 const {
   title = 'Raha Ache',
   description = 'Raha Ache'
 } = Astro.props;
+
+const nav = [
+  ['Novel','novel/'],
+  ['Universe','universe/'],
+  ['Timeline','timeline/'],
+  ['Search','search/'],
+  ['Studio','studio/']
+];
 ---
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#29170f" />
     <meta name="description" content={description} />
     <title>{title} · Raha Ache</title>
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href={withBase()}>RAHA ACHE</a>
-      <nav aria-label="Primary">
-        <a href={withBase('timeline/')}>Timeline</a>
-        <a href={withBase('characters/')}>Characters</a>
-        <a href={withBase('places/')}>Places</a>
-        <a href={withBase('events/')}>Events</a>
-        <a href={withBase('sources/')}>Sources</a>
-        <a href={withBase('books/')}>Books</a>
-        <a href={withBase('chapters/')}>Chapters</a>
-        <a href={withBase('research/')}>Research</a>
-        <a href={withBase('feedback/')}>Feedback</a>
-      </nav>
+      <div class="site-header-inner">
+        <a class="brand" href={withBase()} aria-label="Raha Ache home">
+          <span>RAHA ACHE</span>
+          <small>Novel & Story Bible</small>
+        </a>
+
+        <nav class="desktop-nav" aria-label="Primary">
+          {nav.map(([label,path]) => <a href={withBase(path)}>{label}</a>)}
+        </nav>
+
+        <details class="mobile-nav">
+          <summary>Menu</summary>
+          <nav aria-label="Mobile">
+            {nav.map(([label,path]) => <a href={withBase(path)}>{label}</a>)}
+          </nav>
+        </details>
+      </div>
     </header>
+
     <main><slot /></main>
-    <footer>Raha Ache</footer>
+
+    <footer>
+      <div class="footer-inner">
+        <span>Raha Ache · v1.0</span>
+        <nav aria-label="Footer">
+          <a href={withBase('novel/')}>Novel</a>
+          <a href={withBase('universe/')}>Universe</a>
+          <a href={withBase('studio/')}>Studio</a>
+          <a href={withBase('feedback/')}>Feedback</a>
+        </nav>
+      </div>
+    </footer>
   </body>
 </html>

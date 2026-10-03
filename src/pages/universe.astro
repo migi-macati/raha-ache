@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { withBase } from '../lib/base';
+
+const [characters,places,events] = await Promise.all([
+  getCollection('characters'),
+  getCollection('places'),
+  getCollection('events')
+]);
+
+const currentCharacters = characters.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+const currentPlaces = places.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+---
+<BaseLayout title="Universe">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Universe</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Explore</p>
+    <h1>The universe</h1>
+    <p>People, places, events and chronology from Ache’s world.</p>
+  </header>
+
+  <div class="universe-grid">
+    <a class="universe-card" href={withBase('characters/')}>
+      <span>{currentCharacters.length}</span><h2>Characters</h2><p>Historical figures and current novel canon.</p>
+    </a>
+    <a class="universe-card" href={withBase('places/')}>
+      <span>{currentPlaces.length}</span><h2>Places</h2><p>Ports, polities, islands and sea routes.</p>
+    </a>
+    <a class="universe-card" href={withBase('timeline/')}>
+      <span>{events.length}</span><h2>Timeline</h2><p>Follow the sequence from Ache’s youth to 1572.</p>
+    </a>
+    <a class="universe-card" href={withBase('events/')}>
+      <span>{events.length}</span><h2>Events</h2><p>Documented history and reconstructed story events.</p>
+    </a>
+  </div>
+</BaseLayout>
