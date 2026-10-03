@@ -37,4 +37,17 @@ This later sequence sharpened the return, institution-building, Tondo rivalry, d
 
 ## Current reconciliation
 
-The current Book III uses ten chapters numbered 1–10. It keeps the strongest material from both earlier versions, removes duplicated beats, and leaves the direct Spanish conquest and Ache's death to the bonus chapter.
+The current Book III uses ten chapters numbered 1–10:
+
+1. **The Bay That Forgot Him**
+2. **Taking Back Maynila**
+3. **The Two Crowns of the Bay**
+4. **The Making of the Kota**
+5. **Old Alliances, New Debts**
+6. **The Work of Rule**
+7. **Neighbors**
+8. **The Gift of the Southern Shore**
+9. **The Nephew**
+10. **Old King, New World on the Horizon**
+
+It keeps the strongest material from both earlier versions, makes the retaking of Maynila explicit in Chapter 2, removes duplicated beats, and leaves the direct Spanish conquest and Ache's death to the bonus chapter.
