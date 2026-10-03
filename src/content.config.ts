@@ -51,5 +51,9 @@ export const collections = {
   sources: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/sources' }), schema: source }),
   books: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/books' }), schema: baseEntity }),
   chapters: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/chapters' }), schema: chapter }),
-  research: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/research' }), schema: baseEntity })
+  research: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/research' }), schema: baseEntity }),
+  objects: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/objects' }), schema: baseEntity }),
+  technologies: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/technologies' }), schema: baseEntity }),
+  practices: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/practices' }), schema: baseEntity }),
+  ideas: defineCollection({ loader: glob({ pattern: '**/*.md', base: './src/content/ideas' }), schema: baseEntity })
 };
