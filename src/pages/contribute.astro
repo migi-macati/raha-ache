@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/base';
+
+const repoUrl='https://github.com/migi-macati/raha-ache';
+const feedbackUrl=repoUrl + '/issues/new?template=page-feedback.yml';
+const contributionUrl=repoUrl + '/issues/new?template=story-contribution.yml';
+const openUrl=repoUrl + '/issues?q=' + encodeURIComponent('is:issue is:open');
+const archiveUrl=repoUrl + '/issues?q=' + encodeURIComponent('is:issue is:closed');
+---
+<BaseLayout title="Contribute">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Contribute</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Read · respond · co-write</p>
+    <h1>Contribute</h1>
+    <p>Corrections, sources, story proposals and co-writing threads for Raha Ache.</p>
+  </header>
+
+  <div class="feedback-hub">
+    <a class="feedback-hub-card primary-card" href={feedbackUrl} target="_blank" rel="noreferrer">
+      <small>Page feedback</small><strong>Comment or correct</strong><span>Flag an error, add evidence, ask a question or suggest a change.</span>
+    </a>
+    <a class="feedback-hub-card" href={contributionUrl} target="_blank" rel="noreferrer">
+      <small>Story contribution</small><strong>Propose or co-write</strong><span>Suggest a scene, entity, connection, research lead or draft material.</span>
+    </a>
+    <a class="feedback-hub-card" href={openUrl} target="_blank" rel="noreferrer">
+      <small>Discussion</small><strong>Open threads</strong><span>Reply to unresolved feedback and contribution threads.</span>
+    </a>
+    <a class="feedback-hub-card" href={archiveUrl} target="_blank" rel="noreferrer">
+      <small>Archive</small><strong>Resolved threads</strong><span>Completed discussion and revision history.</span>
+    </a>
+  </div>
+
+  <section class="directory-section">
+    <div class="directory-section-head"><h2>Revision cycle</h2></div>
+    <p>Open threads are reviewed in the weekly revision pass. Accepted changes are integrated into the story or story bible; unresolved items stay open.</p>
+  </section>
+</BaseLayout>
