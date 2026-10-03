@@ -16,6 +16,20 @@ export async function getStaticPaths() {
 const { collection, items } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const title = collection.charAt(0).toUpperCase() + collection.slice(1);
+
+const sorted = [...items].sort((a, b) => {
+  if (collection === 'chapters') {
+    const bookCmp = String(a.data.book).localeCompare(String(b.data.book), undefined, { numeric: true });
+    return bookCmp || ((a.data.chapterNumber ?? 0) - (b.data.chapterNumber ?? 0));
+  }
+  if (collection === 'events') {
+    return (a.data.dateSort ?? 99999999) - (b.data.dateSort ?? 99999999);
+  }
+  if (collection === 'books') {
+    return a.data.id.localeCompare(b.data.id, undefined, { numeric: true });
+  }
+  return a.data.name.localeCompare(b.data.name);
+});
 ---
 <BaseLayout title={title}>
   <header class="page-head">
@@ -23,10 +37,8 @@ const title = collection.charAt(0).toUpperCase() + collection.slice(1);
   </header>
 
   <div class="plain-list large">
-    {items
-      .sort((a, b) => a.data.name.localeCompare(b.data.name))
-      .map((item) => (
-        <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
-      ))}
+    {sorted.map((item) => (
+      <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
+    ))}
   </div>
 </BaseLayout>

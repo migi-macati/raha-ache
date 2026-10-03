@@ -24,7 +24,7 @@ const event = baseEntity.extend({
 const source = baseEntity.extend({
   author: z.string().optional(),
   year: z.string().optional(),
-  sourceType: z.enum(['primary', 'secondary', 'tertiary']).optional(),
+  sourceType: z.enum(['primary', 'near-primary', 'secondary', 'tertiary', 'reference']).optional(),
   citation: z.string().optional()
 });
 
