@@ -8,9 +8,7 @@ const base = import.meta.env.BASE_URL;
 ---
 <BaseLayout title="Timeline">
   <header class="page-head">
-    <p class="eyebrow">CHRONOLOGY</p>
     <h1>Timeline</h1>
-    <p>The timeline can hold documented history, inference, novel canon, and fiction without collapsing them into one category.</p>
   </header>
 
   <div class="timeline">
@@ -18,7 +16,7 @@ const base = import.meta.env.BASE_URL;
       <article>
         <time>{event.data.date ?? 'Date unresolved'}</time>
         <div>
-          <span class="badge">{event.data.certainty ?? 'uncategorized'}</span>
+          {event.data.certainty && <span class="badge">{event.data.certainty}</span>}
           <h2><a href={`${base}events/${event.data.id}/`}>{event.data.name}</a></h2>
           {event.data.summary && <p>{event.data.summary}</p>}
         </div>
