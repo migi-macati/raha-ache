@@ -1,0 +1,114 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { withBase } from '../../lib/base';
+
+const repoUrl='https://github.com/migi-macati/raha-ache';
+const [chapters, books, research] = await Promise.all([
+  getCollection('chapters'),
+  getCollection('books'),
+  getCollection('research')
+]);
+
+const activeChapters = chapters
+  .filter((chapter)=>chapter.data.developmentStatus !== 'superseded' && chapter.data.book !== 'zz-bonus')
+  .sort((a,b)=>
+    String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) ||
+    a.data.chapterNumber-b.data.chapterNumber
+  );
+
+const unresolvedResearch = research.filter((item)=>item.data.status==='uncertain').length;
+const draftCounts = ['outline','draft','revision','final'].map((status)=>({
+  status,
+  count:activeChapters.filter((chapter)=>chapter.data.draftStatus===status).length
+}));
+const currentCount=activeChapters.filter((chapter)=>chapter.data.developmentStatus==='current').length;
+const workingCount=activeChapters.filter((chapter)=>chapter.data.developmentStatus!=='current').length;
+
+const bookGroups = ['book-1','book-2','book-3'].map((bookId)=>{
+  const book=books.find((item)=>item.data.id===bookId);
+  const items=activeChapters.filter((chapter)=>chapter.data.book===bookId);
+  return {bookId,book,items};
+}).filter((group)=>group.book);
+
+const cleanTitle=(name)=>name.replace(/^Book [IVX]+, Chapter \d+:\s*/,'');
+const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
+---
+<BaseLayout title="Manuscript board">
+  <nav class="breadcrumbs">
+    <a href={withBase()}>Home</a><span>/</span>
+    <a href={withBase('studio/')}>Studio</a><span>/</span>
+    <span>Manuscript board</span>
+  </nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Studio</p>
+    <h1>Manuscript board</h1>
+    <p>Current trilogy structure, draft state, chapter links and source editing.</p>
+  </header>
+
+  <section class="manuscript-stats" aria-label="Manuscript status">
+    <div><strong>{activeChapters.length}</strong><span>Active chapters</span></div>
+    <div><strong>{currentCount}</strong><span>Current structure</span></div>
+    <div><strong>{workingCount}</strong><span>Working structure</span></div>
+    <div><strong>{unresolvedResearch}</strong><span>Uncertain research items</span></div>
+  </section>
+
+  <div class="draft-status-strip">
+    {draftCounts.map((item)=>(
+      <span><strong>{item.count}</strong> {item.status}</span>
+    ))}
+  </div>
+
+  {bookGroups.map((group,index)=>(
+    <section class="manuscript-book">
+      <div class="directory-section-head">
+        <div>
+          <p class="eyebrow">Book {index+1}</p>
+          <h2>{group.book.data.name.replace(/^Book [IVX]+:\s*/,'')}</h2>
+        </div>
+        <span>{group.items.length} chapters</span>
+      </div>
+
+      <div class="manuscript-list">
+        {group.items.map((chapter)=>(
+          <article class="manuscript-row">
+            <div class="manuscript-number">{chapter.data.chapterNumber}</div>
+            <div class="manuscript-main">
+              <a href={withBase(`chapters/${chapter.data.id}/`)}><strong>{cleanTitle(chapter.data.name)}</strong></a>
+              <div class="manuscript-meta">
+                <span>{chapter.data.draftStatus}</span>
+                <span>{statusLabel(chapter.data.developmentStatus)}</span>
+                <span>{chapter.data.characters.length} characters</span>
+                <span>{chapter.data.places.length} places</span>
+                <span>{chapter.data.events.length} events</span>
+              </div>
+            </div>
+            <div class="manuscript-actions">
+              <a href={withBase(`chapters/${chapter.data.id}/`)}>Read</a>
+              <a href={`${repoUrl}/edit/main/src/content/chapters/${chapter.id}.md`} target="_blank" rel="noreferrer">Edit source</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <section class="directory-section manuscript-next">
+    <div class="directory-section-head"><h2>Writing controls</h2></div>
+    <div class="directory-grid">
+      <a class="directory-card" href={withBase('research/open-questions/')}>
+        <strong>Open questions</strong><small>{unresolvedResearch} uncertain research items</small>
+      </a>
+      <a class="directory-card" href={withBase('research/genre-and-story-model/')}>
+        <strong>Genre & story model</strong><small>POV, progression and prose rules</small>
+      </a>
+      <a class="directory-card" href={withBase('research/revised-trilogy-structure/')}>
+        <strong>Trilogy structure</strong><small>Current arc and chapter architecture</small>
+      </a>
+      <a class="directory-card" href={withBase('feedback/')}>
+        <strong>Revision queue</strong><small>Comments, corrections and contribution threads</small>
+      </a>
+    </div>
+  </section>
+</BaseLayout>
