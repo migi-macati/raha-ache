@@ -3,14 +3,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/base';
 
-const [characters,places,events] = await Promise.all([
+const [characters,places,events,objects,technologies,practices,ideas] = await Promise.all([
   getCollection('characters'),
   getCollection('places'),
-  getCollection('events')
+  getCollection('events'),
+  getCollection('objects'),
+  getCollection('technologies'),
+  getCollection('practices'),
+  getCollection('ideas')
 ]);
 
 const currentCharacters = characters.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
 const currentPlaces = places.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+const currentObjects = objects.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+const currentTechnologies = technologies.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+const currentPractices = practices.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
+const currentIdeas = ideas.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus);
 ---
 <BaseLayout title="Universe">
   <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><span>Universe</span></nav>
@@ -18,7 +26,7 @@ const currentPlaces = places.filter((item)=>item.data.developmentStatus === 'cur
   <header class="page-head compact">
     <p class="eyebrow">Explore</p>
     <h1>The universe</h1>
-    <p>People, places, events and chronology from Ache’s world.</p>
+    <p>People, places, events, objects, technology, practices and ideas from Ache’s world.</p>
   </header>
 
   <div class="universe-grid">
@@ -33,6 +41,18 @@ const currentPlaces = places.filter((item)=>item.data.developmentStatus === 'cur
     </a>
     <a class="universe-card" href={withBase('events/')}>
       <span>{events.length}</span><h2>Events</h2><p>Documented history and reconstructed story events.</p>
+    </a>
+    <a class="universe-card" href={withBase('objects/')}>
+      <span>{currentObjects.length}</span><h2>Objects</h2><p>Goods, weapons, vessels and material culture.</p>
+    </a>
+    <a class="universe-card" href={withBase('technologies/')}>
+      <span>{currentTechnologies.length}</span><h2>Technology</h2><p>Maritime, military and craft technologies.</p>
+    </a>
+    <a class="universe-card" href={withBase('practices/')}>
+      <span>{currentPractices.length}</span><h2>Practices</h2><p>Customs, rituals, trade and political practice.</p>
+    </a>
+    <a class="universe-card" href={withBase('ideas/')}>
+      <span>{currentIdeas.length}</span><h2>Ideas</h2><p>Beliefs, concepts and values shaping the story.</p>
     </a>
   </div>
 </BaseLayout>
