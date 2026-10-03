@@ -3,7 +3,7 @@ id: bangkusay-1571
 name: Battle of Bangkusay
 aliases: [Bangkusay Channel battle]
 status: historical
-related: [bambalito, sulayman, martin-de-goiti, macabebe, hagonoy, bangkusay-channel, bonus-spanish-contact]
+related: [bambalito, sulayman, martin-de-goiti, macabebe, hagonoy, pampanga, bangkusay-channel, bonus-spanish-contact]
 sources: [relacion-1572]
 timeline: []
 date: "3 June 1571"

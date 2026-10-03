@@ -3,7 +3,7 @@ id: lakan-tagkan
 name: Lakan Tagkan
 aliases: [Lacantagcan, Tagkan]
 status: historical
-related: [pasay, namayan]
+related: [bouan, pasay, pasay-mother, namayan]
 sources: [huerta]
 timeline: []
 ---

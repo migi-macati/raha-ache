@@ -3,7 +3,7 @@ id: huerta
 name: Fray Félix de Huerta
 aliases: [Felix de Huerta, Huerta]
 status: historical
-related: [pasay, lakan-tagkan, namayan]
+related: [pasay, lakan-tagkan, bouan, pasay-mother, namayan]
 sources: []
 timeline: []
 author: Fray Félix de Huerta

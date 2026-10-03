@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, legazpi, martin-de-goiti, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
+related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, legazpi, martin-de-goiti, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
 sources: [aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila]
 ---

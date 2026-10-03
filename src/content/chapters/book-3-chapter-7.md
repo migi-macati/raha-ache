@@ -4,14 +4,14 @@ name: "Book III, Chapter 7: Neighbors"
 aliases: ["Neighbors"]
 status: fictional
 developmentStatus: working
-related: [ache, maynila]
+related: [ache, maynila, pampanga, ifugao, panay]
 sources: []
 timeline: []
 book: book-3
 chapterNumber: 7
 draftStatus: outline
 characters: [ache]
-places: [maynila]
+places: [maynila, pampanga, ifugao, panay]
 events: []
 ---
 - Relations with neighboring Tagalog, Kapampangan, highland, Visayan, and other communities.

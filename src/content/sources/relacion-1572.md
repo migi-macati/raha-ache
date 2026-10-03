@@ -3,7 +3,7 @@ id: relacion-1572
 name: Anonymous Relación of 1572
 aliases: [1572 Relación, Anonymous 1572 Relacion]
 status: historical
-related: [ache, sulayman, maynila, battle-manila-1570, bangkusay-1571, ache-baptism-death-1572, succession-1572]
+related: [ache, sulayman, juan-de-salcedo, maynila, battle-manila-1570, bangkusay-1571, ache-baptism-death-1572, succession-1572]
 sources: []
 timeline: [battle-manila-1570, bangkusay-1571, ache-baptism-death-1572]
 author: Anonymous

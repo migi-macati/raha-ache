@@ -4,7 +4,7 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei]
+related: [ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---

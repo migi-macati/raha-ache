@@ -4,7 +4,7 @@ name: Source audit
 aliases: [Bibliography audit, Citation gaps]
 status: uncertain
 developmentStatus: current
-related: [aganduru-moriz, albo, pigafetta, mafra, legazpi-relacion, riquel-1571, relacion-1572, blair-robertson, william-henry-scott, cesar-adib-majul, luis-camara-dery]
+related: [aganduru-moriz, albo, pigafetta, mafra, legazpi-relacion, riquel-1571, relacion-1572, blair-robertson, william-henry-scott, cesar-adib-majul, luis-camara-dery, chirino, gaspar-de-san-agustin, rizal-annotations]
 sources: []
 timeline: []
 ---

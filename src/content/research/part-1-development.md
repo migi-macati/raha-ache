@@ -4,7 +4,7 @@ name: Part I development
 aliases: [Flight to Brunei, Heir of the River]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, pasay, bulkan, ula, lakanmulaw, maynila, tondo, mindoro, palawan, brunei]
+related: [ache, sulad, pasay, bulkan, ula, lakanmulaw, maynila, tondo, cavite, mindoro, palawan, brunei]
 sources: []
 timeline: [tondo-encroachment, ache-leaves-for-brunei]
 ---
@@ -23,3 +23,5 @@ A December 2025 reconstruction placed Ache at about twelve and used Pasay as his
 The December development pass also introduced Bulkan, Ula, Lakanmulaw, a prolonged Tondo pursuit, naval losses, survival training, and the Manila Bay–Mindoro–Palawan route.
 
 Those supporting elements remain working material unless separately superseded.
+
+An even earlier route concept used Cavite as an intermediate stop. That stop is superseded but retained in the archive.

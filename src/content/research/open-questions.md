@@ -4,7 +4,7 @@ name: Open questions
 aliases: [Research queue, Unresolved questions]
 status: uncertain
 developmentStatus: current
-related: [ache-birth-date, ache-language, ache-marriage-date, ache-name-aceh, brunei-relationship, king-of-luzon, manila-tondo-namayan, pasay-name-pasai, pasay-sulad-reconciliation, siripada-bolkiah, succession-1572, sulayman-bangkusay, source-audit, part-2-cast, part-3-institutions, tondo-resistance-concept]
+related: [ache-character-development, ache-birth-date, ache-language, ache-marriage-date, ache-name-aceh, brunei-relationship, king-of-luzon, manila-tondo-namayan, pasay-name-pasai, pasay-sulad-reconciliation, siripada-bolkiah, succession-1572, sulayman-bangkusay, source-audit, part-2-cast, part-3-institutions, tondo-resistance-concept]
 sources: []
 timeline: []
 ---

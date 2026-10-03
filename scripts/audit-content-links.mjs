@@ -26,8 +26,6 @@ for (const collection of collections) {
     if (Array.isArray(data.relations)) {
       refs.push(...data.relations.map((relation) => relation?.target).filter(Boolean));
     }
-    if (collection === 'chapters' && data.book) refs.push(data.book);
-
     const entity = {
       id: String(data.id),
       name: String(data.name),

@@ -3,7 +3,7 @@ id: encounter-1521
 name: 1521 Encounter
 aliases: [Encounter of 1521, Capture of Ache]
 status: historical
-related: [ache, elcano, pazeculan, brunei, loue]
+related: [ache, elcano, pazeculan, brunei, loue, moluccas]
 sources: [pigafetta, aganduru-moriz]
 timeline: []
 date: "29 July 1521"
