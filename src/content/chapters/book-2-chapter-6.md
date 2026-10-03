@@ -4,16 +4,80 @@ name: "Book II, Chapter 6: Tactics and Conquest"
 aliases: ["Tactics and Conquest"]
 status: fictional
 developmentStatus: working
-related: [ache, loue, brunei]
+related: [ache, loue, brunei, jamil, raden-muda-safi, ache-brunei-command, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign]
 book: book-2
 chapterNumber: 6
 draftStatus: outline
-characters: [ache]
+characters: [ache, jamil, raden-muda-safi]
 places: [brunei, loue]
 events: [loue-campaign]
+pov: [ache]
 ---
-- Ache applies what he has learned in campaigns.
-- Settlement capture, occupation, tribute, and a first attempt at governance.
-- Build into the Loue campaign.
+## Chapter purpose
+
+Deliver the payoff to Ache's training: he successfully commands a major operation and then confronts the harder problem of what victory requires afterward.
+
+## Opening state
+
+Ache has rebuilt competence and reputation but still needs proof at scale.
+
+## Immediate objective
+
+Win the campaign at Loue while preserving enough force and political order to make victory useful.
+
+## Main plot movement
+
+Ache applies logistics, deception, formation, alliance management, and command successfully. His rise toward captain-general becomes credible.
+
+## Subplots
+
+- **Jamil mentorship:** transitions toward peer-level respect.
+- **Safi rivalry:** Ache's competence becomes difficult to dismiss.
+- **Governance:** captured territory or tribute reveals that winning creates obligations.
+- **Home:** success makes return to Maynila materially possible.
+
+## Conflict and stakes
+
+The operation must be won without consuming the fleet or creating a victory that cannot be maintained.
+
+## Themes and subthemes
+
+**Theme:** winning and governing are different skills.
+
+**Subthemes:** conquest, restraint, logistics, occupation, responsibility.
+
+## Character progression
+
+### Ache
+
+**Begins:** capable commander seeking definitive proof.
+
+**Pressure:** must think beyond the moment of victory.
+
+**Ends:** reaches his Book II high point in confidence, authority, and capability.
+
+### Jamil
+
+**Progression:** can now delegate rather than supervise every decision.
+
+### Safi
+
+**Progression:** rivalry shifts from whether Ache is competent to what kind of commander Ache is becoming.
+
+## Turning point
+
+Ache makes a decision that sacrifices immediate glory for sustainable victory.
+
+## Resolution and ending state
+
+The campaign succeeds. Ache now plausibly commands the force and prestige needed to turn homeward.
+
+## Setup and payoff
+
+Pays off Chapters 3–5. Deliberately places Ache at maximum confidence before Chapter 7 introduces an opponent outside his experience.
+
+## Handoff
+
+The return voyage toward Luzon begins and encounters unfamiliar ships.

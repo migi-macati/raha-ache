@@ -4,17 +4,80 @@ name: "Book II, Chapter 5: Pirate Life"
 aliases: ["Pirate Life"]
 status: fictional
 developmentStatus: working
-related: [ache, sulu, mindanao, jalal]
+related: [ache, sulu, mindanao, jalal, lakanmulaw, putri-laila-nur, story-architecture-standard]
 sources: []
 timeline: []
 book: book-2
 chapterNumber: 5
 draftStatus: outline
-characters: [ache, jalal]
+characters: [ache, jalal, lakanmulaw, putri-laila-nur]
 places: [mindanao, sulu]
 events: []
+pov: [ache]
 ---
-- Maritime raiding and irregular warfare.
-- Mindanao and Sulu.
-- Working introduction of Jalal.
-- The older outline places Ache's future wife somewhere in this wider southern arc.
+## Chapter purpose
+
+Widen the maritime world and force Ache to operate where the boundaries among raiding, warfare, trade, tribute, and legitimacy differ from Brunei court norms.
+
+## Opening state
+
+Ache's formal reputation has been damaged. He needs experience and results but cannot rely on prestigious assignment.
+
+## Immediate objective
+
+Complete irregular operations successfully while rebuilding trust.
+
+## Main plot movement
+
+Ache learns to command in fragmented, fast-changing conditions and develops relationships in the Sulu–Mindanao sphere.
+
+## Subplots
+
+- **Jalal:** ally and sparring partner from another political tradition.
+- **Lakanmulaw:** earlier alliance can re-enter on different terms.
+- **Laila:** attachment to Brunei may deepen even while Ache spends more time beyond court.
+- **Reputation:** Ache begins rebuilding it from practical results.
+
+## Conflict and stakes
+
+Methods that work tactically may damage alliances, trade, or legitimacy. Ache cannot treat every successful raid as strategic success.
+
+## Themes and subthemes
+
+**Theme:** who gets to call violence legitimate?
+
+**Subthemes:** piracy, war, law, reputation, cultural perspective, survival.
+
+## Character progression
+
+### Ache
+
+**Begins:** humbled and eager to prove himself again.
+
+**Pressure:** operates without clean categories or guaranteed institutional backing.
+
+**Ends:** more adaptable and better at reading local incentives.
+
+### Jalal
+
+**Progression:** should become an ally with his own ambitions and standards, not a follower acquired by Ache.
+
+### Laila
+
+**Progression:** if present, her relationship with Ache should begin confronting the possibility that his future may not be in Brunei.
+
+## Turning point
+
+Ache succeeds by adapting to local conditions rather than imposing the model he learned at court.
+
+## Resolution and ending state
+
+Ache regains enough trust to receive a more consequential campaign.
+
+## Setup and payoff
+
+Expands the alliance network and prepares the tactical flexibility used in Chapter 6.
+
+## Handoff
+
+Chapter 6 tests whether Ache can convert irregular adaptability into organized campaign command.
