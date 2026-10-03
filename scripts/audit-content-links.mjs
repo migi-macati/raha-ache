@@ -3,7 +3,7 @@ import path from 'node:path';
 import matter from 'gray-matter';
 
 const root = path.resolve('src/content');
-const collections = ['characters','places','events','sources','books','chapters','research'];
+const collections = ['characters','places','events','objects','technologies','practices','ideas','sources','books','chapters','research'];
 const referenceKeys = ['related','sources','timeline','characters','places','chapters','events'];
 const allowedChapterBooks = new Set(['book-1','book-2','book-3','zz-bonus']);
 const entities = [];
