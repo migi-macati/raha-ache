@@ -3,6 +3,31 @@ id: ache
 name: Ache
 aliases: [Raha Ache, Raja Ache, Rajah Ache, Raja Matanda, Rajah Matanda, Ladyang Matanda, Raha Ache el Viejo, Laya]
 status: historical
+relations:
+  - target: salalila
+    type: father
+    certainty: strong-inference
+  - target: ache-mother
+    type: mother
+    certainty: documented
+  - target: siripada
+    type: maternal grandfather
+    certainty: documented
+  - target: lakandula
+    type: cousin
+    certainty: strong-inference
+  - target: sulayman
+    type: nephew
+    certainty: documented
+  - target: ache-wife
+    type: wife
+    certainty: documented
+  - target: sulad
+    type: companion
+    certainty: novel-canon
+  - target: pasay
+    type: earlier-draft companion
+    certainty: development
 related: [salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 sources: [aganduru-moriz, pigafetta, william-henry-scott, riquel-1571, relacion-1572, luis-camara-dery]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]

@@ -3,6 +3,13 @@ id: ache-wife
 name: Ache's Bruneian wife
 aliases: [Ache's first cousin]
 status: historical
+relations:
+  - target: ache
+    type: husband
+    certainty: documented
+  - target: siripada
+    type: grandfather
+    certainty: documented
 related: [ache, siripada, brunei, ache-marriage]
 sources: [aganduru-moriz]
 timeline: [ache-marriage]

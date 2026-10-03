@@ -3,6 +3,16 @@ id: pasay
 name: Pasay
 aliases: [Pasai]
 status: historical
+relations:
+  - target: lakan-tagkan
+    type: father
+    certainty: documented
+  - target: pasay-mother
+    type: mother
+    certainty: documented
+  - target: ache
+    type: earlier-draft companion
+    certainty: development
 related: [ache, lakan-tagkan, maynila, namayan]
 sources: [huerta, william-henry-scott]
 timeline: []

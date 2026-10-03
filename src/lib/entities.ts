@@ -34,7 +34,9 @@ export async function entityIndex() {
 
 export function referencedIds(data: Record<string, unknown>) {
   const keys = ['related','sources','timeline','characters','places','chapters','events'];
-  return [...new Set(
-    keys.flatMap((key) => Array.isArray(data[key]) ? data[key] as string[] : [])
-  )];
+  const flat = keys.flatMap((key) => Array.isArray(data[key]) ? data[key] as string[] : []);
+  const relationTargets = Array.isArray(data.relations)
+    ? (data.relations as Array<{ target?: string }>).map((relation) => relation.target).filter(Boolean) as string[]
+    : [];
+  return [...new Set([...flat, ...relationTargets])];
 }

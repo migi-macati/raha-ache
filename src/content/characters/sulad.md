@@ -3,6 +3,10 @@ id: sulad
 name: Sulad
 aliases: []
 status: fictional
+relations:
+  - target: ache
+    type: companion and protector
+    certainty: novel-canon
 related: [ache, maynila, mindoro, palawan, brunei]
 sources: []
 timeline: [ache-leaves-for-brunei]

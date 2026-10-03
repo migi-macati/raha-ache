@@ -3,6 +3,13 @@ id: salalila
 name: Salalila
 aliases: [Raja Salalila, Rajah Salalila]
 status: historical
+relations:
+  - target: ache
+    type: son
+    certainty: strong-inference
+  - target: ache-mother
+    type: wife
+    certainty: strong-inference
 related: [ache, ache-mother, maynila]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies]

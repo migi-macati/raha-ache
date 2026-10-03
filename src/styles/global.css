@@ -124,3 +124,9 @@ footer{
   .site-header{align-items:flex-start;flex-direction:column}
   .timeline article{grid-template-columns:1fr}
 }
+
+.relation-list{display:grid;gap:.45rem}
+.relation-row{display:grid;grid-template-columns:minmax(100px,140px) 1fr auto;gap:.8rem;padding:.45rem 0;border-bottom:1px solid var(--line);align-items:baseline}
+.relation-row span,.relation-row small{font-family:ui-sans-serif,system-ui,sans-serif;color:var(--muted);font-size:.8rem}
+.relation-row a{text-decoration:none}
+@media(max-width:560px){.relation-row{grid-template-columns:1fr 1fr}.relation-row small{grid-column:2}}

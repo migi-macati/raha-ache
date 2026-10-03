@@ -8,6 +8,12 @@ const baseEntity = z.object({
   summary: z.string().optional(),
   status: z.enum(['historical', 'fictional', 'composite', 'uncertain']).optional(),
   developmentStatus: z.enum(['current', 'working', 'early-outline', 'superseded']).optional(),
+  relations: z.array(z.object({
+    target: z.string(),
+    type: z.string(),
+    certainty: z.enum(['documented', 'strong-inference', 'possible', 'novel-canon', 'development']).optional(),
+    note: z.string().optional()
+  })).default([]),
   related: z.array(z.string()).default([]),
   sources: z.array(z.string()).default([]),
   timeline: z.array(z.string()).default([])

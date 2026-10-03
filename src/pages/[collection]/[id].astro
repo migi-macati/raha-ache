@@ -20,6 +20,12 @@ const outgoing = referencedIds(data)
   .map((id) => index.get(id))
   .filter(Boolean);
 
+const relations = Array.isArray(data.relations)
+  ? data.relations
+      .map((relation) => ({ ...relation, entity: index.get(relation.target) }))
+      .filter((relation) => relation.entity)
+  : [];
+
 const backlinks = all
   .filter(({ item: candidate }) =>
     candidate.data.id !== data.id &&
@@ -45,6 +51,21 @@ const backlinks = all
     )}
 
     <div class="prose"><Content /></div>
+
+    {relations.length > 0 && (
+      <section class="connections">
+        <h2>Relationships</h2>
+        <div class="relation-list">
+          {relations.map((relation) => (
+            <div class="relation-row">
+              <span>{relation.type}</span>
+              <a href={relation.entity.url}>{relation.entity.name}</a>
+              {relation.certainty && <small>{relation.certainty}</small>}
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
 
     {outgoing.length > 0 && (
       <section class="connections">

@@ -3,6 +3,10 @@ id: lakandula
 name: Lakandula
 aliases: [Banaw Lakandula, Lakan Dula, Sibunao Lacandola]
 status: historical
+relations:
+  - target: ache
+    type: cousin
+    certainty: strong-inference
 related: [ache, tondo, maynila, legazpi]
 sources: [william-henry-scott, riquel-1571, aganduru-moriz]
 timeline: [tondo-encroachment, legazpi-manila-1571]
