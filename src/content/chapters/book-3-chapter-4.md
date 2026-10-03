@@ -3,6 +3,7 @@ id: book-3-chapter-4
 name: "Book III, Chapter 4: Liberation of Palawan and Visayas"
 aliases: ["Liberation of Palawan and Visayas"]
 status: fictional
+developmentStatus: working
 related: [ache, palawan, panay, cebu, lakanmulaw]
 sources: []
 timeline: []

@@ -3,6 +3,7 @@ id: book-3-chapter-7
 name: "Book III, Chapter 7: Neighbors"
 aliases: ["Neighbors"]
 status: fictional
+developmentStatus: working
 related: [ache, maynila]
 sources: []
 timeline: []

@@ -3,6 +3,7 @@ id: book-3-chapter-3
 name: "Book III, Chapter 3: Strategy Meeting"
 aliases: ["Strategy Meeting"]
 status: fictional
+developmentStatus: working
 related: [ache, maynila, tondo]
 sources: []
 timeline: []

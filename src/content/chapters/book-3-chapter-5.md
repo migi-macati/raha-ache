@@ -3,6 +3,7 @@ id: book-3-chapter-5
 name: "Book III, Chapter 5: Conquest of Tondo and Liberation of Manila"
 aliases: ["Conquest of Tondo and Liberation of Manila"]
 status: fictional
+developmentStatus: working
 related: [ache, lakandula, maynila, tondo, return-to-maynila]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila]
