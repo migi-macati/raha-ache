@@ -21,9 +21,12 @@ const workingCharacters=characters.filter((item)=>item.data.developmentStatus===
 const workingPlaces=places.filter((item)=>item.data.developmentStatus==='working').length;
 
 const worldEntryCount=objects.length+technologies.length+practices.length+ideas.length;
+const coreChapterCount=chapters.filter((item)=>item.data.developmentStatus!=='superseded' && item.data.book!=='zz-bonus' && !item.data.bonus).length;
+const bonusChapterCount=chapters.filter((item)=>item.data.developmentStatus!=='superseded' && item.data.bonus).length;
 
 const tools=[
-  {label:'Manuscript board',note:`${chapters.filter((item)=>item.data.developmentStatus!=='superseded' && item.data.book!=='zz-bonus').length} active trilogy chapters`,path:'studio/manuscript/'},
+  {label:'Manuscript board',note:`${coreChapterCount} core chapters · ${bonusChapterCount} bonus`,path:'studio/manuscript/'},
+  {label:'Story architecture',note:'Required components for every book and chapter outline',path:'research/story-architecture-standard/'},
   {label:'Chapter archive',note:`${workingChapters} working outlines`,path:'chapters/'},
   {label:'Research & canon',note:`${openResearch} uncertain/research items`,path:'research/'},
   {label:'Sources',note:`${sources.length} source records`,path:'sources/'},
