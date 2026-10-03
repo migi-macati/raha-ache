@@ -4,10 +4,11 @@ import { getCollection } from 'astro:content';
 import { withBase } from '../../lib/base';
 
 const repoUrl='https://github.com/migi-macati/raha-ache';
-const [chapters, books, research] = await Promise.all([
+const [chapters, books, research, characters] = await Promise.all([
   getCollection('chapters'),
   getCollection('books'),
-  getCollection('research')
+  getCollection('research'),
+  getCollection('characters')
 ]);
 
 const activeChapters = chapters
@@ -18,6 +19,8 @@ const activeChapters = chapters
   );
 
 const unresolvedResearch = research.filter((item)=>item.data.status==='uncertain').length;
+const characterNames=new Map(characters.map((item)=>[item.data.id,item.data.name]));
+const unassignedPov=activeChapters.filter((chapter)=>chapter.data.pov.length===0).length;
 const draftCounts = ['outline','draft','revision','final'].map((status)=>({
   status,
   count:activeChapters.filter((chapter)=>chapter.data.draftStatus===status).length
@@ -51,7 +54,7 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
     <div><strong>{activeChapters.length}</strong><span>Active chapters</span></div>
     <div><strong>{currentCount}</strong><span>Current structure</span></div>
     <div><strong>{workingCount}</strong><span>Working structure</span></div>
-    <div><strong>{unresolvedResearch}</strong><span>Uncertain research items</span></div>
+    <div><strong>{unassignedPov}</strong><span>POV not assigned</span></div>
   </section>
 
   <div class="draft-status-strip">
@@ -79,6 +82,7 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
               <div class="manuscript-meta">
                 <span>{chapter.data.draftStatus}</span>
                 <span>{statusLabel(chapter.data.developmentStatus)}</span>
+                <span>{chapter.data.pov.length > 0 ? `POV: ${chapter.data.pov.map((id)=>characterNames.get(id) ?? id).join(' / ')}` : 'POV not set'}</span>
                 <span>{chapter.data.characters.length} characters</span>
                 <span>{chapter.data.places.length} places</span>
                 <span>{chapter.data.events.length} events</span>
