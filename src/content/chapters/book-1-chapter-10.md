@@ -4,7 +4,7 @@ name: "Book I, Chapter 10: The Sultan"
 aliases: ["The Sultan"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, siripada, brunei, book-2-chapter-1]
+related: [ache, sulad, siripada, brunei, book-2-chapter-1, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -13,14 +13,78 @@ draftStatus: outline
 characters: [ache, sulad, siripada]
 places: [brunei]
 events: [ache-leaves-for-brunei]
+pov: [ache]
 ---
-Ache and the survivors reach Brunei and the flight finally ends.
+## Chapter purpose
 
-- Ache meets Siripada as a displaced grandson rather than as the ruler he once expected to become.
-- Reaching the court resolves the physical journey but does not automatically restore Ache's status or power.
-- Sulad and Ache have survived the break with Maynila and the dangers of the southward passage.
-- Ache accepts that reclaiming his inheritance will require learning, service, and command rather than a simple request for Bruneian rescue.
+Resolve Book I's flight while redefining what Ache's royal blood can and cannot give him.
 
-**Book I resolution:** Ache survives the loss of Maynila, escapes Tondo's immediate reach, and chooses the harder path of becoming capable of returning.
+## Opening state
 
-**Book II question:** will Brunei turn him into that person?
+Ache has survived the journey and may still imagine Brunei as the place where his problem will be solved.
+
+## Immediate objective
+
+Gain Siripada's protection and support for eventually reclaiming Maynila.
+
+## Main plot movement
+
+Ache reaches Brunei and is received as kin. The survival plot ends, but restoration is not granted.
+
+## Subplots
+
+- **Ache and Sulad:** they enter a new hierarchy together after surviving as near-equals in flight.
+- **Ache and Siripada:** family relationship becomes sovereign–supplicant relationship.
+- **Brunei versus Maynila:** Ache sees the scale of the world he has entered.
+
+## Conflict and stakes
+
+Ache wants rescue or backing. Siripada must judge whether Ache is useful, trustworthy, and worth political investment.
+
+## Themes and subthemes
+
+**Theme:** birthright versus usefulness.
+
+**Subthemes:** humility, patronage, kinship, earned authority, reinvention.
+
+## Character progression
+
+### Ache
+
+**Begins:** survivor hoping kinship will restore what he lost.
+
+**Pressure:** learns that being Siripada's grandson earns entry, not command or a kingdom.
+
+**Ends:** accepts that he must learn, serve, and prove himself.
+
+### Sulad
+
+**Begins:** indispensable companion in flight.
+
+**Progression:** enters a court where his informal importance may not translate into formal status.
+
+**Ends:** relationship with Ache faces a new test of hierarchy.
+
+### Siripada
+
+**Begins:** distant source of possibility.
+
+**Progression:** becomes an active evaluator of Ache.
+
+**Ends:** grants opportunity rather than automatic restoration.
+
+## Turning point
+
+Siripada makes clear that Ache will not simply be handed the force needed to return.
+
+## Resolution and ending state
+
+The Book I question is answered: Ache survived loss and exile without abandoning his claim. He now deliberately chooses the process of becoming capable of return.
+
+## Setup and payoff
+
+Pays off Bruneian kinship and the entire flight. Sets up Book II's court, mentorship, rivalry, and command progression.
+
+## Handoff
+
+Book II begins with a new problem: Ache is safe, but he is not yet powerful.

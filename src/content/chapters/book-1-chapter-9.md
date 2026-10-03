@@ -4,7 +4,7 @@ name: "Book I, Chapter 9: The Last Storm"
 aliases: ["The Last Storm"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, bulkan, brunei]
+related: [ache, sulad, bulkan, brunei, story-architecture-standard]
 sources: []
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -13,8 +13,70 @@ draftStatus: outline
 characters: [ache, sulad, bulkan]
 places: [palawan, brunei]
 events: [ache-leaves-for-brunei]
+pov: [ache]
 ---
-- Final pursuit and confrontation.
-- Ache stops merely fleeing and chooses to fight.
-- A storm compounds the losses.
-- The survivors break beyond Tondo's reach.
+## Chapter purpose
+
+Deliver Book I's survival crisis and prove that Ache has changed enough to lead rather than merely escape.
+
+## Opening state
+
+Brunei is within reach, but the group is exhausted and pursuit has not fully released them.
+
+## Immediate objective
+
+Break beyond pursuit and survive the final dangerous passage.
+
+## Main plot movement
+
+Final confrontation and severe weather converge. Ache must make decisions under pressure that determine who reaches Brunei.
+
+## Subplots
+
+- **Ache and Sulad:** trust is tested at maximum stakes.
+- **Bulkan/experienced fighters:** old authority and Ache's emerging leadership may conflict.
+- **Earlier alliances and supplies:** prior choices either pay off or reveal costs.
+
+## Conflict and stakes
+
+Lives, boats, supplies, and the entire possibility of reaching Brunei.
+
+## Themes and subthemes
+
+**Theme:** leadership under fear.
+
+**Subthemes:** sacrifice, responsibility, courage, survival, earned trust.
+
+## Character progression
+
+### Ache
+
+**Begins:** still partly the person others are trying to get to safety.
+
+**Pressure:** must decide for the group while lacking certainty and accepting casualties or loss.
+
+**Ends:** acts as the leader responsible for getting others through.
+
+### Sulad
+
+**Begins:** protector and partner.
+
+**Progression:** entrusts Ache with decisions that may affect his life.
+
+**Ends:** loyalty has become confidence in Ache's developing judgment, not blind obedience.
+
+## Turning point
+
+Ache chooses to confront or outmaneuver the final threat rather than continue reacting to it.
+
+## Resolution and ending state
+
+The survivors break beyond Tondo's immediate reach. The flight's physical danger is substantially resolved.
+
+## Setup and payoff
+
+Pays off sailing, negotiation, alliances, and Ache's shift toward responsibility.
+
+## Handoff
+
+Chapter 10 replaces survival danger with a new test: whether Brunei will receive Ache and what that reception actually means.
