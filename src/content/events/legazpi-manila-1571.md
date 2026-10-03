@@ -3,7 +3,7 @@ id: legazpi-manila-1571
 name: Legazpi arrives in Manila
 aliases: [Spanish Manila 1571, Foundation of Spanish Manila]
 status: historical
-related: [legazpi, ache, sulayman, lakandula, maynila, tondo]
+related: [legazpi, ache, sulayman, lakandula, maynila, tondo, bonus-spanish-contact]
 sources: [riquel-1571, blair-robertson]
 timeline: []
 date: "1571"
@@ -11,7 +11,7 @@ dateSort: 15710500
 certainty: documented
 characters: [legazpi, ache, sulayman, lakandula]
 places: [maynila, tondo, manila-bay]
-chapters: [book-3-chapter-9]
+chapters: [bonus-spanish-contact]
 ---
 Legazpi returned to Manila Bay in 1571.
 

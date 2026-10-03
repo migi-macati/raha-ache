@@ -3,16 +3,20 @@ id: ache-marriage
 name: Ache marries his Bruneian cousin
 aliases: [Ache's marriage]
 status: historical
-related: [ache, siripada, brunei, maynila]
+related: [ache, ache-wife, siripada, brunei, maynila]
 sources: [aganduru-moriz, luis-camara-dery]
 timeline: []
-date: "After Ache's return to Maynila; date uncertain"
+date: "After Ache's return to Maynila; exact date unresolved"
 dateSort: 15211000
-certainty: strong-inference
-characters: [ache, siripada]
+certainty: documented
+characters: [ache, ache-wife, siripada]
 places: [maynila, brunei]
 chapters: [book-2-chapter-9]
 ---
+## Documented event
+
 Aganduru Moriz says Siripada sent Ache a granddaughter whose marriage to Ache had already been arranged in Brunei. The woman was Ache's first cousin.
 
-Secondary summaries sometimes date the marriage to 1521. The exact date is not explicit in the surviving primary wording used by the project.
+## Date uncertainty
+
+The marriage itself is present in Aganduru's narrative. The exact date is not established by the wording currently preserved in the project. Secondary summaries sometimes place it in 1521.

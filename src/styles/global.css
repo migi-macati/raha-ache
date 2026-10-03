@@ -177,3 +177,64 @@ footer{
   .feedback-panel{grid-template-columns:1fr}
   .feedback-actions{justify-content:flex-start}
 }
+
+.status-row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem;
+  margin:0 0 .8rem;
+}
+.status-badge{
+  display:inline-flex;
+  align-items:center;
+  min-height:1.65rem;
+  padding:.22rem .55rem;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:#fffaf1;
+  color:var(--deep);
+  font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.72rem;
+  font-weight:800;
+  line-height:1;
+  letter-spacing:.035em;
+  text-transform:uppercase;
+}
+.status-documented,.status-historical{
+  border-color:#765f3a;
+  background:#efe3c9;
+}
+.status-strong-inference,.status-uncertain,.status-possible{
+  border-style:dashed;
+  background:#f8f2e6;
+}
+.status-current,.status-novel-canon{
+  border-color:var(--gold);
+  background:#f4e7bf;
+}
+.status-working,.status-early-outline{
+  background:#eee9df;
+  color:#5f574f;
+}
+.status-superseded{
+  background:#eee9e5;
+  color:#766b64;
+  text-decoration:line-through;
+}
+.status-fiction,.status-fictional{
+  border-color:#9c8366;
+  background:#f2e8dc;
+}
+.event-date{
+  margin:.65rem 0 0;
+  font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:1rem;
+  font-weight:700;
+  color:var(--muted);
+}
+.timeline-key{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem;
+  margin-top:1rem;
+}

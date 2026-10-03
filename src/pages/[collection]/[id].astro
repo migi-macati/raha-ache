@@ -38,12 +38,27 @@ const backlinks = all
     collection: candidateCollection,
     url: `${import.meta.env.BASE_URL}${candidateCollection}/${candidate.data.id}/`
   }));
+
+const label = (value) => String(value ?? '')
+  .replaceAll('-', ' ')
+  .replace(/\b\w/g, (char) => char.toUpperCase());
+
+const statusBadges = [
+  data.status && { value: data.status, text: label(data.status) },
+  data.developmentStatus && { value: data.developmentStatus, text: label(data.developmentStatus) },
+  collection === 'events' && data.certainty && { value: data.certainty, text: label(data.certainty) }
+].filter(Boolean);
 ---
 <BaseLayout title={data.name} description={data.summary}>
   <article class="entity-page">
     <header class="page-head">
+      <div class="status-row">
+        {statusBadges.map((badge) => (
+          <span class={`status-badge status-${badge.value}`}>{badge.text}</span>
+        ))}
+      </div>
       <h1>{data.name}</h1>
-      {data.developmentStatus && <p class="meta">{data.developmentStatus}</p>}
+      {collection === 'events' && data.date && <p class="event-date">{data.date}</p>}
       {data.summary && <p>{data.summary}</p>}
     </header>
 
@@ -61,7 +76,7 @@ const backlinks = all
             <div class="relation-row">
               <span>{relation.type}</span>
               <a href={relation.entity.url}>{relation.entity.name}</a>
-              {relation.certainty && <small>{relation.certainty}</small>}
+              {relation.certainty && <small>{label(relation.certainty)}</small>}
             </div>
           ))}
         </div>
