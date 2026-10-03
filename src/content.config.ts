@@ -7,6 +7,7 @@ const baseEntity = z.object({
   aliases: z.array(z.string()).default([]),
   summary: z.string().optional(),
   status: z.enum(['historical', 'fictional', 'composite', 'uncertain']).optional(),
+  developmentStatus: z.enum(['current', 'working', 'early-outline', 'superseded']).optional(),
   related: z.array(z.string()).default([]),
   sources: z.array(z.string()).default([]),
   timeline: z.array(z.string()).default([])

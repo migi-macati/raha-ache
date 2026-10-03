@@ -36,6 +36,7 @@ const backlinks = all
   <article class="entity-page">
     <header class="page-head">
       <h1>{data.name}</h1>
+      {data.developmentStatus && <p class="meta">{data.developmentStatus}</p>}
       {data.summary && <p>{data.summary}</p>}
     </header>
 
