@@ -4,7 +4,7 @@ name: Lantaka
 aliases: [Cannon, Bronze cannon]
 status: uncertain
 developmentStatus: working
-related: [panday-pira, maynila, cannonry, book-3-chapter-3]
+related: [panday-pira, maynila, cannonry, book-3-chapter-4]
 sources: [blair-robertson]
 timeline: [battle-manila-1570]
 ---

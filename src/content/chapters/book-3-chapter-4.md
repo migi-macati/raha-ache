@@ -1,22 +1,25 @@
 ---
 id: book-3-chapter-4
-name: "Book III, Chapter 4: The Two Crowns of the Bay"
-aliases: ["The Two Crowns of the Bay"]
+name: "Book III, Chapter 4: The Making of the Kota"
+aliases: ["The Making of the Kota", "Building My Own Fleet"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, lakandula, maynila, tondo, manila-bay, dynastic-politics]
-sources: [aganduru-moriz, william-henry-scott]
+related: [book-3, ache, maynila, pasig-river, manila-bay, panday-pira, kota, lantaka, cannonry, fortification-building, part-3-institutions, religious-duality, port-centered-rule]
+sources: [blair-robertson]
 timeline: []
 book: book-3
 chapterNumber: 4
 draftStatus: outline
-characters: [ache, lakandula]
-places: [maynila, tondo, manila-bay]
+characters: [ache, panday-pira]
+places: [maynila, pasig-river, manila-bay]
 events: []
 ---
-Maynila and Tondo remain competing centers of power after Ache's return.
+Ache begins replacing borrowed wartime strength with permanent Maynila institutions and defenses.
 
-- Confrontation continues through force, negotiation, trade, and kinship.
-- Ache's strategy meeting becomes a real political contest rather than a planning interlude.
-- He must decide whether victory means destroying Tondo, subordinating it, or constructing a workable balance around the bay.
-- The chapter replaces the older idea of a single decisive **Conquest of Tondo and Liberation of Manila**.
+- Fortification and the making of the kota.
+- A Maynila-centered fleet is recruited, financed, supplied, repaired, and organized.
+- Cannonry and gunfounding become part of the defensive system.
+- River and sea approaches are treated as one strategic problem.
+- Storage, workshops, command, trade, and government begin to gather around the fortified center.
+
+The chapter resolves a crucial vulnerability: Ache can no longer depend indefinitely on the Bruneian expedition that restored him.

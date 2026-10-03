@@ -6,31 +6,56 @@ status: fictional
 developmentStatus: current
 related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, sulad, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-sequence-history, bonus-spanish-contact]
 sources: [aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
-timeline: [return-to-maynila]
+timeline: [return-to-maynila, ache-marriage]
 ---
-## Current arc
+## Plot
 
-Ache returns to the Manila Bay world, rebuilds Maynila as an independent center of power, manages Tondo and other neighboring polities, builds institutions, and prepares a succession that can outlive him.
+Ache returns to Manila Bay with the power to fight, but military recovery is only the first problem. He must retake Maynila, settle the struggle with Tondo, convert personal command into institutions, hold together a wider network of allies, and prepare a successor before age and a changing regional order make the whole achievement temporary.
 
-**Arc:** transform the kingdom.
+**Central question:** Can Ache recover Maynila and turn a victorious return into a political order strong enough to survive beyond him?
 
-The current Book III ends before the direct Spanish conquest sequence. Goiti and Legazpi, the 1570–1572 conflict, Ache's baptism, succession settlement, and death remain in the separate Spanish-contact bonus treatment.
+## Main conflicts
 
-## Current 10-chapter sequence
+**Ache versus Tondo:** The immediate conflict is the recovery of Maynila and the balance of power around the bay.
 
-1. **The Bay That Forgot Him** — return to a changed Manila Bay political world.
-2. **Building My Own Fleet** — ships, crews, logistics, finance, and Maynila-centered naval power.
-3. **The Making of the Kota** — fortification, cannonry, port defense, and the physical center of rule.
-4. **The Two Crowns of the Bay** — rivalry, kinship, negotiation, and force between Maynila and Tondo.
-5. **Old Alliances, New Debts** — Palawan and Visayan ties from Ache's earlier journeys return as political obligations and opportunities.
-6. **The Work of Rule** — port administration, trade, records, law, religion, and the institutions that make victory durable.
-7. **Neighbors** — diplomacy and power beyond Maynila and Tondo.
-8. **The Gift of the Southern Shore** — Ache turns personal loyalty into delegated territorial authority.
-9. **The Nephew** — Sulayman, succession, co-rule, and the problem of what comes after Ache.
-10. **Old King, New World on the Horizon** — the kingdom is built as Spanish expansion approaches.
+**Conquest versus rule:** Winning territory is easier than financing fleets, settling disputes, administering trade, defending approaches, and making authority routine.
 
-## Development history
+**Central power versus allies:** Ache needs loyal local rulers and partners, but delegated authority can create future rivals.
 
-Two earlier Book III sequences are preserved separately in **Book III sequence history** and in the superseded chapter pages. They are no longer part of the reading order.
+**Ache versus succession:** A kingdom built around one exceptional ruler is fragile. Sulayman must become more than a relative in the background.
 
-Earlier working title: **The Cannon and Me**.
+**Ache versus time:** By the end of the book, the political order is stronger but Ache is older and Spanish expansion is approaching.
+
+## Ten-chapter movement
+
+1. **The Bay That Forgot Him** — Ache returns, discovers what changed, and establishes a foothold.
+2. **Taking Back Maynila** — Ache recovers his lands and forces the immediate Tondo challenge into retreat and negotiation.
+3. **The Two Crowns of the Bay** — the military victory becomes a political settlement between Maynila and Tondo.
+4. **The Making of the Kota** — fleet, fortification, cannonry, storage, and command become permanent systems rather than campaign tools.
+5. **Old Alliances, New Debts** — allies from the wider maritime world reappear with interests of their own.
+6. **The Work of Rule** — customs, records, trade, law, language, religion, and administration become the center of the story.
+7. **Neighbors** — Ache tests whether his order can shape the region without treating every polity as a conquest target.
+8. **The Gift of the Southern Shore** — delegated authority forces Ache to balance loyalty with the risk of creating new centers of power.
+9. **The Nephew** — Sulayman and succession become immediate political questions.
+10. **Old King, New World on the Horizon** — Ache's internal political project reaches a stable form just as the next external threat approaches.
+
+## What Chapter 10 resolves
+
+By the end of Chapter 10:
+
+- Ache has retaken Maynila.
+- The immediate Maynila–Tondo conflict has reached a workable political settlement.
+- Maynila possesses institutions, defenses, maritime force, and administrative habits that do not depend on a single campaign.
+- Ache has converted at least part of his personal network into a wider political order.
+- Sulayman has a defined place in succession and shared responsibility.
+- Ache's central trilogy goal is achieved: he has returned and built the kingdom he once imagined but was too young to govern.
+
+## What remains unresolved
+
+The book deliberately does **not** resolve the Spanish conquest.
+
+The 1570–1572 Goiti–Legazpi conflict, Bangkusay, Ache's baptism, final succession settlement, and death remain in the Spanish-contact bonus treatment.
+
+**Book III resolution:** recovery and consolidation of Maynila.
+
+**Final historical crisis created:** whether Ache's political order can survive the arrival of Spain.

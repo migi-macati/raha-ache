@@ -8,38 +8,58 @@ related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, 
 sources: []
 timeline: []
 ---
+## Trilogy plot spine
+
+### Book I — lose and escape
+
+**Question:** Can Ache escape Tondo's tightening control and reach Brunei alive?
+
+**Chapter 10 resolution:** He reaches Siripada's court, survives the loss of Maynila, and accepts that he must earn the power to return.
+
+**Unresolved:** He is still an exile without proven command.
+
+### Book II — become capable of returning
+
+**Question:** Can Ache become a commander strong and trusted enough to lead a return to Luzon?
+
+**Chapter 10 resolution:** He has earned command, survived defeat and capture, secured Bruneian backing, and sails north.
+
+**Unresolved:** Maynila itself has not yet been recovered.
+
+### Book III — retake and build
+
+**Question:** Can Ache recover Maynila and make his victory durable?
+
+**Chapter 10 resolution:** Maynila is recovered, the Tondo conflict has reached a workable settlement, institutions and defenses exist, and succession is being transferred to the next generation.
+
+**Unresolved:** Spanish conquest remains outside the trilogy's internal political resolution and is handled in the bonus treatment.
+
 ## Part I
 
 Birth and youth in Maynila through the flight to Brunei.
 
-Current Book I title: **Raha Ache — The King of Luzon**. **Heir of the River** is retained as an earlier Part I development title.
+Current Book I title: **Raha Ache — The King of Luzon**.
 
-Tondo actively pressures Maynila. Ache's departure becomes a pursued sea journey through the Mindoro/Palawan corridor rather than a simple transition.
+Tondo actively pressures Maynila. Ache's departure becomes a pursued sea journey through the Mindoro–Palawan corridor rather than a simple transition.
 
-Current companion in the June 2026 material: Sulad.
+Current companion: Sulad.
 
 ## Part II
 
-Brunei court and training.
+Brunei court, naval training, failure, campaigns, command, and the 1521 encounter.
 
-Naval command and campaigns.
-
-Friends, rivals, mentors, and love interest.
-
-1521 encounter with the surviving circumnavigation expedition.
-
-Return voyage toward Luzon.
+Book II ends with Ache turning north toward Luzon. It does not include the retaking of Maynila.
 
 ## Part III
 
-Ache returns to the Manila Bay world, reasserts Maynila, builds naval and defensive power, manages Tondo through rivalry and kinship, renews wider alliances, creates institutions, and prepares succession before direct Spanish conquest.
+Ache returns to the Manila Bay world and the actual recovery of Maynila occurs here.
 
 Current Book III sequence:
 
 1. The Bay That Forgot Him
-2. Building My Own Fleet
-3. The Making of the Kota
-4. The Two Crowns of the Bay
+2. Taking Back Maynila
+3. The Two Crowns of the Bay
+4. The Making of the Kota
 5. Old Alliances, New Debts
 6. The Work of Rule
 7. Neighbors
@@ -47,12 +67,10 @@ Current Book III sequence:
 9. The Nephew
 10. Old King, New World on the Horizon
 
-This sequence reconciles the usable material from the earlier 1–10 scaffold and the later 13–17 development sequence. Both older versions remain in the development archive and are not current reading order.
-
 The beneficiary of the southern-shore grant remains unresolved after Sulad replaced Pasay as Ache's principal young companion.
 
 ## Bonus
 
-Goiti and Legazpi through Ache's final Spanish-contact years, baptism, succession, and death.
+Goiti and Legazpi through Ache's final Spanish-contact years, baptism, final succession settlement, and death.
 
-The bonus treatment keeps the direct 1570–1572 conquest sequence outside Book III proper.
+The direct 1570–1572 conquest sequence remains outside Book III proper.

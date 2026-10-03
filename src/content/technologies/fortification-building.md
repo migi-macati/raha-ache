@@ -4,7 +4,7 @@ name: Fortification building
 aliases: [Defensive works]
 status: fictional
 developmentStatus: working
-related: [kota, maynila, book-3-chapter-3, part-3-institutions]
+related: [kota, maynila, book-3-chapter-4, part-3-institutions]
 sources: []
 timeline: [return-to-maynila]
 ---

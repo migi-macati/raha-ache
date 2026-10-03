@@ -1,22 +1,27 @@
 ---
 id: book-3-chapter-2
-name: "Book III, Chapter 2: Building My Own Fleet"
-aliases: ["Building My Own Fleet"]
+name: "Book III, Chapter 2: Taking Back Maynila"
+aliases: ["Taking Back Maynila", "Retaking Maynila"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, maynila, manila-bay, port-centered-rule]
-sources: []
-timeline: [return-to-maynila]
+related: [book-3, ache, lakandula, maynila, tondo, return-to-maynila, dynastic-politics]
+sources: [aganduru-moriz]
+timeline: [return-to-maynila, ache-marriage]
 book: book-3
 chapterNumber: 2
 draftStatus: outline
-characters: [ache]
-places: [maynila, manila-bay]
-events: [return-to-maynila]
+characters: [ache, lakandula]
+places: [maynila, tondo, manila-bay]
+events: [return-to-maynila, ache-marriage]
 ---
-Ache turns borrowed Bruneian strength into a Maynila-centered force.
+Ache uses the expedition he earned in Book II to recover his position in Maynila.
 
-- Ships, crews, recruitment, finance, provisioning, repair, and command structure.
-- Ache must decide which forces remain personally loyal to him and which belong to the polity he is trying to rebuild.
-- Strategy shifts from winning one campaign to sustaining power across river, bay, and sea.
-- The fleet becomes the practical foundation for the next confrontation with Tondo and for the defense of Maynila.
+- Bruneian force gives Ache the ability to challenge the status quo, but local support determines whether he can stay.
+- Ache recovers his lands and pushes Tondo back.
+- The campaign cannot end in simple destruction because Tondo remains kin, neighbor, trading partner, and rival.
+- Peace negotiations begin after the military reversal.
+- The arranged Bruneian marriage belongs after Ache's return in the current historical sequence and can enter this early restoration phase, with exact placement still subject to chronology work.
+
+By the end of the chapter, **Maynila has been retaken**.
+
+The next problem is harder: what political relationship with Tondo can make the victory last?
