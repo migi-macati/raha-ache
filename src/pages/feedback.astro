@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const repoUrl = 'https://github.com/migi-macati/raha-ache';
+const openUrl = `${repoUrl}/issues?q=${encodeURIComponent('is:issue is:open in:title "[Feedback:"')}`;
+const archiveUrl = `${repoUrl}/issues?q=${encodeURIComponent('is:issue is:closed in:title "[Feedback:"')}`;
+---
+<BaseLayout title="Feedback">
+  <header class="page-head">
+    <h1>Feedback</h1>
+  </header>
+
+  <div class="prose">
+    <p>Comments and corrections are tracked as GitHub issue threads tied to individual story-bible pages.</p>
+  </div>
+
+  <section class="index-section">
+    <h2>Review queue</h2>
+    <div class="plain-list large">
+      <a href={openUrl} target="_blank" rel="noreferrer">Open feedback</a>
+      <a href={archiveUrl} target="_blank" rel="noreferrer">Resolved archive</a>
+    </div>
+  </section>
+</BaseLayout>
