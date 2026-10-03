@@ -9,8 +9,12 @@ const books = (await getCollection('books'))
 
 const chapters = await getCollection('chapters');
 const activeChapters = chapters
-  .filter((item)=>item.data.developmentStatus !== 'superseded' && item.data.book !== 'zz-bonus')
+  .filter((item)=>item.data.developmentStatus !== 'superseded' && item.data.book !== 'zz-bonus' && !item.data.bonus)
   .sort((a,b)=>String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) || a.data.chapterNumber-b.data.chapterNumber);
+
+const bonusChapters = chapters
+  .filter((item)=>item.data.developmentStatus !== 'superseded' && item.data.bonus)
+  .sort((a,b)=>a.data.chapterNumber-b.data.chapterNumber);
 
 const firstChapter = activeChapters[0];
 ---
@@ -38,21 +42,42 @@ const firstChapter = activeChapters[0];
 
   {books.map((book)=> {
     const bookChapters = activeChapters.filter((chapter)=>chapter.data.book === book.data.id);
-    return bookChapters.length > 0 && (
-      <section class="directory-section">
-        <div class="directory-section-head">
-          <h2>{book.data.name}</h2>
-          <span>{bookChapters.length}</span>
-        </div>
-        <div class="directory-grid">
-          {bookChapters.map((chapter)=>(
-            <a class="directory-card" href={withBase(`chapters/${chapter.data.id}/`)}>
-              <strong>{chapter.data.name}</strong>
-              <small>{chapter.data.draftStatus} · {chapter.data.developmentStatus ?? 'working'}</small>
-            </a>
-          ))}
-        </div>
-      </section>
+    const bookBonus = bonusChapters.filter((chapter)=>chapter.data.book === book.data.id);
+    return (
+      <>
+        {bookChapters.length > 0 && (
+          <section class="directory-section">
+            <div class="directory-section-head">
+              <h2>{book.data.name}</h2>
+              <span>{bookChapters.length}</span>
+            </div>
+            <div class="directory-grid">
+              {bookChapters.map((chapter)=>(
+                <a class="directory-card" href={withBase(`chapters/${chapter.data.id}/`)}>
+                  <strong>{chapter.data.name}</strong>
+                  <small>{chapter.data.draftStatus} · {chapter.data.developmentStatus ?? 'working'}</small>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+        {bookBonus.length > 0 && (
+          <section class="directory-section">
+            <div class="directory-section-head">
+              <h2>{book.data.name} · Bonus</h2>
+              <span>{bookBonus.length}</span>
+            </div>
+            <div class="directory-grid">
+              {bookBonus.map((chapter)=>(
+                <a class="directory-card" href={withBase(`chapters/${chapter.data.id}/`)}>
+                  <strong>{chapter.data.name}</strong>
+                  <small>bonus · {chapter.data.draftStatus}</small>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+      </>
     );
   })}
 </BaseLayout>

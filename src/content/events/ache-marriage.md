@@ -11,13 +11,13 @@ dateSort: 15211000
 certainty: documented
 characters: [ache, ache-wife, siripada]
 places: [maynila, brunei]
-chapters: [book-3-chapter-4]
+chapters: [book-3-chapter-2]
 ---
 ## Documented event
 
 Aganduru Moriz says Siripada sent Ache a granddaughter whose marriage to Ache had already been arranged in Brunei. The woman was Ache's first cousin.
 
-The current novel structure places the marriage in Book III after Ache's return and restoration struggle, where it also functions as a Brunei–Maynila dynastic tie.
+The current novel structure places the marriage in the early Book III restoration phase after Ache's return.
 
 ## Date uncertainty
 

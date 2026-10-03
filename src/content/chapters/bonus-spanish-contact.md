@@ -1,10 +1,10 @@
 ---
 id: bonus-spanish-contact
-name: "Bonus Chapter: Goiti, Legazpi, and Ache's final years"
+name: "Development archive: Spanish contact bonus"
 aliases: [Spanish contact bonus]
 status: fictional
-developmentStatus: current
-related: [ache, sulayman, lakandula, martin-de-goiti, legazpi, maynila, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
+developmentStatus: superseded
+related: [book-3, book-3-chapter-11, book-3-chapter-12, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 sources: [riquel-1571, relacion-1572, blair-robertson, legazpi-relacion]
 timeline: [battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 book: zz-bonus
@@ -14,10 +14,9 @@ characters: [ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito]
 places: [maynila, tondo, manila-bay, bangkusay-channel]
 events: [battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
-- Goiti reaches Maynila in 1570.
-- Negotiation gives way to battle and the burning of the settlement.
-- Legazpi returns in 1571.
-- Ache and Lakandula pursue accommodation.
-- Sulayman's role remains more resistant.
-- Bangkusay and the Bambalito/Tarik Sulayman identity problem.
-- Ache's baptism, succession problem, and death in 1572.
+This older single bonus chapter combined the entire 1570–1572 Spanish-contact sequence.
+
+It has been superseded by:
+
+- **Book III, Bonus Chapter 11: The Foreigners Return**
+- **Book III, Bonus Chapter 12: The Last Raha**

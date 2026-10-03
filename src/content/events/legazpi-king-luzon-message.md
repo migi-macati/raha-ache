@@ -3,7 +3,7 @@ id: legazpi-king-luzon-message
 name: Legazpi sends word to an unnamed king of Luzon
 aliases: [Message to the King of Luzon]
 status: historical
-related: [legazpi, ache, cebu, butuan, mindoro]
+related: [legazpi, ache, cebu, butuan, mindoro, book-3-chapter-11]
 sources: [blair-robertson]
 timeline: []
 date: "c. 1565"
@@ -11,7 +11,7 @@ dateSort: 15650000
 certainty: documented
 characters: [legazpi, ache]
 places: [cebu, butuan, mindoro]
-chapters: [book-3-chapter-17]
+chapters: [book-3-chapter-11]
 ---
 ## Documented event
 

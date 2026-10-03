@@ -36,6 +36,7 @@ const label=(value)=>String(value??'').replaceAll('-',' ').replace(/\b\w/g,(char
 const badges=[
   data.status && {value:data.status,text:label(data.status)},
   data.developmentStatus && {value:data.developmentStatus,text:label(data.developmentStatus)},
+  collection==='chapters' && data.bonus && {value:'bonus',text:'Bonus'},
   collection==='events' && data.certainty && {value:data.certainty,text:label(data.certainty)},
   collection==='sources' && data.sourceType && {value:data.sourceType,text:label(data.sourceType)}
 ].filter(Boolean);
@@ -54,11 +55,11 @@ const allChapters = collection === 'chapters'
   : [];
 
 const chapterTrack = collection === 'chapters'
-  ? data.book === 'zz-bonus'
-    ? allChapters.filter((chapter) => chapter.data.book === 'zz-bonus')
-    : data.developmentStatus === 'superseded'
-      ? allChapters.filter((chapter) => chapter.data.developmentStatus === 'superseded' && chapter.data.book !== 'zz-bonus')
-      : allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && chapter.data.book !== 'zz-bonus')
+  ? data.developmentStatus === 'superseded'
+    ? allChapters.filter((chapter) => chapter.data.developmentStatus === 'superseded')
+    : data.bonus
+      ? allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && chapter.data.bonus)
+      : allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && !chapter.data.bonus && chapter.data.book !== 'zz-bonus')
   : [];
 
 const chapterIndex = collection === 'chapters'
@@ -70,10 +71,10 @@ const nextChapter = chapterIndex >= 0 && chapterIndex < chapterTrack.length - 1 
 
 const chapterGroups = collection === 'chapters'
   ? [
-      { key:'book-1', label:'Book I', items:allChapters.filter((chapter)=>chapter.data.book==='book-1') },
-      { key:'book-2', label:'Book II', items:allChapters.filter((chapter)=>chapter.data.book==='book-2') },
-      { key:'book-3', label:'Book III', items:allChapters.filter((chapter)=>chapter.data.book==='book-3') },
-      { key:'zz-bonus', label:'Bonus', items:allChapters.filter((chapter)=>chapter.data.book==='zz-bonus') }
+      { key:'book-1', label:'Book I', items:allChapters.filter((chapter)=>chapter.data.book==='book-1' && chapter.data.developmentStatus!=='superseded' && !chapter.data.bonus) },
+      { key:'book-2', label:'Book II', items:allChapters.filter((chapter)=>chapter.data.book==='book-2' && chapter.data.developmentStatus!=='superseded' && !chapter.data.bonus) },
+      { key:'book-3', label:'Book III', items:allChapters.filter((chapter)=>chapter.data.book==='book-3' && chapter.data.developmentStatus!=='superseded' && !chapter.data.bonus) },
+      { key:'book-3-bonus', label:'Book III · Bonus', items:allChapters.filter((chapter)=>chapter.data.book==='book-3' && chapter.data.developmentStatus!=='superseded' && chapter.data.bonus) }
     ].filter((group)=>group.items.length > 0)
   : [];
 
@@ -87,7 +88,20 @@ const bookChapters = collection === 'books'
       .filter(({ collection:candidateCollection, item:candidate }) =>
         candidateCollection === 'chapters' &&
         candidate.data.book === data.id &&
-        candidate.data.developmentStatus !== 'superseded'
+        candidate.data.developmentStatus !== 'superseded' &&
+        !candidate.data.bonus
+      )
+      .map(({ item:candidate }) => candidate)
+      .sort((a,b)=>(a.data.chapterNumber ?? 0) - (b.data.chapterNumber ?? 0))
+  : [];
+
+const bookBonusChapters = collection === 'books'
+  ? all
+      .filter(({ collection:candidateCollection, item:candidate }) =>
+        candidateCollection === 'chapters' &&
+        candidate.data.book === data.id &&
+        candidate.data.developmentStatus !== 'superseded' &&
+        candidate.data.bonus
       )
       .map(({ item:candidate }) => candidate)
       .sort((a,b)=>(a.data.chapterNumber ?? 0) - (b.data.chapterNumber ?? 0))
@@ -129,7 +143,7 @@ const bookChapters = collection === 'books'
           {previousChapter ? (
             <a href={withBase(`chapters/${previousChapter.data.id}/`)} aria-label={`Previous chapter: ${previousChapter.data.name}`}>
               <small>Previous</small>
-              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
             </a>
           ) : (
             <span class="chapter-step-disabled"><small>Previous</small><strong>Start of this track</strong></span>
@@ -143,7 +157,7 @@ const bookChapters = collection === 'books'
               <optgroup label={group.label}>
                 {group.items.map((chapter)=>(
                   <option value={withBase(`chapters/${chapter.data.id}/`)} selected={chapter.data.id===data.id}>
-                    {chapter.data.chapterNumber}. {chapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')} · {chapterStatusLabel(chapter)}
+                    {chapter.data.chapterNumber}. {chapter.data.name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')} · {chapterStatusLabel(chapter)}
                   </option>
                 ))}
               </optgroup>
@@ -155,7 +169,7 @@ const bookChapters = collection === 'books'
           {nextChapter ? (
             <a href={withBase(`chapters/${nextChapter.data.id}/`)} aria-label={`Next chapter: ${nextChapter.data.name}`}>
               <small>Next</small>
-              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
             </a>
           ) : (
             <span class="chapter-step-disabled"><small>Next</small><strong>End of this track</strong></span>
@@ -182,13 +196,27 @@ const bookChapters = collection === 'books'
       </section>
     )}
 
+    {collection === 'books' && bookBonusChapters.length > 0 && (
+      <section class="connections">
+        <h2>Bonus chapters</h2>
+        <div class="connection-grid">
+          {bookBonusChapters.map((chapter)=>(
+            <a class="connection-card" href={withBase(`chapters/${chapter.data.id}/`)}>
+              <small>bonus · {chapter.data.draftStatus}</small>
+              <strong>{chapter.data.name}</strong>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
     {collection === 'chapters' && (
       <nav class="chapter-nav chapter-nav-bottom" aria-label="Chapter navigation">
         <div class="chapter-step">
           {previousChapter ? (
             <a href={withBase(`chapters/${previousChapter.data.id}/`)}>
               <small>Previous</small>
-              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
             </a>
           ) : (
             <span class="chapter-step-disabled"><small>Previous</small><strong>Start of this track</strong></span>
@@ -199,7 +227,7 @@ const bookChapters = collection === 'books'
           {nextChapter ? (
             <a href={withBase(`chapters/${nextChapter.data.id}/`)}>
               <small>Next</small>
-              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
             </a>
           ) : (
             <span class="chapter-step-disabled"><small>Next</small><strong>End of this track</strong></span>

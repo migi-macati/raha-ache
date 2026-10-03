@@ -38,6 +38,7 @@ const source = baseEntity.extend({
 const chapter = baseEntity.extend({
   book: z.string(),
   chapterNumber: z.number(),
+  bonus: z.boolean().default(false),
   draftStatus: z.enum(['outline', 'draft', 'revision', 'final']).default('draft'),
   pov: z.array(z.string()).default([]),
   characters: z.array(z.string()).default([]),

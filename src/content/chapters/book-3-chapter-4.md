@@ -1,25 +1,25 @@
 ---
 id: book-3-chapter-4
-name: "Book III, Chapter 4: The Two Crowns of the Bay"
-aliases: ["The Two Crowns of the Bay"]
+name: "Book III, Chapter 4: The Making of the Kota"
+aliases: ["The Making of the Kota"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, ache-wife, lakandula, siripada, maynila, tondo, manila-bay, dynastic-politics, return-to-maynila, ache-marriage]
-sources: [aganduru-moriz, william-henry-scott]
-timeline: [return-to-maynila, ache-marriage]
+related: [book-3, ache, maynila, pasig-river, manila-bay, panday-pira, kota, lantaka, cannonry, fortification-building, part-3-institutions, port-centered-rule]
+sources: [blair-robertson]
+timeline: []
 book: book-3
 chapterNumber: 4
 draftStatus: outline
-characters: [ache, ache-wife, lakandula]
-places: [maynila, tondo, manila-bay, brunei]
-events: [return-to-maynila, ache-marriage]
+characters: [ache, panday-pira]
+places: [maynila, pasig-river, manila-bay]
+events: []
 ---
-The struggle between Maynila and Tondo reaches the settlement that secures Ache's restoration.
+With the restoration conflict settled, Ache must make victory physically durable.
 
-- Force, negotiation, trade, and kinship all matter; the conflict is not reduced to one duel or one battle.
-- Ache recovers his position and forces Tondo back from the gains made during his absence.
-- Peace creates a working political relationship between the two centers without pretending rivalry disappears.
-- The Bruneian marriage arrangement is fulfilled after Ache's return, tying restoration to a wider dynastic network.
-- Ache must decide whether victory means destroying Tondo, subordinating it completely, or accepting a durable balance around the bay.
+- The kota becomes a center of defense, storage, command, and government.
+- Cannonry and gunfounding become part of Maynila's defensive system.
+- Ache begins converting a returning expedition into a permanent local fleet.
+- River and sea approaches become one defensive problem.
+- Workshops, supplies, crews, records, and command structures begin to outlast the campaign that created them.
 
-**Chapter function:** resolve the immediate retaking of Maynila so the second half of Book III can focus on governing what Ache has recovered.
+**Chapter function:** turn recovered sovereignty into infrastructure.

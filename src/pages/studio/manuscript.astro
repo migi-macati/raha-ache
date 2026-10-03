@@ -12,21 +12,24 @@ const [chapters, books, research, characters] = await Promise.all([
 ]);
 
 const activeChapters = chapters
-  .filter((chapter)=>chapter.data.developmentStatus !== 'superseded' && chapter.data.book !== 'zz-bonus')
+  .filter((chapter)=>chapter.data.developmentStatus !== 'superseded' && chapter.data.book !== 'zz-bonus' && !chapter.data.bonus)
   .sort((a,b)=>
     String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) ||
     a.data.chapterNumber-b.data.chapterNumber
   );
 
+const bonusChapters = chapters
+  .filter((chapter)=>chapter.data.developmentStatus !== 'superseded' && chapter.data.bonus)
+  .sort((a,b)=>a.data.chapterNumber-b.data.chapterNumber);
+
 const unresolvedResearch = research.filter((item)=>item.data.status==='uncertain').length;
 const characterNames=new Map(characters.map((item)=>[item.data.id,item.data.name]));
-const unassignedPov=activeChapters.filter((chapter)=>chapter.data.pov.length===0).length;
+const unassignedPov=[...activeChapters,...bonusChapters].filter((chapter)=>chapter.data.pov.length===0).length;
 const draftCounts = ['outline','draft','revision','final'].map((status)=>({
   status,
   count:activeChapters.filter((chapter)=>chapter.data.draftStatus===status).length
 }));
 const currentCount=activeChapters.filter((chapter)=>chapter.data.developmentStatus==='current').length;
-const workingCount=activeChapters.filter((chapter)=>chapter.data.developmentStatus!=='current').length;
 
 const bookGroups = ['book-1','book-2','book-3'].map((bookId)=>{
   const book=books.find((item)=>item.data.id===bookId);
@@ -34,7 +37,7 @@ const bookGroups = ['book-1','book-2','book-3'].map((bookId)=>{
   return {bookId,book,items};
 }).filter((group)=>group.book);
 
-const cleanTitle=(name)=>name.replace(/^Book [IVX]+, Chapter \d+:\s*/,'');
+const cleanTitle=(name)=>name.replace(/^Book [IVX]+, (?:Bonus )?Chapter \d+:\s*/,'');
 const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
 ---
 <BaseLayout title="Manuscript board">
@@ -51,9 +54,9 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
   </header>
 
   <section class="manuscript-stats" aria-label="Manuscript status">
-    <div><strong>{activeChapters.length}</strong><span>Active chapters</span></div>
-    <div><strong>{currentCount}</strong><span>Current structure</span></div>
-    <div><strong>{workingCount}</strong><span>Working structure</span></div>
+    <div><strong>{activeChapters.length}</strong><span>Core chapters</span></div>
+    <div><strong>{bonusChapters.length}</strong><span>Bonus chapters</span></div>
+    <div><strong>{currentCount}</strong><span>Current core structure</span></div>
     <div><strong>{unassignedPov}</strong><span>POV not assigned</span></div>
   </section>
 
@@ -70,7 +73,7 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
           <p class="eyebrow">Book {index+1}</p>
           <h2>{group.book.data.name.replace(/^Book [IVX]+:\s*/,'')}</h2>
         </div>
-        <span>{group.items.length} chapters</span>
+        <span>{group.items.length} core chapters</span>
       </div>
 
       <div class="manuscript-list">
@@ -97,6 +100,37 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
       </div>
     </section>
   ))}
+
+  {bonusChapters.length > 0 && (
+    <section class="manuscript-book">
+      <div class="directory-section-head">
+        <div>
+          <p class="eyebrow">Book III</p>
+          <h2>Bonus chapters</h2>
+        </div>
+        <span>{bonusChapters.length} chapters</span>
+      </div>
+      <div class="manuscript-list">
+        {bonusChapters.map((chapter)=>(
+          <article class="manuscript-row">
+            <div class="manuscript-number">{chapter.data.chapterNumber}</div>
+            <div class="manuscript-main">
+              <a href={withBase(`chapters/${chapter.data.id}/`)}><strong>{cleanTitle(chapter.data.name)}</strong></a>
+              <div class="manuscript-meta">
+                <span>bonus</span>
+                <span>{chapter.data.draftStatus}</span>
+                <span>{chapter.data.pov.length > 0 ? `POV: ${chapter.data.pov.map((id)=>characterNames.get(id) ?? id).join(' / ')}` : 'POV not set'}</span>
+              </div>
+            </div>
+            <div class="manuscript-actions">
+              <a href={withBase(`chapters/${chapter.data.id}/`)}>Read</a>
+              <a href={`${repoUrl}/edit/main/src/content/chapters/${chapter.id}.md`} target="_blank" rel="noreferrer">Edit source</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
 
   <section class="directory-section manuscript-next">
     <div class="directory-section-head"><h2>Writing controls</h2></div>
