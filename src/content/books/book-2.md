@@ -1,24 +1,24 @@
 ---
 id: book-2
-name: "Book II: The Sword and Me"
-aliases: [Book II, The Sword and Me]
+name: "Book II: Raha Ache — Conquest of the Seas"
+aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
-developmentStatus: early-outline
+developmentStatus: current
 related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, ache-marriage]
 ---
-## Goals
+## Current arc
 
-**Initial short goal:** Complete the Sultan's task and secure support to retake Maynila.
+Ache enters the Brunei court, develops as a commander, fights at sea, encounters the surviving circumnavigation expedition in 1521, and returns toward Luzon with the means to reclaim Maynila.
 
-**Initial long goal:** Defeat the Tondo challenge and retake Maynila.
+**Arc:** reclaim.
 
-**Changed short goal:** Gather his own forces through alliances.
+## Current title
 
-**Changed long goal:** Retake Maynila, unite Luzon, and govern.
+**Raha Ache — Conquest of the Seas**
 
-## Chapters
+## Earlier 10-chapter scaffold
 
 1. Brunei
 2. The Sultan's Court
@@ -30,3 +30,5 @@ timeline: [ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila
 8. Prisoner
 9. Triumphant Return and Wedding
 10. Admirable Admiral
+
+Earlier working title: **The Sword and Me**.
