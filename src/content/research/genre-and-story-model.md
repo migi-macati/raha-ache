@@ -50,6 +50,22 @@ The intended reading experience draws from several different traditions without 
 
 Raha Ache is not automatically an isekai. The earlier modern-observer or reincarnation-like framing remains development history unless deliberately revived.
 
+## Narrative point of view
+
+The novel uses **first-person multi-POV narration**.
+
+Each scene or chapter section belongs to one viewpoint character and is narrated as **I**. The story can then transfer to another character in a later section or chapter. Viewpoint changes must be explicit and clean; there should be no unmarked head-hopping inside a scene.
+
+Ache remains the principal viewpoint and emotional center of the trilogy, but other characters can temporarily take over when their perspective gives the reader something Ache cannot know or experience directly.
+
+Useful secondary viewpoints can include allies, rivals, family members, commanders, rulers, and later Spanish figures. Their chapters should not merely repeat Ache's story. A POV transfer should reveal a different interpretation, location, danger, political calculation, or consequence.
+
+Every narrator needs a recognizably different first-person voice. Ache may notice strategy, ships, status, and political leverage; another character may notice ritual, kinship, fear, trade, faith, landscape, or social tension first. Their assumptions can conflict.
+
+The Wheel of Time influence here is the **transfer of narrative attention across an expanding ensemble**, not its grammatical person. Raha Ache adapts that ensemble structure into first person.
+
+POV transfers should widen the world while preserving intimacy: the reader repeatedly enters one mind at a time.
+
 ## Writing style
 
 The prose should be **clear, propulsive, immersive, and intelligent**.
@@ -68,7 +84,7 @@ Dialogue should be direct and character-specific. Young characters may be funny,
 
 Battle and strategy should emphasize decisions rather than spectacle alone. Geography, wind, tide, morale, formation, intelligence, logistics, weapons, command structure, and deception can matter as much as individual fighting skill.
 
-Interior narration should stay close enough to Ache that the reader experiences his intelligence without being told repeatedly that he is intelligent. Let plans fail. Let him misread people. Let rivals sometimes be right.
+Interior narration should stay fully inside the active narrator's first-person experience. When Ache is the narrator, the reader should experience his intelligence without being told repeatedly that he is intelligent. Let plans fail. Let him misread people. Let rivals sometimes be right. When another character narrates, their understanding of Ache may differ sharply from Ache's understanding of himself.
 
 The larger prose rhythm should alternate between intimate character scenes and widening scale: person, household, settlement, voyage, court, fleet, kingdom, region.
 
