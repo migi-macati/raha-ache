@@ -1,23 +1,32 @@
 ---
 id: book-3
-name: "Book III: The Cannon and Me"
-aliases: [Book III, The Cannon and Me]
+name: "Book III: Raha Ache — The Kingdom United"
+aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
-related: [ache, sulayman, lakandula, maynila, tondo, legazpi, martin-de-goiti]
-sources: [riquel-1571, relacion-1572, blair-robertson]
-timeline: [return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
+developmentStatus: current
+related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, legazpi, martin-de-goiti]
+sources: [aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
+timeline: [return-to-maynila]
 ---
-## Goals
+## Current arc
 
-**Initial short goal:** Develop Maynila and establish alliances with neighboring polities.
+Ache returns to the Manila Bay world, reasserts Maynila, builds institutions, manages alliances and rival centers of power, and tries to turn victory into a durable political order.
 
-**Initial long goal:** Unite Luzon and govern.
+**Arc:** transform the kingdom.
 
-**Changed short goal:** Delegate and plan for succession.
+The current Part III concept focuses on the period before direct Spanish conquest. The Goiti–Legazpi sequence, baptism, succession, and Ache's death are handled separately in the Spanish-contact bonus material.
 
-**Changed long goal:** Set a course for an open, great, and lasting Luzon polity.
+## Current development sequence
 
-## Chapters
+13. The Bay That Forgot Him
+14. The Making of the Kota
+15. The Two Crowns of the Bay
+16. Rewarding Loyalty: The Gift of the Southern Shore
+17. Old King, New World on the Horizon
+
+Pasay's exact role in the southern-shore land-grant strand remains unresolved after Sulad replaced Pasay as Ache's principal young companion.
+
+## Earlier 10-chapter scaffold
 
 1. Building My Own Fleet
 2. Cannonry (Lantaka)
@@ -29,3 +38,5 @@ timeline: [return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, le
 8. The Nephew
 9. Welcome to Manila
 10. Legacy and Death
+
+Earlier working title: **The Cannon and Me**.
