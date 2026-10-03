@@ -56,9 +56,9 @@ The novel uses **first-person multi-POV narration**.
 
 Each scene or chapter section belongs to one viewpoint character and is narrated as **I**. The story can then transfer to another character in a later section or chapter. Viewpoint changes must be explicit and clean; there should be no unmarked head-hopping inside a scene.
 
-Ache remains the principal viewpoint and emotional center of the trilogy, but other characters can temporarily take over when their perspective gives the reader something Ache cannot know or experience directly.
+Ache remains the dominant viewpoint and emotional center of the trilogy. Most chapters and scenes should be narrated by Ache. Other characters can temporarily take over only when their perspective gives the reader something Ache cannot know or experience directly.
 
-Useful secondary viewpoints can include allies, rivals, family members, commanders, rulers, and later Spanish figures. Their chapters should not merely repeat Ache's story. A POV transfer should reveal a different interpretation, location, danger, political calculation, or consequence.
+Secondary viewpoints should be comparatively rare. They can include allies, rivals, family members, commanders, rulers, and later Spanish figures. Their sections should not merely repeat Ache's story. A POV transfer should reveal a different interpretation, location, danger, political calculation, or consequence, then return narrative gravity to Ache.
 
 Every narrator needs a recognizably different first-person voice. Ache may notice strategy, ships, status, and political leverage; another character may notice ritual, kinship, fear, trade, faith, landscape, or social tension first. Their assumptions can conflict.
 
