@@ -26,8 +26,8 @@ const issueBody = [
 const addUrl = `${repoUrl}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
 const contributionTitle = `[Contribution: ${key}] ${title}`;
 const contributionUrl = `${repoUrl}/issues/new?template=story-contribution.yml&title=${encodeURIComponent(contributionTitle)}`;
-const openQuery = `is:issue is:open in:title "[Feedback: ${key}]"`;
-const closedQuery = `is:issue is:closed in:title "[Feedback: ${key}]"`;
+const openQuery = `is:issue is:open in:title "${key}"`;
+const closedQuery = `is:issue is:closed in:title "${key}"`;
 const openUrl = `${repoUrl}/issues?q=${encodeURIComponent(openQuery)}`;
 const archiveUrl = `${repoUrl}/issues?q=${encodeURIComponent(closedQuery)}`;
 ---
