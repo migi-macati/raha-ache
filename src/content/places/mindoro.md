@@ -1,12 +1,15 @@
 ---
 id: mindoro
 name: Mindoro
-aliases: [Venduro]
+aliases: []
 status: historical
-related: [manila-bay, palawan, ache]
-sources: [blair-robertson]
-timeline: [legazpi-king-luzon-message]
+developmentStatus: current
+related: [manila-bay, palawan, calamianes, ache, sulad]
+sources: []
+timeline: [ache-leaves-for-brunei]
 ---
-Island south of Manila Bay and part of the regional trade network.
+Island south of Manila Bay and part of the regional maritime trade network.
 
-The Book I outline uses the Manila Bay–Mindoro passage as the first leg of Ache's flight and pursuit.
+The current Book I reconstruction uses the Manila Bay–Mindoro corridor as an early leg of Ache and Sulad's flight toward Brunei.
+
+The exact route and incidents during the flight are novel reconstruction.

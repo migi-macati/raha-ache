@@ -3,8 +3,13 @@ id: manila-bay
 name: Manila Bay
 aliases: []
 status: historical
+developmentStatus: current
 related: [maynila, tondo, pasig-river, mindoro, bangkusay-channel]
-sources: [william-henry-scott]
-timeline: [battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
+sources: []
+timeline: []
 ---
-Bay around which Maynila, Tondo, Mindoro routes, and later Spanish operations intersect.
+The bay linking Maynila and Tondo to regional sea routes.
+
+In the novel it is both geography and political space: the mouth of the Pasig, nearby settlements, shipping approaches, rival ports, and the routes south toward Mindoro all converge here.
+
+Later Spanish operations and the Battle of Bangkusay also make the bay central to the final historical phase.

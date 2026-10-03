@@ -48,7 +48,22 @@ const characterGroups = collection === 'characters'
     ]
   : [];
 
-const grouped = collection === 'chapters' ? chapterGroups : collection === 'characters' ? characterGroups : [];
+const placeGroups = collection === 'places'
+  ? [
+      { title: 'Current story locations', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
+      { title: 'Working story locations', items: sorted.filter((item) => item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
+      { title: 'Historical and reference locations', items: sorted.filter((item) => !item.data.developmentStatus) },
+      { title: 'Superseded route material', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
+    ]
+  : [];
+
+const grouped = collection === 'chapters'
+  ? chapterGroups
+  : collection === 'characters'
+    ? characterGroups
+    : collection === 'places'
+      ? placeGroups
+      : [];
 ---
 <BaseLayout title={title}>
   <header class="page-head">

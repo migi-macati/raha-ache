@@ -1,10 +1,13 @@
 ---
 id: calamianes
 name: Calamianes
-aliases: [Calamian Islands]
+aliases: []
 status: historical
-related: [palawan, mindoro, ache]
+developmentStatus: working
+related: [palawan, mindoro, ache, sulad]
 sources: []
 timeline: []
 ---
-Island group used in the Book I reconstruction as part of Ache's southward escape route.
+Island group between Mindoro and Palawan.
+
+The Calamianes remain available as working geography for the Book I flight corridor. The current story establishes a Mindoro–Palawan route but has not fixed which Calamianes islands Ache and Sulad actually visit.

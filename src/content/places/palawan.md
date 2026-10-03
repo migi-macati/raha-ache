@@ -1,12 +1,15 @@
 ---
 id: palawan
 name: Palawan
-aliases: [Poluan]
+aliases: []
 status: historical
-related: [tuan-maamud, mindoro, calamianes, ache, pasay]
-sources: [pigafetta, william-henry-scott]
-timeline: []
+developmentStatus: current
+related: [tuan-maamud, mindoro, calamianes, ache, sulad]
+sources: []
+timeline: [ache-leaves-for-brunei]
 ---
-Island and sea corridor used in the Book I flight south.
+Island and sea corridor in the current Book I flight south.
 
-The novel outline places Ache and Pasay here or in the nearby Calamianes while evading pursuit and seeking provisions and passage.
+The novel places Ache and Sulad in the Palawan or nearby Calamianes maritime environment while evading pursuit, finding provisions, and seeking passage toward Brunei.
+
+The route, encounters, and pursuit are novel reconstruction rather than documented episodes in Ache's biography.
