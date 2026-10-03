@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 
 const root = path.resolve('src/content');
 const out = path.resolve('src/data/entities.json');
-const collections = ['characters','places','events','sources','books','chapters','research'];
+const collections = ['characters','places','events','objects','technologies','practices','ideas','sources','books','chapters','research'];
 const entities = [];
 
 for (const collection of collections) {
