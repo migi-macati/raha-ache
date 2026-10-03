@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 
 const root = path.resolve('src/content');
 const collections = ['characters','places','events','objects','technologies','practices','ideas','sources','books','chapters','research'];
-const referenceKeys = ['related','sources','timeline','characters','places','chapters','events'];
+const referenceKeys = ['related','sources','timeline','characters','places','chapters','events','objects','technologies','practices','ideas'];
 const allowedChapterBooks = new Set(['book-1','book-2','book-3','zz-bonus']);
 const entities = [];
 const byId = new Map();
