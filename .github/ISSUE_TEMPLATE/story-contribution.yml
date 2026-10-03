@@ -1,0 +1,50 @@
+name: Story contribution or co-writing proposal
+description: Propose a scene, entity, connection, research lead, or draft contribution.
+title: "[Contribution] "
+body:
+  - type: input
+    id: area
+    attributes:
+      label: Page, chapter, or area
+      description: Name the page, chapter, or part of the story this relates to.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Contribution type
+      options:
+        - Scene or chapter
+        - Character
+        - Place
+        - Event
+        - Object
+        - Technology
+        - Practice
+        - Idea
+        - Source or research lead
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: participation
+    attributes:
+      label: Participation
+      options:
+        - Suggestion only
+        - Happy to discuss or revise
+        - I want to contribute draft text
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the contribution or paste draft material.
+    validations:
+      required: true
+  - type: textarea
+    id: basis
+    attributes:
+      label: Source, rationale, or continuity note
+      description: Add evidence or explain how the proposal fits the story.
