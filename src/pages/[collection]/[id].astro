@@ -18,61 +18,62 @@ const { Content } = await render(item);
 const data = item.data;
 const index = await entityIndex();
 
-const outgoing = referencedIds(data)
-  .map((id) => index.get(id))
-  .filter(Boolean);
-
+const outgoing = referencedIds(data).map((id)=>index.get(id)).filter(Boolean);
 const relations = Array.isArray(data.relations)
-  ? data.relations
-      .map((relation) => ({ ...relation, entity: index.get(relation.target) }))
-      .filter((relation) => relation.entity)
+  ? data.relations.map((relation)=>({...relation,entity:index.get(relation.target)})).filter((relation)=>relation.entity)
   : [];
 
 const backlinks = all
-  .filter(({ item: candidate }) =>
-    candidate.data.id !== data.id &&
-    referencedIds(candidate.data).includes(data.id)
-  )
-  .map(({ collection: candidateCollection, item: candidate }) => ({
-    id: candidate.data.id,
-    name: candidate.data.name,
-    collection: candidateCollection,
-    url: withBase(`${candidateCollection}/${candidate.data.id}/`)
+  .filter(({ item:candidate })=>candidate.data.id !== data.id && referencedIds(candidate.data).includes(data.id))
+  .map(({ collection:candidateCollection,item:candidate })=>({
+    id:candidate.data.id,
+    name:candidate.data.name,
+    collection:candidateCollection,
+    url:withBase(`${candidateCollection}/${candidate.data.id}/`)
   }));
 
-const label = (value) => String(value ?? '')
-  .replaceAll('-', ' ')
-  .replace(/\b\w/g, (char) => char.toUpperCase());
-
-const statusBadges = [
-  data.status && { value: data.status, text: label(data.status) },
-  data.developmentStatus && { value: data.developmentStatus, text: label(data.developmentStatus) },
-  collection === 'events' && data.certainty && { value: data.certainty, text: label(data.certainty) },
-  collection === 'sources' && data.sourceType && { value: data.sourceType, text: label(data.sourceType) }
+const label=(value)=>String(value??'').replaceAll('-',' ').replace(/\b\w/g,(char)=>char.toUpperCase());
+const badges=[
+  data.status && {value:data.status,text:label(data.status)},
+  data.developmentStatus && {value:data.developmentStatus,text:label(data.developmentStatus)},
+  collection==='events' && data.certainty && {value:data.certainty,text:label(data.certainty)},
+  collection==='sources' && data.sourceType && {value:data.sourceType,text:label(data.sourceType)}
 ].filter(Boolean);
+
+const collectionTitle=collection.charAt(0).toUpperCase()+collection.slice(1);
+const development=data.developmentStatus==='working' || data.developmentStatus==='early-outline' || data.developmentStatus==='superseded';
 ---
 <BaseLayout title={data.name} description={data.summary}>
+  <nav class="breadcrumbs">
+    <a href={withBase()}>Home</a><span>/</span>
+    <a href={withBase(`${collection}/`)}>{collectionTitle}</a><span>/</span>
+    <span>{data.name}</span>
+  </nav>
+
   <article class="entity-page">
-    <header class="page-head">
+    {development && (
+      <aside class="development-notice">
+        <strong>Development material</strong>
+        <span>This page is retained for writing and revision and may not represent current novel canon.</span>
+      </aside>
+    )}
+
+    <header class="page-head entity-head">
       <div class="status-row">
-        {statusBadges.map((badge) => (
-          <span class={`status-badge status-${badge.value}`}>{badge.text}</span>
-        ))}
+        {badges.map((badge)=><span class={`status-badge status-${badge.value}`}>{badge.text}</span>)}
       </div>
       <h1>{data.name}</h1>
-      {collection === 'events' && data.date && <p class="event-date">{data.date}</p>}
-      {collection === 'sources' && (data.year || data.citation) && (
+      {collection==='events' && data.date && <p class="event-date">{data.date}</p>}
+      {collection==='sources' && (data.year || data.citation) && (
         <div class="source-meta">
           {data.year && <p><strong>Date:</strong> {data.year}</p>}
           {data.citation && <p><strong>Citation:</strong> {data.citation}</p>}
         </div>
       )}
-      {data.summary && <p>{data.summary}</p>}
+      {data.summary && <p class="entity-summary">{data.summary}</p>}
     </header>
 
-    {data.aliases?.length > 0 && (
-      <p class="meta"><strong>Also known as:</strong> {data.aliases.join(', ')}</p>
-    )}
+    {data.aliases?.length > 0 && <p class="meta aliases"><strong>Also known as</strong> {data.aliases.join(' · ')}</p>}
 
     <div class="prose"><Content /></div>
 
@@ -80,12 +81,11 @@ const statusBadges = [
       <section class="connections">
         <h2>Relationships</h2>
         <div class="relation-list">
-          {relations.map((relation) => (
-            <div class="relation-row">
-              <span>{relation.type}</span>
-              <a href={relation.entity.url}>{relation.entity.name}</a>
+          {relations.map((relation)=>(
+            <a class="relation-row" href={relation.entity.url}>
+              <span>{relation.type}</span><strong>{relation.entity.name}</strong>
               {relation.certainty && <small>{label(relation.certainty)}</small>}
-            </div>
+            </a>
           ))}
         </div>
       </section>
@@ -94,9 +94,9 @@ const statusBadges = [
     {outgoing.length > 0 && (
       <section class="connections">
         <h2>Related</h2>
-        <div class="link-list">
-          {outgoing.map((entity) => (
-            <a href={entity.url}>{entity.name}<small>{entity.collection}</small></a>
+        <div class="connection-grid">
+          {outgoing.map((entity)=>(
+            <a class="connection-card" href={entity.url}><small>{entity.collection}</small><strong>{entity.name}</strong></a>
           ))}
         </div>
       </section>
@@ -105,9 +105,9 @@ const statusBadges = [
     {backlinks.length > 0 && (
       <section class="connections">
         <h2>Referenced by</h2>
-        <div class="link-list">
-          {backlinks.map((entity) => (
-            <a href={entity.url}>{entity.name}<small>{entity.collection}</small></a>
+        <div class="connection-grid">
+          {backlinks.map((entity)=>(
+            <a class="connection-card" href={entity.url}><small>{entity.collection}</small><strong>{entity.name}</strong></a>
           ))}
         </div>
       </section>

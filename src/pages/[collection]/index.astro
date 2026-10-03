@@ -17,99 +17,122 @@ export async function getStaticPaths() {
 const { collection, items } = Astro.props;
 const title = collection.charAt(0).toUpperCase() + collection.slice(1);
 
+const descriptions = {
+  characters: 'Historical figures, current novel canon and development characters.',
+  places: 'Polities, ports, islands, rivers and routes in Ache’s world.',
+  events: 'Historical events and the reconstructed chronology used by the novel.',
+  books: 'The current Raha Ache trilogy.',
+  chapters: 'Current, working and superseded chapter material.',
+  sources: 'Primary records, near-primary chronicles and later scholarship.',
+  research: 'Canon decisions, open historical questions and story development.'
+};
+
+const parent = ['characters','places','events'].includes(collection)
+  ? { label:'Universe', path:'universe/' }
+  : collection === 'books'
+    ? { label:'Novel', path:'novel/' }
+    : { label:'Studio', path:'studio/' };
+
 const sorted = [...items].sort((a, b) => {
   if (collection === 'chapters') {
     const bookCmp = String(a.data.book).localeCompare(String(b.data.book), undefined, { numeric: true });
     return bookCmp || ((a.data.chapterNumber ?? 0) - (b.data.chapterNumber ?? 0));
   }
-  if (collection === 'events') {
-    return (a.data.dateSort ?? 99999999) - (b.data.dateSort ?? 99999999);
-  }
-  if (collection === 'books') {
-    return a.data.id.localeCompare(b.data.id, undefined, { numeric: true });
-  }
+  if (collection === 'events') return (a.data.dateSort ?? 99999999) - (b.data.dateSort ?? 99999999);
+  if (collection === 'books') return a.data.id.localeCompare(b.data.id, undefined, { numeric: true });
   return a.data.name.localeCompare(b.data.name);
 });
 
-const chapterGroups = collection === 'chapters'
-  ? [
-      { title: 'Current', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
-      { title: 'Working outlines', items: sorted.filter((item) => !item.data.developmentStatus || item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
-      { title: 'Superseded', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
-    ]
+const publicItems = collection === 'characters'
+  ? sorted.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus)
+  : collection === 'places'
+    ? sorted.filter((item)=>item.data.developmentStatus === 'current' || !item.data.developmentStatus)
+    : sorted;
+
+const developmentItems = ['characters','places'].includes(collection)
+  ? sorted.filter((item)=>item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline' || item.data.developmentStatus === 'superseded')
   : [];
 
-const characterGroups = collection === 'characters'
-  ? [
-      { title: 'Current novel canon', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
-      { title: 'Working development', items: sorted.filter((item) => item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
-      { title: 'Historical and reference figures', items: sorted.filter((item) => !item.data.developmentStatus) },
-      { title: 'Superseded', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
-    ]
-  : [];
+const grouped = collection === 'chapters' ? [
+  { title:'Current', items:sorted.filter((item)=>item.data.developmentStatus==='current') },
+  { title:'Working outlines', items:sorted.filter((item)=>!item.data.developmentStatus || item.data.developmentStatus==='working' || item.data.developmentStatus==='early-outline') },
+  { title:'Superseded', items:sorted.filter((item)=>item.data.developmentStatus==='superseded') }
+] : collection === 'sources' ? [
+  { title:'Primary sources', items:sorted.filter((item)=>item.data.sourceType==='primary') },
+  { title:'Near-primary chronicles', items:sorted.filter((item)=>item.data.sourceType==='near-primary') },
+  { title:'Secondary scholarship', items:sorted.filter((item)=>item.data.sourceType==='secondary') },
+  { title:'Reference collections', items:sorted.filter((item)=>item.data.sourceType==='reference' || item.data.sourceType==='tertiary') }
+] : collection === 'research' ? [
+  { title:'Current framework', items:sorted.filter((item)=>item.data.developmentStatus==='current') },
+  { title:'Active research questions', items:sorted.filter((item)=>item.data.status==='uncertain' && !item.data.developmentStatus) },
+  { title:'Working development', items:sorted.filter((item)=>item.data.developmentStatus==='working' || item.data.developmentStatus==='early-outline') },
+  { title:'Superseded development', items:sorted.filter((item)=>item.data.developmentStatus==='superseded') }
+] : [];
 
-const placeGroups = collection === 'places'
-  ? [
-      { title: 'Current story locations', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
-      { title: 'Working story locations', items: sorted.filter((item) => item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
-      { title: 'Historical and reference locations', items: sorted.filter((item) => !item.data.developmentStatus) },
-      { title: 'Superseded route material', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
-    ]
-  : [];
-
-const sourceGroups = collection === 'sources'
-  ? [
-      { title: 'Primary sources', items: sorted.filter((item) => item.data.sourceType === 'primary') },
-      { title: 'Near-primary chronicles', items: sorted.filter((item) => item.data.sourceType === 'near-primary') },
-      { title: 'Secondary scholarship', items: sorted.filter((item) => item.data.sourceType === 'secondary') },
-      { title: 'Reference and documentary collections', items: sorted.filter((item) => item.data.sourceType === 'reference' || item.data.sourceType === 'tertiary') }
-    ]
-  : [];
-
-const researchGroups = collection === 'research'
-  ? [
-      { title: 'Current framework', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
-      { title: 'Active research questions', items: sorted.filter((item) => item.data.status === 'uncertain' && !item.data.developmentStatus) },
-      { title: 'Working development', items: sorted.filter((item) => item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
-      { title: 'Superseded development', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
-    ]
-  : [];
-
-const grouped = collection === 'chapters'
-  ? chapterGroups
-  : collection === 'characters'
-    ? characterGroups
-    : collection === 'places'
-      ? placeGroups
-      : collection === 'sources'
-        ? sourceGroups
-        : collection === 'research'
-          ? researchGroups
-          : [];
+const meta = (item) => {
+  if (collection === 'events') return item.data.date ?? '';
+  if (collection === 'sources') return item.data.sourceType?.replace('-', ' ') ?? '';
+  if (item.data.developmentStatus) return item.data.developmentStatus.replace('-', ' ');
+  return '';
+};
 ---
 <BaseLayout title={title}>
-  <header class="page-head">
-    <h1>{title}</h1>
+  <nav class="breadcrumbs">
+    <a href={withBase()}>Home</a><span>/</span>
+    <a href={withBase(parent.path)}>{parent.label}</a><span>/</span>
+    <span>{title}</span>
+  </nav>
+
+  <header class="page-head compact directory-head">
+    <div>
+      <p class="eyebrow">{parent.label}</p>
+      <h1>{title}</h1>
+      <p>{descriptions[collection]}</p>
+    </div>
+    <span class="page-count">{items.length}</span>
   </header>
 
   {grouped.length > 0 ? (
-    <div>
-      {grouped.map((group) => group.items.length > 0 && (
-        <section class="index-section">
-          <h2>{group.title}</h2>
-          <div class="plain-list large">
-            {group.items.map((item) => (
-              <a href={withBase(`${collection}/${item.data.id}/`)}>{item.data.name}</a>
+    <div class="directory-groups">
+      {grouped.map((group)=>group.items.length > 0 && (
+        <section class="directory-section">
+          <div class="directory-section-head"><h2>{group.title}</h2><span>{group.items.length}</span></div>
+          <div class="directory-grid">
+            {group.items.map((item)=>(
+              <a class="directory-card" href={withBase(`${collection}/${item.data.id}/`)}>
+                <strong>{item.data.name}</strong>
+                {meta(item) && <small>{meta(item)}</small>}
+              </a>
             ))}
           </div>
         </section>
       ))}
     </div>
   ) : (
-    <div class="plain-list large">
-      {sorted.map((item) => (
-        <a href={withBase(`${collection}/${item.data.id}/`)}>{item.data.name}</a>
-      ))}
-    </div>
+    <>
+      <div class="directory-grid">
+        {publicItems.map((item)=>(
+          <a class="directory-card" href={withBase(`${collection}/${item.data.id}/`)}>
+            <strong>{item.data.name}</strong>
+            {meta(item) && <small>{meta(item)}</small>}
+          </a>
+        ))}
+      </div>
+
+      {developmentItems.length > 0 && (
+        <details class="development-drawer">
+          <summary>Development material <span>{developmentItems.length}</span></summary>
+          <p>Working or superseded material retained for the writing process.</p>
+          <div class="directory-grid">
+            {developmentItems.map((item)=>(
+              <a class="directory-card" href={withBase(`${collection}/${item.data.id}/`)}>
+                <strong>{item.data.name}</strong>
+                <small>{meta(item)}</small>
+              </a>
+            ))}
+          </div>
+        </details>
+      )}
+    </>
   )}
 </BaseLayout>

@@ -1,24 +1,26 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/base';
 
-const repoUrl = 'https://github.com/migi-macati/raha-ache';
-const openUrl = `${repoUrl}/issues?q=${encodeURIComponent('is:issue is:open in:title "[Feedback:"')}`;
-const archiveUrl = `${repoUrl}/issues?q=${encodeURIComponent('is:issue is:closed in:title "[Feedback:"')}`;
+const repoUrl='https://github.com/migi-macati/raha-ache';
+const openUrl=`${repoUrl}/issues?q=${encodeURIComponent('is:issue is:open in:title "[Feedback:"')}`;
+const archiveUrl=`${repoUrl}/issues?q=${encodeURIComponent('is:issue is:closed in:title "[Feedback:"')}`;
 ---
 <BaseLayout title="Feedback">
-  <header class="page-head">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><a href={withBase('studio/')}>Studio</a><span>/</span><span>Feedback</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Studio</p>
     <h1>Feedback</h1>
+    <p>Comments and corrections tied to individual story-bible pages.</p>
   </header>
 
-  <div class="prose">
-    <p>Comments and corrections are tracked as GitHub issue threads tied to individual story-bible pages.</p>
+  <div class="feedback-hub">
+    <a class="feedback-hub-card primary-card" href={openUrl} target="_blank" rel="noreferrer">
+      <small>Review queue</small><strong>Open feedback</strong><span>Unresolved comments and corrections</span>
+    </a>
+    <a class="feedback-hub-card" href={archiveUrl} target="_blank" rel="noreferrer">
+      <small>Archive</small><strong>Resolved feedback</strong><span>Completed discussion history</span>
+    </a>
   </div>
-
-  <section class="index-section">
-    <h2>Review queue</h2>
-    <div class="plain-list large">
-      <a href={openUrl} target="_blank" rel="noreferrer">Open feedback</a>
-      <a href={archiveUrl} target="_blank" rel="noreferrer">Resolved archive</a>
-    </div>
-  </section>
 </BaseLayout>

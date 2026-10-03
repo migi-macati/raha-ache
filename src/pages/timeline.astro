@@ -3,16 +3,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/base';
 
-const events = (await getCollection('events'))
-  .sort((a, b) => (a.data.dateSort ?? 99999999) - (b.data.dateSort ?? 99999999));
-const label = (value) => String(value ?? '')
-  .replaceAll('-', ' ')
-  .replace(/\b\w/g, (char) => char.toUpperCase());
+const events=(await getCollection('events')).sort((a,b)=>(a.data.dateSort??99999999)-(b.data.dateSort??99999999));
+const label=(value)=>String(value??'').replaceAll('-',' ').replace(/\b\w/g,(char)=>char.toUpperCase());
 ---
 <BaseLayout title="Timeline">
-  <header class="page-head">
+  <nav class="breadcrumbs"><a href={withBase()}>Home</a><span>/</span><a href={withBase('universe/')}>Universe</a><span>/</span><span>Timeline</span></nav>
+
+  <header class="page-head compact">
+    <p class="eyebrow">Universe</p>
     <h1>Timeline</h1>
-    <div class="timeline-key" aria-label="Evidence key">
+    <p>Historical events and reconstructed story chronology, with evidence status kept visible.</p>
+    <div class="timeline-key">
       <span class="status-badge status-documented">Documented</span>
       <span class="status-badge status-strong-inference">Strong inference</span>
       <span class="status-badge status-possible">Possible</span>
@@ -22,13 +23,11 @@ const label = (value) => String(value ?? '')
   </header>
 
   <div class="timeline">
-    {events.map((event) => (
+    {events.map((event)=>(
       <article>
-        <time>{event.data.date ?? 'Date unresolved'}</time>
-        <div>
-          {event.data.certainty && (
-            <span class={`status-badge status-${event.data.certainty}`}>{label(event.data.certainty)}</span>
-          )}
+        <div class="timeline-date"><time>{event.data.date??'Date unresolved'}</time></div>
+        <div class="timeline-card">
+          {event.data.certainty && <span class={`status-badge status-${event.data.certainty}`}>{label(event.data.certainty)}</span>}
           <h2><a href={withBase(`events/${event.data.id}/`)}>{event.data.name}</a></h2>
           {event.data.summary && <p>{event.data.summary}</p>}
         </div>
