@@ -20,17 +20,13 @@ const title = collection.charAt(0).toUpperCase() + collection.slice(1);
 <BaseLayout title={title}>
   <header class="page-head">
     <h1>{title}</h1>
-    <p>{items.length} {items.length === 1 ? 'entry' : 'entries'}</p>
   </header>
 
-  <div class="grid">
+  <div class="plain-list large">
     {items
       .sort((a, b) => a.data.name.localeCompare(b.data.name))
       .map((item) => (
-        <a class="card" href={`${base}${collection}/${item.data.id}/`}>
-          <h2>{item.data.name}</h2>
-          {item.data.summary && <p>{item.data.summary}</p>}
-        </a>
+        <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
       ))}
   </div>
 </BaseLayout>
