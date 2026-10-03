@@ -1,12 +1,17 @@
 ---
 id: jalal
-name: Jalal
-aliases: []
+name: Prince Jalal ud-Din
+aliases: [Jalal]
 status: fictional
-related: [ache, sulu, mindanao]
+developmentStatus: working
+relations:
+  - target: ache
+    type: ally and sparring partner
+    certainty: development
+related: [ache, sulu, mindanao, brunei, book-2]
 sources: []
 timeline: []
 ---
-Working-name Sulu or Mindanao ally intended for the Brunei and campaign arc.
+Sulu noble introduced in the Part II development framework.
 
-The character has not yet been fixed beyond this role.
+Serves as Ache's sparring partner and a Muslim ally whose political support is useful but not automatically secure.

@@ -3,7 +3,8 @@ id: book-2
 name: "Book II: The Sword and Me"
 aliases: [Book II, The Sword and Me]
 status: fictional
-related: [ache, siripada, brunei, sulu, mindanao, loue, elcano, pazeculan]
+developmentStatus: early-outline
+related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, ache-marriage]
 ---

@@ -1,12 +1,19 @@
 ---
 id: lakanmulaw
-name: Lakanmulaw
-aliases: []
+name: Datu Lakanmulaw
+aliases: [Lakanmulaw]
 status: fictional
-related: [ache, pasay, palawan]
+developmentStatus: working
+relations:
+  - target: ache
+    type: ally
+    certainty: development
+related: [ache, sulad, palawan, panay, cebu, brunei, book-2]
 sources: []
 timeline: []
 ---
-Working-name Visayan ally in the Book I and Book II reconstruction.
+Non-Muslim Visayan ally in the expanded trilogy framework.
 
-The outline places the first meeting during Ache's flight through the Palawan or Mindoro corridor. Name, home polity, and final role remain open.
+First conceived as a young chief or warrior met during Ache's flight through the Mindoro/Palawan corridor.
+
+In Part II he becomes a guest or ally at Brunei and a bridge between Visayan and Luzon interests.
