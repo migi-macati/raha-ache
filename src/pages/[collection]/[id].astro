@@ -42,6 +42,45 @@ const badges=[
 
 const collectionTitle=collection.charAt(0).toUpperCase()+collection.slice(1);
 const development=data.developmentStatus==='working' || data.developmentStatus==='early-outline' || data.developmentStatus==='superseded';
+
+const allChapters = collection === 'chapters'
+  ? all
+      .filter(({ collection: candidateCollection }) => candidateCollection === 'chapters')
+      .map(({ item: candidate }) => candidate)
+      .sort((a,b) =>
+        String(a.data.book).localeCompare(String(b.data.book), undefined, { numeric:true }) ||
+        ((a.data.chapterNumber ?? 0) - (b.data.chapterNumber ?? 0))
+      )
+  : [];
+
+const chapterTrack = collection === 'chapters'
+  ? allChapters.filter((chapter) => {
+      const currentStatus = data.developmentStatus ?? 'working';
+      const candidateStatus = chapter.data.developmentStatus ?? 'working';
+      return candidateStatus === currentStatus;
+    })
+  : [];
+
+const chapterIndex = collection === 'chapters'
+  ? chapterTrack.findIndex((chapter) => chapter.data.id === data.id)
+  : -1;
+
+const previousChapter = chapterIndex > 0 ? chapterTrack[chapterIndex - 1] : null;
+const nextChapter = chapterIndex >= 0 && chapterIndex < chapterTrack.length - 1 ? chapterTrack[chapterIndex + 1] : null;
+
+const chapterGroups = collection === 'chapters'
+  ? [
+      { key:'book-1', label:'Book I', items:allChapters.filter((chapter)=>chapter.data.book==='book-1') },
+      { key:'book-2', label:'Book II', items:allChapters.filter((chapter)=>chapter.data.book==='book-2') },
+      { key:'book-3', label:'Book III', items:allChapters.filter((chapter)=>chapter.data.book==='book-3') },
+      { key:'zz-bonus', label:'Bonus', items:allChapters.filter((chapter)=>chapter.data.book==='zz-bonus') }
+    ].filter((group)=>group.items.length > 0)
+  : [];
+
+const chapterStatusLabel=(chapter)=>{
+  const status=chapter.data.developmentStatus ?? 'working';
+  return status==='current' ? 'Current' : status==='superseded' ? 'Superseded' : 'Working';
+};
 ---
 <BaseLayout title={data.name} description={data.summary}>
   <nav class="breadcrumbs">
@@ -73,9 +112,85 @@ const development=data.developmentStatus==='working' || data.developmentStatus==
       {data.summary && <p class="entity-summary">{data.summary}</p>}
     </header>
 
+    {collection === 'chapters' && (
+      <nav class="chapter-nav" aria-label="Chapter navigation">
+        <div class="chapter-step">
+          {previousChapter ? (
+            <a href={withBase(`chapters/${previousChapter.data.id}/`)} aria-label={`Previous chapter: ${previousChapter.data.name}`}>
+              <small>Previous</small>
+              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+            </a>
+          ) : (
+            <span class="chapter-step-disabled"><small>Previous</small><strong>Start of this track</strong></span>
+          )}
+        </div>
+
+        <div class="chapter-jump">
+          <label for="chapter-select">All chapters</label>
+          <select id="chapter-select">
+            {chapterGroups.map((group)=>(
+              <optgroup label={group.label}>
+                {group.items.map((chapter)=>(
+                  <option value={withBase(`chapters/${chapter.data.id}/`)} selected={chapter.data.id===data.id}>
+                    {chapter.data.chapterNumber}. {chapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')} · {chapterStatusLabel(chapter)}
+                  </option>
+                ))}
+              </optgroup>
+            ))}
+          </select>
+        </div>
+
+        <div class="chapter-step next">
+          {nextChapter ? (
+            <a href={withBase(`chapters/${nextChapter.data.id}/`)} aria-label={`Next chapter: ${nextChapter.data.name}`}>
+              <small>Next</small>
+              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+            </a>
+          ) : (
+            <span class="chapter-step-disabled"><small>Next</small><strong>End of this track</strong></span>
+          )}
+        </div>
+      </nav>
+    )}
+
     {data.aliases?.length > 0 && <p class="meta aliases"><strong>Also known as</strong> {data.aliases.join(' · ')}</p>}
 
     <div class="prose"><Content /></div>
+
+    {collection === 'chapters' && (
+      <nav class="chapter-nav chapter-nav-bottom" aria-label="Chapter navigation">
+        <div class="chapter-step">
+          {previousChapter ? (
+            <a href={withBase(`chapters/${previousChapter.data.id}/`)}>
+              <small>Previous</small>
+              <strong>{previousChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+            </a>
+          ) : (
+            <span class="chapter-step-disabled"><small>Previous</small><strong>Start of this track</strong></span>
+          )}
+        </div>
+        <a class="chapter-all-link" href={withBase('chapters/')}>All chapters</a>
+        <div class="chapter-step next">
+          {nextChapter ? (
+            <a href={withBase(`chapters/${nextChapter.data.id}/`)}>
+              <small>Next</small>
+              <strong>{nextChapter.data.name.replace(/^Book [IVX]+, Chapter \d+:\s*/, '').replace(/^Bonus Chapter:\s*/, '')}</strong>
+            </a>
+          ) : (
+            <span class="chapter-step-disabled"><small>Next</small><strong>End of this track</strong></span>
+          )}
+        </div>
+      </nav>
+    )}
+
+    {collection === 'chapters' && (
+      <script is:inline>
+        const select=document.getElementById('chapter-select');
+        if(select){
+          select.addEventListener('change',()=>{ if(select.value) window.location.href=select.value; });
+        }
+      </script>
+    )}
 
     {relations.length > 0 && (
       <section class="connections">
