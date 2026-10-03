@@ -1,10 +1,10 @@
 ---
 id: book-3-chapter-14
-name: "Book III, Chapter 14: The Making of the Kota"
+name: "Development archive: The Making of the Kota (old Chapter 14)"
 aliases: ["The Making of the Kota"]
 status: fictional
-developmentStatus: current
-related: [book-3, ache, maynila, pasig-river, panday-pira, kota, fortification-building, cannonry, part-3-institutions, religious-duality, port-centered-rule]
+developmentStatus: superseded
+related: [book-3, book-3-chapter-3, book-3-sequence-history]
 sources: []
 timeline: []
 book: book-3
@@ -14,10 +14,6 @@ characters: [ache, panday-pira]
 places: [maynila, pasig-river, manila-bay]
 events: []
 ---
-Ache begins turning recovered power into institutions and defenses.
+Superseded numbering from the later Book III development sequence.
 
-- Fortification and the making of the kota.
-- Cannon and gunfounding become part of Maynila's defensive system.
-- A river-and-sea navy protects the port and approaches.
-- Court and administration take on a more deliberate Islamic and maritime character.
-- Military strength, trade, and government are treated as one political project.
+The material is now the current **Book III, Chapter 3: The Making of the Kota**, where it also absorbs the older cannonry chapter.

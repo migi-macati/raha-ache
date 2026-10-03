@@ -1,10 +1,10 @@
 ---
 id: book-3-chapter-15
-name: "Book III, Chapter 15: The Two Crowns of the Bay"
+name: "Development archive: The Two Crowns of the Bay (old Chapter 15)"
 aliases: ["The Two Crowns of the Bay"]
 status: fictional
-developmentStatus: current
-related: [book-3, ache, lakandula, maynila, tondo, manila-bay]
+developmentStatus: superseded
+related: [book-3, book-3-chapter-4, book-3-sequence-history]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: []
 book: book-3
@@ -14,9 +14,6 @@ characters: [ache, lakandula]
 places: [maynila, tondo, manila-bay]
 events: []
 ---
-Maynila and Tondo remain competing centers of power even after Ache's return.
+Superseded numbering from the later Book III development sequence.
 
-- Confrontations with Tondo continue through force, negotiation, and kinship.
-- Trade and embassies become instruments of rivalry as much as warfare.
-- Ache must decide whether victory means destroying Tondo, subordinating it, or constructing a dual hegemony around the bay.
-- The chapter develops the political relationship between Ache and Lakandula rather than treating the conflict as a single decisive battle.
+The material is now the current **Book III, Chapter 4: The Two Crowns of the Bay**.

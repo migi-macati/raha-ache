@@ -1,19 +1,22 @@
 ---
 id: book-3-chapter-2
-name: "Book III, Chapter 2: Cannonry (Lantaka)"
-aliases: ["Cannonry (Lantaka)"]
+name: "Book III, Chapter 2: Building My Own Fleet"
+aliases: ["Building My Own Fleet"]
 status: fictional
-developmentStatus: working
-related: [ache, maynila, lantaka, cannonry, panday-pira]
+developmentStatus: current
+related: [book-3, ache, maynila, manila-bay, port-centered-rule]
 sources: []
-timeline: []
+timeline: [return-to-maynila]
 book: book-3
 chapterNumber: 2
 draftStatus: outline
 characters: [ache]
-places: [maynila]
-events: []
+places: [maynila, manila-bay]
+events: [return-to-maynila]
 ---
-- Artillery and local gunfounding.
-- Naval and fortification implications of lantaka and larger cannon.
-- Connect technology to defense, prestige, and trade.
+Ache turns borrowed Bruneian strength into a Maynila-centered force.
+
+- Ships, crews, recruitment, finance, provisioning, repair, and command structure.
+- Ache must decide which forces remain personally loyal to him and which belong to the polity he is trying to rebuild.
+- Strategy shifts from winning one campaign to sustaining power across river, bay, and sea.
+- The fleet becomes the practical foundation for the next confrontation with Tondo and for the defense of Maynila.

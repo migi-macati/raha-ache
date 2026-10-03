@@ -1,23 +1,24 @@
 ---
 id: book-3-chapter-10
-name: "Book III, Chapter 10: Legacy and Death"
-aliases: ["Legacy and Death"]
+name: "Book III, Chapter 10: Old King, New World on the Horizon"
+aliases: ["Old King, New World on the Horizon"]
 status: fictional
-developmentStatus: superseded
-related: [ache, sulayman, maynila, ache-baptism-death-1572, bonus-spanish-contact]
-sources: [relacion-1572, william-henry-scott]
-timeline: [ache-baptism-death-1572]
+developmentStatus: current
+related: [book-3, ache, sulayman, maynila, manila-bay, legazpi, martin-de-goiti, bonus-spanish-contact]
+sources: [riquel-1571, relacion-1572, legazpi-relacion]
+timeline: [legazpi-king-luzon-message]
 book: book-3
 chapterNumber: 10
 draftStatus: outline
 characters: [ache, sulayman]
-places: [maynila]
-events: [ache-baptism-death-1572]
+places: [maynila, manila-bay]
+events: [legazpi-king-luzon-message]
 ---
-Earlier Book III scaffold.
+Ache is now an older ruler confronting succession and news of a changing maritime world.
 
-- Ache's final political settlement and succession problem.
-- Baptism and death in 1572.
-- What remains of his project after Spanish rule transforms native sovereignty in Maynila.
+- Sulayman moves toward co-rule and greater responsibility.
+- Reports of Spanish expansion enter Maynila's calculations.
+- Ache recognizes that the foreign iron ships he encountered decades earlier may return in force.
+- Book III closes with the political order built but its greatest external crisis still ahead.
 
-This material is now assigned to the Spanish-contact bonus chapter.
+The direct Goiti–Legazpi conflict, conquest sequence, baptism, succession settlement, and Ache's death remain in the separate Spanish-contact bonus treatment.

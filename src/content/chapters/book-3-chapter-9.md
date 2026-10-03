@@ -1,24 +1,22 @@
 ---
 id: book-3-chapter-9
-name: "Book III, Chapter 9: Welcome to Manila"
-aliases: ["Welcome to Manila"]
+name: "Book III, Chapter 9: The Nephew"
+aliases: ["The Nephew"]
 status: fictional
-developmentStatus: superseded
-related: [ache, sulayman, lakandula, legazpi, martin-de-goiti, maynila, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, bonus-spanish-contact]
-sources: [riquel-1571, relacion-1572, blair-robertson]
-timeline: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
+developmentStatus: current
+related: [book-3, ache, sulayman, maynila, dynastic-network, succession-1572]
+sources: [riquel-1571, relacion-1572]
+timeline: []
 book: book-3
 chapterNumber: 9
 draftStatus: outline
-characters: [ache, sulayman, lakandula, legazpi, martin-de-goiti, bambalito]
-places: [maynila, tondo, manila-bay, bangkusay-channel]
-events: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
+characters: [ache, sulayman]
+places: [maynila]
+events: []
 ---
-Earlier Book III scaffold.
+The kingdom Ache has built forces him to confront succession before crisis chooses for him.
 
-- Spanish approach to Manila across the 1565–1571 sequence.
-- The 1570 battle and burning of Maynila.
-- Legazpi's 1571 arrival and accommodation with Ache and Lakandula.
-- Sulayman and the unresolved Bangkusay sequence.
-
-This material is now assigned to the Spanish-contact bonus chapter.
+- Sulayman takes on greater responsibility and becomes a political actor in his own right.
+- Ache must distinguish between training an heir, sharing authority, and surrendering control.
+- The project treats Sulayman's exact genealogy and the 1572 inheritance evidence with caution; the chapter can use the strongest reconstruction as novel canon without presenting every kinship detail as directly documented.
+- Generational tension turns succession from an epilogue into an active political problem.

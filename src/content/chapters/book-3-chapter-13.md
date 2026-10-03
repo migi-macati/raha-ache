@@ -1,10 +1,10 @@
 ---
 id: book-3-chapter-13
-name: "Book III, Chapter 13: The Bay That Forgot Him"
+name: "Development archive: The Bay That Forgot Him (old Chapter 13)"
 aliases: ["The Bay That Forgot Him"]
 status: fictional
-developmentStatus: current
-related: [book-3, ache, maynila, tondo, return-to-maynila]
+developmentStatus: superseded
+related: [book-3, book-3-chapter-1, book-3-sequence-history]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila]
 book: book-3
@@ -14,9 +14,6 @@ characters: [ache]
 places: [maynila, tondo, manila-bay]
 events: [return-to-maynila]
 ---
-Ache returns to the Manila Bay world as a scarred survivor and seasoned commander.
+Superseded numbering from the later Book III development sequence.
 
-- Homecoming to a political landscape that has changed in his absence.
-- Tondo's clients and influence complicate a simple restoration of Maynila.
-- Ache must rebuild a political base before he can claim durable authority.
-- The chapter turns the return from a military homecoming into the beginning of state-building.
+The material is now the current **Book III, Chapter 1: The Bay That Forgot Him**.

@@ -4,7 +4,7 @@ name: Revised trilogy structure
 aliases: []
 status: fictional
 developmentStatus: current
-related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, open-questions, original-trilogy-outline, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
+related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, open-questions, original-trilogy-outline, book-3-sequence-history, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, bonus-spanish-contact]
 sources: []
 timeline: []
 ---
@@ -32,22 +32,27 @@ Return voyage toward Luzon.
 
 ## Part III
 
-Ache returns to the Manila Bay world, retakes or reasserts Maynila, builds institutions, expands alliances, and shapes the political order before direct Spanish conquest.
+Ache returns to the Manila Bay world, reasserts Maynila, builds naval and defensive power, manages Tondo through rivalry and kinship, renews wider alliances, creates institutions, and prepares succession before direct Spanish conquest.
 
-Current development sequence:
+Current Book III sequence:
 
-13. The Bay That Forgot Him
-14. The Making of the Kota
-15. The Two Crowns of the Bay
-16. Rewarding Loyalty: The Gift of the Southern Shore
-17. Old King, New World on the Horizon
+1. The Bay That Forgot Him
+2. Building My Own Fleet
+3. The Making of the Kota
+4. The Two Crowns of the Bay
+5. Old Alliances, New Debts
+6. The Work of Rule
+7. Neighbors
+8. The Gift of the Southern Shore
+9. The Nephew
+10. Old King, New World on the Horizon
 
-The 13–17 numbering is preserved from the later development sequence.
+This sequence reconciles the usable material from the earlier 1–10 scaffold and the later 13–17 development sequence. Both older versions remain in the development archive and are not current reading order.
 
-The December 2025 version associated the southern-shore land grant with Pasay. The later switch from Pasay to Sulad as Ache's principal companion leaves the beneficiary unresolved.
+The beneficiary of the southern-shore grant remains unresolved after Sulad replaced Pasay as Ache's principal young companion.
 
 ## Bonus
 
 Goiti and Legazpi through Ache's final Spanish-contact years, baptism, succession, and death.
 
-This bonus treatment supersedes the older ten-chapter outline that placed the 1570–1572 Spanish sequence inside Book III.
+The bonus treatment keeps the direct 1570–1572 conquest sequence outside Book III proper.
