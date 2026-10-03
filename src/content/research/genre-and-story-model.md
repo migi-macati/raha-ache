@@ -28,9 +28,21 @@ The narrative should carry the forward drive associated with long-form shōnen a
 - recurring payoffs to skills, alliances, promises, and earlier encounters;
 - a widening sense of scale from household and river, to sea, court, fleet, kingdom, and regional politics.
 
-## Reference feel
+## Narrative reference DNA
 
-The intended reading experience can draw from the momentum and character-progression appeal of **Mushoku Tensei** and **That Time I Got Reincarnated as a Slime**: a protagonist grows through distinct stages, accumulates relationships and capabilities, enters increasingly larger worlds, and eventually has to build and govern rather than merely survive.
+The intended reading experience draws from several different traditions without copying their plots or worlds.
+
+**Mushoku Tensei** — long-form personal growth, changing stages of life, travel, mentors, relationships, and consequences that carry forward.
+
+**That Time I Got Reincarnated as a Slime** — expanding circles of allies, capability-building, settlement and institution-building, diplomacy, and the shift from adventurer to ruler.
+
+**Percy Jackson** — fast, accessible adventure; humor under pressure; strong friendships; a young protagonist discovering a much larger world; episodic dangers that feed a larger arc.
+
+**Harry Potter** — mentors, rivals, friendship groups, training, progressive mastery, recurring characters, mysteries and threats that become larger from book to book.
+
+**The Hunger Games** — a young protagonist placed under extreme political pressure; survival tied to public power; moral compromise, resistance, propaganda, and the personal cost of becoming politically significant.
+
+**The Odyssey** — the long maritime journey, episodic trials, unfamiliar peoples and places, hospitality and danger, identity tested through travel, and the emotional force of homecoming.
 
 Raha Ache is not automatically an isekai. The earlier modern-observer or reincarnation-like framing remains development history unless deliberately revived.
 
@@ -53,16 +65,20 @@ The emotional progression matters equally: pride, fear, loyalty, grief, ambition
 
 ## Trilogy progression
 
-**Book I — The King of Luzon:** survival, identity, flight, first companions, first hard choices.
+**Book I — The King of Luzon:** survival, identity, flight, first companions, first hard choices. Its adventure rhythm can feel closest to Percy Jackson and The Odyssey: movement, danger, discovery, companions, and a widening world.
 
-**Book II — Conquest of the Seas:** training, rivals, mentors, campaigns, command, defeat, recovery, and the return toward Maynila.
+**Book II — Conquest of the Seas:** training, rivals, mentors, campaigns, command, defeat, recovery, and the return toward Maynila. This is the strongest shōnen progression book, with the mentorship, rivalry, mastery, and expanding-cast energy associated with Harry Potter and Mushoku Tensei.
 
-**Book III — The Kingdom United:** consolidation, institutions, alliances, competing rulers, succession, and the attempt to make Ache's achievements survive him.
+**Book III — The Kingdom United:** consolidation, institutions, alliances, competing rulers, succession, and the attempt to make Ache's achievements survive him. The scale shifts toward the political pressure of The Hunger Games and the state-building appeal of That Time I Got Reincarnated as a Slime.
+
+The Odyssey remains a structural influence across the trilogy: departure, trials, transformation, return, and the question of whether the home Ache returns to is still the home he left.
 
 ## Tone
 
 Fast-moving and accessible rather than academic in the narrative itself.
 
 Serious historical stakes can coexist with humor, friendship, rivalry, wonder, discovery, romance, victories, and moments of spectacle.
+
+The story should be readable by a young-adult audience without flattening the politics, violence, religion, trade, kinship, and moral ambiguity of the sixteenth-century world.
 
 The story should feel like a world the reader wants to continue exploring, not a dramatized history textbook.
