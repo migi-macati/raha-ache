@@ -1,10 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { withBase } from '../lib/base';
 
 const events = (await getCollection('events'))
   .sort((a, b) => (a.data.dateSort ?? 99999999) - (b.data.dateSort ?? 99999999));
-const base = import.meta.env.BASE_URL;
 const label = (value) => String(value ?? '')
   .replaceAll('-', ' ')
   .replace(/\b\w/g, (char) => char.toUpperCase());
@@ -29,7 +29,7 @@ const label = (value) => String(value ?? '')
           {event.data.certainty && (
             <span class={`status-badge status-${event.data.certainty}`}>{label(event.data.certainty)}</span>
           )}
-          <h2><a href={`${base}events/${event.data.id}/`}>{event.data.name}</a></h2>
+          <h2><a href={withBase(`events/${event.data.id}/`)}>{event.data.name}</a></h2>
           {event.data.summary && <p>{event.data.summary}</p>}
         </div>
       </article>

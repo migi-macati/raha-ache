@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import FeedbackPanel from '../../components/FeedbackPanel.astro';
 import { render } from 'astro:content';
 import { entityIndex, getEverything, referencedIds } from '../../lib/entities';
+import { withBase } from '../../lib/base';
 
 export async function getStaticPaths() {
   const all = await getEverything();
@@ -36,7 +37,7 @@ const backlinks = all
     id: candidate.data.id,
     name: candidate.data.name,
     collection: candidateCollection,
-    url: `${import.meta.env.BASE_URL}${candidateCollection}/${candidate.data.id}/`
+    url: withBase(`${candidateCollection}/${candidate.data.id}/`)
   }));
 
 const label = (value) => String(value ?? '')

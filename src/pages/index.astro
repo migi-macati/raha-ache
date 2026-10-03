@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { withBase } from '../lib/base';
 
 const [characters, places, events, sources, books, chapters, research] = await Promise.all([
   getCollection('characters'),
@@ -12,46 +13,45 @@ const [characters, places, events, sources, books, chapters, research] = await P
   getCollection('research')
 ]);
 
-const base = import.meta.env.BASE_URL;
 const sortByName = (a, b) => a.data.name.localeCompare(b.data.name);
 ---
 <BaseLayout title="Raha Ache">
   <header class="home-head"><h1>Raha Ache</h1></header>
 
-  <section class="index-section"><h2><a href={`${base}timeline/`}>Timeline</a></h2></section>
+  <section class="index-section"><h2><a href={withBase('timeline/')}>Timeline</a></h2></section>
 
   <section class="index-section">
     <h2>Characters</h2>
-    <div class="plain-list">{characters.sort(sortByName).map((item) => <a href={`${base}characters/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{characters.sort(sortByName).map((item) => <a href={withBase(`characters/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Places</h2>
-    <div class="plain-list">{places.sort(sortByName).map((item) => <a href={`${base}places/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{places.sort(sortByName).map((item) => <a href={withBase(`places/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Events</h2>
-    <div class="plain-list">{events.sort((a,b)=>(a.data.dateSort??99999999)-(b.data.dateSort??99999999)).map((item) => <a href={`${base}events/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{events.sort((a,b)=>(a.data.dateSort??99999999)-(b.data.dateSort??99999999)).map((item) => <a href={withBase(`events/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Sources</h2>
-    <div class="plain-list">{sources.sort(sortByName).map((item) => <a href={`${base}sources/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{sources.sort(sortByName).map((item) => <a href={withBase(`sources/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Books</h2>
-    <div class="plain-list">{books.sort((a,b)=>a.data.id.localeCompare(b.data.id,undefined,{numeric:true})).map((item) => <a href={`${base}books/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{books.sort((a,b)=>a.data.id.localeCompare(b.data.id,undefined,{numeric:true})).map((item) => <a href={withBase(`books/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Chapters</h2>
-    <div class="plain-list">{chapters.sort((a,b)=>String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) || a.data.chapterNumber-b.data.chapterNumber).map((item) => <a href={`${base}chapters/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{chapters.sort((a,b)=>String(a.data.book).localeCompare(String(b.data.book),undefined,{numeric:true}) || a.data.chapterNumber-b.data.chapterNumber).map((item) => <a href={withBase(`chapters/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 
   <section class="index-section">
     <h2>Research</h2>
-    <div class="plain-list">{research.sort(sortByName).map((item) => <a href={`${base}research/${item.data.id}/`}>{item.data.name}</a>)}</div>
+    <div class="plain-list">{research.sort(sortByName).map((item) => <a href={withBase(`research/${item.data.id}/`)}>{item.data.name}</a>)}</div>
   </section>
 </BaseLayout>

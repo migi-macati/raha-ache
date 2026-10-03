@@ -6,9 +6,10 @@
   "scripts": {
     "registry": "node scripts/build-entity-registry.mjs",
     "dev": "npm run registry && astro dev",
-    "build": "npm run registry && npm run audit && astro build",
+    "build": "npm run registry && npm run audit && astro build && npm run audit:built-links",
     "preview": "astro preview",
-    "audit": "node scripts/audit-content-links.mjs"
+    "audit": "node scripts/audit-content-links.mjs",
+    "audit:built-links": "node scripts/audit-built-links.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

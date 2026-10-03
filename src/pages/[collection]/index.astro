@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { collectionNames, getEverything } from '../../lib/entities';
+import { withBase } from '../../lib/base';
 
 export async function getStaticPaths() {
   const all = await getEverything();
@@ -14,7 +15,6 @@ export async function getStaticPaths() {
 }
 
 const { collection, items } = Astro.props;
-const base = import.meta.env.BASE_URL;
 const title = collection.charAt(0).toUpperCase() + collection.slice(1);
 
 const sorted = [...items].sort((a, b) => {
@@ -99,7 +99,7 @@ const grouped = collection === 'chapters'
           <h2>{group.title}</h2>
           <div class="plain-list large">
             {group.items.map((item) => (
-              <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
+              <a href={withBase(`${collection}/${item.data.id}/`)}>{item.data.name}</a>
             ))}
           </div>
         </section>
@@ -108,7 +108,7 @@ const grouped = collection === 'chapters'
   ) : (
     <div class="plain-list large">
       {sorted.map((item) => (
-        <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
+        <a href={withBase(`${collection}/${item.data.id}/`)}>{item.data.name}</a>
       ))}
     </div>
   )}

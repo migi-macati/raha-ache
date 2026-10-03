@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { withBase } from './base';
 
 export const collectionNames = ['characters','places','events','sources','books','chapters','research'] as const;
 export type CollectionName = typeof collectionNames[number];
@@ -27,7 +28,7 @@ export async function entityIndex() {
       id: item.data.id,
       name: item.data.name,
       collection,
-      url: `${import.meta.env.BASE_URL}${collection}/${item.data.id}/`
+      url: withBase(`${collection}/${item.data.id}/`)
     }
   ]));
 }
