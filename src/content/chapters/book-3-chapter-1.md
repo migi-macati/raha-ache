@@ -14,12 +14,11 @@ characters: [ache]
 places: [maynila, tondo, manila-bay]
 events: [return-to-maynila]
 ---
-Ache returns to Manila Bay with Bruneian force behind him and discovers that coming home is not the same as possessing home.
+Ache finally returns to the Manila Bay world with the force and experience earned in Book II.
 
-- The political landscape has changed during his absence.
-- Old loyalties are uncertain and Tondo's influence has deepened.
-- Ache cannot assume that people who remember his family will risk themselves for his restoration.
-- He establishes a foothold and tests where resistance, neutrality, and support actually lie.
-- The chapter ends with Ache committing to the recovery of Maynila rather than waiting for a negotiated restoration.
+- Homecoming becomes confrontation: the political landscape changed while Ache was away.
+- Tondo's clients and influence mean that arrival is not restoration.
+- Ache tests loyalties, establishes a foothold, and begins recovering the lands and authority associated with Maynila.
+- The chapter ends with the struggle for Maynila underway rather than already settled.
 
-Book III's first central conflict is now explicit: take Maynila back.
+**Chapter function:** begin the actual retaking of Maynila and establish that Book III is about what Ache does with power once he can wield it.

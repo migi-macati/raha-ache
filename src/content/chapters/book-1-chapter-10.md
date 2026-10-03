@@ -4,7 +4,7 @@ name: "Book I, Chapter 10: The Sultan"
 aliases: ["The Sultan"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, siripada, brunei]
+related: [ache, sulad, siripada, brunei, book-2-chapter-1]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -14,14 +14,13 @@ characters: [ache, sulad, siripada]
 places: [brunei]
 events: [ache-leaves-for-brunei]
 ---
-Ache and the surviving party reach Brunei and are brought before Siripada.
+Ache and the survivors reach Brunei and the flight finally ends.
 
-- The immediate Book I objective is achieved: Ache has escaped Tondo's reach.
-- Siripada recognizes Ache as kin, but does not simply promise to win Maynila back for him.
-- Ache understands that he has arrived with a claim and a name, not with proven ability.
-- He chooses to remain, learn, and earn the means to return.
-- The emotional resolution is not triumph over Tondo but the end of Ache's assumption that inheritance will solve his future.
+- Ache meets Siripada as a displaced grandson rather than as the ruler he once expected to become.
+- Reaching the court resolves the physical journey but does not automatically restore Ache's status or power.
+- Sulad and Ache have survived the break with Maynila and the dangers of the southward passage.
+- Ache accepts that reclaiming his inheritance will require learning, service, and command rather than a simple request for Bruneian rescue.
 
-Book I closes with Ache safe but still dispossessed.
+**Book I resolution:** Ache survives the loss of Maynila, escapes Tondo's immediate reach, and chooses the harder path of becoming capable of returning.
 
-Book II begins with the harder question: what must he become before anyone will follow him home?
+**Book II question:** will Brunei turn him into that person?

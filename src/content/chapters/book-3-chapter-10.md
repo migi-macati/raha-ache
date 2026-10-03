@@ -14,11 +14,14 @@ characters: [ache, sulayman]
 places: [maynila, manila-bay]
 events: [legazpi-king-luzon-message]
 ---
-Ache is now an older ruler confronting succession and news of a changing maritime world.
+Ache is now an older ruler looking at a political order that no longer depends entirely on his own hands.
 
-- Sulayman moves toward co-rule and greater responsibility.
-- Reports of Spanish expansion enter Maynila's calculations.
-- Ache recognizes that the foreign iron ships he encountered decades earlier may return in force.
-- Book III closes with the political order built but its greatest external crisis still ahead.
+- Maynila has been recovered and its immediate struggle with Tondo has reached a working settlement.
+- Fleet, defenses, administration, alliances, and delegated authority make the kingdom more than a victorious war band.
+- Sulayman carries real responsibility, making succession an operating reality rather than an unanswered question.
+- Ache can finally measure the difference between the inheritance he lost and the political order he built.
+- Reports of Spanish expansion enter Maynila's calculations as evidence that the world is changing again.
 
-The direct Goiti–Legazpi conflict, conquest sequence, baptism, succession settlement, and Ache's death remain in the separate Spanish-contact bonus treatment.
+**Book III resolution:** the displaced prince has recovered Maynila and transformed personal victory into a kingdom designed to survive him.
+
+The Spanish arrival is a new crisis. The direct Goiti–Legazpi conflict, conquest sequence, baptism, final succession settlement, and Ache's death remain in the separate Spanish-contact bonus treatment.

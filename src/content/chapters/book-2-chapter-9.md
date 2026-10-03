@@ -1,25 +1,25 @@
 ---
 id: book-2-chapter-9
-name: "Book II, Chapter 9: The Choice to Return"
-aliases: ["The Choice to Return"]
+name: "Book II, Chapter 9: After the Iron Ships"
+aliases: ["After the Iron Ships", "Triumphant Return and Wedding"]
 status: fictional
-developmentStatus: current
-related: [ache, brunei, maynila, tondo, encounter-1521]
-sources: [aganduru-moriz, pigafetta]
+developmentStatus: working
+related: [ache, elcano, pazeculan, brunei, maynila, encounter-1521]
+sources: [pigafetta, aganduru-moriz]
 timeline: [encounter-1521]
 book: book-2
 chapterNumber: 9
 draftStatus: outline
-characters: [ache, siripada]
-places: [brunei, maynila, tondo]
+characters: [ache, elcano, pazeculan]
+places: [brunei]
 events: [encounter-1521]
 ---
-Ache survives the 1521 encounter and has to decide what his accumulated power is actually for.
+Ache survives the 1521 encounter but cannot simply resume the voyage as though nothing happened.
 
-- Capture destroys any simple belief that he has become unbeatable.
-- Returning to Brunei would allow him to continue building prestige inside someone else's political order.
-- Returning to Maynila means risking everything on a claim he has carried since Book I.
-- Ache asks Siripada for the force needed to go home.
-- Bruneian support becomes a negotiated political decision, not a sentimental family favor.
+- Count the dead, damaged ships, frightened crews, and political consequences of capture.
+- Ache confronts the humiliation of having lost control at the height of his command.
+- He must regain the confidence of officers and followers rather than relying on title.
+- Retreat to Brunei would be defensible; continuing toward Luzon is a deliberate choice.
+- The chapter ends with Ache restoring enough order to continue the homeward expedition.
 
-The chapter ends with the return expedition being assembled.
+**Chapter function:** resolve the immediate defeat and prove that Ache's command can survive failure.

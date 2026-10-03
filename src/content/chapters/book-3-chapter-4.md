@@ -1,25 +1,25 @@
 ---
 id: book-3-chapter-4
-name: "Book III, Chapter 4: The Making of the Kota"
-aliases: ["The Making of the Kota", "Building My Own Fleet"]
+name: "Book III, Chapter 4: The Two Crowns of the Bay"
+aliases: ["The Two Crowns of the Bay"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, maynila, pasig-river, manila-bay, panday-pira, kota, lantaka, cannonry, fortification-building, part-3-institutions, religious-duality, port-centered-rule]
-sources: [blair-robertson]
-timeline: []
+related: [book-3, ache, ache-wife, lakandula, siripada, maynila, tondo, manila-bay, dynastic-politics, return-to-maynila, ache-marriage]
+sources: [aganduru-moriz, william-henry-scott]
+timeline: [return-to-maynila, ache-marriage]
 book: book-3
 chapterNumber: 4
 draftStatus: outline
-characters: [ache, panday-pira]
-places: [maynila, pasig-river, manila-bay]
-events: []
+characters: [ache, ache-wife, lakandula]
+places: [maynila, tondo, manila-bay, brunei]
+events: [return-to-maynila, ache-marriage]
 ---
-Ache begins replacing borrowed wartime strength with permanent Maynila institutions and defenses.
+The struggle between Maynila and Tondo reaches the settlement that secures Ache's restoration.
 
-- Fortification and the making of the kota.
-- A Maynila-centered fleet is recruited, financed, supplied, repaired, and organized.
-- Cannonry and gunfounding become part of the defensive system.
-- River and sea approaches are treated as one strategic problem.
-- Storage, workshops, command, trade, and government begin to gather around the fortified center.
+- Force, negotiation, trade, and kinship all matter; the conflict is not reduced to one duel or one battle.
+- Ache recovers his position and forces Tondo back from the gains made during his absence.
+- Peace creates a working political relationship between the two centers without pretending rivalry disappears.
+- The Bruneian marriage arrangement is fulfilled after Ache's return, tying restoration to a wider dynastic network.
+- Ache must decide whether victory means destroying Tondo, subordinating it completely, or accepting a durable balance around the bay.
 
-The chapter resolves a crucial vulnerability: Ache can no longer depend indefinitely on the Bruneian expedition that restored him.
+**Chapter function:** resolve the immediate retaking of Maynila so the second half of Book III can focus on governing what Ache has recovered.
