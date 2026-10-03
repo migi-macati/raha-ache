@@ -1,23 +1,26 @@
 ---
 id: book-1
-name: "Book I: The Sea and Me"
-aliases: [Book I, The Sea and Me]
+name: "Book I: Raha Ache — The King of Luzon"
+aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
+developmentStatus: current
 related: [ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
-## Goals
+## Current arc
 
-**Initial short goal:** Flight to survive.
+Ache loses his secure place in Maynila and is forced into flight. The book follows his youth, Tondo's encroachment, the decision to leave, and the dangerous journey toward Brunei with Sulad.
 
-**Initial long goal:** Live quietly.
+**Arc:** lose.
 
-**Changed short goal:** Defeat the Tondo threat.
+## Current title
 
-**Changed long goal:** Retake Maynila.
+**Raha Ache — The King of Luzon**
 
-## Chapters
+A June 2026 cover concept also used **Raha Ache: The Flight to Brunei** for Part I.
+
+## Earlier 10-chapter scaffold
 
 1. The Boy Prince
 2. Family and Community
@@ -29,3 +32,5 @@ timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 8. Diplomacy and Supplies
 9. The Last Storm
 10. The Sultan
+
+Earlier working title: **The Sea and Me**.
