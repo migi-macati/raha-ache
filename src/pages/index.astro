@@ -12,14 +12,13 @@ const [characters, places, events, sources, books, chapters] = await Promise.all
 ]);
 const base = import.meta.env.BASE_URL;
 ---
-<BaseLayout title="Story Bible">
+<BaseLayout title="Raha Ache">
   <section class="hero">
-    <p class="eyebrow">THE PUBLIC STORY BIBLE</p>
     <h1>Raha Ache</h1>
-    <p class="lede">A living archive for the trilogy: people, places, events, sources, timelines, books, and chapters joined into one navigable world.</p>
+    <p class="lede">Characters, places, events, sources, timelines, books, and chapters.</p>
     <div class="actions">
-      <a class="button" href={`${base}timeline/`}>Enter the timeline</a>
-      <a class="button ghost" href={`${base}books/`}>Open the trilogy</a>
+      <a class="button" href={`${base}timeline/`}>Timeline</a>
+      <a class="button ghost" href={`${base}books/`}>Books</a>
     </div>
   </section>
 
@@ -30,11 +29,5 @@ const base = import.meta.env.BASE_URL;
     <div><strong>{sources.length}</strong><span>Sources</span></div>
     <div><strong>{books.length}</strong><span>Books</span></div>
     <div><strong>{chapters.length}</strong><span>Chapters</span></div>
-  </section>
-
-  <section class="principle">
-    <p class="eyebrow">ONE WORLD, ONE SET OF ENTITIES</p>
-    <h2>Every important name resolves to its own page.</h2>
-    <p>Ache, Maynila, an event, a source, a book, or a chapter has one canonical identity. Mentions in archive prose are automatically linked, while every entity page gathers the records that point back to it.</p>
   </section>
 </BaseLayout>
