@@ -3,6 +3,7 @@ id: book-2-chapter-1
 name: "Book II, Chapter 1: Brunei"
 aliases: ["Brunei"]
 status: fictional
+developmentStatus: working
 related: [ache, brunei]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]

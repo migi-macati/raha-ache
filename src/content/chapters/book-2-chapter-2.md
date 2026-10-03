@@ -3,6 +3,7 @@ id: book-2-chapter-2
 name: "Book II, Chapter 2: The Sultan's Court"
 aliases: ["The Sultan's Court"]
 status: fictional
+developmentStatus: working
 related: [ache, siripada, brunei]
 sources: [aganduru-moriz]
 timeline: []

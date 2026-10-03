@@ -3,6 +3,7 @@ id: book-2-chapter-3
 name: "Book II, Chapter 3: Admiral in Training"
 aliases: ["Admiral in Training"]
 status: fictional
+developmentStatus: working
 related: [ache, siripada, brunei]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command]

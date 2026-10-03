@@ -3,6 +3,7 @@ id: book-2-chapter-8
 name: "Book II, Chapter 8: Prisoner"
 aliases: ["Prisoner"]
 status: fictional
+developmentStatus: working
 related: [ache, elcano, pazeculan, encounter-1521]
 sources: [pigafetta, aganduru-moriz]
 timeline: [encounter-1521]

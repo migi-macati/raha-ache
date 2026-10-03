@@ -3,6 +3,7 @@ id: book-2-chapter-5
 name: "Book II, Chapter 5: Pirate Life"
 aliases: ["Pirate Life"]
 status: fictional
+developmentStatus: working
 related: [ache, sulu, mindanao, jalal]
 sources: []
 timeline: []

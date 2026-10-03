@@ -3,6 +3,7 @@ id: book-2-chapter-7
 name: "Book II, Chapter 7: The Whale Ships"
 aliases: ["The Whale Ships"]
 status: fictional
+developmentStatus: working
 related: [ache, elcano, brunei, loue]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign, encounter-1521]

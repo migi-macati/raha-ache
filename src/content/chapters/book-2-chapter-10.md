@@ -3,6 +3,7 @@ id: book-2-chapter-10
 name: "Book II, Chapter 10: Admirable Admiral"
 aliases: ["Admirable Admiral"]
 status: fictional
+developmentStatus: working
 related: [ache, maynila, brunei]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, return-to-maynila]
