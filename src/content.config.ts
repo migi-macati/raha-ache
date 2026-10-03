@@ -39,6 +39,7 @@ const chapter = baseEntity.extend({
   book: z.string(),
   chapterNumber: z.number(),
   draftStatus: z.enum(['outline', 'draft', 'revision', 'final']).default('draft'),
+  pov: z.array(z.string()).default([]),
   characters: z.array(z.string()).default([]),
   places: z.array(z.string()).default([]),
   events: z.array(z.string()).default([])
