@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { render } from 'astro:content';
+import { entityIndex, getEverything, referencedIds } from '../../lib/entities';
+
+export async function getStaticPaths() {
+  const all = await getEverything();
+  return all.map(({ collection, item }) => ({
+    params: { collection, id: item.data.id },
+    props: { collection, item, all }
+  }));
+}
+
+const { collection, item, all } = Astro.props;
+const { Content } = await render(item);
+const data = item.data;
+const index = await entityIndex();
+
+const outgoing = referencedIds(data)
+  .map((id) => index.get(id))
+  .filter(Boolean);
+
+const backlinks = all
+  .filter(({ item: candidate }) =>
+    candidate.data.id !== data.id &&
+    referencedIds(candidate.data).includes(data.id)
+  )
+  .map(({ collection: candidateCollection, item: candidate }) => ({
+    id: candidate.data.id,
+    name: candidate.data.name,
+    collection: candidateCollection,
+    url: `${import.meta.env.BASE_URL}${candidateCollection}/${candidate.data.id}/`
+  }));
+
+const isChapter = collection === 'chapters';
+---
+<BaseLayout title={data.name} description={data.summary}>
+  <article class:list={['entity-page', isChapter && 'chapter-page']}>
+    <header class="page-head">
+      <p class="eyebrow">{collection.slice(0, -1)}</p>
+      <h1>{data.name}</h1>
+      {data.summary && <p>{data.summary}</p>}
+    </header>
+
+    {data.aliases?.length > 0 && (
+      <p class="meta"><strong>Also known as:</strong> {data.aliases.join(', ')}</p>
+    )}
+
+    {isChapter && (
+      <div class="chapter-note">
+        <strong>Manuscript page.</strong> Novel prose and annotations live in the same canonical chapter file.
+      </div>
+    )}
+
+    <div class="prose"><Content /></div>
+
+    {outgoing.length > 0 && (
+      <section class="connections">
+        <h2>Linked entities</h2>
+        <div class="link-list">
+          {outgoing.map((entity) => (
+            <a href={entity.url}>{entity.name}<small>{entity.collection}</small></a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {backlinks.length > 0 && (
+      <section class="connections">
+        <h2>Mentioned or referenced by</h2>
+        <div class="link-list">
+          {backlinks.map((entity) => (
+            <a href={entity.url}>{entity.name}<small>{entity.collection}</small></a>
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>
