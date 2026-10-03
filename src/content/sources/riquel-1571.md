@@ -11,6 +11,12 @@ year: "1571"
 sourceType: primary
 citation: "Notarial/expedition record of the Spanish arrival and agreements in Manila"
 ---
-Primary record for the named rulers encountered in Manila and Tondo in 1571.
+## Named rulers
 
-The project uses Riquel for the identification of Raja Ache the Old, Raja Soliman the Young, and Sibunao Lacandola.
+Spanish text preserved in the project:
+
+> declaracion llamarse Raha Ache el Viejo y Raha Solimane el Mozo, senores y principales del pueblo de Manila, y Sibunao Lacandola, principal del pueblo de Tondo…
+
+Literal sense: Raha Ache the Old and Raha Solimane the Young are named as lords/principales of Manila, with Sibunao Lacandola as principal of Tondo.
+
+This is the project's strongest direct naming evidence connecting Ache/Matanda, Sulayman, and Lakandula to the 1571 Manila–Tondo political setting.
