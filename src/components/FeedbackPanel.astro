@@ -24,6 +24,8 @@ const issueBody = [
 ].join('\n');
 
 const addUrl = `${repoUrl}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+const contributionTitle = `[Contribution: ${key}] ${title}`;
+const contributionUrl = `${repoUrl}/issues/new?template=story-contribution.yml&title=${encodeURIComponent(contributionTitle)}`;
 const openQuery = `is:issue is:open in:title "[Feedback: ${key}]"`;
 const closedQuery = `is:issue is:closed in:title "[Feedback: ${key}]"`;
 const openUrl = `${repoUrl}/issues?q=${encodeURIComponent(openQuery)}`;
@@ -31,12 +33,13 @@ const archiveUrl = `${repoUrl}/issues?q=${encodeURIComponent(closedQuery)}`;
 ---
 <section class="feedback-panel" aria-labelledby="feedback-heading">
   <div>
-    <h2 id="feedback-heading">Comments and corrections</h2>
-    <p>Each feedback item is a separate thread. Reply in the thread; resolved items stay in the archive.</p>
+    <h2 id="feedback-heading">Discuss this page</h2>
+    <p>Comment, correct, add a source, or propose material. Replies stay in the thread; resolved items stay archived.</p>
   </div>
   <div class="feedback-actions">
-    <a class="feedback-primary" href={addUrl} target="_blank" rel="noreferrer">Add feedback</a>
-    <a href={openUrl} target="_blank" rel="noreferrer">Open feedback</a>
-    <a href={archiveUrl} target="_blank" rel="noreferrer">Resolved archive</a>
+    <a class="feedback-primary" href={addUrl} target="_blank" rel="noreferrer">Comment / correct</a>
+    <a href={contributionUrl} target="_blank" rel="noreferrer">Propose contribution</a>
+    <a href={openUrl} target="_blank" rel="noreferrer">Open threads</a>
+    <a href={archiveUrl} target="_blank" rel="noreferrer">Archive</a>
   </div>
 </section>
