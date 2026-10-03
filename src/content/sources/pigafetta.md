@@ -1,13 +1,18 @@
 ---
 id: pigafetta
-name: Pigafetta
-aliases: [Antonio Pigafetta]
+name: Antonio Pigafetta
+aliases: [Pigafetta, First Voyage Around the World]
 status: historical
-related: [encounter-1521]
+related: [ache, elcano, brunei, loue, encounter-1521]
 sources: []
-timeline: []
+timeline: [loue-campaign, encounter-1521]
 author: Antonio Pigafetta
-year: ""
+year: "1521 account"
 sourceType: primary
-citation: ""
+citation: "Account of the Magellan expedition; Borneo episode, July 1521"
 ---
+Pigafetta records the July 1521 encounter in Brunei waters.
+
+He identifies a captured junk commander as the son of the king of Luzon and captain-general of the king of Brunei, recently returned from attacking Loue.
+
+Pigafetta says pilot Giovan Carvaio released the captured captain for gold. This differs from Aganduru Moriz's later account of a gratuitous release by del Cano.
