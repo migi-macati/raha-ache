@@ -4,24 +4,83 @@ name: "Book III, Chapter 2: Taking Back Maynila"
 aliases: ["Taking Back Maynila", "Retaking Maynila"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, lakandula, maynila, tondo, return-to-maynila, dynastic-politics]
+related: [book-3, ache, lakandula, ache-wife, siripada, maynila, tondo, return-to-maynila, ache-marriage, dynastic-politics, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila, ache-marriage]
 book: book-3
 chapterNumber: 2
 draftStatus: outline
-characters: [ache, lakandula]
-places: [maynila, tondo, manila-bay]
+characters: [ache, lakandula, ache-wife]
+places: [maynila, tondo, manila-bay, brunei]
 events: [return-to-maynila, ache-marriage]
+pov: [ache]
 ---
-Ache uses the expedition he earned in Book II to recover his position in Maynila.
+## Chapter purpose
 
-- Bruneian force gives Ache the ability to challenge the status quo, but local support determines whether he can stay.
-- Ache recovers his lands and pushes Tondo back.
-- The campaign cannot end in simple destruction because Tondo remains kin, neighbor, trading partner, and rival.
-- Peace negotiations begin after the military reversal.
-- The arranged Bruneian marriage belongs after Ache's return in the current historical sequence and can enter this early restoration phase, with exact placement still subject to chronology work.
+Deliver the long-promised restoration while making clear that military success creates a political problem rather than ending the story.
 
-By the end of the chapter, **Maynila has been retaken**.
+## Opening state
 
-The next problem is harder: what political relationship with Tondo can make the victory last?
+Ache has force and a claim but insecure local control.
+
+## Immediate objective
+
+Recover Maynila's lands and political position from the gains made during his absence.
+
+## Main plot movement
+
+Ache uses the expedition earned in Book II to recover Maynila and push Tondo back. By the end of the chapter, **Maynila has been retaken**.
+
+## Subplots
+
+- **Local support versus Bruneian force:** determines whether victory can last.
+- **Ache's marriage:** enters the restoration phase as a dynastic Brunei–Maynila connection.
+- **Ache and Lakandula:** military reversal deepens the need for political settlement rather than erasing rivalry.
+
+## Conflict and stakes
+
+A destructive victory could leave Ache with ruins, resentful neighbors, and dependence on foreign-backed force.
+
+## Themes and subthemes
+
+**Theme:** victory versus legitimacy.
+
+**Subthemes:** conquest, return, kinship, restraint, local consent.
+
+## Character progression
+
+### Ache
+
+**Begins:** focused on recovery.
+
+**Pressure:** must choose between total punishment and the long-term needs of rule.
+
+**Ends:** regains Maynila but understands that holding it requires a settlement.
+
+### Lakandula
+
+**Begins:** stronger local position.
+
+**Pressure:** forced to negotiate from a reduced military position.
+
+**Ends:** remains politically relevant even after reversal.
+
+### Ache's wife
+
+**Function:** her arrival or marriage should give the Brunei alliance a personal, dynastic, and political face rather than functioning as a reward.
+
+## Turning point
+
+Ache wins the decisive military advantage but chooses not to treat annihilation as the only form of victory.
+
+## Resolution and ending state
+
+Maynila is retaken. The next unresolved problem is how Maynila and Tondo coexist.
+
+## Setup and payoff
+
+Pays off the entire first two books' return objective.
+
+## Handoff
+
+Chapter 3 resolves the immediate Maynila–Tondo political settlement.

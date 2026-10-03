@@ -4,23 +4,79 @@ name: "Book III, Chapter 3: The Two Crowns of the Bay"
 aliases: ["The Two Crowns of the Bay"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, lakandula, maynila, tondo, manila-bay, dynastic-politics]
+related: [book-3, ache, lakandula, maynila, tondo, manila-bay, dynastic-politics, story-architecture-standard]
 sources: [aganduru-moriz, william-henry-scott]
-timeline: []
+timeline: [return-to-maynila]
 book: book-3
 chapterNumber: 3
 draftStatus: outline
 characters: [ache, lakandula]
 places: [maynila, tondo, manila-bay]
-events: []
+events: [return-to-maynila]
+pov: [ache]
 ---
-The retaking of Maynila does not erase Tondo.
+## Chapter purpose
 
-- Ache and Lakandula must convert the military result into a political settlement.
-- Kinship, trade, tributary claims, prestige, and force all shape the negotiation.
-- Ache must choose between attempting direct domination and accepting a more complicated balance of power.
-- The chapter resolves the immediate Maynila–Tondo war while preserving rivalry and mutual dependence.
+Convert military restoration into a political order. The chapter establishes that Maynila and Tondo remain distinct centers of power even after Ache's victory.
 
-By the end of the chapter, Ache has won back Maynila and secured enough political space to begin ruling it.
+## Opening state
 
-The central conflict now shifts from **recovery** to **consolidation**.
+Ache has recovered Maynila but lacks a durable settlement with his most important rival and kinsman.
+
+## Immediate objective
+
+Secure recognition, peace, and enough political space to govern without constant war.
+
+## Main plot movement
+
+Ache and Lakandula negotiate the terms of coexistence after the restoration campaign.
+
+## Subplots
+
+- **Kinship versus rivalry:** family ties complicate coercion.
+- **Trade and mutual dependence:** neither polity can simply erase the other.
+- **Prestige:** both rulers need a settlement they can survive politically.
+
+## Conflict and stakes
+
+Total domination may be impossible or self-defeating; compromise may look like weakness to Ache's supporters.
+
+## Themes and subthemes
+
+**Theme:** coexistence after conflict.
+
+**Subthemes:** compromise, legitimacy, plural sovereignty, face, kinship.
+
+## Character progression
+
+### Ache
+
+**Begins:** victor tempted to define success through submission.
+
+**Pressure:** must distinguish durable advantage from symbolic humiliation of Tondo.
+
+**Ends:** accepts a more complex political victory.
+
+### Lakandula
+
+**Begins:** defeated or pressured rival.
+
+**Progression:** demonstrates enough leverage to prevent the settlement from becoming simple surrender.
+
+**Ends:** becomes a continuing political counterpart inside the bay order.
+
+## Turning point
+
+Ache realizes that preserving Tondo as a functioning partner/rival may strengthen his own restored position more than destroying it.
+
+## Resolution and ending state
+
+The immediate restoration war ends. Ache has enough political space to build.
+
+## Setup and payoff
+
+Pays off the Tondo conflict begun in Book I while deliberately preserving rivalry for later tests.
+
+## Handoff
+
+Chapter 4 asks what Ache will build now that he finally has secure ground.
