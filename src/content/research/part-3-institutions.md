@@ -4,7 +4,7 @@ name: Part III institutions
 aliases: []
 status: fictional
 developmentStatus: working
-related: [ache, maynila, book-3]
+related: [ache, maynila, book-3, kota, fortification-building, religious-duality, port-centered-rule]
 sources: []
 timeline: []
 ---
