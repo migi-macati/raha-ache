@@ -3,7 +3,7 @@ id: ache-language
 name: Ache's languages
 aliases: []
 status: uncertain
-related: [ache, maynila, brunei]
+related: [ache, maynila, brunei, malay-diplomacy]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: []
 ---
