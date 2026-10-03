@@ -4,7 +4,7 @@ name: "Book III, Chapter 14: The Making of the Kota"
 aliases: ["The Making of the Kota"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, maynila, pasig-river, panday-pira]
+related: [book-3, ache, maynila, pasig-river, panday-pira, kota, fortification-building, cannonry, part-3-institutions, religious-duality, port-centered-rule]
 sources: []
 timeline: []
 book: book-3
