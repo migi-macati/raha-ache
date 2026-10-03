@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, legazpi, martin-de-goiti]
+related: [ache, sulayman, lakandula, maynila, tondo, namayan, pasay, legazpi, martin-de-goiti, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
 sources: [aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila]
 ---
@@ -23,6 +23,8 @@ The current Part III concept focuses on the period before direct Spanish conques
 15. The Two Crowns of the Bay
 16. Rewarding Loyalty: The Gift of the Southern Shore
 17. Old King, New World on the Horizon
+
+The 13–17 numbering is retained from the later development sequence rather than renumbered to fit the older Book III scaffold.
 
 Pasay's exact role in the southern-shore land-grant strand remains unresolved after Sulad replaced Pasay as Ache's principal young companion.
 

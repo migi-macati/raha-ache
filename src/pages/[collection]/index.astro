@@ -30,15 +30,38 @@ const sorted = [...items].sort((a, b) => {
   }
   return a.data.name.localeCompare(b.data.name);
 });
+
+const chapterGroups = collection === 'chapters'
+  ? [
+      { title: 'Current', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
+      { title: 'Working outlines', items: sorted.filter((item) => !item.data.developmentStatus || item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
+      { title: 'Superseded', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
+    ]
+  : [];
 ---
 <BaseLayout title={title}>
   <header class="page-head">
     <h1>{title}</h1>
   </header>
 
-  <div class="plain-list large">
-    {sorted.map((item) => (
-      <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
-    ))}
-  </div>
+  {collection === 'chapters' ? (
+    <div>
+      {chapterGroups.map((group) => group.items.length > 0 && (
+        <section class="index-section">
+          <h2>{group.title}</h2>
+          <div class="plain-list large">
+            {group.items.map((item) => (
+              <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  ) : (
+    <div class="plain-list large">
+      {sorted.map((item) => (
+        <a href={`${base}${collection}/${item.data.id}/`}>{item.data.name}</a>
+      ))}
+    </div>
+  )}
 </BaseLayout>

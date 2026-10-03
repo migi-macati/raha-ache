@@ -4,7 +4,7 @@ name: Revised trilogy structure
 aliases: []
 status: fictional
 developmentStatus: current
-related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti]
+related: [ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, book-3-chapter-13, book-3-chapter-14, book-3-chapter-15, book-3-chapter-16, book-3-chapter-17, bonus-spanish-contact]
 sources: []
 timeline: []
 ---
@@ -34,7 +34,7 @@ Return voyage toward Luzon.
 
 Ache returns to the Manila Bay world, retakes or reasserts Maynila, builds institutions, expands alliances, and shapes the political order before direct Spanish conquest.
 
-Later proposed sequence:
+Current development sequence:
 
 13. The Bay That Forgot Him
 14. The Making of the Kota
@@ -42,7 +42,9 @@ Later proposed sequence:
 16. Rewarding Loyalty: The Gift of the Southern Shore
 17. Old King, New World on the Horizon
 
-The December 2025 version associated the southern-shore land grant with Pasay. The later switch from Pasay to Sulad as Ache's principal companion leaves Pasay's exact novel role unresolved.
+The 13–17 numbering is preserved from the later development sequence.
+
+The December 2025 version associated the southern-shore land grant with Pasay. The later switch from Pasay to Sulad as Ache's principal companion leaves the beneficiary unresolved.
 
 ## Bonus
 
