@@ -57,13 +57,24 @@ const placeGroups = collection === 'places'
     ]
   : [];
 
+const sourceGroups = collection === 'sources'
+  ? [
+      { title: 'Primary sources', items: sorted.filter((item) => item.data.sourceType === 'primary') },
+      { title: 'Near-primary chronicles', items: sorted.filter((item) => item.data.sourceType === 'near-primary') },
+      { title: 'Secondary scholarship', items: sorted.filter((item) => item.data.sourceType === 'secondary') },
+      { title: 'Reference and documentary collections', items: sorted.filter((item) => item.data.sourceType === 'reference' || item.data.sourceType === 'tertiary') }
+    ]
+  : [];
+
 const grouped = collection === 'chapters'
   ? chapterGroups
   : collection === 'characters'
     ? characterGroups
     : collection === 'places'
       ? placeGroups
-      : [];
+      : collection === 'sources'
+        ? sourceGroups
+        : [];
 ---
 <BaseLayout title={title}>
   <header class="page-head">

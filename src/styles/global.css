@@ -238,3 +238,15 @@ footer{
   gap:.45rem;
   margin-top:1rem;
 }
+
+.status-primary{border-color:#654c2d;background:#e8dcc4}
+.status-near-primary{border-color:#927548;background:#f0e5cf}
+.status-secondary{background:#eee9df}
+.status-reference,.status-tertiary{background:#f3efe8;color:#685f56}
+.source-meta{
+  margin:.75rem 0 0;
+  font-family:ui-sans-serif,system-ui,sans-serif;
+  color:var(--muted);
+  font-size:.9rem;
+}
+.source-meta p{margin:.2rem 0}

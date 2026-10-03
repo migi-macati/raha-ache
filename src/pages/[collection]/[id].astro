@@ -46,7 +46,8 @@ const label = (value) => String(value ?? '')
 const statusBadges = [
   data.status && { value: data.status, text: label(data.status) },
   data.developmentStatus && { value: data.developmentStatus, text: label(data.developmentStatus) },
-  collection === 'events' && data.certainty && { value: data.certainty, text: label(data.certainty) }
+  collection === 'events' && data.certainty && { value: data.certainty, text: label(data.certainty) },
+  collection === 'sources' && data.sourceType && { value: data.sourceType, text: label(data.sourceType) }
 ].filter(Boolean);
 ---
 <BaseLayout title={data.name} description={data.summary}>
@@ -59,6 +60,12 @@ const statusBadges = [
       </div>
       <h1>{data.name}</h1>
       {collection === 'events' && data.date && <p class="event-date">{data.date}</p>}
+      {collection === 'sources' && (data.year || data.citation) && (
+        <div class="source-meta">
+          {data.year && <p><strong>Date:</strong> {data.year}</p>}
+          {data.citation && <p><strong>Citation:</strong> {data.citation}</p>}
+        </div>
+      )}
       {data.summary && <p>{data.summary}</p>}
     </header>
 

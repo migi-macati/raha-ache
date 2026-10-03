@@ -9,14 +9,16 @@ timeline: [battle-manila-1570, bangkusay-1571, ache-baptism-death-1572]
 author: Anonymous
 year: "1572"
 sourceType: primary
-citation: "Anonymous relation on the conquest and customs of Luzon, 1572"
+citation: "Anonymous relation on the conquest and customs of Luzon, 1572; exact archival/printed citation still to be attached."
 ---
 ## Succession passage
 
-The project preserves the following English paraphrase/translation, not an exact Spanish transcription:
+The project currently preserves an English paraphrase/translation stating that when the ruler died as a Christian, he had no inheriting children by his legitimate wife and his property descended to a legitimate nephew.
 
-> When this man died, a Christian, he had no children by his legitimate wife ... therefore his property descended to a legitimate nephew of his.
+This passage is used for Ache's death, Christian baptism, and inheritance through a legitimate nephew.
 
-The passage is used for Ache's death, Christian baptism, and inheritance through a legitimate nephew.
+## Citation gap
 
-The exact Spanish text still needs to be attached to this source page before treating the English wording as a diplomatic transcription.
+The exact Spanish text, full title or documentary identification, edition or archival location, and page/folio reference still need to be attached.
+
+Until then, the English wording should be treated as a project paraphrase rather than a diplomatic transcription.
