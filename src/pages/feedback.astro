@@ -16,7 +16,10 @@ const archiveUrl=`${repoUrl}/issues?q=${encodeURIComponent('is:issue is:closed i
   </header>
 
   <div class="feedback-hub">
-    <a class="feedback-hub-card primary-card" href={openUrl} target="_blank" rel="noreferrer">
+    <a class="feedback-hub-card primary-card" href={withBase('contribute/')}>
+      <small>Public input</small><strong>Contribute</strong><span>Corrections, sources and co-writing proposals</span>
+    </a>
+    <a class="feedback-hub-card" href={openUrl} target="_blank" rel="noreferrer">
       <small>Review queue</small><strong>Open feedback</strong><span>Unresolved comments and corrections</span>
     </a>
     <a class="feedback-hub-card" href={archiveUrl} target="_blank" rel="noreferrer">
