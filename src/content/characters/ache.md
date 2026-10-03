@@ -3,6 +3,7 @@ id: ache
 name: Ache
 aliases: [Raha Ache, Raja Ache, Rajah Ache, Raja Matanda, Rajah Matanda, Ladyang Matanda, Raha Ache el Viejo, Laya]
 status: historical
+developmentStatus: current
 relations:
   - target: salalila
     type: father

@@ -38,15 +38,26 @@ const chapterGroups = collection === 'chapters'
       { title: 'Superseded', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
     ]
   : [];
+
+const characterGroups = collection === 'characters'
+  ? [
+      { title: 'Current novel canon', items: sorted.filter((item) => item.data.developmentStatus === 'current') },
+      { title: 'Working development', items: sorted.filter((item) => item.data.developmentStatus === 'working' || item.data.developmentStatus === 'early-outline') },
+      { title: 'Historical and reference figures', items: sorted.filter((item) => !item.data.developmentStatus) },
+      { title: 'Superseded', items: sorted.filter((item) => item.data.developmentStatus === 'superseded') }
+    ]
+  : [];
+
+const grouped = collection === 'chapters' ? chapterGroups : collection === 'characters' ? characterGroups : [];
 ---
 <BaseLayout title={title}>
   <header class="page-head">
     <h1>{title}</h1>
   </header>
 
-  {collection === 'chapters' ? (
+  {grouped.length > 0 ? (
     <div>
-      {chapterGroups.map((group) => group.items.length > 0 && (
+      {grouped.map((group) => group.items.length > 0 && (
         <section class="index-section">
           <h2>{group.title}</h2>
           <div class="plain-list large">
