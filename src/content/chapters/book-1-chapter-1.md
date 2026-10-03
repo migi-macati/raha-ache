@@ -3,6 +3,7 @@ id: book-1-chapter-1
 name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, maynila, pasig-river]
 sources: []
 timeline: []

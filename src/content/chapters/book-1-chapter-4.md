@@ -3,6 +3,7 @@ id: book-1-chapter-4
 name: "Book I, Chapter 4: Encroachment"
 aliases: ["Encroachment"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, lakandula, ache-mother, maynila, tondo]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]

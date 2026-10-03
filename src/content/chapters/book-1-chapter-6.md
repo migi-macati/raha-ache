@@ -3,6 +3,7 @@ id: book-1-chapter-6
 name: "Book I, Chapter 6: Flight"
 aliases: ["Flight"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, bulkan, namayan, mindoro]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]

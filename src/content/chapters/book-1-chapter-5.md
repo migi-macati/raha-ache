@@ -3,6 +3,7 @@ id: book-1-chapter-5
 name: "Book I, Chapter 5: Fight or Flight"
 aliases: ["Fight or Flight"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, bulkan, lakandula, maynila]
 sources: []
 timeline: [tondo-encroachment]

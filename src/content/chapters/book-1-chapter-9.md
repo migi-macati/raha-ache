@@ -3,6 +3,7 @@ id: book-1-chapter-9
 name: "Book I, Chapter 9: The Last Storm"
 aliases: ["The Last Storm"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, bulkan, brunei]
 sources: []
 timeline: [ache-leaves-for-brunei]

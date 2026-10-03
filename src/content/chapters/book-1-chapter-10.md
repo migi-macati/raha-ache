@@ -3,6 +3,7 @@ id: book-1-chapter-10
 name: "Book I, Chapter 10: The Sultan"
 aliases: ["The Sultan"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, siripada, brunei]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]

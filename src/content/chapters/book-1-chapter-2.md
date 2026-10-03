@@ -3,6 +3,7 @@ id: book-1-chapter-2
 name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, salalila, ache-mother, lakandula, maynila]
 sources: []
 timeline: [ache-father-dies]

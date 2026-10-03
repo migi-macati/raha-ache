@@ -3,6 +3,7 @@ id: book-1-chapter-8
 name: "Book I, Chapter 8: Diplomacy and Supplies"
 aliases: ["Diplomacy and Supplies"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, palawan]
 sources: []
 timeline: []

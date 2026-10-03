@@ -3,6 +3,7 @@ id: book-1-chapter-7
 name: "Book I, Chapter 7: The Visayan"
 aliases: ["The Visayan"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, lakanmulaw, palawan, mindoro]
 sources: []
 timeline: []

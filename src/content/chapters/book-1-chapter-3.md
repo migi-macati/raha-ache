@@ -3,6 +3,7 @@ id: book-1-chapter-3
 name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
+developmentStatus: working
 related: [ache, sulad, ula, maynila, namayan, brunei]
 sources: []
 timeline: []
