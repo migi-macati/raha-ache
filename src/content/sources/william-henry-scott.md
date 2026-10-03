@@ -1,7 +1,7 @@
 ---
 id: william-henry-scott
 name: William Henry Scott
-aliases: [Barangay: Sixteenth-Century Philippine Culture and Society, Scott]
+aliases: ["Barangay: Sixteenth-Century Philippine Culture and Society", Scott]
 status: historical
 related: [ache, lakandula, sulayman, siripada, pazeculan, maynila, tondo]
 sources: []
