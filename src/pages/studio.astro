@@ -3,12 +3,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/base';
 
-const [chapters,research,sources,characters,places] = await Promise.all([
+const [chapters,research,sources,characters,places,objects,technologies,practices,ideas] = await Promise.all([
   getCollection('chapters'),
   getCollection('research'),
   getCollection('sources'),
   getCollection('characters'),
-  getCollection('places')
+  getCollection('places'),
+  getCollection('objects'),
+  getCollection('technologies'),
+  getCollection('practices'),
+  getCollection('ideas')
 ]);
 
 const workingChapters=chapters.filter((item)=>item.data.developmentStatus==='working' || item.data.developmentStatus==='early-outline').length;
@@ -16,15 +20,19 @@ const openResearch=research.filter((item)=>item.data.status==='uncertain').lengt
 const workingCharacters=characters.filter((item)=>item.data.developmentStatus==='working').length;
 const workingPlaces=places.filter((item)=>item.data.developmentStatus==='working').length;
 
+const worldEntryCount=objects.length+technologies.length+practices.length+ideas.length;
+
 const tools=[
-  {label:'Chapter workspace',note:`${workingChapters} working outlines`,path:'chapters/'},
+  {label:'Manuscript board',note:`${chapters.filter((item)=>item.data.developmentStatus!=='superseded' && item.data.book!=='zz-bonus').length} active trilogy chapters`,path:'studio/manuscript/'},
+  {label:'Chapter archive',note:`${workingChapters} working outlines`,path:'chapters/'},
   {label:'Research & canon',note:`${openResearch} uncertain/research items`,path:'research/'},
   {label:'Sources',note:`${sources.length} source records`,path:'sources/'},
   {label:'Feedback queue',note:'Comments, corrections and resolved archive',path:'feedback/'},
   {label:'Open questions',note:'Unresolved historical and story decisions',path:'research/open-questions/'},
   {label:'Working characters',note:`${workingCharacters} character entries in development`,path:'characters/'},
   {label:'Working places',note:`${workingPlaces} locations in development`,path:'places/'},
-  {label:'Source audit',note:'Citation gaps and evidence work',path:'research/source-audit/'}
+  {label:'Source audit',note:'Citation gaps and evidence work',path:'research/source-audit/'},
+  {label:'Worldbuilding entries',note:`${worldEntryCount} objects, technologies, practices and ideas`,path:'universe/'}
 ];
 ---
 <BaseLayout title="Studio">
