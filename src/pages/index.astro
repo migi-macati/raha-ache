@@ -3,10 +3,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/base';
 
-const [characters, places, events, sources, books, chapters, research] = await Promise.all([
+const [characters, places, events, objects, technologies, practices, ideas, sources, books, chapters, research] = await Promise.all([
   getCollection('characters'),
   getCollection('places'),
   getCollection('events'),
+  getCollection('objects'),
+  getCollection('technologies'),
+  getCollection('practices'),
+  getCollection('ideas'),
   getCollection('sources'),
   getCollection('books'),
   getCollection('chapters'),
@@ -27,7 +31,11 @@ const universeCards = [
   { label:'Characters', count:characters.length, path:'characters/', note:'Rulers, allies, rivals and family' },
   { label:'Places', count:places.length, path:'places/', note:'Maynila, Brunei and the maritime world' },
   { label:'Timeline', count:events.length, path:'timeline/', note:'Follow the story world chronologically' },
-  { label:'Events', count:events.length, path:'events/', note:'Historical events and reconstructed sequence' }
+  { label:'Events', count:events.length, path:'events/', note:'Historical events and reconstructed sequence' },
+  { label:'Objects', count:objects.length, path:'objects/', note:'Goods, weapons, vessels and material culture' },
+  { label:'Technology', count:technologies.length, path:'technologies/', note:'Maritime, military and craft technologies' },
+  { label:'Practices', count:practices.length, path:'practices/', note:'Customs, rituals, trade and political practice' },
+  { label:'Ideas', count:ideas.length, path:'ideas/', note:'Beliefs, concepts and values shaping the story' }
 ];
 
 const studioCards = [
