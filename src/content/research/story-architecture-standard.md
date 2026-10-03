@@ -1,0 +1,158 @@
+---
+id: story-architecture-standard
+name: Story architecture standard
+aliases: [Outline standard, Chapter standard, Book standard]
+status: fictional
+developmentStatus: current
+related: [genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
+sources: []
+timeline: []
+---
+## Purpose
+
+Every active book and chapter outline in **Raha Ache** should show not only what happens, but what dramatic work the material performs.
+
+The outline tracks four parallel lines:
+
+1. **Plot** — the external chain of goals, obstacles, choices, consequences, reversals, and resolutions.
+2. **Subplots** — secondary conflicts and relationships that intersect with the main plot.
+3. **Theme** — the question or tension the story is exploring through choices and consequences.
+4. **Character progression** — how a character's beliefs, skills, loyalties, relationships, status, or behavior change.
+
+Historical material and invented story architecture must remain distinguishable. A strong dramatic function does not convert fiction into documented history.
+
+## Every chapter should identify
+
+### Chapter purpose
+
+Why this chapter exists in the book. It should name the specific dramatic job, not merely summarize events.
+
+### Opening state
+
+What is true at the beginning that will no longer be true, or will have acquired new meaning, by the end.
+
+### Immediate objective
+
+What the viewpoint character is trying to accomplish in the chapter.
+
+### Main plot movement
+
+The concrete change to the book's primary external conflict.
+
+### Subplot movement
+
+Which secondary threads move here: friendship, family, romance, rivalry, mentorship, succession, faith, institutional development, or another continuing line.
+
+A chapter does not need to advance every subplot.
+
+### Conflict and stakes
+
+Who or what opposes the objective and what can be lost if the viewpoint character fails.
+
+Conflict can be military, political, interpersonal, environmental, moral, logistical, ideological, or internal.
+
+### Themes and subthemes
+
+The larger idea tested by the chapter and the more specific question beneath it.
+
+Themes should be dramatized through competing choices and consequences rather than announced as lessons.
+
+### Character progression
+
+For each important character in the chapter:
+
+- where the character begins emotionally, politically, relationally, or in capability;
+- what pressure or discovery changes them;
+- where they end;
+- what remains unresolved.
+
+Progression can be negative, incomplete, circular, or resistant. Not every chapter needs personal growth, but important characters should not remain narratively static without reason.
+
+### Turning point
+
+The decision, revelation, reversal, victory, failure, or cost that changes the direction of the chapter.
+
+### Resolution and ending state
+
+What has been won, lost, learned, damaged, promised, or made impossible by the final scene.
+
+### Setup and payoff
+
+What earlier material pays off here and what this chapter deliberately plants for later.
+
+### Handoff
+
+A concise statement of what the next chapter inherits from this one.
+
+## Every book should identify
+
+### Story promise
+
+The experience the book promises the reader: survival journey, training and command story, state-building political saga, and so on.
+
+### Central dramatic question
+
+One question that the climax can answer.
+
+### Starting state and ending state
+
+The irreversible difference between the protagonist and world at Chapters 1 and 10.
+
+### Primary plot
+
+The main causal story line from inciting pressure through climax and resolution.
+
+### Main conflicts
+
+The major opposing forces. These should evolve rather than repeat the same confrontation at equal intensity.
+
+### Subplot architecture
+
+The significant secondary lines, where they enter, how they complicate the primary plot, where they peak, and how they resolve or carry forward.
+
+### Themes and subthemes
+
+The book-level thematic argument and the chapter-by-chapter variations that test it.
+
+### Character arcs
+
+The progression of the protagonist and major supporting characters across the whole book.
+
+### Escalation structure
+
+A useful default for a ten-chapter book:
+
+- **Chapters 1–2: setup and commitment**
+- **Chapters 3–4: first escalation and consequences**
+- **Chapters 5–6: expansion, midpoint change, or deeper cost**
+- **Chapters 7–8: pressure, convergence, and narrowing options**
+- **Chapter 9: crisis**
+- **Chapter 10: climax and resolution**
+
+This is a diagnostic framework, not a rigid formula.
+
+### Chapter progression map
+
+Every book outline should state, for each chapter:
+
+- primary plot movement;
+- important subplot movement;
+- theme/subtheme emphasis;
+- character progression;
+- resulting handoff.
+
+### Climax and resolution
+
+The climax should answer the book's central dramatic question. Chapter 10 may leave future consequences unresolved, but it should not outsource the book's promised main conflict to the next volume.
+
+### Carry-forward
+
+What remains deliberately unresolved because it belongs to the next book rather than because the current book failed to finish its own story.
+
+## Scene-level drafting rule
+
+When prose drafting begins, every major scene should still be legible as:
+
+**POV character wants something → opposition creates pressure → the character chooses → the choice creates a consequence → the situation changes.**
+
+Atmosphere, exposition, worldbuilding, humor, lore, and historical detail should support that movement rather than replace it.

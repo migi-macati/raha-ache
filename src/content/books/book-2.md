@@ -4,80 +4,306 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
-## Plot
+## Story promise
 
-Ache arrives in Brunei with royal blood but without a kingdom. Kinship opens the court to him; it does not make him a commander. He must earn Siripada's confidence, learn naval warfare and court politics, survive defeat, lead campaigns, and become capable of commanding men who are not simply his household retainers.
+A training, rivalry, campaign, and command story.
 
-His success produces the force he once lacked. On the voyage toward Luzon, the 1521 encounter with the surviving circumnavigation expedition nearly destroys everything he has built. Ache survives capture, regains command of what remains, and continues home.
+Ache enters Brunei as a displaced prince and leaves as an experienced naval commander. The book should make his growth visible through **court tests → instruction → defeat → irregular warfare → campaign success → catastrophic reversal → recovery → chosen return home**.
 
-**Dramatic question:** Can Ache become the commander who is actually capable of reclaiming Maynila?
+## Central dramatic question
 
-**Arc:** become worthy and capable of return.
+**Can Ache become a commander strong and trusted enough to lead a return to Luzon?**
+
+## Starting state
+
+Ache possesses royal kinship and determination but little proven authority in Brunei.
+
+## Ending state
+
+Ache has earned command, survived major defeat and capture, recovered the trust of followers, and commits his force to the return to Luzon.
+
+Maynila itself remains unrecovered.
+
+## Primary plot
+
+Ache must transform kinship access into earned authority. Siripada's court becomes both school and proving ground. Mentors teach him command, rivals expose his weaknesses, and campaigns force him to convert theory into results.
+
+The Loue campaign establishes Ache at the height of his growing capability. The 1521 encounter then reverses that trajectory: unknown European ships defeat and capture him. The climax of the book is not merely surviving captivity, but proving that his command can survive humiliation and loss. Ache regathers his force and chooses to continue toward Luzon.
 
 ## Main conflicts
 
 ### Bloodline versus earned authority
 
-Ache is Siripada's grandson, but Brunei has its own court, officers, factions, and priorities. Royal kinship gives him access, not automatic obedience.
+Royal kinship opens doors but does not create obedience.
 
-**Resolved by Chapter 10:** Ache has earned real command and is no longer merely a refugee prince asking his grandfather for help.
+**Progression:** supplicant grandson → tested court figure → junior commander → proven campaign leader.
 
 ### Talent versus discipline
 
-Ache's intelligence and sailing ability are not enough for fleet command. Training, logistics, defeat, and responsibility expose the limits of instinct.
+Ache's instinct must become repeatable command.
 
-**Resolved through campaigns:** Ache becomes a commander who can plan, supply, adapt, recover from failure, and make decisions for a fleet.
+**Progression:** confidence → training → defeat → adaptation → successful application → failure at a larger scale → mature recovery.
 
 ### Ambition versus responsibility for followers
 
-Raiding and conquest can reward boldness while punishing everyone beneath the commander who miscalculates. Ache must decide what kind of leader victory is making him.
+Ache wants the power to reclaim Maynila, but every campaign makes other people's lives part of the price.
 
-**Resolved at the book level:** by the homeward voyage, his authority rests on competence and loyalty rather than bravado alone.
+**Progression:** self-focused ambition → responsibility for crews → moral cost of conquest → accountability after defeat.
 
-### Ache versus the unfamiliar world
+### Ache versus Safi and court rivalry
 
-The 1521 European encounter introduces an opponent whose ships, weapons, motives, and global reach do not fit Ache's existing assumptions.
+A rival prince or court faction should embody the argument that Ache is an outsider benefiting from bloodline and sentiment.
 
-**Resolved by Chapter 10:** Ache survives capture and refuses to let the encounter end his homeward campaign. The Europeans remain a future threat, not Book II's unresolved main antagonist.
+**Progression:** social rivalry → professional rivalry → ideological contrast over what makes a legitimate commander.
 
 ### Brunei versus home
 
-Brunei offers Ache status, command, kinship, and a life he could keep. Maynila is dangerous and uncertain.
+Ache can build a meaningful life in Brunei.
 
-**Resolved by Chapter 10:** Ache chooses Luzon and continues toward home with the force and identity he has earned.
+**Progression:** refuge → belonging → success → temptation to remain → conscious choice to return.
 
-## Ten-chapter progression
+### Ache versus the unfamiliar European threat
 
-1. **Brunei** — Ache enters a world larger and richer than the Maynila he lost.
-2. **The Sultan's Court** — bloodline gets him inside; usefulness determines whether he matters.
-3. **Admiral in Training** — formal command begins.
-4. **Losing** — defeat breaks the illusion that rank equals mastery.
-5. **Pirate Life** — irregular warfare tests judgment outside court rules.
-6. **Tactics and Conquest** — Ache finally converts training into successful command and governance.
-7. **The Whale Ships** — the homeward fleet meets an unknown kind of power.
-8. **Prisoner** — Ache loses control at the moment he seems most powerful.
-9. **After the Iron Ships** — he survives the encounter, regathers his command, and chooses to continue rather than retreat.
-10. **Luzon on the Horizon** — the homeward expedition reaches the threshold of the conflict Ache left behind.
+The 1521 encounter disrupts the scale of what Ache believes he understands.
 
-## Chapter 10 payoff
+**Progression:** curiosity → misreading → defeat and capture → survival → unresolved warning for the future.
 
-By the end of Chapter 10:
+## Subplot architecture
 
-- Ache has earned the status of commander rather than merely inherited the identity of prince.
-- His Brunei training and campaign arc is complete.
-- He has survived the 1521 capture and recovered command.
-- He has chosen Maynila over a safer future in Brunei.
-- The homeward force is committed to Luzon.
-- **Maynila has not yet been retaken.**
+### Mentorship
 
-**Book III begins with the actual return and struggle to recover Maynila.**
+Jamil develops command craft; Hasan develops language, ideas, religion, and interpretation.
 
-## Current title
+Their lessons should later pay off in different kinds of crisis rather than functioning as detached training montages.
 
-**Raha Ache — Conquest of the Seas**
+### Rivalry with Safi
 
-Earlier working title: **The Sword and Me**.
+Safi pressures Ache to prove whether he is a serious Bruneian commander or merely the Sultan's favored grandson.
+
+The rivalry should evolve from antagonism toward respect, durable opposition, or both.
+
+### Laila Nur / romance and political intimacy
+
+The relationship should test whether Ache can imagine a future in Brunei and whether intimacy is separable from dynastic politics.
+
+It should not replace the historically recorded later marriage unless deliberately reconciled as a distinct fictional relationship.
+
+### Jalal and Lakanmulaw
+
+These relationships widen Ache's circle beyond Brunei and test his ability to maintain loyalty across religious, cultural, and political boundaries.
+
+### Home as an absence
+
+Maynila functions as a continuing subplot even when physically absent. Reports, memories, obligations, and comparisons should keep home narratively active.
+
+## Themes and subthemes
+
+### Theme: authority must be earned
+
+**Subthemes:** legitimacy, competence, reputation, discipline, service.
+
+### Theme: power creates moral responsibility
+
+**Subthemes:** conquest, casualties, obedience, command accountability.
+
+### Theme: identity across worlds
+
+Ache becomes increasingly Bruneian in skill and networks without ceasing to orient himself toward Maynila.
+
+**Subthemes:** assimilation, belonging, loyalty, home.
+
+### Theme: mastery includes surviving failure
+
+The book rejects a simple upward power curve.
+
+**Subthemes:** humiliation, resilience, adaptation, trust after failure.
+
+## Character arcs
+
+### Ache
+
+**Begins:** determined exile with potential but no proven command.
+
+**Middle:** becomes skilled, respected, increasingly ambitious, and capable of winning.
+
+**Crisis:** capture in 1521 exposes the limits of mastery.
+
+**Ends:** more dangerous because he now knows he can fail. He regains command through accountability and chooses the risk of returning home.
+
+### Siripada
+
+**Function:** grandfather, sovereign, patron, and evaluator.
+
+His progression should move from receiving kin to deciding how much political and military capital Ache deserves.
+
+### Jamil
+
+**Function:** converts Ache's instinct into professional command.
+
+His relationship with Ache should progress from instruction to delegation and eventually judgment of Ache as a fellow commander.
+
+### Hasan
+
+**Function:** expands Ache's intellectual and religious vocabulary.
+
+His subplot should complicate rather than simply affirm Ache's assumptions.
+
+### Safi
+
+**Function:** rival and mirror.
+
+He should expose the privileges Ache does possess even while Ache resents the power he lacks.
+
+### Laila Nur
+
+**Function:** emotional and political attachment to a possible Brunei future.
+
+Her arc should have independent stakes and judgment rather than existing only as Ache's reward.
+
+### Jalal and Lakanmulaw
+
+**Function:** allies from different political worlds who test Ache's ability to lead across difference.
+
+## Escalation structure
+
+**Chapters 1–2:** court entry and the problem of usefulness.
+
+**Chapters 3–4:** training followed by failure.
+
+**Chapters 5–6:** wider war and successful application.
+
+**Chapters 7–8:** European encounter and catastrophic reversal.
+
+**Chapter 9:** recovery after defeat.
+
+**Chapter 10:** deliberate return to Luzon.
+
+## Chapter progression map
+
+### 1. Brunei
+
+**Plot:** Ache enters the Sultan's world as refugee kin.
+
+**Subplots:** culture shock; Sulad/old companions versus new Bruneian relationships; home as absence.
+
+**Theme:** birth versus usefulness.
+
+**Character:** Ache realizes scale and status are relative.
+
+**Handoff:** access must now become political value.
+
+### 2. The Sultan's Court
+
+**Plot:** Ache is tested by court factions and Siripada.
+
+**Subplots:** Safi rivalry; Hasan/Jamil introductions; possible Laila connection.
+
+**Theme:** legitimacy is negotiated.
+
+**Character:** Ache learns that being royal does not make him central.
+
+**Handoff:** he must accept training and subordinate status.
+
+### 3. Admiral in Training
+
+**Plot:** Ache begins formal naval command formation.
+
+**Subplots:** mentor relationships; rivalry; friendship network.
+
+**Theme:** discipline turns talent into capability.
+
+**Character:** Ache starts becoming systematic.
+
+**Handoff:** Chapter 4 tests whether training survives real pressure.
+
+### 4. Losing
+
+**Plot:** Ache suffers a military or political defeat.
+
+**Subplots:** Safi rivalry intensifies; mentors judge him; followers absorb consequences.
+
+**Theme:** failure reveals character.
+
+**Character:** Ache's confidence is damaged; defensiveness must become analysis.
+
+**Handoff:** he is pushed into messier, less prestigious warfare.
+
+### 5. Pirate Life
+
+**Plot:** irregular operations in the Sulu–Mindanao sphere force improvisation.
+
+**Subplots:** Jalal; wider alliance network; possible romance thread.
+
+**Theme:** law, legitimacy, and violence look different from different shores.
+
+**Character:** Ache becomes more adaptable and less dependent on formal rank.
+
+**Handoff:** he can now apply mixed methods in a larger campaign.
+
+### 6. Tactics and Conquest
+
+**Plot:** Ache leads a successful campaign culminating in Loue.
+
+**Subplots:** mentors begin treating him as a commander; rival must confront Ache's competence.
+
+**Theme:** winning and governing are different skills.
+
+**Character:** Ache reaches his Book II high point in confidence and authority.
+
+**Handoff:** success sends him toward home just before a greater unknown interrupts.
+
+### 7. The Whale Ships
+
+**Plot:** Ache's returning force encounters the European ships.
+
+**Subplots:** curiosity versus caution; remembered lessons about reading unfamiliar opponents.
+
+**Theme:** mastery is local; the world is larger than any commander's experience.
+
+**Character:** Ache initially interprets the unknown through familiar categories.
+
+**Handoff:** the misreading leads to direct conflict.
+
+### 8. Prisoner
+
+**Plot:** Ache is defeated and captured.
+
+**Subplots:** followers without their commander; Europeans as people rather than distant rumor.
+
+**Theme:** power, vulnerability, and the limits of certainty.
+
+**Character:** Ache reaches maximum external humiliation and must reassess himself.
+
+**Handoff:** survival is not enough; he must recover authority.
+
+### 9. After the Iron Ships
+
+**Plot:** Ache regathers survivors and restores enough order to continue.
+
+**Subplots:** trust of officers; consequences for friendships and rivalry; home versus retreat.
+
+**Theme:** leadership after failure.
+
+**Character:** Ache earns loyalty through accountability rather than prestige.
+
+**Handoff:** he can now choose freely whether to continue home.
+
+### 10. Luzon on the Horizon
+
+**Plot:** the expedition commits to the return.
+
+**Subplots:** Brunei attachments versus Maynila obligation; companions choose whether to continue.
+
+**Theme:** home becomes a chosen responsibility, not inherited entitlement.
+
+**Character:** Ache completes the commander arc.
+
+**Resolution:** he is capable of attempting the recovery of Maynila.
+
+## Carry-forward into Book III
+
+Book II delivers Ache to the edge of the restoration conflict. Book III must test whether the skills that win campaigns can build a durable political order.
