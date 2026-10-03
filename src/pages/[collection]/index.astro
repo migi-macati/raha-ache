@@ -21,13 +21,17 @@ const descriptions = {
   characters: 'Historical figures, current novel canon and development characters.',
   places: 'Polities, ports, islands, rivers and routes in Ache’s world.',
   events: 'Historical events and the reconstructed chronology used by the novel.',
+  objects: 'Material objects, goods, weapons, vessels and artifacts in Ache’s world.',
+  technologies: 'Maritime, military, craft and other technologies used in the story world.',
+  practices: 'Customs, rituals, political practices, trade practices and everyday life.',
+  ideas: 'Beliefs, concepts, values and political or religious ideas that shape the story.',
   books: 'The current Raha Ache trilogy.',
   chapters: 'Current, working and superseded chapter material.',
   sources: 'Primary records, near-primary chronicles and later scholarship.',
   research: 'Canon decisions, open historical questions and story development.'
 };
 
-const parent = ['characters','places','events'].includes(collection)
+const parent = ['characters','places','events','objects','technologies','practices','ideas'].includes(collection)
   ? { label:'Universe', path:'universe/' }
   : collection === 'books'
     ? { label:'Novel', path:'novel/' }
