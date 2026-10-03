@@ -1,0 +1,36 @@
+name: Page feedback or correction
+description: Comment on a page, flag an error, add evidence, or suggest a change.
+title: "[Feedback] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Paste the page URL or page key.
+      placeholder: characters/ache or https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - Correction
+        - Source or evidence
+        - Continuity or canon
+        - Question
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Comment or correction
+      description: State the change, issue, or question as specifically as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or reasoning
+      description: Add a citation, link, quotation location, or reasoning when relevant.
