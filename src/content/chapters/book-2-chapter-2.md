@@ -1,15 +1,15 @@
 ---
 id: book-2-chapter-2
-name: Book II, Chapter 2: The Sultan's Court
-aliases: [The Sultan's Court]
+name: "Book II, Chapter 2: The Sultan's Court"
+aliases: ["The Sultan's Court"]
 status: fictional
-related: [book-2, ache, siripada, brunei]
+related: [ache, siripada, brunei]
 sources: [aganduru-moriz]
 timeline: []
 book: book-2
 chapterNumber: 2
 draftStatus: outline
-characters: [ache, siripada, pasay]
+characters: [ache, siripada]
 places: [brunei]
 events: []
 ---

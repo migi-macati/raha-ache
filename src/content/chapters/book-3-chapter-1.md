@@ -1,9 +1,9 @@
 ---
 id: book-3-chapter-1
-name: Book III, Chapter 1: Building My Own Fleet
-aliases: [Building My Own Fleet]
+name: "Book III, Chapter 1: Building My Own Fleet"
+aliases: ["Building My Own Fleet"]
 status: fictional
-related: [book-3, ache, maynila]
+related: [ache, maynila]
 sources: []
 timeline: [return-to-maynila]
 book: book-3

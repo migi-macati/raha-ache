@@ -1,9 +1,9 @@
 ---
 id: book-3-chapter-6
-name: Book III, Chapter 6: Governor
-aliases: [Governor]
+name: "Book III, Chapter 6: Governor"
+aliases: ["Governor"]
 status: fictional
-related: [book-3, ache, maynila]
+related: [ache, maynila]
 sources: []
 timeline: []
 book: book-3

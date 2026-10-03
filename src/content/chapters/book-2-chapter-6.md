@@ -1,9 +1,9 @@
 ---
 id: book-2-chapter-6
-name: Book II, Chapter 6: Tactics and Conquest
-aliases: [Tactics and Conquest]
+name: "Book II, Chapter 6: Tactics and Conquest"
+aliases: ["Tactics and Conquest"]
 status: fictional
-related: [book-2, ache, loue, brunei]
+related: [ache, loue, brunei]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign]
 book: book-2

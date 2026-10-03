@@ -1,19 +1,19 @@
 ---
 id: book-1-chapter-9
-name: Book I, Chapter 9: The Last Storm
-aliases: [The Last Storm]
+name: "Book I, Chapter 9: The Last Storm"
+aliases: ["The Last Storm"]
 status: fictional
-related: [book-1, ache, pasay, bulkan, brunei]
+related: [ache, sulad, bulkan, brunei]
 sources: []
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 9
 draftStatus: outline
-characters: [ache, pasay, bulkan]
+characters: [ache, sulad, bulkan]
 places: [palawan, brunei]
 events: [ache-leaves-for-brunei]
 ---
-- Final fight with pursuers.
+- Final pursuit and confrontation.
 - Ache stops merely fleeing and chooses to fight.
-- Storm.
-- The surviving group breaks beyond Tondo's reach.
+- A storm compounds the losses.
+- The survivors break beyond Tondo's reach.

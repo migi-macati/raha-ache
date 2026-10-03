@@ -1,15 +1,15 @@
 ---
 id: book-1-chapter-8
-name: Book I, Chapter 8: Diplomacy and Supplies
-aliases: [Diplomacy and Supplies]
+name: "Book I, Chapter 8: Diplomacy and Supplies"
+aliases: ["Diplomacy and Supplies"]
 status: fictional
-related: [book-1, ache, pasay, palawan]
+related: [ache, sulad, palawan]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 8
 draftStatus: outline
-characters: [ache, pasay]
+characters: [ache, sulad]
 places: [palawan, calamianes]
 events: []
 ---

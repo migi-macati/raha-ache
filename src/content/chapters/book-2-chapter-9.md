@@ -1,9 +1,9 @@
 ---
 id: book-2-chapter-9
-name: Book II, Chapter 9: Triumphant Return and Wedding
-aliases: [Triumphant Return and Wedding]
+name: "Book II, Chapter 9: Triumphant Return and Wedding"
+aliases: ["Triumphant Return and Wedding"]
 status: fictional
-related: [book-2, ache, maynila, tondo, brunei, return-to-maynila, ache-marriage]
+related: [ache, maynila, tondo, brunei, return-to-maynila, ache-marriage]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila, ache-marriage]
 book: book-2

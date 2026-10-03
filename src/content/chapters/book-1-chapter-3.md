@@ -1,15 +1,15 @@
 ---
 id: book-1-chapter-3
-name: Book I, Chapter 3: The Muslim Way
-aliases: [The Muslim Way]
+name: "Book I, Chapter 3: The Muslim Way"
+aliases: ["The Muslim Way"]
 status: fictional
-related: [book-1, ache, ula, maynila, namayan, brunei]
+related: [ache, sulad, ula, maynila, namayan, brunei]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 3
 draftStatus: outline
-characters: [ache, ula]
+characters: [ache, sulad, ula]
 places: [maynila, namayan]
 events: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: book-2
-name: Book II: The Sword and Me
+name: "Book II: The Sword and Me"
 aliases: [Book II, The Sword and Me]
 status: fictional
-related: [ache, pasay, siripada, brunei, sulu, mindanao, loue, elcano, pazeculan]
+related: [ache, siripada, brunei, sulu, mindanao, loue, elcano, pazeculan]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, ache-marriage]
 ---
@@ -11,7 +11,7 @@ timeline: [ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila
 
 **Initial short goal:** Complete the Sultan's task and secure support to retake Maynila.
 
-**Initial long goal:** Crush the Tondo challenge and retake Maynila.
+**Initial long goal:** Defeat the Tondo challenge and retake Maynila.
 
 **Changed short goal:** Gather his own forces through alliances.
 

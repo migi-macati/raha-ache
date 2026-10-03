@@ -3,7 +3,7 @@ id: pasay
 name: Pasay
 aliases: [Pasai]
 status: historical
-related: [ache, lakan-tagkan, maynila, namayan, palawan, lakanmulaw]
+related: [ache, lakan-tagkan, maynila, namayan]
 sources: [huerta, william-henry-scott]
 timeline: []
 ---
@@ -11,12 +11,12 @@ timeline: []
 
 Fray Félix de Huerta describes Pasay as the illegitimate son of Lakan Tagkan of Namayan and a slave woman of Bornean lineage. Huerta associates him with the settlement later known by his name.
 
-## Novel canon
+## Development history
 
-Pasay is Ache's same-age companion and is fostered close to the Maynila household. He travels with Ache during the flight from Maynila and the southward voyage toward Brunei.
+An earlier novel outline recast Pasay as Ache's same-age companion during the flight to Brunei.
+
+Later Part I material from June 2026 instead uses Sulad as Ache's companion and protector.
 
 ## Uncertainty
 
-The novel compresses and repositions Pasay into Ache's generation. The historical Pasay material and the novel character must remain distinguishable.
-
-The possible Pasay–Pasai name connection is retained as a hypothesis, not an established etymology.
+The possible Pasay–Pasai name connection remains a hypothesis, not an established etymology.

@@ -1,9 +1,9 @@
 ---
 id: book-2-chapter-4
-name: Book II, Chapter 4: Losing
-aliases: [Losing]
+name: "Book II, Chapter 4: Losing"
+aliases: ["Losing"]
 status: fictional
-related: [book-2, ache, brunei]
+related: [ache, brunei]
 sources: []
 timeline: []
 book: book-2
@@ -14,4 +14,4 @@ places: [brunei]
 events: []
 ---
 - Ache suffers a military or political defeat during his Brunei apprenticeship.
-- Intended function: break the assumption that access to Bruneian power makes victory easy.
+- Access to Bruneian power does not make victory easy.

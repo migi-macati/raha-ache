@@ -1,9 +1,9 @@
 ---
 id: book-3-chapter-8
-name: Book III, Chapter 8: The Nephew
-aliases: [The Nephew]
+name: "Book III, Chapter 8: The Nephew"
+aliases: ["The Nephew"]
 status: fictional
-related: [book-3, ache, sulayman, maynila]
+related: [ache, sulayman, maynila]
 sources: [riquel-1571, relacion-1572]
 timeline: []
 book: book-3

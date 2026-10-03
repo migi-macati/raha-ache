@@ -1,9 +1,9 @@
 ---
 id: book-3-chapter-2
-name: Book III, Chapter 2: Cannonry (Lantaka)
-aliases: [Cannonry, Lantaka]
+name: "Book III, Chapter 2: Cannonry (Lantaka)"
+aliases: ["Cannonry (Lantaka)"]
 status: fictional
-related: [book-3, ache, maynila]
+related: [ache, maynila]
 sources: []
 timeline: []
 book: book-3

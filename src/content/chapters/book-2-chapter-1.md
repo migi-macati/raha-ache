@@ -1,15 +1,15 @@
 ---
 id: book-2-chapter-1
-name: Book II, Chapter 1: Brunei
-aliases: [Brunei]
+name: "Book II, Chapter 1: Brunei"
+aliases: ["Brunei"]
 status: fictional
-related: [book-2, ache, pasay, brunei]
+related: [ache, brunei]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-2
 chapterNumber: 1
 draftStatus: outline
-characters: [ache, pasay]
+characters: [ache]
 places: [brunei]
 events: [ache-leaves-for-brunei]
 ---

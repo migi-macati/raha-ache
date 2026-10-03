@@ -1,19 +1,18 @@
 ---
 id: book-1-chapter-7
-name: Book I, Chapter 7: The Visayan
-aliases: [The Visayan]
+name: "Book I, Chapter 7: The Visayan"
+aliases: ["The Visayan"]
 status: fictional
-related: [book-1, ache, pasay, lakanmulaw, palawan, mindoro]
+related: [ache, sulad, lakanmulaw, palawan, mindoro]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 7
 draftStatus: outline
-characters: [ache, pasay, lakanmulaw]
+characters: [ache, sulad, lakanmulaw]
 places: [palawan, mindoro, calamianes]
 events: []
 ---
-- Ache encounters a Visayan warrior or young chief during the flight.
+- Working encounter with a Visayan warrior or young chief.
 - Working name: Lakanmulaw.
-- Initial distrust because of Moro–Visayan conflict.
-- Shared danger forces cooperation.
+- Initial distrust gives way to cooperation under shared danger.

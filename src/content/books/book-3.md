@@ -1,6 +1,6 @@
 ---
 id: book-3
-name: Book III: The Cannon and Me
+name: "Book III: The Cannon and Me"
 aliases: [Book III, The Cannon and Me]
 status: fictional
 related: [ache, sulayman, lakandula, maynila, tondo, legazpi, martin-de-goiti]

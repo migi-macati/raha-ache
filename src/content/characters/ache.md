@@ -3,7 +3,7 @@ id: ache
 name: Ache
 aliases: [Raha Ache, Raja Ache, Rajah Ache, Raja Matanda, Rajah Matanda, Ladyang Matanda, Raha Ache el Viejo, Laya]
 status: historical
-related: [salalila, ache-mother, siripada, lakandula, sulayman, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
+related: [salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 sources: [aganduru-moriz, pigafetta, william-henry-scott, riquel-1571, relacion-1572, luis-camara-dery]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -21,12 +21,16 @@ By 1570 the Spanish encountered him as the senior ruler of Maynila, alongside hi
 
 Ache died in 1572 after baptism. The 1572 succession account says he had no inheriting children by his principal wife and that his property descended to a legitimate nephew.
 
-## Novel canon
+## Current novel canon
 
-The trilogy begins with Ache as a young heir who would rather study, sail, and invent than govern. His early arc moves from flight and revenge toward command, state-building, diplomacy, and succession.
+Part I places Ache at about sixteen to seventeen years old during the flight to Brunei. He is lean, intelligent, proud and restrained, a young heir with strong sailing ability and curiosity but discomfort with the responsibilities of rule.
 
-Book I places Pasay beside him as a same-age companion. The flight from Maynila is expanded into a pursuit through the Manila Bay–Mindoro–Palawan corridor before Ache reaches Brunei.
+Sulad is his principal young companion and protector in the most recent Part I material.
+
+## Earlier development
+
+An earlier outline used Pasay as Ache's same-age companion. That version is preserved on Pasay's page and in development notes but is not treated as the current companion assignment.
 
 ## Uncertainty
 
-The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relation between the Rajah Sulayman of Maynila and the leader killed at Bangkusay remains unresolved in the project.
+The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.

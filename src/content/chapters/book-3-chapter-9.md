@@ -1,9 +1,9 @@
 ---
 id: book-3-chapter-9
-name: Book III, Chapter 9: Welcome to Manila
-aliases: [Welcome to Manila]
+name: "Book III, Chapter 9: Welcome to Manila"
+aliases: ["Welcome to Manila"]
 status: fictional
-related: [book-3, ache, sulayman, lakandula, legazpi, martin-de-goiti, maynila, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
+related: [ache, sulayman, lakandula, legazpi, martin-de-goiti, maynila, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
 sources: [riquel-1571, relacion-1572, blair-robertson]
 timeline: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
 book: book-3

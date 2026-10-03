@@ -1,10 +1,10 @@
 ---
 id: book-1
-name: Book I: The Sea and Me
+name: "Book I: The Sea and Me"
 aliases: [Book I, The Sea and Me]
 status: fictional
-related: [ache, pasay, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei]
-sources: [aganduru-moriz, william-henry-scott, huerta]
+related: [ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei]
+sources: [aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
 ## Goals
@@ -13,7 +13,7 @@ timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 
 **Initial long goal:** Live quietly.
 
-**Changed short goal:** Kill or defeat the Tondo rival.
+**Changed short goal:** Defeat the Tondo threat.
 
 **Changed long goal:** Retake Maynila.
 
