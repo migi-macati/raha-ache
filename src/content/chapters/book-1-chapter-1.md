@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, maynila, pasig-river, story-architecture-standard]
+related: [ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
 sources: []
 timeline: []
 book: book-1
