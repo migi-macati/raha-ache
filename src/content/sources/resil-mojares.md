@@ -16,4 +16,4 @@ Mojares's lecture on Nick Joaquin supplies the essential historiographical quest
 
 Publisher record: [Ateneo de Manila University Press](https://unipress.ateneo.edu/product/interrogations-philippine-cultural-history). Review: [Jonathan Chua (2017)](https://archium.ateneo.edu/paha/vol7/iss1/6/). The full lecture was not independently read for this research pass; interpretations attributed to Mojares should be checked against its text before quoting.
 
-See [the dossier](/research/joaquin-philippine-becoming/).
+See [the dossier](/raha-ache/research/joaquin-philippine-becoming/).
