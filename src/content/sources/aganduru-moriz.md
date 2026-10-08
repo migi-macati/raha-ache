@@ -40,3 +40,11 @@ Siripada later sent a granddaughter to Ache. Aganduru says the marriage had alre
 ## Source status
 
 Aganduru wrote later than the 1521 expedition. His narrative contains information absent from the contemporary expedition accounts and should be compared with Pigafetta, Albo, Mafra, and other evidence.
+
+## Source-critical qualification
+
+This account was written in the **seventeenth century**, approximately a century after the 1521 episode. Aganduru Moriz did not witness the encounter. His unusually detailed account of Ache's childhood, maternal regency, the Tondo cousin, Brunei's fleet, return campaign, and marriage is valuable **retrospective testimony**, not independently corroborated biography.
+
+Its release story differs materially from Pigafetta: Aganduru says **del Cano** declined the gold offered by Ache, whereas Pigafetta says **Carvalho** accepted gold. Preserve both as conflicting accounts. The claimed force of nearly 200 vessels and 6,000 soldiers must be attributed to Aganduru, not asserted as a verified muster.
+
+Research task: locate the original Spanish passage, exact edition, chapter and folio/page; check whether Aganduru identifies his informants or earlier sources. Avoid quoting a secondary paraphrase as Aganduru's exact words.
