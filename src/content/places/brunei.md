@@ -4,7 +4,7 @@ name: Brunei
 aliases: []
 status: historical
 developmentStatus: current
-related: [ache, siripada, sultan-bolkiah, pazeculan, loue, sulu]
+related: [ache, siripada, sultan-bolkiah, pazeculan, loue, sulu, court-etiquette-and-gifts, religious-life-and-learning, languages-and-interpreters, maritime-command, maritime-trade, marriage-alliances-and-dependence]
 sources: [aganduru-moriz, pigafetta, william-henry-scott]
 timeline: [ache-leaves-for-brunei, ache-brunei-command, encounter-1521]
 ---
