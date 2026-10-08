@@ -23,6 +23,7 @@ const bonusChapters = chapters
   .sort((a,b)=>a.data.chapterNumber-b.data.chapterNumber);
 
 const unresolvedResearch = research.filter((item)=>item.data.status==='uncertain').length;
+const outlineIds = new Set(research.map((item)=>item.data.id));
 const characterNames=new Map(characters.map((item)=>[item.data.id,item.data.name]));
 const unassignedPov=[...activeChapters,...bonusChapters].filter((chapter)=>chapter.data.pov.length===0).length;
 const draftCounts = ['outline','draft','revision','final'].map((status)=>({
@@ -93,6 +94,7 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
             </div>
             <div class="manuscript-actions">
               <a href={withBase(`chapters/${chapter.data.id}/`)}>Read</a>
+              {outlineIds.has(`${chapter.data.id}-outline`) && <a href={withBase(`research/${chapter.data.id}-outline/`)}>Outline</a>}
               <a href={`${repoUrl}/edit/main/src/content/chapters/${chapter.id}.md`} target="_blank" rel="noreferrer">Edit source</a>
             </div>
           </article>
@@ -124,6 +126,7 @@ const statusLabel=(value)=>String(value??'working').replaceAll('-',' ');
             </div>
             <div class="manuscript-actions">
               <a href={withBase(`chapters/${chapter.data.id}/`)}>Read</a>
+              {outlineIds.has(`${chapter.data.id}-outline`) && <a href={withBase(`research/${chapter.data.id}-outline/`)}>Outline</a>}
               <a href={`${repoUrl}/edit/main/src/content/chapters/${chapter.id}.md`} target="_blank" rel="noreferrer">Edit source</a>
             </div>
           </article>

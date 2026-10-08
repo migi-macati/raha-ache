@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "lastCompleted": "book-1-chapter-1",
+  "nextChapterId": "book-1-chapter-2",
+  "completedChapterPasses": 1,
+  "cycleNumber": 1,
+  "completedAtLocalDate": "2026-10-08",
+  "notes": "Advance only when prose and checkpoint are committed together; after Book III Bonus Chapter 12 return to Book I Chapter 1."
+}
