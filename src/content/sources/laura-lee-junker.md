@@ -16,4 +16,4 @@ Junker's synthesis of archaeological and historical evidence describes flexible 
 
 For Ache: model authority as contingent on personal followings, patronage, alliances, accessible surplus and prestige, not necessarily fixed territorial bureaucracy. Different communities have agency and can resist both Ache and Brunei.
 
-Source: [University of Hawai'i Press / JSTOR book entry](https://www.jstor.org/stable/j.ctt6wr1cq). See [the dossier](/research/joaquin-philippine-becoming/).
+Source: [University of Hawai'i Press / JSTOR book entry](https://www.jstor.org/stable/j.ctt6wr1cq). See [the dossier](/raha-ache/research/joaquin-philippine-becoming/).
