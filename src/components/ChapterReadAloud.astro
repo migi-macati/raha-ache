@@ -20,7 +20,7 @@
 .prose .speech-active{background:rgba(224,183,70,.2);border-radius:3px}
 </style>
 <script is:inline>
-(() => {
+function initializeChapterReadAloud() {
   const panel=document.querySelector('[data-read-aloud]');
   const prose=document.querySelector('[data-chapter-prose]');
   if(!panel||!prose)return;
@@ -60,5 +60,10 @@
   rate.addEventListener('change',()=>{if(active){session++;synth.cancel();speak();}});
   voiceSelect.addEventListener('change',()=>{if(active){session++;synth.cancel();speak();}});
   window.addEventListener('pagehide',reset,{once:true});
-})();
+}
+if(document.readyState==='loading'){
+  document.addEventListener('DOMContentLoaded',initializeChapterReadAloud,{once:true});
+}else{
+  initializeChapterReadAloud();
+}
 </script>
