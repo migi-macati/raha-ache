@@ -4,8 +4,8 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
-sources: [aganduru-moriz, pigafetta]
+related: [joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
 ## Story promise
@@ -307,3 +307,14 @@ Her arc should have independent stakes and judgment rather than existing only as
 ## Carry-forward into Book III
 
 Book II delivers Ache to the edge of the restoration conflict. Book III must test whether the skills that win campaigns can build a durable political order.
+
+## Historiographical throughline: technology, command, and the price of expansion
+
+[The Nick Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) frames Book II's cultural encounters and technologies without accepting technological determinism or a hierarchy of civilizations.
+
+- **Chapters 1–4:** Bruneian court rank, sea knowledge, foreign goods, faith, kinship, training and logistics are parts of a sophisticated political system with its own rivalries. Jamil, Hasan, Safi and Laila Nur judge Ache by their interests, not his role as the future protagonist.
+- **Chapters 5–6:** Loue's population and allies have interests distinct from rival kings. Naval technique and tactical victory reveal capacities while producing costs to others. “Piracy” and “tribute” need explicitly situated viewpoints.
+- **Chapters 7–9:** The European ships in 1521 are materially unfamiliar and dangerous; the encounter does not demonstrate a European monopoly on invention or civilized order. Keep firsthand reports, reported speech and invented psychological reconstruction apart.
+- **Chapter 10:** Ache's return carries irreversible Bruneian experiences, obligations and new practices. Home is not a pure origin to which identity can be reset.
+
+**Character test:** Ache becomes a commander when he learns that his victories commit other people's lives and resources. This is where capability stops being a sufficient moral justification for conquest.
