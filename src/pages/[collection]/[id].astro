@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import FeedbackPanel from '../../components/FeedbackPanel.astro';
+import ChapterReadAloud from '../../components/ChapterReadAloud.astro';
 import { render } from 'astro:content';
 import { entityIndex, getEverything, referencedIds } from '../../lib/entities';
 import { withBase } from '../../lib/base';
@@ -180,7 +181,8 @@ const bookBonusChapters = collection === 'books'
 
     {data.aliases?.length > 0 && <p class="meta aliases"><strong>Also known as</strong> {data.aliases.join(' · ')}</p>}
 
-    <div class="prose"><Content /></div>
+    {collection === 'chapters' && <ChapterReadAloud />}
+    <div class="prose" data-chapter-prose={collection === 'chapters' ? '' : undefined}><Content /></div>
 
     {collection === 'books' && bookChapters.length > 0 && (
       <section class="connections">
