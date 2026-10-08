@@ -57,3 +57,20 @@ The novel can dramatize Ache's arrival at Brunei, military apprenticeship, and l
 ### Source hierarchy
 
 Pigafetta is contemporary for events experienced aboard the expedition but relies on reports for the commander's earlier actions. Aganduru Moriz is later and may preserve otherwise lost material, but its details should not be silently elevated to eyewitness status. Mafra should be evaluated separately once the precise passage is located. The distinction affects the chronology, royal family tree, and how much of Ache's early career must be explicitly fictionalized.
+
+## Maritime political geography and military interpretation
+
+Pigafetta's account links a **Luzon royal son**, **Brunei's captain-general**, a contested Borneo settlement called **Laoe**, and a rival allegiance to the **king of Java Major**. The text supports a political struggle over obedience but does not show that Java's ruler directly administered Loue, or that the rival was the late Majapahit court. The report comes from the Europeans' understanding of a campaign they did not witness. [Pigafetta, 29 July 1521](https://philippinediaryproject.com/1521/07/29/29th-of-july-1521/).
+
+### Trade and mobility
+
+Ptak distinguishes a northern route via the Borneo coast, Balabac and Sulu, and a route via Luzon, Mindoro and the Calamianes; both could reach the northern Moluccas. These are scholarly reconstructions of maritime movement, not documented itineraries for Ache's fleet. [Ptak (1992)](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+
+### Story constraints
+
+- **Documented report:** A commander associated with Luzon and Brunei, conflict over Loue's allegiance, and a major maritime encounter in 1521.
+- **Plausible reconstruction:** Dependence on pilots, monsoon windows, crew loyalty, victualling, safe anchorages, court rivalries, and the politics of coastal tribute.
+- **Not established:** Exact Loue coordinates; Ache's order of battle at Loue; ship-by-ship specifications; a fixed Brunei–Maynila tribute regime; the identity of Java Major's king; a continuous Bruneian-controlled sea lane.
+- **Narrative opportunity:** Ache's loyalty to Brunei can clash with his obligations to Maynila, while the people of Loue can contest the legitimacy of either external claim. Keep their agency visible.
+
+Further reading: [Heidi K. Gloria, *Trade and Politics in Mindanao-Sulu, Moluccas and Bornay (Brunei), 14th–16th Centuries*](https://ejournals.ph/article.php?id=14622); [Dadi Darmadi, Brunei's trade and political history](https://studiaislamika.ppimcensis.or.id/index.php/studia-islamika/article/view/1390).
