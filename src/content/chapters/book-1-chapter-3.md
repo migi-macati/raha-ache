@@ -148,7 +148,9 @@ I could not imagine why. I was about to find out.
 
 * * *
 
-The Bruneian vessel rode low against the landing, its crew fighting the current with poles. A man with a blue cord around his arm stood across the gangplank, a tally board in one hand and a spearman beside him.
+The Bruneian vessel rode low beside the landing, too heavily laden to come fully against the muddy shelf. Two crewmen pushed long poles into the riverbed while another held a stern line taut around a post. The gangplank lay across the deck, still out of reach of the bank. A man with a blue cord around his arm stood at the landing's edge, a tally board in one hand and a spearman beside him.
+
+A pole slipped. One of Hamid's men swore and drove it down again. The ship moved a hand's breadth toward the mud before the line checked it.
 
 “This boat has already paid,” the captain said. “I will not buy the same stretch of water twice.”
 
@@ -176,7 +178,9 @@ The collector turned. “The appointed boatmen.”
 
 I felt my ears warm. They had pulled the stakes because of my accident.
 
-Hamid leaned across the rail. “I have goods for your household and people upriver. If I miss this tide, the cargo waits another day. Your quarrel can wait longer than my customers.”
+Hamid leaned across the rail. “I have goods for your household and people upriver. The water is falling. Soon my men will be standing in the mud holding this hull away from the bank, and I will have to move her before she sits on it. Your quarrel can wait longer than my customers.”
+
+One of the polemen called to him. Hamid answered without looking away from me. The stern line creaked under another pull.
 
 I wanted to order the collector away. He had a spear and a claim to authority. I had a name and a mother who had warned me not to mistake those things for a solution.
 
@@ -208,7 +212,9 @@ My mother was hearing a quarrel over a marriage gift when I found her. She sent 
 
 “Because guards can move a man. They cannot tell us who sent him.”
 
-She unwrapped a narrow strip of patterned cloth. “Hamid carried this to me from my father when I was newly married. He will remember it.”
+She unwrapped a narrow strip of patterned cloth, bright in places where its folds had protected the dye. It was not the worn cloth with my father's household sign, which I still carried inside my sash. This one bore a pattern I had seen on gifts from across the sea.
+
+“Hamid carried this to me from my father when I was newly married. He will remember it.”
 
 “Siripada?”
 
@@ -234,6 +240,16 @@ Hamid touched the cloth when I showed it to him.
 
 He gave me the tally from the northern landing. His men had paid in cloth. Our steward could recognize the mark; Ula could name the people who had cleared the southern passage.
 
+The collector's eyes passed over Ula as though she were not there. I remembered asking, at dawn, for help in judging rightly. It would have been easy to hear only the captain and the men with weapons.
+
+“Ula,” I said, “will you tell them what you saw when the stakes were cleared?”
+
+“I will tell what I saw,” she answered. “I will not tell what you wish I had seen.”
+
+“Then tell that.”
+
+She named the boatmen who had worked the passage and the household that had lent the ropes. The fisherman supplied the names of two others. Our steward knew one of them and sent a boy to fetch him.
+
 I asked the collector to name the officer who had authorized his charge.
 
 “The officers of the crossing,” he said.
@@ -242,17 +258,23 @@ I asked the collector to name the officer who had authorized his charge.
 
 He looked toward his spearman.
 
-The falling tide pulled at Hamid's ship. I could argue until dark and still lose the boat. So I told our steward to write down what everyone would attest: the northern payment, the disputed southern charge, the witnesses who had cleared the channel, and the collector's refusal to name an officer.
+The water dropped against Hamid's hull. The gangplank still could not reach the bank. I could argue until dark and lose the boat without settling anything.
+
+“Say the claims aloud,” I told our steward. “Let each person here hear what is being disputed.”
+
+He held up the captain's northern tally and recited the payment Hamid claimed to have made. He named the disputed charge, then called Ula and the fisherman forward to speak for the work they had witnessed. When he asked who had ordered the second collection, the man with the blue cord still gave no name. The steward made a simple mark beside each claim on his board, and the witnesses repeated what they would stand by before my mother and Tondo.
+
+“You have heard them,” I told the collector. “If I have misstated anything, say so now.”
 
 “You cannot dismiss the charge,” the man protested.
 
-“I have not dismissed it. I have recorded it. We can bring the dispute before my mother and Tondo together. Will you say this account is false?”
+“I have not dismissed it. These people have spoken before witnesses. We can bring the dispute before my mother and Tondo together. Which of their claims will you deny?”
 
 He looked at Hamid's tally, then at Ula and the fisherman, who had followed us from the nets. He could deny one man's word, perhaps. Not all of them without naming the authority behind him.
 
 “The boat may unload while the matter is heard,” he said.
 
-Hamid shouted to his crew. Poles struck mud, the gangplank dropped, and the first bundle came ashore before the water fell too low.
+Hamid shouted to his crew. The stern line eased. A poleman pushed the vessel close enough for the gangplank to find firm ground, and the first bundle came ashore while there was still water under the laden hull.
 
 Sulad let out a breath.
 
@@ -300,7 +322,7 @@ I thought of Ula's thread on the fishing stake, Sulad's spear, the words I used 
 
 He left me with that.
 
-Sulad arrived with a carpenter's estimate for our outrigger. We carried the broken arm past the landing together. Upstream, three new poles stood on the Maynila bank, each bound with blue cord.
+Sulad arrived with a carpenter's estimate for our outrigger. We carried the broken arm past the landing together. Upstream, three new poles stood in a line along the Maynila bank, at the edge where boats would bring their mooring lines ashore. Each was bound with blue cord.
 
 They were not fishing stakes.
 
