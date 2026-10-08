@@ -137,7 +137,7 @@ Scott's reconstruction gives a specifically Tagalog social world with kinship, d
 
 Reid describes a dynamic “Age of Commerce” marked by trade, cities and new religious and political affiliations across Southeast Asia. This regional perspective makes Brunei a political world in its own right, not a European-style civilization ahead of an immature Luzon. [Reid](https://yalebooks.co.uk/book/9780300047509/southeast-asia-in-the-age-of-commerce-1450-1680/).
 
-Ache's reported Brunei family connection, service and naval role are separately discussed in [the archive's Brunei relationship audit](/research/brunei-relationship/). **Kinship, Muslim affiliation and military service do not on their own prove effective Bruneian sovereignty over all Maynila.** A royal court can claim influence without administering every harbor.
+Ache's reported Brunei family connection, service and naval role are separately discussed in [the archive's Brunei relationship audit](/raha-ache/research/brunei-relationship/). **Kinship, Muslim affiliation and military service do not on their own prove effective Bruneian sovereignty over all Maynila.** A royal court can claim influence without administering every harbor.
 
 **Consequence:** Ache is a provincial aristocrat in one setting and a useful foreign kinsman in another. Brunei teaches him alternate methods of organization but has its own dependencies and violent politics.
 
@@ -168,7 +168,7 @@ Avoid treating each as a binary with one modern answer. Let characters incur cos
 
 ## IV. Book I — The King of Luzon: the danger of mistaking fragmentation for weakness
 
-**Existing book promise and resolution remain unchanged:** an inherited prince loses Maynila's security, escapes through the Mindoro–Palawan corridor and reaches Brunei at Chapter 10. [Book I](/books/book-1/).
+**Existing book promise and resolution remain unchanged:** an inherited prince loses Maynila's security, escapes through the Mindoro–Palawan corridor and reaches Brunei at Chapter 10. [Book I](/raha-ache/books/book-1/).
 
 **Core interpretation:** Tondo, Maynila and related river communities are not inert fragments waiting for a great unifier. They contain conflicting claims to legitimate rule.
 
@@ -191,7 +191,7 @@ Avoid treating each as a binary with one modern answer. Let characters incur cos
 
 ## V. Book II — Conquest of the Seas: the danger of equating scale with justice
 
-**Existing book promise and resolution remain unchanged:** Ache earns command in Brunei, encounters Loue and the Europeans in 1521, recovers from defeat and chooses return; Maynila is not yet retaken. [Book II](/books/book-2/).
+**Existing book promise and resolution remain unchanged:** Ache earns command in Brunei, encounters Loue and the Europeans in 1521, recovers from defeat and chooses return; Maynila is not yet retaken. [Book II](/raha-ache/books/book-2/).
 
 **Core interpretation:** Brunei is an independent setting of competing traditions and interests. Naval capability cannot settle the morality of command.
 
@@ -210,11 +210,11 @@ Avoid treating each as a binary with one modern answer. Let characters incur cos
 
 **Character progress:** Jamil represents practiced institutional knowledge; Hasan complicates religious and cosmopolitan belonging; Safi questions privilege; Laila Nur embodies an independent political future, not a plot reward; allies in Sulu/Mindanao interrogate the cost of Bruneian expansion.
 
-**Source constraint:** the archive distinguishes what Pigafetta actually reported about a Luzon royal son, Brunei command and the 1521 expedition from later identifications of the unnamed commander with Ache. Keep that distinction through every draft. [Existing source audit](/research/brunei-relationship/).
+**Source constraint:** the archive distinguishes what Pigafetta actually reported about a Luzon royal son, Brunei command and the 1521 expedition from later identifications of the unnamed commander with Ache. Keep that distinction through every draft. [Existing source audit](/raha-ache/research/brunei-relationship/).
 
 ## VI. Book III — The Kingdom United: test Joaquin, do not stage a proof of Joaquin
 
-**Existing book promise and resolution remain unchanged:** recover Maynila in Chapter 2, negotiate Tondo in Chapter 3, build institutions, then resolve a *fictional* internal coalition crisis by Chapter 10. The Spanish contact and Ache's death remain bonus Chapters 11 and 12. [Book III](/books/book-3/).
+**Existing book promise and resolution remain unchanged:** recover Maynila in Chapter 2, negotiate Tondo in Chapter 3, build institutions, then resolve a *fictional* internal coalition crisis by Chapter 10. The Spanish contact and Ache's death remain bonus Chapters 11 and 12. [Book III](/raha-ache/books/book-3/).
 
 **Core interpretation:** to build wider order is to redistribute coercive capacity. The trilogy's most important political test comes from communities that have a reason not to be incorporated.
 
@@ -313,6 +313,6 @@ Ache remains dominant. Secondary voices should contest his interpretation rather
 - Laura Lee Junker, *Raiding, Trading, and Feasting: The Political Economy of Philippine Chiefdoms* (University of Hawai'i Press, 1999). [JSTOR](https://www.jstor.org/stable/j.ctt6wr1cq).
 - Anthony Reid, *Southeast Asia in the Age of Commerce, 1450–1680*, vols. 1–2 (Yale University Press, 1988, 1993). [Publisher/JSTOR](https://www.jstor.org/stable/j.ctt1cc2k66).
 - Elsa Clavé and Arlo Griffiths, “The Laguna Copperplate Inscription: Tenth-Century Luzon, Java, and the Malay World” (2022). [Philippine Studies](https://archium.ateneo.edu/phstudies/vol70/iss2/2/).
-- Consult the archive's [existing primary-source audit](/research/source-audit/), [Maynila–Tondo–Namayan audit](/research/manila-tondo-namayan/), and [Brunei relationship audit](/research/brunei-relationship/) for original testimony and unresolved identities.
+- Consult the archive's [existing primary-source audit](/raha-ache/research/source-audit/), [Maynila–Tondo–Namayan audit](/raha-ache/research/manila-tondo-namayan/), and [Brunei relationship audit](/raha-ache/research/brunei-relationship/) for original testimony and unresolved identities.
 
 **Citation discipline:** hyperlinks identify bibliographic sources and accessible studies; they are not a claim that complete copyrighted books were downloaded and checked line by line. Strong claims about specific sixteenth-century events need the appropriate contemporary evidence, independently from Joaquin's cultural criticism.
