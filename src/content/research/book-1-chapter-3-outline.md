@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, ache-mother, maynila, namayan, brunei]
+related: [book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, ache-mother, nakhoda-hamid, maynila, namayan, brunei]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: []
 ---
