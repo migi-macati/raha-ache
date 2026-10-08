@@ -3,8 +3,8 @@ id: manila-tondo-namayan
 name: Maynila, Tondo, and Namayan
 aliases: []
 status: uncertain
-related: [maynila, tondo, namayan, pasig-river, laguna-de-bay]
-sources: [william-henry-scott, huerta]
+related: [joaquin-philippine-becoming, maynila, tondo, namayan, pasig-river, laguna-de-bay]
+sources: [nick-joaquin, laura-lee-junker, william-henry-scott, huerta]
 timeline: []
 ---
 The trilogy treats the Pasig corridor as a multi-polity environment rather than a single centralized kingdom.
@@ -53,3 +53,9 @@ Do not convert a dynastic quarrel into a neat Tondo-versus-Manila national war. 
 - [Hawkley, *Transforming Manila*](https://journals.gmu.edu/whc/article/download/4400/2378?inline=1).
 - [*Boxer Codex* critical edition](https://brill.com/display/book/9789004301542/B9789004301542_010.xml).
 - William Henry Scott, *Barangay*; Luis Camara Dery, *A History of the Inarticulate*; Rodrigo de Aganduru Moriz, *Historia general*.
+
+## Interpretive audit: “A Heritage of Smallness”
+
+Nick Joaquin's argument that the distinct Manila Bay polities reveal an inherited aversion to political scale is **a cultural judgment, not a documented reason for their separate existence**. The question worth asking is what marriage ties, labor obligations, trade opportunities, competing followings, jurisdictions and political risks made aggregation or separation advantageous to the actors themselves.
+
+For the novel, use the historical problem—negotiating authority across Tondo, Maynila and neighboring communities—without adopting a national-psychology diagnosis. See the [Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) and Laura Lee Junker's work on aggregation and fragmentation. The tenth-century copperplate's regional network establishes deep history but **not** guaranteed continuity with sixteenth-century institutions.
