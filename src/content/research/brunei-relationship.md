@@ -3,8 +3,8 @@ id: brunei-relationship
 name: Ache and Brunei
 aliases: []
 status: uncertain
-related: [ache, siripada, sultan-bolkiah, brunei, ache-mother]
-sources: [aganduru-moriz, pigafetta, william-henry-scott, cesar-adib-majul]
+related: [joaquin-philippine-becoming, ache, siripada, sultan-bolkiah, brunei, ache-mother]
+sources: [nick-joaquin, laura-lee-junker, aganduru-moriz, pigafetta, william-henry-scott, cesar-adib-majul]
 timeline: [ache-leaves-for-brunei, ache-brunei-command, encounter-1521]
 ---
 Documented: Ache is closely connected to Brunei, is described as grandson of its ruler in Aganduru Moriz, and serves as captain-general or naval commander for the king of Brunei in the 1521 evidence.
@@ -74,3 +74,11 @@ Ptak distinguishes a northern route via the Borneo coast, Balabac and Sulu, and 
 - **Narrative opportunity:** Ache's loyalty to Brunei can clash with his obligations to Maynila, while the people of Loue can contest the legitimacy of either external claim. Keep their agency visible.
 
 Further reading: [Heidi K. Gloria, *Trade and Politics in Mindanao-Sulu, Moluccas and Bornay (Brunei), 14th–16th Centuries*](https://ejournals.ph/article.php?id=14622); [Dadi Darmadi, Brunei's trade and political history](https://studiaislamika.ppimcensis.or.id/index.php/studia-islamika/article/view/1390).
+
+## Interpretive audit: changing identity in Brunei
+
+Joaquin's emphasis on cultural becoming helps explain why Ache's years in Brunei should have durable consequences: multilingual contacts, kinship obligations, Muslim institutions, maritime technologies and competing forms of court authority change what he knows and whom he owes. But **Brunei is neither an automatic higher stage of civilization nor proof that Maynila is a Bruneian province**.
+
+In Book II, distinguish what Ache learns from what he actually acquires the power to command. Model Loue's population and rival allegiances as autonomous participants rather than prizes of larger states. The European ships of 1521 expand the uncertainty of an already interconnected Asian maritime world.
+
+See [Joaquin and Philippine Becoming](/raha-ache/research/joaquin-philippine-becoming/) and [the existing source distinctions above](#comparing-the-1521-source-traditions).

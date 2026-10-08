@@ -4,8 +4,8 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
-sources: [aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
+related: [joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
 ## Story promise
@@ -327,3 +327,15 @@ Her perspective should be developed independently rather than used only as symbo
 There is no Book IV required to complete Book III's invented dramatic promise.
 
 Bonus Chapters 11–12 show history imposing a new order after Ache's own state-building arc has already reached resolution.
+
+## Historiographical throughline: the politics of “becoming”
+
+[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) supplies Book III's central intellectual tension. Ache's institutional reforms offer real benefits, but Joaquin's “heritage of smallness” is **not** the narrative's verdict on those who resist them.
+
+- **Chapters 1–3:** Restoration is a new political settlement, not recovery of an untouched past. Lakandula's parallel authority and Tondo's claims are credible political alternatives, not proof of fragmentation-as-failure.
+- **Chapters 4–8:** Artillery, a fortified port, ledgers, councils and delegated authority require labor, money, skills and compliance. Show who gains from each system and who loses control; carefully distinguish attested technologies from fictional institutions.
+- **Chapters 9–10:** The fictional coalition crisis must expose specific grievances. Ache succeeds because he corrects and shares authority, not because everyone submits to a prophetic united nation. Sulayman's and Lakandula's decisions must matter independently.
+- **Bonus Chapter 11:** Treat the Spanish expeditions and 1570–71 upheaval as encounters with an existing, historically active world. Do not frame conquest as a civilizational rescue.
+- **Bonus Chapter 12:** Baptism, accommodation, succession and death unfold under unequal choices and incomplete evidence. The future “Filipino” is a category of retrospective historical interpretation, not Ache's stated destination.
+
+**Character test:** Ache must decide what parts of his own creation he will surrender so others can preserve and adapt it. The core book resolves at Chapter 10; the historically grounded coda remains Chapters 11–12.
