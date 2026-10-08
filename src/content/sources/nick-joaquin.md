@@ -29,4 +29,4 @@ The 1988 title is verified by [Google Books](https://books.google.com/books/abou
 
 ## Novel use
 
-A historiographical interlocutor: adopt the questions Joaquin asks about technology, cultural change, scale and belonging; do not import his retrospective labels or national-psychology judgments into a sixteenth-century character's mouth. See [the full dossier](/research/joaquin-philippine-becoming/).
+A historiographical interlocutor: adopt the questions Joaquin asks about technology, cultural change, scale and belonging; do not import his retrospective labels or national-psychology judgments into a sixteenth-century character's mouth. See [the full dossier](/raha-ache/research/joaquin-philippine-becoming/).
