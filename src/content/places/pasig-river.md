@@ -4,7 +4,7 @@ name: Pasig River
 aliases: []
 status: historical
 developmentStatus: current
-related: [maynila, tondo, namayan, manila-bay, ache]
+related: [maynila, tondo, namayan, manila-bay, ache, book-1-chapter-3-historical-audit]
 sources: []
 timeline: []
 ---
