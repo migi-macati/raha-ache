@@ -310,7 +310,7 @@ Book II delivers Ache to the edge of the restoration conflict. Book III must tes
 
 ## Historiographical throughline: technology, command, and the price of expansion
 
-[The Nick Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) frames Book II's cultural encounters and technologies without accepting technological determinism or a hierarchy of civilizations.
+[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) frames Book II's cultural encounters and technologies without accepting technological determinism or a hierarchy of civilizations.
 
 - **Chapters 1–4:** Bruneian court rank, sea knowledge, foreign goods, faith, kinship, training and logistics are parts of a sophisticated political system with its own rivalries. Jamil, Hasan, Safi and Laila Nur judge Ache by their interests, not his role as the future protagonist.
 - **Chapters 5–6:** Loue's population and allies have interests distinct from rival kings. Naval technique and tactical victory reveal capacities while producing costs to others. “Piracy” and “tribute” need explicitly situated viewpoints.
