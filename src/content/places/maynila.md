@@ -4,7 +4,7 @@ name: Maynila
 aliases: [Manila]
 status: historical
 developmentStatus: current
-related: [ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics]
+related: [ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics, social-rank-and-households, food-clothing-and-material-life]
 sources: [aganduru-moriz, riquel-1571, relacion-1572]
 timeline: [ache-father-dies, tondo-encroachment, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 ---
