@@ -42,3 +42,18 @@ The novel can dramatize Ache's arrival at Brunei, military apprenticeship, and l
 - [*Boxer Codex*, Brunei section](https://brill.com/display/book/9789004301542/B9789004301542_010.xml) (late sixteenth century).
 - [*Islam in Southeast Asia*, Brunei](https://www.cambridge.org/core/books/abs/islam-in-southeast-asia/brunei/F35A97322EFC8B906FFEDC7E11E6BAE3).
 - [Hawkley, *Transforming Manila*](https://journals.gmu.edu/whc/article/download/4400/2378?inline=1).
+
+## Comparing the 1521 source traditions
+
+| Issue | Pigafetta (expedition participant) | Aganduru Moriz (seventeenth-century retrospective) | Editorial decision |
+| --- | --- | --- | --- |
+| Prince | Unnamed son of the ruler of Luzon; captain-general for Brunei | Places Ache in a longer Brunei family narrative | The identification with Ache is a synthesis, not Pigafetta's explicit name |
+| Military mission | Reports a campaign against Loue for allegiance to Java Major | Gives Ache a larger Bruneian military career | Do not invent precise campaign dates or treat the reported cause as independently witnessed |
+| Release | Carvalho accepts gold | Del Cano refuses gold | Preserve disagreement; do not combine the two |
+| Family dispute | No account of Ache's childhood and Tondo encroachment | Mother rules, unnamed cousin in Tondo encroaches | Attribute to the later narrative |
+| Royal genealogy | Brunei ruler's designation needs direct textual comparison | Ache's grandfather called Siripada | Bolkiah identification remains interpretive |
+| Marriage mission | Not established by this summary | Describes arranged cousin marriage | Mafra's alleged passage needs edition/page verification |
+
+### Source hierarchy
+
+Pigafetta is contemporary for events experienced aboard the expedition but relies on reports for the commander's earlier actions. Aganduru Moriz is later and may preserve otherwise lost material, but its details should not be silently elevated to eyewitness status. Mafra should be evaluated separately once the precise passage is located. The distinction affects the chronology, royal family tree, and how much of Ache's early career must be explicitly fictionalized.
