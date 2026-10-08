@@ -81,4 +81,4 @@ Joaquin's emphasis on cultural becoming helps explain why Ache's years in Brunei
 
 In Book II, distinguish what Ache learns from what he actually acquires the power to command. Model Loue's population and rival allegiances as autonomous participants rather than prizes of larger states. The European ships of 1521 expand the uncertainty of an already interconnected Asian maritime world.
 
-See [Joaquin and Philippine Becoming](/research/joaquin-philippine-becoming/) and [the existing source distinctions above](#comparing-the-1521-source-traditions).
+See [Joaquin and Philippine Becoming](/raha-ache/research/joaquin-philippine-becoming/) and [the existing source distinctions above](#comparing-the-1521-source-traditions).
