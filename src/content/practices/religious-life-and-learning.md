@@ -4,7 +4,7 @@ name: Religious life and learning
 aliases: []
 status: uncertain
 developmentStatus: current
-related: [ache, maynila, tondo, brunei]
+related: [ache, maynila, tondo, brunei, book-1-chapter-3-historical-audit]
 sources: [william-henry-scott, pigafetta, aganduru-moriz]
 timeline: []
 ---
