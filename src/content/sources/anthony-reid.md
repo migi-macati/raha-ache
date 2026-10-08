@@ -14,4 +14,4 @@ citation: "Anthony Reid, Southeast Asia in the Age of Commerce, 1450–1680, 2 v
 ---
 Reid treats maritime Southeast Asia as a region transformed by trade, cities, changing state structures, and the spread of scriptural religions well before and during Europe's arrival. Apply region-level tendencies carefully to specific Luzon and Brunei settings.
 
-Source: [Yale University Press](https://yalebooks.co.uk/book/9780300047509/southeast-asia-in-the-age-of-commerce-1450-1680/) and [JSTOR](https://www.jstor.org/stable/j.ctt1cc2k66). See [the dossier](/research/joaquin-philippine-becoming/).
+Source: [Yale University Press](https://yalebooks.co.uk/book/9780300047509/southeast-asia-in-the-age-of-commerce-1450-1680/) and [JSTOR](https://www.jstor.org/stable/j.ctt1cc2k66). See [the dossier](/raha-ache/research/joaquin-philippine-becoming/).
