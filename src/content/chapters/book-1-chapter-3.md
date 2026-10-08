@@ -4,13 +4,13 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, ula, ache-mother, siripada, maynila, namayan, brunei, tondo, pasig-river, story-architecture-standard, book-1-chapter-3-outline]
+related: [ache, sulad, ula, ache-mother, siripada, nakhoda-hamid, maynila, namayan, brunei, tondo, pasig-river, story-architecture-standard, book-1-chapter-3-outline]
 sources: [aganduru-moriz]
 timeline: []
 book: book-1
 chapterNumber: 3
 draftStatus: draft
-characters: [ache, sulad, ula, ache-mother]
+characters: [ache, sulad, ula, ache-mother, nakhoda-hamid]
 places: [maynila, namayan, brunei, tondo, pasig-river]
 events: []
 pov: [ache]
@@ -148,126 +148,168 @@ I could not imagine why. I was about to find out.
 
 * * *
 
-The boat at the crossing had a high stern and a hull stained dark from long travel. Men stood along its sides with poles ready, holding it against a current that wanted to push it downstream. Bundles were stacked beneath a woven covering. A strip of cloth at the stern carried a mark I recognized from gifts my mother kept in her chamber.
+The Bruneian vessel rode low against the landing, its crew fighting the current with poles. A man with a blue cord around his arm stood across the gangplank, a tally board in one hand and a spearman beside him.
 
-Brunei.
+“This boat has already paid,” the captain said. “I will not buy the same stretch of water twice.”
 
-I had seen men from that distant court before. They came with cloth, news, prayers, arguments over prices, and stories of rivers broad enough to make ours seem like a ditch. They spoke words I could sometimes follow and sometimes only guess at. My mother listened to them with an attention she did not give every visitor.
+“Your payment was for the northern approach,” the collector answered. “This is the southern charge.”
 
-At the edge of the landing, two men blocked the boat's gangplank. One carried a tally board. The other had a spear.
+I recognized the mark on the captain's stern cloth. My mother kept gifts with that pattern in her chamber.
 
-The man with the board wore a blue cord around his arm.
+“Who are you?” I asked.
 
-“This boat has been counted,” I heard him say. “It has not been cleared.”
+“Nakhoda Hamid. Your mother knows my ship.” He looked me over. “You must be Ache.”
 
-“Count it again if counting pleases you,” answered a man aboard. “But do not ask me to pay for the same water twice.”
+“Then let him unload,” I told the collector.
 
-He was broad through the chest, his beard touched with gray, his clothing creased from days aboard. When he saw me, his expression changed, though he did not bow.
+“The common record must be agreed first.”
 
-“Is this the young lord of Maynila?”
+“Yesterday my mother allowed the clerks to compare records. She did not grant you a new charge on our shore.”
 
-“I am Ache.”
+“The charge maintains safe passage.”
 
-“Nakhoda Hamid,” he said. “Your mother knows my ship.”
+“Who cleared the channel?” Ula asked, arriving behind me.
 
-“Then why are you still here?”
+The collector turned. “The appointed boatmen.”
 
-“Because that man says my cargo belongs to him until he is satisfied.”
+“Name them. I would like to thank them. Our people pulled the broken stakes away themselves.”
 
-The collector lifted his board. “I said nothing of the sort.”
+I felt my ears warm. They had pulled the stakes because of my accident.
 
-“You said I could not unload it.”
+Hamid leaned across the rail. “I have goods for your household and people upriver. If I miss this tide, the cargo waits another day. Your quarrel can wait longer than my customers.”
 
-“Until the record is agreed.”
+I wanted to order the collector away. He had a spear and a claim to authority. I had a name and a mother who had warned me not to mistake those things for a solution.
 
-“Then we have reached the same place by different paths.”
+“Give me until the tide turns,” I told Hamid.
 
-I liked Hamid immediately.
+“Every young lord I know has said that.”
 
-The collector turned toward me. “The agreement with Tondo provides for a common record.”
-
-“At the crossing,” I said. “Not a new payment on our shore.”
-
-“The record must be kept somewhere.”
-
-“Then show me what you have recorded.”
-
-He held the board out without releasing it. There were marks for cargo and boats, and beside them a notation for passage. I could read our steward's signs well enough now to know that these were not his.
-
-“Who made these?”
-
-“I did.”
-
-“Under whose authority?”
-
-“The men responsible for safe passage.”
-
-“That is not a name.”
-
-His mouth tightened. “Ask your mother. She knows why we are here.”
-
-The steward arrived behind me, breathing hard. He carried our own tallies wrapped in cloth.
-
-“Did this captain pay already?” I asked him.
-
-“He says he did.”
-
-“I asked whether he did.”
-
-“The record from the northern landing says a payment was received.”
-
-Hamid spread his hands. “There. I am a very expensive man to count.”
-
-The collector pointed to the boat. “That payment was for the northern approach. This one is for the southern channel.”
-
-“Who cleared the southern channel?” a voice asked behind us.
-
-Ula had followed us with her basket.
-
-The collector looked at her as if she were a stone that had begun speaking.
-
-“I do not know you.”
-
-“You need not know me. You need only answer.”
-
-“The men who keep the river safe.”
-
-“Which men?”
-
-“The boatmen appointed for the work.”
-
-“Then call them. I would like to thank them. Yesterday our people dragged the broken stakes out of the water themselves.”
-
-The collector's eyes flicked to me.
-
-I felt heat rise in my face. Yesterday's accident had made the crossing less safe. If he was charging for clearing the channel, he might be able to point to the work I had caused.
-
-Hamid watched the exchange with growing impatience.
-
-“I have cargo for your household,” he said. “And other goods for people upriver. If I wait for the next tide, I lose another day. Those people do not care which shore owns this argument.”
-
-“Neither do I,” I said.
-
-“That is a dangerous answer for a prince.”
-
-I looked at the blue cord on the collector's arm. He had not drawn his spear. He did not need to. The boat could not unload while he stood there and our own steward refused to contradict him.
-
-“I will take this to my mother,” I said.
-
-Hamid's face fell.
-
-“Before the tide turns?” he asked.
-
-“I will be back.”
-
-“Every young lord I have ever met has promised that.”
-
-“Have any kept it?”
+“Did any keep his word?”
 
 “One.”
 
 “Then there is room for two.”
 
-He gave a short laugh, but it did not make him less angry.
+* * *
+
+My mother was hearing a quarrel over a marriage gift when I found her. She sent the disputants outside and listened to my account.
+
+“Can you prove he is collecting a second payment?” she asked.
+
+“He calls it a different charge.”
+
+“Then you must prove it is not owed. Do you have the captain's record?”
+
+“No.”
+
+“Go and get it.”
+
+“Why not send guards?”
+
+“Because guards can move a man. They cannot tell us who sent him.”
+
+She unwrapped a narrow strip of patterned cloth. “Hamid carried this to me from my father when I was newly married. He will remember it.”
+
+“Siripada?”
+
+“My father, yes. And a ruler across the sea, with troubles of his own.”
+
+“Would he help us against Tondo?”
+
+“Perhaps. But I will not summon my father over one detained boat. If you wish to know what Brunei might give you, learn first what you can do here.”
+
+She put the cloth in my hand.
+
+“Ask Ula who cleared the channel,” she added. “She knows more about the people who work it than half the men who claim to govern them.”
 
 * * *
+
+Hamid touched the cloth when I showed it to him.
+
+“I carried this before you were born,” he said. “Your mother argued even then.”
+
+“She still does.”
+
+“Good. I feared marriage had made her agreeable.”
+
+He gave me the tally from the northern landing. His men had paid in cloth. Our steward could recognize the mark; Ula could name the people who had cleared the southern passage.
+
+I asked the collector to name the officer who had authorized his charge.
+
+“The officers of the crossing,” he said.
+
+“Which officer?”
+
+He looked toward his spearman.
+
+The falling tide pulled at Hamid's ship. I could argue until dark and still lose the boat. So I told our steward to write down what everyone would attest: the northern payment, the disputed southern charge, the witnesses who had cleared the channel, and the collector's refusal to name an officer.
+
+“You cannot dismiss the charge,” the man protested.
+
+“I have not dismissed it. I have recorded it. We can bring the dispute before my mother and Tondo together. Will you say this account is false?”
+
+He looked at Hamid's tally, then at Ula and the fisherman, who had followed us from the nets. He could deny one man's word, perhaps. Not all of them without naming the authority behind him.
+
+“The boat may unload while the matter is heard,” he said.
+
+Hamid shouted to his crew. Poles struck mud, the gangplank dropped, and the first bundle came ashore before the water fell too low.
+
+Sulad let out a breath.
+
+“You won without a spear,” he said.
+
+“Are you disappointed?”
+
+“I was ready to use mine.”
+
+“I know.”
+
+“Next time, warn me when you intend to win by asking questions.”
+
+The collector passed close enough for me to see the blue cord tied around his arm.
+
+“You cleared one boat,” he said. “You have not cleared the river.”
+
+I knew he was right. Yet for one tide, people who owed me no obedience had chosen to stand beside me.
+
+* * *
+
+Hamid came to our hall after the unloading. He spoke with my mother in the language of her childhood. I understood enough to follow their laughter, and too little to know when they laughed at me.
+
+Later he found me beside our damaged outrigger.
+
+“You know the prayers your mother taught you,” he said. “Do you know how many men must eat before a fleet can sail?”
+
+“No.”
+
+“Then you know one thing worth knowing, and have many left.”
+
+“Would my grandfather receive me in Brunei?”
+
+“He would know whose son you are. That opens a door. It does not tell you what waits beyond it.”
+
+I thought of Ula's thread on the fishing stake, Sulad's spear, the words I used in prayer, and Hamid's ship. None had made the others useless. I had needed them all.
+
+“Will you teach me the words I missed tonight?” I asked.
+
+“When your mother allows it. You may also learn how to keep a ship's account.”
+
+“I know how to count.”
+
+“So does the man who detained my boat.”
+
+He left me with that.
+
+Sulad arrived with a carpenter's estimate for our outrigger. We carried the broken arm past the landing together. Upstream, three new poles stood on the Maynila bank, each bound with blue cord.
+
+They were not fishing stakes.
+
+“Those were not here this morning,” Sulad said.
+
+“No.”
+
+“Whose are they?”
+
+I looked toward the crossing.
+
+“I think we are about to find out.”
