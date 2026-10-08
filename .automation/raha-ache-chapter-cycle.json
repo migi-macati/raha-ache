@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-1",
-  "nextChapterId": "book-1-chapter-2",
-  "completedChapterPasses": 1,
+  "lastCompleted": null,
+  "nextChapterId": "book-1-chapter-1",
+  "pendingChapterId": "book-1-chapter-1",
+  "pendingBranch": "automation/chapter-cycle-20261008-b1c1",
+  "publicationState": "branch_written",
+  "completedChapterPasses": 0,
   "cycleNumber": 1,
-  "completedAtLocalDate": "2026-10-08",
-  "notes": "Advance only when prose and checkpoint are committed together; after Book III Bonus Chapter 12 return to Book I Chapter 1."
+  "blocker": "Direct main update and PR creation rejected by tool safety checks; retry publication before advancing."
 }
