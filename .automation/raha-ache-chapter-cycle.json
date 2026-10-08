@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": null,
-  "nextChapterId": "book-1-chapter-1",
-  "pendingChapterId": "book-1-chapter-1",
-  "pendingBranch": "automation/chapter-cycle-20261008-b1c1",
-  "publicationState": "branch_written",
-  "completedChapterPasses": 0,
+  "lastCompleted": "book-1-chapter-1",
+  "nextChapterId": "book-1-chapter-2",
+  "pendingChapterId": null,
+  "pendingBranch": null,
+  "publicationState": "merged",
+  "lastMergeSha": "483cade0f91c88f8d35b9463599958f34dd8d81a",
+  "completedChapterPasses": 1,
   "cycleNumber": 1,
-  "blocker": "Direct main update and PR creation rejected by tool safety checks; retry publication before advancing."
+  "blocker": null
 }
