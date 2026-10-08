@@ -278,10 +278,10 @@ Ache still lacks command, military credibility, and the force needed to reclaim 
 
 ## Historiographical throughline: inherited power and negotiated belonging
 
-[The Nick Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) is a **critical interpretive lens**, not a new source of historical facts about Ache. Its argument about how societies change is useful; its “heritage of smallness” thesis should be tested, not affirmed.
+[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) is a **critical interpretive lens**, not a new source of historical facts about Ache. Its argument about how societies change is useful; its “heritage of smallness” thesis should be tested, not affirmed.
 
 - **Chapters 1–4:** Show the Pasig communities as competent, commercially connected, internally diverse political actors. Ache's mother and Lakandula must have materially intelligible reasons for their choices; small-scale governance must not be narrated as collective inferiority.
 - **Chapters 5–9:** As Ache loses status, pilots, dependents, hosts and companions reveal forms of knowledge and authority that inheritance had kept him from seeing. The sea enlarges Ache's political imagination without implying that Maynila lacked one.
 - **Chapter 10:** Brunei exposes Ache to different forms of scale and court practice but is neither an automatic civilizational upgrade nor a guaranteed sovereign over Maynila.
 
-**Character test:** Ache's error is assuming his claim gives him command over a people; his growth comes from recognizing the obligations and consent on which command depends. Distinguish the later Aganduru Moriz story from attested 1521 testimony in the [Brunei evidence audit](/research/brunei-relationship/).
+**Character test:** Ache's error is assuming his claim gives him command over a people; his growth comes from recognizing the obligations and consent on which command depends. Distinguish the later Aganduru Moriz story from attested 1521 testimony in the [Brunei evidence audit](/raha-ache/research/brunei-relationship/).
