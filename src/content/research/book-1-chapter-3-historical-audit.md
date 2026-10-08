@@ -43,3 +43,50 @@ Ache's goal is to unload one vessel without provoking a fight. He succeeds provi
 **1589:** Juan de Plasencia's two Tagalog relations are dated 21 October 1589. Blair and Robertson, volume VII, pp. 169–170, describes witnessed judgments and cross-community arbitration; pp. 179–181 describes the ritual officiant termed *catolonan*. This supports a cautiously reconstructed witnessed settlement, but not a standardized written harbor tariff or Ula's specific status. [Read the printed English translation](https://www.gutenberg.org/cache/epub/13701/pg13701-images.html).
 
 **Next prose decisions:** Distinguish Chapter 2's paternal household cloth from Chapter 3's Bruneian token. Replace an unexplained written toll record with explicitly witnessed claims unless the writing medium is established. Give Ache's faith a consequence in his treatment of Ula, and keep Hamid's unloading a provisional outcome. These are narrative choices, not documented events. The existing prose remains a first pass; do not advance the checkpoint.
+
+## River-crossing geography and navigation audit — 8 October 2026, late pass
+
+### A. What the evidence establishes, and when
+
+**1570 voyage as narrated in the anonymous 20 April 1572 *Conquest of the Island of Luzon*:** Local interpreters/pilots warned Martín de Goiti's party that the coast approaching Menilla was dangerous and that **high tide was needed to enter the river** (Blair and Robertson, vol. III, printed pp. 72–73). The expedition sent men to sound the river mouth; its vessels later **crossed a bar at the entrance**, and the observer described a populated riverside settlement fronted by a palisade and Chinese trading vessels nearby (pp. 73–75). These are unusually useful *specific* observations for shallow-water navigation, anchoring, shore access, and the political importance of pilots. [Full translation with page markers](https://www.gutenberg.org/files/13616/13616-h/13616-h.htm), narrative near the headings and printed pp. 72–75.
+
+The same account mentions vessels carrying rice and salted fish in Manila Bay (pp. 71–72) and, later, the river as a route to upriver Cainta (the latter expedition occurred in 1571; see vol. III, around printed pp. 141–143). This supports a riverine-commercial setting, **not** Hamid's precise cargo, a sixteenth-century fixed tariff, or the exact layout of the fictional crossing. The 1572 text is a colonial expedition narrative, not an eyewitness account of Ache at age sixteen; its rhetoric, allegations and numbers are partisan and must not be reproduced as neutral fact.
+
+**Modern physical analogues, not sixteenth-century measurements:** Paronda, David and Apodaca (2019), “River flow pattern and heavy metals concentrations in Pasig River, Philippines as affected by varying seasons and astronomical tides,” *IOP Conference Series: Earth and Environmental Science* 344, 012049, [doi:10.1088/1755-1315/344/1/012049](https://doi.org/10.1088/1755-1315/344/1/012049), observed high-tide upstream backflow in the dry season and stronger seaward flow in the wet season at low tide. Herrera and Naito (2024), “Hydrodynamic Investigation of Laguna Lake,” *Proceedings of IAHS* 386, 95–102, [doi:10.5194/piahs-386-95-2024](https://doi.org/10.5194/piahs-386-95-2024), models interaction among lake level, winds, sea level and river discharge. Modern dams, dredging, reclamation, water abstraction, pollution and altered bathymetry mean **none** of these studies establishes an exact 1500s current, salinity, river width, landing, shoreline or sailing schedule.
+
+**Safe inference:** a loaded boat's draft, an exposed muddy landing, shifting tidal water levels, local pilot knowledge, poles and maneuvering room can create urgent constraints. **Unsafe inference:** a known sixteenth-century tide table, modern coordinates for the crossing, guaranteed reverse flow on a chosen day, or the assumption that every boat had to await high tide at every inland landing.
+
+### B. Evidence–inference–invention matrix
+
+| Detail in Chapter 3 | Classification | Editorial treatment |
+| --- | --- | --- |
+| Manila river entrance with a navigational bar and tide-sensitive approach | Attested for the 1570 expedition in a 1572 account | Use as historical *context*, not as a literal surveyed chart of Ache's youth. |
+| The Pasig links Manila Bay and the lake/interior | Geographic fact; riverine commerce supported by later primary evidence | Preserve the broad route, avoid precise precolonial tributary alignments. |
+| A heavily loaded vessel risks delay as water falls | Physically plausible inference | Specify its draft, where it grounds, and what crew can actually do. |
+| Hamid's ship, the Maynila-side landing and north/south charges | Novel invention | No implication that documented 1500s toll districts existed. |
+| The collector's blue cord, tally board, and three marked poles | Novel invention | Must be explained by Chapter 4 as an attempt to convert temporary access into authority. |
+| Tide timing and direction on this fictional morning | Unverified | Choose a scene-consistent water-level change; do not invent a dated tide prediction. |
+| Ula's local knowledge of the landing and cleared stakes | Fiction consistent with riverine labor | Let her testimony be about work she witnessed, not an omniscient claim about hydrology. |
+
+### C. Physical staging, to guide a targeted prose revision
+
+**Spatial model (fictional, deliberately not georeferenced):** Hamid has passed the bay entrance with local guidance and is held at a **Maynila-bank landing** on a navigable reach near the contested north-bank approach. A shallow muddy shelf limits how close a laden hull can come; crew members hold position with poles and a stern line. The plank is not yet securely landed. Smaller craft can move between banks while Hamid's deeper-laden hull cannot easily shift berths. This provides a concrete reason for urgency without requiring a second historically attested customs station.
+
+**Sequence and causality:**
+1. Before Ache arrives, crew members have tried to hold the vessel clear of mud while a collector blocks unloading. Show who is on the line, who is on the pole, and how much of the hull's side is exposed.
+2. Hamid knows from the boatmen that the falling water will leave the laden ship farther from usable bank; **this is a scene-specific judgment**, not a measured tide forecast. If the vessel has already cleared the bar, do not conflate entrance depth with the landing's shallows.
+3. Ula knows exactly which workers removed the broken stakes after Chapter 1's accident. Their unpaid or uncredited work exposes the collector's unsupported claim to have maintained the channel.
+4. Ache chooses to summon those witnesses, including people outside his household. The steward can *recite the competing claims before witnesses and mark a simple tally* if needed; avoid unspecified documentary writing. The collector concedes unloading **pending adjudication**, without surrendering Tondo's larger claim.
+5. On the next visit, the three blue-marked poles are **not** net-repair stakes. They are the physical evidence of a new jurisdictional assertion that Chapter 4 must explain. Show their placement relative to the landing so the reader understands why they matter.
+
+**Language/voice:** A knowledgeable boatman would distinguish grounding, depth, slack in a mooring line, and loss of a landing window. Avoid a modern harbor master's bureaucratic diction and technical exposition from Ache. Let Ache learn by observing a pole bite mud, a crewman's shouted correction, and the captain's irritation.
+
+### D. Revision gate and outstanding research
+
+- **Critical:** confirm the cloth tokens are two objects: the father's household-sign cloth handed to Ache in Chapter 2 versus Siripada's Bruneian token produced by the mother in Chapter 3. The current prose is ambiguous.
+- **Critical:** replace “told our steward to write down” unless a plausible physical medium and its social function are established. Witnessed oral agreement is the safer default; the Chapter 2 proposal for paired tallies can remain a fictional political device.
+- **Important:** make the faith theme change Ache's choice about whom to trust or protect, not simply his interior summary of plural practices. Avoid inventing formal theological positions for Ula.
+- **Important:** do not locate the scene using today's Intramuros streets, modern bridge locations, or the 1734 coastline as though they were a contemporary survey.
+- **Unresolved:** month/season, exact fictional berth and draft, Hamid's vessel type, material and provenance of the toll tally, and how Chapter 4 explains the blue poles.
+
+**Readiness:** research strengthened; first prose pass still needs targeted historical/continuity revision. This research branch is not proof that the chapter is merged or live. Chapter checkpoint remains at Book I Chapter 3.
