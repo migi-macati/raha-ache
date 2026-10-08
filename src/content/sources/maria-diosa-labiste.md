@@ -14,4 +14,4 @@ citation: "Ma. Diosa Labiste, 'The Philippines as Tool-Forged Nation: Revisiting
 ---
 Reassesses Joaquin's application of media and technology theory to colonial Philippine history. Useful for examining what tools alter, what political choices shape their effects, and how technology narratives can conceal coercion and labor.
 
-Source: [Plaridel journal abstract and bibliographic record](https://www.plarideljournal.org/article/the-philippines-as-tool-forged-nation-revisiting-nick-joaquins-use-of-marshall-mcluhans-medium-theory-to-reconstruct-colonial-history/). See [the dossier](/research/joaquin-philippine-becoming/).
+Source: [Plaridel journal abstract and bibliographic record](https://www.plarideljournal.org/article/the-philippines-as-tool-forged-nation-revisiting-nick-joaquins-use-of-marshall-mcluhans-medium-theory-to-reconstruct-colonial-history/). See [the dossier](/raha-ache/research/joaquin-philippine-becoming/).
