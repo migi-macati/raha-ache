@@ -4,8 +4,8 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
-sources: [aganduru-moriz, william-henry-scott]
+related: [joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
+sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
 ## Story promise
@@ -275,3 +275,13 @@ He should remain more than a flat villain: his interests, obligations, and inter
 ## Carry-forward into Book II
 
 Ache still lacks command, military credibility, and the force needed to reclaim Maynila. Brunei can provide opportunity, but Book II must determine whether Ache can earn what he needs rather than simply inherit it.
+
+## Historiographical throughline: inherited power and negotiated belonging
+
+[The Nick Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) is a **critical interpretive lens**, not a new source of historical facts about Ache. Its argument about how societies change is useful; its “heritage of smallness” thesis should be tested, not affirmed.
+
+- **Chapters 1–4:** Show the Pasig communities as competent, commercially connected, internally diverse political actors. Ache's mother and Lakandula must have materially intelligible reasons for their choices; small-scale governance must not be narrated as collective inferiority.
+- **Chapters 5–9:** As Ache loses status, pilots, dependents, hosts and companions reveal forms of knowledge and authority that inheritance had kept him from seeing. The sea enlarges Ache's political imagination without implying that Maynila lacked one.
+- **Chapter 10:** Brunei exposes Ache to different forms of scale and court practice but is neither an automatic civilizational upgrade nor a guaranteed sovereign over Maynila.
+
+**Character test:** Ache's error is assuming his claim gives him command over a people; his growth comes from recognizing the obligations and consent on which command depends. Distinguish the later Aganduru Moriz story from attested 1521 testimony in the [Brunei evidence audit](/research/brunei-relationship/).
