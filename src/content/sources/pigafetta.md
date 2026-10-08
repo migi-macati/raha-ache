@@ -32,3 +32,9 @@ Pigafetta was present with the Magellan expedition in 1521. His report of a capt
 His narrative says the commander had attacked Loue for recognizing the ruler of Java Major rather than Brunei. This is information reported about an earlier expedition, not an event Pigafetta personally observed. Pigafetta credits **Giovan Carvaio (Carvalho)** with accepting gold for the prisoner's release. Contrast Aganduru Moriz, who attributes a refusal of gold to **del Cano**.
 
 Before quoting specific wording, verify the text against a critical edition, including name spellings, translation and manuscript variants. The precise modern identification of Loue should remain open.
+
+## Geographic terminology: Laoe and Java Major
+
+The July 1521 account locates **Laoe** toward the Borneo end facing **Java Major**, but Pigafetta did not visit the reported campaign site. Its modern identification is unresolved. In Pigafetta's subsequent Java description, **Java Major refers to Java**, with places including Tuban, Gresik and Surabaya; it does **not automatically identify the 1521 rival king as the ruler of a surviving unified Majapahit empire**. [University of Hamburg, Pigafetta's Java description](https://www.spaetmittelalter.uni-hamburg.de/java-history/JavaNarratives/Java1521.Antonio.Pigafetta.html).
+
+The account reports three squadrons of more than a hundred praus, smaller accompanying boats, and captured junks in the encounter with the Europeans. These observations should not be converted into a verified size for Ache's earlier Loue expedition. [29 July 1521 entry](https://philippinediaryproject.com/1521/07/29/29th-of-july-1521/).
