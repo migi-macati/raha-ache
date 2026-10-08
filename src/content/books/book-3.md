@@ -330,7 +330,7 @@ Bonus Chapters 11–12 show history imposing a new order after Ache's own state-
 
 ## Historiographical throughline: the politics of “becoming”
 
-[The Nick Joaquin and Philippine Becoming dossier](/research/joaquin-philippine-becoming/) supplies Book III's central intellectual tension. Ache's institutional reforms offer real benefits, but Joaquin's “heritage of smallness” is **not** the narrative's verdict on those who resist them.
+[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) supplies Book III's central intellectual tension. Ache's institutional reforms offer real benefits, but Joaquin's “heritage of smallness” is **not** the narrative's verdict on those who resist them.
 
 - **Chapters 1–3:** Restoration is a new political settlement, not recovery of an untouched past. Lakandula's parallel authority and Tondo's claims are credible political alternatives, not proof of fragmentation-as-failure.
 - **Chapters 4–8:** Artillery, a fortified port, ledgers, councils and delegated authority require labor, money, skills and compliance. Show who gains from each system and who loses control; carefully distinguish attested technologies from fictional institutions.
