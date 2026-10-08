@@ -38,3 +38,11 @@ Aganduru Moriz's retrospective narrative says Ache went to his maternal grandfat
 - [*Boxer Codex*: Brunei chapter](https://brill.com/display/book/9789004301542/B9789004301542_010.xml) — detailed later-sixteenth-century evidence, not a contemporary description of Ache's arrival.
 - [*Islam in Southeast Asia*: Brunei chapter](https://www.cambridge.org/core/books/abs/islam-in-southeast-asia/brunei/F35A97322EFC8B906FFEDC7E11E6BAE3) — secondary overview of Islamization and Bolkiah.
 - [Pigafetta 1521 Brunei passage, annotated transcription](https://voyagelogs.com/pigafetta/chapters/burne/) — convenient access; verify consequential wording against critical editions.
+
+## Brunei in the northern spice-route system
+
+Roderich Ptak reconstructs a **Borneo route** connecting mainland Southeast Asia and the South China Sea to Borneo's northern coast, potentially Brunei, then the Sulu Sea through Balabac and onward to the northern Moluccas. He also describes a **Luzon route** entering the Sulu Sea via Mindoro and the Calamianes. These were overlapping corridors, not exclusive state-owned lanes. [Ptak, *Archipel* 43 (1992), pp. 27–56](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+
+The Portuguese capture of Melaka in **1511** altered commercial incentives and contributed to the importance of alternative ports, including Brunei. Do not describe this as the instant creation of Brunei's trade system: the networks and court predated 1511. [Druce et al., *Contextualising the History of Brunei*](https://www.researchgate.net/publication/363594575_Contextualising_the_History_of_Brunei).
+
+For the novel, Brunei's court can bargain over protection, pilots, anchorage, cargoes, crews, and loyalty. The sources do **not** establish a uniform customs tariff, exact convoy schedule, or direct Bruneian administration of Maynila.
