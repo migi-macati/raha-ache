@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-1",
-  "nextChapterId": "book-1-chapter-2",
+  "lastCompleted": "book-1-chapter-2",
+  "nextChapterId": "book-1-chapter-3",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "merged",
-  "lastMergeSha": "483cade0f91c88f8d35b9463599958f34dd8d81a",
-  "completedChapterPasses": 1,
+  "lastMergeSha": "21b05350dec293c301854d6c5f0e76678efc246a",
+  "completedChapterPasses": 2,
   "cycleNumber": 1,
   "blocker": null
 }
