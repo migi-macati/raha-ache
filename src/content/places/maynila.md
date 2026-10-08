@@ -39,3 +39,9 @@ See [regional research](/raha-ache/research/manila-tondo-namayan/) and [Brunei c
 - [Ethan Hawkley, *Transforming Manila: China, Islam, and Spain in a Global Port City*](https://journals.gmu.edu/whc/article/download/4400/2378?inline=1) — historical analysis of later Manila's connected networks.
 - [*Boxer Codex*, critical edition](https://brill.com/display/book/9789004301542/B9789004301542_010.xml) — later sixteenth-century descriptions; use cautiously for earlier decades.
 - [Dionisio Capulong and the elite in early Spanish Manila](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/dionisio-capulong-and-the-elite-in-early-spanish-manila-c-15701620/0A8EB3B484C8374175D55AFFA8663B40) — later elite relationships and the limitations of Spanish labels.
+
+## Position within regional routes
+
+The Manila Bay–Pasig system offered access between coastal shipping and inland Luzon networks. Ptak's reconstruction includes ships moving from China through Luzon toward Mindoro or the Calamianes and into the Sulu Sea, while a parallel Borneo route could call at Brunei. Maynila should therefore be written as one connected node rather than the endpoint of a single Brunei–Manila trade line. [Ptak, *The Northern Trade Route to the Spice Islands*](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+
+Whether any particular Ache-era cargo moved by a specified passage is normally **novel reconstruction**. Do not assign modern national boundaries or a centralized customs bureaucracy to the polity.
