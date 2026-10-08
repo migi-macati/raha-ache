@@ -4,7 +4,7 @@
     <button type="button" data-speech-play>Play</button>
     <button type="button" data-speech-stop>Stop</button>
     <label>Speed <select data-speech-rate><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
-    <label>Voice <select data-speech-voice aria-label="Narrator voice"><option value="">Device default</option></select></label>
+    <label>Voice <select data-speech-voice aria-label="Narrator voice"><option value="">English · device default</option></select></label>
   </div>
   <p class="read-aloud-note">Uses your device's available voices. Playback may stop when you leave this page or lock your screen.</p>
 </section>
@@ -14,7 +14,7 @@
 .read-aloud-heading span,.read-aloud-note{font-size:.85rem;opacity:.8}
 .read-aloud-controls{display:flex;flex-wrap:wrap;align-items:center;gap:.75rem;margin-top:.75rem}
 .read-aloud-controls button,.read-aloud-controls select{font:inherit;border:1px solid currentColor;border-radius:7px;padding:.4rem .65rem;background:transparent;color:inherit}
-.read-aloud-controls label{display:flex;align-items:center;gap:.4rem;font-size:.9rem}
+.read-aloud-controls label{display:flex;align-items:center;gap:.4rem;font-size:.9rem;min-width:0;max-width:100%}\n.read-aloud-controls select{max-width:min(100%,18rem);min-width:0}\n.read-aloud-controls label:last-child{flex:1 1 14rem}\n.read-aloud-controls label:last-child select{flex:1;max-width:100%;width:100%}
 .read-aloud-controls :focus-visible{outline:3px solid #d2a83e;outline-offset:3px}
 .read-aloud-note{margin:.75rem 0 0}
 .prose .speech-active{background:rgba(224,183,70,.2);border-radius:3px}
@@ -33,18 +33,28 @@ function initializeChapterReadAloud() {
   if(!supported){play.disabled=true;stop.disabled=true;rate.disabled=true;voiceSelect.disabled=true;status.textContent='Read aloud is unavailable in this browser';return;}
   const synth=window.speechSynthesis;
   const blocks=[...prose.querySelectorAll('p,blockquote,li,h2,h3')].filter(el=>el.textContent.trim());
-  let index=0,active=false,session=0,utterance=null,selectedVoice='';
+  let index=0,active=false,session=0,utterance=null;
   const clearHighlight=()=>prose.querySelectorAll('.speech-active').forEach(el=>el.classList.remove('speech-active'));
   const setStatus=(value)=>{status.textContent=value;};
   const reset=()=>{session++;active=false;utterance=null;synth.cancel();clearHighlight();play.textContent='Play';setStatus('Stopped');};
-  const voices=()=>{const available=synth.getVoices();const prior=voiceSelect.value;voiceSelect.replaceChildren(new Option('Device default',''));available.forEach(v=>voiceSelect.add(new Option(v.name+' ('+v.lang+')',v.voiceURI)));voiceSelect.value=available.some(v=>v.voiceURI===prior)?prior:'';};
+  const voices=()=>{
+    const available=synth.getVoices().filter(v=>/^en(?:-|_)/i.test(v.lang));
+    let stored='';try{stored=localStorage.getItem('raha-ache-voice')||'';}catch{}
+    const prior=voiceSelect.value||stored;
+    voiceSelect.replaceChildren(new Option('English · device default',''));
+    available.sort((a,b)=>a.lang.localeCompare(b.lang)||a.name.localeCompare(b.name));
+    available.forEach(v=>voiceSelect.add(new Option(v.name+' ('+v.lang.replace('_','-')+')',v.voiceURI)));
+    voiceSelect.value=available.some(v=>v.voiceURI===prior)?prior:'';
+    voiceSelect.disabled=available.length===0;
+    voiceSelect.title=available.length ? 'English voices reported by this browser; some may sound alike' : 'No alternative English voices reported by this browser';
+  };
   voices();synth.addEventListener?.('voiceschanged',voices);
   const speak=()=>{
     if(!active)return;
     if(index>=blocks.length){reset();setStatus('Finished');return;}
     clearHighlight();const block=blocks[index];block.classList.add('speech-active');
     const u=new SpeechSynthesisUtterance(block.textContent.trim());utterance=u;
-    u.rate=Number(rate.value);const found=synth.getVoices().find(v=>v.voiceURI===voiceSelect.value);if(found)u.voice=found;
+    u.rate=Number(rate.value);u.lang='en-US';const found=synth.getVoices().find(v=>v.voiceURI===voiceSelect.value);if(found){u.voice=found;u.lang=found.lang;}
     const token=session;
     u.onend=()=>{if(!active||token!==session)return;index++;speak();};
     u.onerror=(event)=>{if(token!==session||!active)return;if(event.error==='interrupted'||event.error==='canceled')return;reset();setStatus('Playback error. Try again.');};
@@ -58,7 +68,7 @@ function initializeChapterReadAloud() {
   });
   stop.addEventListener('click',reset);
   rate.addEventListener('change',()=>{if(active){session++;synth.cancel();speak();}});
-  voiceSelect.addEventListener('change',()=>{if(active){session++;synth.cancel();speak();}});
+  voiceSelect.addEventListener('change',()=>{try{localStorage.setItem('raha-ache-voice',voiceSelect.value);}catch{}if(active){session++;synth.cancel();speak();}});
   window.addEventListener('pagehide',reset,{once:true});
 }
 if(document.readyState==='loading'){
