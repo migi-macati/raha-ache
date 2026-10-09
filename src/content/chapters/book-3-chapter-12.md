@@ -4,7 +4,7 @@ name: "Book III, Bonus Chapter 12: The Last Raha"
 aliases: ["The Last Raha"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, sulayman, lakandula, legazpi, maynila, succession-1572, ache-baptism-death-1572, book-3-chapter-11, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, legazpi, maynila, succession-1572, ache-baptism-death-1572, book-3-chapter-11, story-architecture-standard]
 sources: [relacion-1572, riquel-1571, william-henry-scott]
 timeline: [ache-baptism-death-1572]
 book: book-3
@@ -82,3 +82,7 @@ Pays off the trilogy's recurring questions of inheritance, earned worth, home, a
 ## Handoff
 
 No further chapter is required to complete Ache's arc. Later stories may explore what others inherit from him, but this is the end of his historical life.
+
+## Merchant, rank and religious transformation in the coda
+
+The new Spanish order alters legal categories, conversion incentives, landholding claims, customs relationships and which languages appear in authoritative records. It reframes the earlier fictional **Broken Compact** conflict but does not reopen Book III's already resolved Chapter 10 crisis. **Mehomete and Pablo's post-1570 destinies are unknown**; show them here only as explicitly fictional possibilities, or refer to their unresolved fates without inventing death, office, or exile as history. [Research](/raha-ache/research/maynila-language-arts-social-order/); [New subplot](/raha-ache/research/book-3-merchant-and-status-conflict/).

@@ -4,7 +4,7 @@ name: "Book III, Chapter 9: The Broken Oath"
 aliases: ["The Broken Oath"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, story-architecture-standard]
 sources: []
 timeline: [bay-coalition-crisis]
 book: book-3
@@ -89,3 +89,7 @@ Pays off every major Book III construction: fleet, council, alliances, Tondo set
 ## Handoff
 
 Chapter 10 answers whether those structures actually hold under maximum pressure.
+
+## Merchant, language and status subplot: the records become weapons
+
+The coalition crisis acquires **social and commercial substance** beyond captains' injured pride: a mistranslated pledge, detained vessel, disputes over inherited service, and fear of a centralized office claiming children or laborers through a ledger. Trading interests split; not every merchant opposes Ache and not every captain defends freedom. If used, [Mehomete](/raha-ache/characters/mehomete-maynila/) helps expose an ambiguity but cannot single-handedly solve the coalition crisis. **Turn:** Ache delegates actual adjudication and command to Sulayman/council rather than personally ruling on all claims. **Handoff:** Chapter 10 must demonstrate practical remedies. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).

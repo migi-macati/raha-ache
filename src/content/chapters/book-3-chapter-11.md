@@ -4,17 +4,17 @@ name: "Book III, Bonus Chapter 11: The Foreigners Return"
 aliases: ["The Foreigners Return"]
 status: fictional
 developmentStatus: current
-related: [maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, book-3, ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito, maynila, tondo, manila-bay, bangkusay-channel, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, legazpi-king-luzon-message, book-3-chapter-12, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, book-3, ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito, maynila, tondo, manila-bay, bangkusay-channel, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, legazpi-king-luzon-message, book-3-chapter-12, story-architecture-standard]
 sources: [relacion-voyage-luzon-1570, riquel-1571, relacion-1572, blair-robertson, legazpi-relacion]
 timeline: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
 book: book-3
 chapterNumber: 11
 bonus: true
 draftStatus: outline
-characters: [ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito]
+characters: [ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito, mehomete-maynila, pablo-japanese-1570]
 places: [maynila, tondo, manila-bay, bangkusay-channel]
 events: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]
-pov: [ache, sulayman]
+pov: [ache, sulayman, mehomete-maynila]
 ---
 ## Chapter purpose
 
@@ -91,3 +91,11 @@ Bonus Chapter 12 asks what Ache can preserve when sovereignty itself has been tr
 ## Foreign residents and intermediaries: documentary anchor
 
 The [1570 *Relation of the Voyage to Luzon*](/raha-ache/sources/relacion-voyage-luzon-1570/) reports four Chinese ships at Maynila, **forty married Chinese and twenty Japanese residents** and Chinese households caught in the burning. It places [Mehomete](/raha-ache/characters/mehomete-maynila/), a Maynila-born provisions supplier and interpreter previously trading at Cebu, between Goiti and local kin. A Japanese man named [Pablo](/raha-ache/characters/pablo-japanese-1570/) reportedly identified himself as a Christian; his supposed artillery service is hearsay. The river required tide-aware entry; Maynila had a palisade and artillery. The Chinese crews' accusation that local rulers seized rudders and cargo is contested testimony, not established motive. These details strengthen civilian stakes without determining Ache's thoughts or altering the 1570–71 chronology. See [Living Maynila](/raha-ache/research/maynila-living-port-1500/).
+
+## Major supporting figures: Mehomete and Pablo
+
+[Mehomete](/raha-ache/characters/mehomete-maynila/), **documented** in 1570 as a Maynila-born provisions trader/interpreter who worked with the Spaniards at Cebu and traveled back with Goiti, becomes a consequential intermediary with local relatives. He can carry one bounded **first-person narrative segment** about the limits of translation and family protection. Earlier court service to Ache, if chosen for Chapters 6–10, remains **fiction**.
+
+[Pablo](/raha-ache/characters/pablo-japanese-1570/) is a **documented Japanese resident** identifying himself as Christian in 1570; the alleged artillery role is hearsay. Give him decisive *agency* in the story as a major supporting resident whose interests need not align neatly with the Spaniards despite shared religion. If he is portrayed working near the cannon, openly categorize this as dramatization of a rumor. His biography and ultimate fate are unknown.
+
+**Subplot payoff:** the earlier fictional disputes over “friendship,” translation, merchant protection, dependents and recording oaths recur in the actual Spanish negotiation and burning, **without conflating the events**. Keep Ache as dominant POV and the 1570–71 historical chronology. [Research](/raha-ache/research/book-3-merchant-and-status-conflict/).
