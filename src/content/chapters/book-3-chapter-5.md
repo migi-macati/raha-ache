@@ -4,7 +4,7 @@ name: "Book III, Chapter 5: Old Alliances, New Debts"
 aliases: ["Old Alliances, New Debts"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, palawan, panay, cebu, lakanmulaw, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, palawan, panay, cebu, lakanmulaw, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -80,3 +80,7 @@ Pays off Book I Chapters 7–8 and Book II's widening alliance network.
 ## Handoff
 
 A wider network increases the need for standardized rules, records, and administration in Chapter 6.
+
+## Merchant and craft subplot: favors become obligations
+
+When old allies come collecting on promises, their accounts differ. A gift of cloth, safe anchorage or a crew's assistance may be remembered as kinship, paid service or a debt. An interpreter or locally recognized witness must decide whether a pledge was conditional. **Turn:** Ache chooses to honor a costly old commitment rather than insist his own version controls. **Handoff:** his demand for more consistent records in Chapter 6. All named cases are fiction. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
