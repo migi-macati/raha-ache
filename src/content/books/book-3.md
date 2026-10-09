@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
 sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -382,3 +382,7 @@ The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contr
 **Bonus Chapters 11–12:** 1570–72 documented public events supply dramatic irony but do not predetermine private loyalties. Mehomete's documented role as interpreter and Pablo's reported residence and Christianity can reframe the earlier fictional question of who gets to define peace and protection, without projecting their private motives as history. The ending must be personally moving, not a roll call of source dates. Avoid telling the reader these events were inevitable from the characters' viewpoint.
 
 **Historical irony:** a more secure harbor, reliable records and a powerful fleet are genuine achievements that can still become vulnerable under a new external order. This is tragedy with earned triumphs, not a message that Ache's achievements were pointless.
+
+## Flawed human beings
+
+See [the character standard](/raha-ache/research/psychologically-credible-characters/). Ache's need for order becomes intrusion; Sulad's protection becomes control; Sulayman's decisiveness becomes impatience. Mehomete and Pablo's private personalities are imagined around limited 1570 evidence. Each should have habits, offstage obligations, embarrassing faults and choices that do not revolve around Ache. Avoid a perfect reconciliation at the Chapter 10 crisis.
