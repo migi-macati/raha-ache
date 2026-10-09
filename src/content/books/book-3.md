@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
 sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -370,3 +370,15 @@ The [1570 voyage relation](/raha-ache/sources/relacion-voyage-luzon-1570/) repor
 **Bonus 11:** the documented 1570 interpreter and Japanese Christian resident force readers to reassess the language of peace, allegiance and protection after the town is burned. Both may have strong fictional inner lives but cannot be given invented historical motives. Bonus 12 follows known evidence and their unresolved fates conservatively.
 
 The research basis is [Maynila languages, scripts, art and strata](/raha-ache/research/maynila-language-arts-social-order/) and the prior [living-port dossier](/raha-ache/research/maynila-living-port-1500/).
+
+## Narrative escalation revision: recovery creates a more dangerous flaw
+
+The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contract/) and [character stakes matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/) make the apparent mid-book pause in conflict impossible. **Maynila is still recaptured in Chapter 2**. The victory must be costly, especially to someone Ache thought he was rescuing. **Chapter 3's Tondo settlement** requires relinquishing a power he expected his victory to confer.
+
+**Chapters 4–8 are not five demonstrations of competent management:** a contested building requisition, incompatible debts, a wrong labor-status register, a mistranslated treaty and a delegated officer's refusal each damages a personal relationship and advances the existing [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/) crisis. Ordinary people and independent regional actors remain protagonists of their own lives.
+
+**Chapters 9–10:** some reform critics are correct, others opportunistic; Sulayman makes an irreversible decision without Ache's approval. The final fictional coalition crisis resolves **by Chapter 10** through correction, meaningful concession and delegated command, **not everyone's gratitude**.
+
+**Bonus Chapters 11–12:** 1570–72 documented public events supply dramatic irony but do not predetermine private loyalties. Mehomete's documented role as interpreter and Pablo's reported residence and Christianity can reframe the earlier fictional question of who gets to define peace and protection, without projecting their private motives as history. The ending must be personally moving, not a roll call of source dates. Avoid telling the reader these events were inevitable from the characters' viewpoint.
+
+**Historical irony:** a more secure harbor, reliable records and a powerful fleet are genuine achievements that can still become vulnerable under a new external order. This is tragedy with earned triumphs, not a message that Ache's achievements were pointless.
