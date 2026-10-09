@@ -4,7 +4,7 @@ name: "Book III, Chapter 9: The Broken Oath"
 aliases: ["The Broken Oath"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, story-architecture-standard]
 sources: []
 timeline: [bay-coalition-crisis]
 book: book-3
@@ -93,3 +93,7 @@ Chapter 10 answers whether those structures actually hold under maximum pressure
 ## Merchant, language and status subplot: the records become weapons
 
 The coalition crisis acquires **social and commercial substance** beyond captains' injured pride: a mistranslated pledge, detained vessel, disputes over inherited service, and fear of a centralized office claiming children or laborers through a ledger. Trading interests split; not every merchant opposes Ache and not every captain defends freedom. If used, [Mehomete](/raha-ache/characters/mehomete-maynila/) helps expose an ambiguity but cannot single-handedly solve the coalition crisis. **Turn:** Ache delegates actual adjudication and command to Sulayman/council rather than personally ruling on all claims. **Handoff:** Chapter 10 must demonstrate practical remedies. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+The fictional coalition crisis combines genuine popular injury and self-serving captains; their motives cannot be collapsed into disloyalty. **Reversal:** a critic of Ache's scribal policy is demonstrably right about one abuse; another deliberately manipulates it. Sulayman exercises command even against Ache's preferred timing. **Cost:** Ache's allies can no longer promise the order will hold simply because he says it must. **Handoff:** force alone cannot solve the legitimacy problem.
