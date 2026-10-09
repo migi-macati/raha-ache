@@ -304,7 +304,7 @@ Instead I asked, “Would you have left them?”
 
 He thought about it.
 
-“No,” he said. “But I'd have listened when someone told me to lower the sail.”
+“No,” he said. He kept his eyes on the boat. “I was scared for you. And I'd have lowered the sail.”
 
 At the landing the fisherman was mending his net. He began to rise when he saw me.
 
