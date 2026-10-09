@@ -4,7 +4,7 @@ name: "Book I, Chapter 6: Flight"
 aliases: ["Flight"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, bulkan, namayan, mindoro, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, namayan, mindoro, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -80,3 +80,7 @@ Pays off sailing skills from Chapter 1. Sets up contact with unfamiliar allies i
 ## Handoff
 
 The next obstacle cannot be solved by navigation alone; it requires dealing with strangers.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** the escape uses skills learned on the Pasig, but a delay, current or watchful merchant destroys their initial route. **Choice:** use another family's shelter and endanger the hosts, or sacrifice irreplaceable supplies to avoid exposing them. **Reversal:** Ache's princely identity attracts unwanted attention instead of securing privilege. **Cost:** a relationship, provision or promise is lost and cannot be bought back at Brunei.
