@@ -4,7 +4,7 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
 sources: [relacion-voyage-luzon-1570, plasencia-customs-tagalogs-1589, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
@@ -302,3 +302,9 @@ Ache still lacks command, military credibility, and the force needed to reclaim 
 ## Everyday Maynila: research integration
 
 [Living Maynila](/raha-ache/research/maynila-living-port-1500/) grounds the current first three chapters in a working harbor: fishing rights, contested landings, merchant credit, kin obligations and uneven language skills. Preserve the existing rescue and compensation scenes. The shared Tondo–Maynila tally clerks in Chapter 2 remain invented political institutions, not a documented sixteenth-century bureaucracy. Book I should not backdate the specifically reported Chinese and Japanese resident counts from **1570** to Ache's youth circa **1500**. Santa Ana finds are earlier still. Chapter 3's Malay-speaking trader remains plausible as a fictional encounter within older Luzon–Brunei–Malacca routes.
+
+## Language, art and status research for Book I
+
+Use [Maynila language, arts and social order](/raha-ache/research/maynila-language-arts-social-order/) to refine Chapters 1–3: Ache's first choices affect a fisherman's property and a porter's labor, imported jars and garments have owners and makers, and his fluency in Malay can fail when trade vocabulary outruns court greetings. Local Tagalog social labels **maharlika**, **aliping namamahay** and **aliping sa gigilid** have precise differences in later evidence, but individual c.1500 household membership is **novel reconstruction**.
+
+Avoid treating the **900 CE Kawi-related** inscription as Ache's baybayin record, or the **1593** printing as proof of a uniform court archive. Artistic craftsmanship should surface through action, not showpiece exposition.
