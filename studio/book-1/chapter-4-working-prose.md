@@ -46,7 +46,7 @@ A woman in a faded red wrap stood over baskets stacked on the bank. She tested a
 
 “That one stays here,” she said. “And keep the boat off the stones. None of the others goes aboard until we agree what this trip costs.”
 
-A rower let go of the carrying pole and took the line instead. Another wedged a paddle against the landing. The empty boat shuddered but held.
+A rower let go of the carrying pole and took the line instead. Another drew the stern back toward the landing with a short paddle stroke. The empty boat shuddered but held.
 
 I had been studying the tally board. She had been watching who would carry her goods.
 
@@ -196,7 +196,7 @@ Then she turned to me.
 
 “You are choosing my quarrel for me.”
 
-Her words reached farther than my accusation had. A porter at the landing looked away. The organizer called his rowers over and told them to take another assignment. Two followed him. His sister's son stayed by the bowline.
+Her words reached farther than my accusation had. A porter at the landing looked away. The organizer called his rowers over and told them to take another assignment. Two climbed into the boat. His sister's son stayed by the bowline while they took up their paddles.
 
 “You have not paid us for yesterday,” he said.
 
@@ -206,7 +206,7 @@ Her words reached farther than my accusation had. A porter at the landing looked
 
 The organizer looked back at him. “Come.”
 
-The young man hesitated, then let the boat swing free. Without his hands on the line, the hull drifted clear of the landing. He followed the others.
+The young man hesitated, then slipped the line from the post and stepped aboard. He pushed the bow clear with his paddle. The other rowers turned the boat into the current, and the organizer walked after them along the bank.
 
 Sima watched them go. She did not call them back.
 
@@ -240,7 +240,7 @@ My mother rubbed the bridge of her nose. “I should have asked what else you we
 
 Our steward sent for the organizer. He returned without his crew, still angry enough to make his answers short.
 
-She listened standing beneath the shade, where the two boards lay side by side. Sima spoke first. The organizer answered. One rower confirmed that food had been prepared for more than the first transfer; another said he had heard Sima ask whether the crew might return.
+She listened standing beneath the shade, where the two boards lay side by side. Sima spoke first. The organizer answered. Two porters who had waited near the baskets came forward. One had seen food brought to the waiting crew; the other said he had heard Sima ask whether the crew might return.
 
 “Did you hear her promise payment?” my mother asked.
 
@@ -284,7 +284,23 @@ A merchant who had been waiting beside the baskets caught his sleeve before he l
 
 No one had ordered him across the river. He had chosen where he expected to find men.
 
-My mother turned to Sima.
+"You heard him," I said to my mother. "Tomorrow's work is going to Tondo. Will you let them keep taking crews from our landing?"
+
+"I will keep the two boards until the season ends," she said. "The marks will show who traveled, not who owes another voyage. And I will not forbid Tondo's men from taking work here."
+
+"Then they will bring their own terms."
+
+"They already do. If I send their crews away, the cargo may follow them. Which of our boats will take tomorrow's baskets? Whose food will keep the rowers here while they wait?"
+
+I looked toward the fishing stakes Sulad had carried away. "We can find men."
+
+"Find them first. Find what they will eat. I cannot promise a boat with someone else's arms."
+
+"You would leave this shore in their hands?"
+
+"I would keep a shore where boats still come."
+
+She turned to Sima.
 
 “Would you accept another crew if we could provide one?”
 
