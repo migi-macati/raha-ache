@@ -490,6 +490,10 @@ I did not answer.
 
 She touched the cords around her wrist.
 
+“I laughed when the captain corrected your Malay,” she said. “I enjoyed it more than I should have.”
+
+“I noticed,” I said.
+
 “You do not have to ask these things for the spirits’ sake, Ache. Ask them for the people’s.”
 
 I wanted to tell her that faith mattered because truth mattered, not because it was convenient for government.
