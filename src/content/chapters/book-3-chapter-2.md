@@ -4,7 +4,7 @@ name: "Book III, Chapter 2: Taking Back Maynila"
 aliases: ["Taking Back Maynila", "Retaking Maynila"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, lakandula, ache-wife, siripada, maynila, tondo, return-to-maynila, ache-marriage, dynastic-politics, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, book-3, ache, lakandula, ache-wife, siripada, maynila, tondo, return-to-maynila, ache-marriage, dynastic-politics, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila, ache-marriage]
 book: book-3
@@ -84,3 +84,7 @@ Pays off the entire first two books' return objective.
 ## Handoff
 
 Chapter 3 resolves the immediate Maynila–Tondo political settlement.
+
+## Suspense, historical irony and emotional stakes revision
+
+**Promise kept:** Maynila is retaken by this chapter's end. Do not postpone the victory. **Reversal:** a tactically excellent action damages a particular local family's property, work, or allegiance; someone expected to welcome Ache declines. **Choice:** pursue total domination, sacrifice a tactical advantage to protect civilians, or settle with rivals who retain leverage. **Cost:** the restoration creates a grievance that persists through Ch9–10. The conquest must feel emotionally difficult even though history/outline telegraphs military success.
