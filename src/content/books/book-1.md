@@ -4,7 +4,7 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
 sources: [relacion-voyage-luzon-1570, plasencia-customs-tagalogs-1589, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
@@ -318,3 +318,7 @@ The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contr
 **Chapter 4:** follow an actual disputed crew/landing or service claim to its cost, rather than restart the Tondo threat. **Chapter 5:** make flight a wound in the Ache–mother and Ache–Sulad relationships, not a painless strategic pivot. **Chapters 6–9:** each alliance and survival solution requires a concrete concession or loss. **Chapter 10:** Siripada's hospitality does not automatically grant an army. Achieve the **flight-to-Brunei resolution** at Chapter 10.
 
 **Pacing:** preserve humor, ordinary pleasures and the riverside intimacy readers might mourn. Threat without a loved place becomes anonymous spectacle.
+
+## Flawed human beings
+
+[Human-character standard](/raha-ache/research/psychologically-credible-characters/): Ache's first rescue mixes generosity and entitlement; Sulad's fear complicates his sarcasm; the regent can regret words and choices without becoming weak. The invented injured rower's family and Tondo clerk retain independent motives and remain active through Chapter 4.
