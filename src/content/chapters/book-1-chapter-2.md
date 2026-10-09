@@ -4,13 +4,13 @@ name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
 chapterNumber: 2
 draftStatus: draft
-characters: [ache, sulad, salalila, ache-mother, lakandula]
+characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother, lakandula]
 places: [maynila, tondo]
 events: [ache-father-dies]
 pov: [ache]
@@ -180,7 +180,9 @@ I waited until they were gone.
 
 I stared at her.
 
-She looked almost tired enough to smile. “You learn quickly when the cost is yours.”
+She studied the claim we had left unsettled. “I wanted the hearing finished,” she said. “That is why I let you offer the silver.”
+
+I hadn't expected her to admit that.
 
 “I learned that three men can argue over a broken jar longer than it takes to sail across the bay.”
 
@@ -311,6 +313,12 @@ I wanted to take the words back. They had already reached everyone in the hall.
 * * *
 
 I found her beside an open chest, folding a piece of cloth whose color had faded at the creases.
+
+“I should not have spoken of your father that way before the hall,” she said.
+
+“But you did.”
+
+“Yes.” She folded the cloth again, though it was already folded.
 
 On the wall hung a wooden paddle. It was shorter than the ones used by our boatmen, its grip worn smooth. My mother had kept it for as long as I could remember.
 
@@ -483,7 +491,3 @@ He lifted the tallies. “And after that?”
 I looked across the dark water toward Tondo.
 
 “After that,” I said, “we find out who has been giving orders in our name.”
-
-## Suspense and emotional stakes revision
-
-**What Ache wants:** set things right and prevent Tondo controlling Maynila's landings. **Contradiction:** his mother's one-season tally agreement helps real traders but may create leverage over crew and dependent households. **Cost:** the rower's sister refuses to call a temporary payment a resolution; mother and son are *both partly right*. **New question:** why are Tondo boards counting people? This is *implemented in the prose draft* and connects to Chapter 3. Avoid pretending a uniform joint customs office is historically attested.

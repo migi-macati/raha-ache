@@ -4,7 +4,7 @@ name: Pablo (Japanese resident in Maynila, 1570)
 aliases: [Pablo the Japanese, Paulo the Japanese, Christian Japanese in 1570 Maynila]
 status: historical
 developmentStatus: working
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila, book-3-chapter-11, maynila-living-port-1500, foreign-contacts-ache-era, relacion-voyage-luzon-1570, ubaldo-iaccarino-japanese-luzon]
+related: [psychologically-credible-characters, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila, book-3-chapter-11, maynila-living-port-1500, foreign-contacts-ache-era, relacion-voyage-luzon-1570, ubaldo-iaccarino-japanese-luzon]
 sources: [relacion-voyage-luzon-1570, ubaldo-iaccarino-japanese-luzon]
 timeline: [battle-manila-1570]
 ---
@@ -33,3 +33,7 @@ See [Living Maynila research](/raha-ache/research/maynila-living-port-1500/).
 **Working dramatic function:** Pablo's encounter with Spaniards may reveal that a person can profess the same religion as outsiders without welcoming their military demands. If involved with Maynila's guns, this is a deliberately fictional reading of contemporary hearsay. Give him a significant **decision in Bonus 11** and, subject to evidence, an invented aftermath in Bonus 12 rather than extending his life backward into undocumented decades.
 
 **Cast decision:** replace an anonymous Japanese visitor/supporting interlocutor in the 1570 sequence. Do **not** replace Panday Pira or assume Pablo designed Maynila's cannon. His narrative first-person section, if used, should be short and distinct from Ache and Mehomete.
+
+## Fictional characterization, distinct from source facts
+
+The attested 1570 Japanese Christian resident is not a symbolic representative of all Japanese people or Christians. In fictional scenes, he can resent being categorized and still judge other foreigners harshly. Give him a home, a modest pleasure, an embarrassing habit, and a choice about protecting another person during the attack. His alleged gunner status is hearsay and his later fate unknown.

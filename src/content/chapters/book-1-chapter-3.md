@@ -4,13 +4,13 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 3
 draftStatus: draft
-characters: [ache, sulad, ula]
+characters: [tondo-harbor-clerk, ache, sulad, ula]
 places: [maynila, namayan, brunei]
 events: []
 pov: [ache]
@@ -490,6 +490,10 @@ I did not answer.
 
 She touched the cords around her wrist.
 
+“I laughed when the captain corrected your Malay,” she said. “I enjoyed it more than I should have.”
+
+“I noticed,” I said.
+
 “You do not have to ask these things for the spirits’ sake, Ache. Ask them for the people’s.”
 
 I wanted to tell her that faith mattered because truth mattered, not because it was convenient for government.
@@ -625,7 +629,3 @@ Across the river a boat was coming in on the evening tide. I watched its crew pr
 “Who is allowed to look at your board?” I asked.
 
 The clerk did not answer quickly.
-
-## Suspense and emotional stakes revision
-
-**What Ache wants:** prove his ability to judge faith, kinship and a new trading world. **Contradiction:** Sulad's charm is not his to forbid; a Malay captain exposes his partial fluency; the Tondo clerk's count may help families search for missing sailors and also aid coercive claimants. **Cost:** his friendship with Sulad briefly loses its easy rhythm. **Handoff:** Chapter 4 investigates who may access the human tallies; it is not proof of a plot by Lakandula. *New ending already implemented in prose.*

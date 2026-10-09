@@ -4,7 +4,7 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
 sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
@@ -342,3 +342,7 @@ The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contr
 **Chapters 1–4:** earned standing requires actual crews, labor and corrected assumptions; a tactical loss strains mentorship. **5–6:** an irregular victory and Loue success carry contested credit and concrete human cost. **7–8:** the reader anticipates a 1521 European encounter, but Ache makes choices based on the evidence *he* has; the character suspense is whose lives, reputations and bonds survive, not whether the documented date can be cheated. **9–10:** restoration of command does not mean forgiveness or everyone agreeing to accompany him home. The choice to leave Brunei must hurt.
 
 **Guardrail:** 1521 reports and Ache's release are subject to the site's existing historical source audit. Do not invent documented speech, pretend Portuguese Malacca's 1511 conquest was unknown to maritime Asians, or add preknowledge of Spanish Manila's later fate.
+
+## Flawed human beings
+
+[Characterization standard](/raha-ache/research/psychologically-credible-characters/): Jamil can be capable and mistaken, Safi principled and envious, Hasan patient and pedantic, Laila caring and controlling, Jalal generous and unreliable. Each needs ordinary life beyond Ache, at least one unflattering choice and a relationship that does not become a lesson for the hero. These invented personalities should emerge through actions rather than narration declaring a flaw.

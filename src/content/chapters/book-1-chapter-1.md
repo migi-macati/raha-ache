@@ -270,7 +270,7 @@ I had never known my father. I knew him through the empty place beside her at ce
 
 “I didn't say the river was mine.”
 
-“No. You gave orders as though everyone on it had been waiting for you.”
+“No. But they recognized you and came running. You did not have to say the river was yours.”
 
 “I saved the child.”
 
@@ -282,7 +282,9 @@ I waited for the rest.
 
 “I have training tomorrow.”
 
-“Then your training will begin here.”
+“Bulkan can manage without you for one morning.” She glanced at our ruined boat. “When they told me you had struck the quay, nobody knew whether you were hurt.”
+
+It was the first time she had mentioned being afraid. I wished she hadn't done it in front of Sulad.
 
 Beside me, Sulad lowered his head. I suspected he was smiling.
 
@@ -304,7 +306,7 @@ Instead I asked, “Would you have left them?”
 
 He thought about it.
 
-“No,” he said. “But I'd have listened when someone told me to lower the sail.”
+“No,” he said. He kept his eyes on the boat. “I was scared for you. And I'd have lowered the sail.”
 
 At the landing the fisherman was mending his net. He began to rise when he saw me.
 
@@ -317,7 +319,3 @@ Sulad crouched beside us without a word.
 I had won the wager around the post, if anyone still cared to count it.
 
 Sulad never asked for his rice cakes.
-
-## Suspense and emotional stakes revision
-
-**What Ache wants:** win his bet and be recognized for a rescue. **What goes wrong:** his improvisation saves a child but injures a rower's hand and disrupts fishers' work. **Cost:** an injured man's livelihood cannot be restored by praise or a finite payment. **Reader question:** whether Ache's choice was necessary, reckless, or both. Keep Sulad's affectionate refusal to endorse Ache's version, and the final net-mending image. This is *newly implemented in the prose draft*; the injured crewman is a fictional individual, not a documented person.

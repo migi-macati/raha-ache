@@ -4,7 +4,7 @@ name: Mehomete (Maynila interpreter, 1570)
 aliases: [Mehomete, Mahomete, Mohamete, Interpreter from Maynila]
 status: historical
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila, book-3-chapter-11, maynila-living-port-1500, foreign-contacts-ache-era, relacion-voyage-luzon-1570, sulayman]
+related: [psychologically-credible-characters, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila, book-3-chapter-11, maynila-living-port-1500, foreign-contacts-ache-era, relacion-voyage-luzon-1570, sulayman]
 sources: [relacion-voyage-luzon-1570]
 timeline: [battle-manila-1570]
 ---
@@ -33,3 +33,9 @@ Further context: [Living Maynila research](/raha-ache/research/maynila-living-po
 **Bonus 11:** give him an important choice, and optionally a short first-person section emphasizing family, translation and risk. **Bonus 12** appearances require additional fiction and cannot assert documented survival beyond the known record.
 
 **Cast decision:** Mehomete can take over the as-yet unnamed interpreter/merchant-broker **function** in Book III, but does not replace Ache's established personal allies, dynastic rivals or mentors.
+
+## Human contradictions (fictional characterization)
+
+Historical fact establishes a Maynila-born trader and interpreter in 1570, not his personal motives. A fictional portrayal could make him proud of exact words yet willing to soften a dangerous translation to keep families safe and merchants talking. The compromise may cause harm. He resents being treated as useful rather than trustworthy. Earlier service to Ache is a speculative backstory requiring dating.
+
+[Character guide](/raha-ache/research/psychologically-credible-characters/).

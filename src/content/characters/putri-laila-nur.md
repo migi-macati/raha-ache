@@ -8,7 +8,7 @@ relations:
   - target: ache
     type: love interest and influence
     certainty: development
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, brunei, book-2, ache-wife]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, brunei, book-2, ache-wife]
 sources: []
 timeline: []
 ---
@@ -25,3 +25,9 @@ She is not automatically identical with Ache's historically attested Bruneian co
 Laila does not exist to reward Ache for developing into a commander. She wants an honorable political and personal life in Brunei, with real commitments to her kin, court and future. Her interest in education and institution-building may become a point of ideological **disagreement**, not simply a gift of wisdom Ache accepts.
 
 **Book II:** she must have at least one consequential choice Ache would not make, and one boundary Ache cannot persuade away. **Book III:** if later canon decides she is the historically attested Bruneian cousin-wife, reconcile identities and chronology explicitly; otherwise preserve her as a distinct fictional figure and avoid silently presenting her as historical. The choice to leave Brunei should come at an emotional cost without canceling her agency. See [character stakes matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/).
+
+## Human contradictions (fictional characterization)
+
+Laila wants a life and political future in Brunei that does not depend on Ache choosing her. She plans for everyone's safety and can manipulate those she loves to make her preferred future seem inevitable. Ache's praise of her intelligence can sound like dismissal when he ignores her refusal. She has private playfulness and real anger. She remains distinct from Ache's unnamed historical wife until canon resolves that identity.
+
+[Character guide](/raha-ache/research/psychologically-credible-characters/).

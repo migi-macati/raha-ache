@@ -4,7 +4,7 @@ name: "Book I, Chapter 4: Encroachment"
 aliases: ["Encroachment"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakandula, ache-mother, maynila, tondo, story-architecture-standard]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakandula, ache-mother, maynila, tondo, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1

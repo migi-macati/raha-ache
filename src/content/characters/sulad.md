@@ -8,7 +8,7 @@ relations:
   - target: ache
     type: companion and protector
     certainty: novel-canon
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, mindoro, palawan, brunei]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, mindoro, palawan, brunei]
 sources: []
 timeline: [ache-leaves-for-brunei]
 ---
@@ -29,3 +29,9 @@ Sulad's role is no longer merely to be the blunt, loyal bodyguard who corrects A
 - **Book III:** if Sulad holds an independent southern-shore office (still under development against the separate Pasay concept), the test is whether he can **refuse Ache** to protect dependents while remaining committed to their history together.
 
 Avoid making him the permanent correct voice or the guarantee that friendship survives every injury. These are fictional character choices.
+
+## Human contradictions (fictional characterization)
+
+Sulad keeps people safe by anticipating practical danger, but can become controlling when afraid. He tells himself he needs no reward, remembers each sacrifice, and then lashes out over something small. His mother's cord is his choice, not Ache's lesson. His tenderness shows in a repaired paddle or meal, not a polished speech. He can refuse an order and still love Ache.
+
+See [the full characterization guide](/raha-ache/research/psychologically-credible-characters/).
