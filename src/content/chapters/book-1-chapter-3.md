@@ -3,80 +3,335 @@ id: book-1-chapter-3
 name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
-developmentStatus: working
-related: [ache, sulad, ula, maynila, namayan, brunei, story-architecture-standard]
-sources: []
+developmentStatus: current
+related: [ache, sulad, ula, ache-mother, siripada, nakhoda-hamid, maynila, namayan, brunei, tondo, pasig-river, story-architecture-standard, book-1-chapter-3-outline]
+sources: [aganduru-moriz]
 timeline: []
 book: book-1
 chapterNumber: 3
-draftStatus: outline
-characters: [ache, sulad, ula]
-places: [maynila, namayan]
+draftStatus: draft
+characters: [ache, sulad, ula, ache-mother, nakhoda-hamid]
+places: [maynila, namayan, brunei, tondo, pasig-river]
 events: []
 pov: [ache]
 ---
-## Chapter purpose
 
-Establish Ache's religious and cultural formation inside a plural Pasig world and connect his identity to Brunei before Brunei becomes his refuge.
+The first thing I did that morning was pray.
 
-## Opening state
+The second was ruin a knot.
 
-Ache treats his beliefs, household practices, and local customs as familiar parts of life rather than political resources or points of tension.
+The fisherman watched me pull the wet cord tight, shook his head, and cut it loose with a small knife.
 
-## Immediate objective
+“That one would hold a fish,” I said.
 
-Ache seeks to understand what kind of man and future ruler he is expected to become.
+“For how long?”
 
-## Main plot movement
+“Long enough to catch it.”
 
-Bruneian influence becomes narratively relevant. The chapter gives Ache a credible cultural and kinship horizon beyond Maynila.
+“Then perhaps you should fish with promises.”
 
-## Subplots
+Sulad laughed from the shallows. He was carrying the replacement stakes two at a time, though I had offered to help with the heavier ends. His arms were marked with dark patterns that seemed to move when he lifted the timber. I had spent years trying to persuade him that there were better ways to spend a morning than training with a spear. Now he had discovered an activity he liked even more: watching me fail at work he already knew how to do.
 
-- **Ula and older ritual traditions:** local practices complicate any simple conversion narrative.
-- **Ache and Sulad:** differences in belief or practice can reveal how plural their shared world is.
-- **Brunei:** appears first as influence, family connection, and possibility rather than destination.
+I had made my prayers before the household stirred, washing the sleep from my face and repeating the words my mother had taught me. In our house they were as familiar as the smell of rice steaming over the hearth. I had never needed to explain them to Sulad. He knew when to be quiet and when to steal the last cake from my breakfast.
 
-## Conflict and stakes
+The fisherman handed me another length of cord.
 
-Ache encounters competing expectations about belief, custom, and rulership. The stake is not theological victory but the kind of identity he will carry into political crisis.
+“Try again.”
 
-## Themes and subthemes
+“I have tried six times.”
 
-**Theme:** belonging in a plural world.
+“Then this will be seven.”
 
-**Subthemes:** faith, custom, syncretism, identity, cultural inheritance.
+Behind us the tide licked the mud beneath the landing. Our damaged outrigger rested above the water, its broken arm waiting for a carpenter who had already told me that royal promises did not mend wood.
 
-## Character progression
+The fisherman held up the net. “Do you see where it takes the weight?”
 
-### Ache
+I looked where he pointed. The knots were not arranged as I had thought. Each small loop passed strain into the next. If one slipped, the pull spread until three others gave way.
 
-**Begins:** takes identity for granted.
+“That is why you do not make the knot proud,” he said. “You make it useful.”
 
-**Pressure:** sees that belief and political affiliation can overlap without being identical.
+I was beginning to dislike how often people said things like that to me.
 
-**Ends:** more conscious that he belongs to several worlds at once.
+A woman standing farther down the bank gave a dry laugh.
 
-### Ula
+“Let the boy finish one before you teach him what it means.”
 
-**Function:** gives older ritual practice dignity, agency, and continuity rather than serving as a primitive foil.
+She was older than my mother, perhaps older than anyone who came regularly to our hall. Her hair was bound back with a strip of faded cloth, and a shallow basket hung from her elbow. Inside were leaves, a piece of red thread, and a little earthen bowl. She wore no ornament that announced rank, but the fisherman moved aside when she approached.
 
-### Sulad
+“Ula,” he said. “You are early.”
 
-**Progression:** his own relationship to belief and custom can begin differentiating his worldview from Ache's.
+“Your wife sent for me. The youngest has a fever.”
 
-## Turning point
+“He is sleeping.”
 
-Brunei ceases to be only a family name or distant place and becomes a possible source of identity and political connection.
+“Good. Then you can listen while I tell you what to do when he wakes.”
 
-## Resolution and ending state
+She put down her basket, examined the fisherman's hands, and looked at mine.
 
-Ache has a wider mental map, but that map matters only because pressure at home is about to intensify.
+“Ah,” she said. “This must be the young raha who turned a boat into a fish trap.”
 
-## Setup and payoff
+“I saved the people aboard.”
 
-Plants Bruneian kinship, religious plurality, and the idea that Ache's identity can travel even if he loses territory.
+“I heard that too.”
 
-## Handoff
+Her face did not tell me whether she approved.
 
-Chapter 4 turns abstract political pressure into visible encroachment.
+Sulad came ashore with the last stakes. “He is paying for it now.”
+
+Ula nodded toward the net. “Then perhaps the river has already taught him enough for one day.”
+
+I expected her to leave. Instead she knelt beside the fisherman, checked the worn fibers, and began mending a section faster than either of us could follow.
+
+“Who taught you?” I asked.
+
+“My mother's mother.”
+
+“Was she a fisher?”
+
+“She knew what people needed when the river would not give it.”
+
+I looked at the basket. “And the leaves?”
+
+“For the child. They are not for your net.”
+
+“I did not think they were.”
+
+“Your face said otherwise.”
+
+Sulad was openly grinning now.
+
+Ula took a short length of red thread from her basket and tied it around one of the new stakes. The fisherman touched the knot before he carried the timber into the water.
+
+“What is that for?” I asked.
+
+“To remember who helped us put it back,” she said.
+
+“Is that all?”
+
+“Would you prefer I promised it could hold back a flood?”
+
+My mother had warned me against mocking customs simply because I did not practice them. I had never thought I was mocking anyone. I had only asked.
+
+At home we prayed to one God. On the river, some families kept the words and gestures of their grandparents, others the practices of trading kin from across the sea, and many seemed to carry both without feeling the need to argue about it. I had grown up passing from one landing to another, hardly noticing the differences until someone asked me to explain my own.
+
+I tried the knot again. This time Ula watched.
+
+“Better,” she said.
+
+The fisherman tested it and did not cut it loose.
+
+It was the first victory I had earned that morning.
+
+Then the harbor steward arrived at a run.
+
+“My lord. Your mother wants you at the crossing.”
+
+I looked at the net in my lap. “Now?”
+
+“A boat from Brunei has been held there since dawn.”
+
+“By whom?”
+
+He hesitated. I knew that hesitation from the night before.
+
+“Men who say they are keeping the common record.”
+
+I set the net down.
+
+Sulad looked at the fisherman. “We will come back.”
+
+“You will,” the fisherman said. “I still have a broken net.”
+
+Ula rose, lifted her basket, and said, “I am going that way.”
+
+I could not imagine why. I was about to find out.
+
+* * *
+
+The Bruneian vessel rode low beside the landing, too heavily laden to come fully against the muddy shelf. Two crewmen pushed long poles into the riverbed while another held a stern line taut around a post. The gangplank lay across the deck, still out of reach of the bank. A man with a blue cord around his arm stood at the landing's edge, a tally board in one hand and a spearman beside him.
+
+A pole slipped. One of Hamid's men swore and drove it down again. The ship moved a hand's breadth toward the mud before the line checked it.
+
+“This boat has already paid,” the captain said. “I will not buy the same stretch of water twice.”
+
+“Your payment was for the northern approach,” the collector answered. “This is the southern charge.”
+
+I recognized the mark on the captain's stern cloth. My mother kept gifts with that pattern in her chamber.
+
+“Who are you?” I asked.
+
+“Nakhoda Hamid. Your mother knows my ship.” He looked me over. “You must be Ache.”
+
+“Then let him unload,” I told the collector.
+
+“The common record must be agreed first.”
+
+“Yesterday my mother allowed the clerks to compare records. She did not grant you a new charge on our shore.”
+
+“The charge maintains safe passage.”
+
+“Who cleared the channel?” Ula asked, arriving behind me.
+
+The collector turned. “The appointed boatmen.”
+
+“Name them. I would like to thank them. Our people pulled the broken stakes away themselves.”
+
+I felt my ears warm. They had pulled the stakes because of my accident.
+
+Hamid leaned across the rail. “I have goods for your household and people upriver. The water is falling. Soon my men will be standing in the mud holding this hull away from the bank, and I will have to move her before she sits on it. Your quarrel can wait longer than my customers.”
+
+One of the polemen called to him. Hamid answered without looking away from me. The stern line creaked under another pull.
+
+I wanted to order the collector away. He had a spear and a claim to authority. I had a name and a mother who had warned me not to mistake those things for a solution.
+
+“Give me until the tide turns,” I told Hamid.
+
+“Every young lord I know has said that.”
+
+“Did any keep his word?”
+
+“One.”
+
+“Then there is room for two.”
+
+* * *
+
+My mother was hearing a quarrel over a marriage gift when I found her. She sent the disputants outside and listened to my account.
+
+“Can you prove he is collecting a second payment?” she asked.
+
+“He calls it a different charge.”
+
+“Then you must prove it is not owed. Do you have the captain's record?”
+
+“No.”
+
+“Go and get it.”
+
+“Why not send guards?”
+
+“Because guards can move a man. They cannot tell us who sent him.”
+
+She unwrapped a narrow strip of patterned cloth, bright in places where its folds had protected the dye. It was not the worn cloth with my father's household sign, which I still carried inside my sash. This one bore a pattern I had seen on gifts from across the sea.
+
+“Hamid carried this to me from my father when I was newly married. He will remember it.”
+
+“Siripada?”
+
+“My father, yes. And a ruler across the sea, with troubles of his own.”
+
+“Would he help us against Tondo?”
+
+“Perhaps. But I will not summon my father over one detained boat. If you wish to know what Brunei might give you, learn first what you can do here.”
+
+She put the cloth in my hand.
+
+“Ask Ula who cleared the channel,” she added. “She knows more about the people who work it than half the men who claim to govern them.”
+
+* * *
+
+Hamid touched the cloth when I showed it to him.
+
+“I carried this before you were born,” he said. “Your mother argued even then.”
+
+“She still does.”
+
+“Good. I feared marriage had made her agreeable.”
+
+He gave me the tally from the northern landing. His men had paid in cloth. Our steward could recognize the mark; Ula could name the people who had cleared the southern passage.
+
+The collector's eyes passed over Ula as though she were not there. I remembered asking, at dawn, for help in judging rightly. It would have been easy to hear only the captain and the men with weapons.
+
+“Ula,” I said, “will you tell them what you saw when the stakes were cleared?”
+
+“I will tell what I saw,” she answered. “I will not tell what you wish I had seen.”
+
+“Then tell that.”
+
+She named the boatmen who had worked the passage and the household that had lent the ropes. The fisherman supplied the names of two others. Our steward knew one of them and sent a boy to fetch him.
+
+I asked the collector to name the officer who had authorized his charge.
+
+“The officers of the crossing,” he said.
+
+“Which officer?”
+
+He looked toward his spearman.
+
+The water dropped against Hamid's hull. The gangplank still could not reach the bank. I could argue until dark and lose the boat without settling anything.
+
+“Say the claims aloud,” I told our steward. “Let each person here hear what is being disputed.”
+
+He held up the captain's northern tally and recited the payment Hamid claimed to have made. He named the disputed charge, then called Ula and the fisherman forward to speak for the work they had witnessed. When he asked who had ordered the second collection, the man with the blue cord still gave no name. The steward made a simple mark beside each claim on his board, and the witnesses repeated what they would stand by before my mother and Tondo.
+
+“You have heard them,” I told the collector. “If I have misstated anything, say so now.”
+
+“You cannot dismiss the charge,” the man protested.
+
+“I have not dismissed it. These people have spoken before witnesses. We can bring the dispute before my mother and Tondo together. Which of their claims will you deny?”
+
+He looked at Hamid's tally, then at Ula and the fisherman, who had followed us from the nets. He could deny one man's word, perhaps. Not all of them without naming the authority behind him.
+
+“The boat may unload while the matter is heard,” he said.
+
+Hamid shouted to his crew. The stern line eased. A poleman pushed the vessel close enough for the gangplank to find firm ground, and the first bundle came ashore while there was still water under the laden hull.
+
+Sulad let out a breath.
+
+“You won without a spear,” he said.
+
+“Are you disappointed?”
+
+“I was ready to use mine.”
+
+“I know.”
+
+“Next time, warn me when you intend to win by asking questions.”
+
+The collector passed close enough for me to see the blue cord tied around his arm.
+
+“You cleared one boat,” he said. “You have not cleared the river.”
+
+I knew he was right. Yet for one tide, people who owed me no obedience had chosen to stand beside me.
+
+* * *
+
+Hamid came to our hall after the unloading. He spoke with my mother in the language of her childhood. I understood enough to follow their laughter, and too little to know when they laughed at me.
+
+Later he found me beside our damaged outrigger.
+
+“You know the prayers your mother taught you,” he said. “Do you know how many men must eat before a fleet can sail?”
+
+“No.”
+
+“Then you know one thing worth knowing, and have many left.”
+
+“Would my grandfather receive me in Brunei?”
+
+“He would know whose son you are. That opens a door. It does not tell you what waits beyond it.”
+
+I thought of Ula's thread on the fishing stake, Sulad's spear, the words I used in prayer, and Hamid's ship. None had made the others useless. I had needed them all.
+
+“Will you teach me the words I missed tonight?” I asked.
+
+“When your mother allows it. You may also learn how to keep a ship's account.”
+
+“I know how to count.”
+
+“So does the man who detained my boat.”
+
+He left me with that.
+
+Sulad arrived with a carpenter's estimate for our outrigger. We carried the broken arm past the landing together. Upstream, three new poles stood in a line along the Maynila bank, at the edge where boats would bring their mooring lines ashore. Each was bound with blue cord.
+
+They were not fishing stakes.
+
+“Those were not here this morning,” Sulad said.
+
+“No.”
+
+“Whose are they?”
+
+I looked toward the crossing.
+
+“I think we are about to find out.”
