@@ -7,7 +7,7 @@ relations:
   - target: ache
     type: possible Tondo cousin of Ache's youth
     certainty: strong-inference
-related: [ache, tondo, maynila, legazpi, dynastic-network]
+related: [psychologically-credible-characters, ache, tondo, maynila, legazpi, dynastic-network]
 sources: [william-henry-scott, riquel-1571, aganduru-moriz]
 timeline: [tondo-encroachment, legazpi-manila-1571]
 ---
@@ -22,3 +22,9 @@ Secondary reconstruction commonly identifies that unnamed cousin with the Lakand
 ## Novel use
 
 The current story framework can use Lakandula as Ache's Tondo kinsman and political rival, but scenes built on the youthful rivalry remain fictional reconstruction around the historical identification.
+
+## Human contradictions (fictional characterization)
+
+He admires Ache's youth and still exploits an advantage over Maynila. He defends Tondo's autonomy but demands obedience within his own following; a public slight bothers him longer than it should. A humane act toward Ache's people might cost him his officers' favor. Do not make him a secret mastermind behind every harbor abuse.
+
+See [the full characterization guide](/raha-ache/research/psychologically-credible-characters/).
