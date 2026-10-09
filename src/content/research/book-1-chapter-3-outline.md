@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, maynila, namayan, brunei]
+related: [maynila-living-port-1500, book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, maynila, namayan, brunei]
 sources: []
 timeline: []
 ---
@@ -73,3 +73,13 @@ Plants Bruneian kinship, religious plurality, and the idea that Ache's identity 
 ## Handoff
 
 Chapter 4 turns abstract political pressure into visible encroachment.
+
+## Research-grounded revision: languages and local autonomy
+
+The **current prose** gives a concrete scene of uneven **Malay-language comprehension** when Ache meets a visiting trader. Preserve the gap between greetings, court titles, genealogies and actual fluency. **Do not infer every Tagalog resident could speak Malay.**
+
+Ula's spiritual authority, Sulad's inherited charm, and a Muslim princely household illustrate plural identities without making local belief an inferior stage of world religion. The upstream place **Namayan** is a narrative identification informed by later traditions, not archaeologically established as an identical c.1500 territorial kingdom. Older **Santa Ana** artifacts are separated by centuries from Ache.
+
+The passage that explicitly jokes about “Chapter Two” in Ache's own first-person narrative breaks historical immersion; revise that line with minimal alteration, preserving the three-day examination of disputed harbor tallies.
+
+For location and dating controls see [Living Maynila](/raha-ache/research/maynila-living-port-1500/) and [the larger foreign-contacts research](/raha-ache/research/foreign-contacts-ache-era/).

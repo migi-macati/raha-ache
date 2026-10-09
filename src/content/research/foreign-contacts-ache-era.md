@@ -4,7 +4,7 @@ name: "Foreign Presence and Influences in Raha Ache's Maritime World, c. 900–1
 aliases: [Foreign contacts in Ache's world, Overseas trade in early Maynila, Foreign influence dossier, Early Philippine maritime networks]
 status: uncertain
 developmentStatus: current
-related: [ache, maynila, tondo, namayan, brunei, sulu, mindoro, palawan, pasig-river, book-1, book-2, book-3, joaquin-philippine-becoming, manila-tondo-namayan, brunei-relationship, tome-pires-suma-oriental, ubaldo-iaccarino-japanese-luzon, rausa-gomez-srivijaya-majapahit, nmp-tradeware-philippines, scott-filipinos-china-before-1500, cesar-majul-sulu-genealogy, sakamaki-ryukyu-southeast-asia, william-henry-scott, laura-lee-junker, anthony-reid, elsa-clave-arlo-griffiths]
+related: [maynila-living-port-1500, ache, maynila, tondo, namayan, brunei, sulu, mindoro, palawan, pasig-river, book-1, book-2, book-3, joaquin-philippine-becoming, manila-tondo-namayan, brunei-relationship, tome-pires-suma-oriental, ubaldo-iaccarino-japanese-luzon, rausa-gomez-srivijaya-majapahit, nmp-tradeware-philippines, scott-filipinos-china-before-1500, cesar-majul-sulu-genealogy, sakamaki-ryukyu-southeast-asia, william-henry-scott, laura-lee-junker, anthony-reid, elsa-clave-arlo-griffiths]
 sources: [tome-pires-suma-oriental, ubaldo-iaccarino-japanese-luzon, rausa-gomez-srivijaya-majapahit, nmp-tradeware-philippines, scott-filipinos-china-before-1500, cesar-majul-sulu-genealogy, sakamaki-ryukyu-southeast-asia, william-henry-scott, laura-lee-junker, anthony-reid, elsa-clave-arlo-griffiths, pigafetta, cesar-adib-majul]
 timeline: []
 ---
@@ -274,3 +274,9 @@ Avoid the common anachronism of importing the later Manila–Acapulco galleon ci
 - [CCP Encyclopedia, Agusan gold image](https://epa.culturalcenter.gov.ph/3/82/2191/).
 
 **Source discipline:** these are distinct levels of attestation. References to seventeenth-century artifacts or settlements cannot be silently backdated; later written sources are not firsthand evidence of a tenth-century court; foreign royal claims do not prove direct sovereignty; Pires's commercial intelligence is contemporary but secondhand for Luzon; the specific Japanese merchant appearance is supported through a modern scholar's citation of a 1570 archival record still to be inspected directly.
+
+## Stronger 1570 primary record: settled foreigners in Maynila
+
+An archival/edition-level follow-up finds that the [anonymous *Relation of the Voyage to Luzon* (1570)](/raha-ache/sources/relacion-voyage-luzon-1570/) goes **beyond** the previous Japanese-merchant secondary-source summary. It reports **forty married Chinese and twenty Japanese living** at Maynila when Goiti reached the port, plus **four Chinese ships** near the waterfront. One Japanese named **Pablo** claimed to be Christian; his alleged role with Maynila's gunners is hearsay. Wives of Chinese settlers appear among prisoners of the 1570 fighting. These are **reported figures**, not a modern census or proof of identical residency around 1500.
+
+The same account describes the town's defensive waterfront and artillery, the **Mehomete** kin-network and interpretation, a large household store of imported goods and metals, and unfinished local cannon with clay/wax molds. See [*Living Maynila*](/raha-ache/research/maynila-living-port-1500/) for distinctions among firsthand observation, reports after destruction, commercial allegations and source bias. This evidence **strengthens** the late-book portrayal of mixed foreign communities; it should not backdate a Japanese quarter to Book I.

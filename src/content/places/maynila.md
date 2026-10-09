@@ -4,8 +4,8 @@ name: Maynila
 aliases: [Manila]
 status: historical
 developmentStatus: current
-related: [foreign-contacts-ache-era, ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics, social-rank-and-households, food-clothing-and-material-life]
-sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, aganduru-moriz, riquel-1571, relacion-1572]
+related: [maynila-living-port-1500, foreign-contacts-ache-era, ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics, social-rank-and-households, food-clothing-and-material-life]
+sources: [relacion-voyage-luzon-1570, plasencia-customs-tagalogs-1589, tome-pires-suma-oriental, nmp-tradeware-philippines, aganduru-moriz, riquel-1571, relacion-1572]
 timeline: [ache-father-dies, tondo-encroachment, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 ---
 Fortified settlement and trading polity at the mouth of the Pasig River.
@@ -55,3 +55,13 @@ Indian textiles, glass beads and other goods could pass via Malacca and Brunei, 
 **A later-year fact:** research using a 1570 Spanish archival record reports Japanese merchants at Maynila when Goiti arrived, including one Christian called Pablo (Paulo). This supports their appearance in Book III's bonus chapter, but cannot establish a Japanese commercial quarter during Ache's youth. Nor should the post-1571 Parian or galleon-era commerce be silently backdated.
 
 See [Pires](/raha-ache/sources/tome-pires-suma-oriental/), [imported ceramics](/raha-ache/sources/nmp-tradeware-philippines/), and [Japan–Luzon archival synthesis](/raha-ache/sources/ubaldo-iaccarino-japanese-luzon/).
+
+## A direct documentary snapshot: May 1570
+
+The Spanish [*Relation of the Voyage to Luzon*](/raha-ache/sources/relacion-voyage-luzon-1570/) documents a busy **late** precolonial port that cannot automatically be projected back to Ache's youth. Its expedition relied on **Mehomete**, a Maynila-born supplier previously active in Cebu, and his relatives and interpreters. They warned of the need for **high tide to enter the river**, and the arriving troops saw a waterfront **palisade and artillery**.
+
+The report places **four Chinese ships** beside town and says Maynila housed **forty married Chinese and twenty Japanese**. A Japanese resident called **Pablo** professed Christianity. Chinese wives of Chinese settlers were captured in the fighting. These numbers and claims reflect one Spanish military account in **1570**, not a verified 1500 census.
+
+The same account describes **Sulayman's large house** and adjacent stores with porcelain, cloth, copper, iron, wax, and **cannon and unfinished gun molds**; its viewpoint reflects an attack and the burning of the town. The Chinese crews' allegation that local authorities seized their rudders and goods should remain **disputed testimony**.
+
+**Material depth upriver:** Earlier Santa Ana excavations yielded Song/Yuan wares, cooking ceramics, metal objects and food refuse. Their eleventh–fourteenth-century context belongs to an earlier Pasig world, **not** a plan of Ache's own Maynila. See [the living-port research](/raha-ache/research/maynila-living-port-1500/), [Santa Ana archaeology](/raha-ache/sources/nmp-santa-ana-archaeology/) and [Plasencia's later Tagalog account](/raha-ache/sources/plasencia-customs-tagalogs-1589/).

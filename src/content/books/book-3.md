@@ -4,8 +4,8 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
-sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
+related: [maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
 ## Story promise
@@ -353,3 +353,8 @@ Bonus Chapters 11–12 show history imposing a new order after Ache's own state-
 **Bonus Chapter 11:** Japanese traders were reportedly present at Maynila when Goiti arrived in May 1570, including a Christian named Pablo (Paulo); this is an evidence-backed possibility for scene design from [Iaccarino's cited archival record](/raha-ache/sources/ubaldo-iaccarino-japanese-luzon/). Put Chinese and other regional interests into the broader port landscape where independently warranted. None should be invented as an eyewitness to Ache's private decisions.
 
 **Bonus Chapter 12:** the new Spanish order reorders an old Asian cosmopolitan port. Conversion, legal status and diplomacy change amid unequal claims, with all three forms of historical evidence, inference and novel invention separated.
+
+
+## Bonus 11: resident foreigners and the 1570 civil population
+
+The [1570 voyage relation](/raha-ache/sources/relacion-voyage-luzon-1570/) reports four Chinese ships, **forty married Chinese and twenty Japanese residents** of Maynila, and families affected by the town's burning. It also describes the Maynila-born interpreter [Mehomete](/raha-ache/characters/mehomete-maynila/), whose trade and family connections ran through Cebu, and the Japanese Christian [Pablo](/raha-ache/characters/pablo-japanese-1570/). Their existence complicates any simple local-versus-European binary. Their motives and private thoughts are unknown. The figures are an attributed **1570 snapshot**, not an earlier census. Read the [Living Maynila dossier](/raha-ache/research/maynila-living-port-1500/) before bonus-chapter revisions.
