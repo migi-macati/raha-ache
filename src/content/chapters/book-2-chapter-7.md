@@ -4,7 +4,7 @@ name: "Book II, Chapter 7: The Whale Ships"
 aliases: ["The Whale Ships"]
 status: fictional
 developmentStatus: working
-related: [ache, elcano, brunei, loue, encounter-1521, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, elcano, brunei, loue, encounter-1521, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign, encounter-1521]
 book: book-2
@@ -76,3 +76,7 @@ Pays off Ache's strategic habits by testing their limits. Sets up the documented
 ## Handoff
 
 Chapter 8 delivers the reversal.
+
+## Suspense and emotional stakes revision
+
+The 1521 expedition's approach is frightening partly because readers may know more about its historical significance. Ache can have heard reports of European activity in the region, especially Portuguese Malacca after 1511, without knowing this fleet's intentions. **Reversal:** a sensible order based on partial evidence becomes disastrous when both parties misread one another. **Choice:** hold, pursue or disengage under uncertainty. Avoid omniscient European technological inevitability.
