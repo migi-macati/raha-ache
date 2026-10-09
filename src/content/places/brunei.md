@@ -4,8 +4,8 @@ name: Brunei
 aliases: []
 status: historical
 developmentStatus: current
-related: [ache, siripada, sultan-bolkiah, pazeculan, loue, sulu, court-etiquette-and-gifts, religious-life-and-learning, languages-and-interpreters, maritime-command, maritime-trade, marriage-alliances-and-dependence]
-sources: [aganduru-moriz, pigafetta, william-henry-scott]
+related: [foreign-contacts-ache-era, ache, siripada, sultan-bolkiah, pazeculan, loue, sulu, court-etiquette-and-gifts, religious-life-and-learning, languages-and-interpreters, maritime-command, maritime-trade, marriage-alliances-and-dependence]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, aganduru-moriz, pigafetta, william-henry-scott]
 timeline: [ache-leaves-for-brunei, ache-brunei-command, encounter-1521]
 ---
 Sultanate and royal court central to Ache's maternal kinship, political education, and early military career.
@@ -46,3 +46,11 @@ Roderich Ptak reconstructs a **Borneo route** connecting mainland Southeast Asia
 The Portuguese capture of Melaka in **1511** altered commercial incentives and contributed to the importance of alternative ports, including Brunei. Do not describe this as the instant creation of Brunei's trade system: the networks and court predated 1511. [Druce et al., *Contextualising the History of Brunei*](https://www.researchgate.net/publication/363594575_Contextualising_the_History_of_Brunei).
 
 For the novel, Brunei's court can bargain over protection, pilots, anchorage, cargoes, crews, and loyalty. The sources do **not** establish a uniform customs tariff, exact convoy schedule, or direct Bruneian administration of Maynila.
+
+## A living Asian trading crossroads
+
+Pires's *Suma Oriental* (1512–15) describes Luzon traders moving through Brunei and Malacca and Borneans buying goods such as Indian cotton cloth, Cambay beads and Chinese metalware in Malacca for island trade. In the novel Ache can encounter **Luzon expatriate merchants and visiting Asian traders already established in Brunei**, rather than being the first person to make contact. These routes are **not proof** of permanent Bruneian imperial administration over Maynila.
+
+The **Portuguese seizure of Malacca (1511)** is relevant news for Brunei's court during Ache's naval formation and can affect expectations of European visitors before the direct 1521 encounter. Distinguish reported commercial information, the conquerors' own claims and the motives of individual Bruneian factions.
+
+See the [foreign-presence dossier](/raha-ache/research/foreign-contacts-ache-era/) and [Tomé Pires](/raha-ache/sources/tome-pires-suma-oriental/).
