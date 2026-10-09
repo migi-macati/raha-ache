@@ -4,7 +4,7 @@ name: Story architecture standard
 aliases: [Outline standard, Chapter standard, Book standard]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
 sources: []
 timeline: []
 ---
@@ -170,3 +170,11 @@ The original components above remain required. Each **chapter plan** must also a
 - **Fact vs invention:** identify which described conditions are attested, inferred or novel canon in source notes.
 
 The [historical suspense contract](/raha-ache/research/historical-suspense-contract/) and [character stakes map](/raha-ache/research/trilogy-character-stakes-and-reversals/) give the first full pass across Books I–III. Apply them when turning outlines into prose. **Do not place editorial prompts, source citations or synopsis spoilers inside Ache's narration.**
+
+## Human-character pass for every draft
+
+Apply the [psychologically credible characters standard](/raha-ache/research/psychologically-credible-characters/) after plotting and before declaring any chapter prose current. For each major participant, know an **independent need, a useful adaptation that can do harm, one unflattering choice, two relationships that show different sides, and an ordinary activity offstage**. These are design checks, not requirements to explain psychology on the page.
+
+Avoid dialogue in which all adults teach and Ache always learns. A good character is sometimes unfair, evasive, embarrassingly proud or mistaken. Don't fix every conflict with an insightful apology. Show motivation by habits, inaction, late answers and consequences.
+
+**Reader-facing boundary:** place craft directions, development spoilers and source classifications in research or outline pages; keep completed chapter prose free of appended editorial notes. The Book I Chapters 1–3 manuscripts have been cleaned accordingly.
