@@ -180,7 +180,9 @@ I waited until they were gone.
 
 I stared at her.
 
-She looked almost tired enough to smile. “You learn quickly when the cost is yours.”
+She studied the claim we had left unsettled. “I wanted the hearing finished,” she said. “That is why I let you offer the silver.”
+
+I hadn't expected her to admit that.
 
 “I learned that three men can argue over a broken jar longer than it takes to sail across the bay.”
 
