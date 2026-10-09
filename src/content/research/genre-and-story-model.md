@@ -4,7 +4,7 @@ name: Genre and story model
 aliases: [Genre, Story model, Shonen model]
 status: fictional
 developmentStatus: current
-related: [ache, book-1, book-2, book-3, revised-trilogy-structure]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, book-1, book-2, book-3, revised-trilogy-structure]
 sources: []
 timeline: []
 ---
@@ -124,3 +124,17 @@ Serious historical stakes can coexist with humor, friendship, rivalry, wonder, d
 The story should be readable by a young-adult audience without flattening the politics, violence, religion, trade, kinship, and moral ambiguity of the sixteenth-century world.
 
 The story should feel like a world the reader wants to continue exploring, not a dramatized history textbook.
+
+## Suspense contract, character agency and historical irony
+
+Apply [Historical Suspense and Dramatic Irony](/raha-ache/research/historical-suspense-contract/) and [Character Stakes and Reversals](/raha-ache/research/trilogy-character-stakes-and-reversals/) to the existing shōnen and first-person-multiple-POV model.
+
+**The lead character has a cost-generating flaw:** Ache is skilled at systems but can confuse seeing a problem with having permission to decide others' lives. This can mature into manipulation or control even while he sincerely believes he is protecting Maynila. His growth includes **regression**, unintended harm and needing the correction of people he has offended.
+
+**Every secondary major character wants something independent of Ache.** Sulad can refuse. His mother can be strategically wise and ethically compromised. Safi can be right; Jamil wrong; Laila chooses a future independent of romance; Lakandula may defend people Ache misses; Sulayman needs space to judge independently. Never reduce these people to teaching tools.
+
+**Reader knowledge is asymmetric:** the historical reader may foresee the return of Europeans or Spanish conquest; no character narrates as if they know the future. Suspense remains in decisions, personal risk, damaged relationships, interpretive disputes and uncertain testimony.
+
+**Prose correction:** do not build every dialogue exchange as witty child versus correct adult. Alternate silence, emotional misreading, conflict without a lesson, unreciprocated affection and imperfect apologies. Keep pleasure and ordinary life present so losses matter.
+
+**Avoid “historical fact as plot twist.”** Surprise must come from plausible unrecorded decisions and fair earlier cues, without rewriting recorded endpoints or claiming invented events occurred historically.
