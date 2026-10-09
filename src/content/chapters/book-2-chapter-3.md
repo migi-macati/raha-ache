@@ -4,7 +4,7 @@ name: "Book II, Chapter 3: Admiral in Training"
 aliases: ["Admiral in Training"]
 status: fictional
 developmentStatus: working
-related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, brunei, ache-brunei-command, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, brunei, ache-brunei-command, story-architecture-standard]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
@@ -81,3 +81,7 @@ Plants logistics and command habits that must later pay off in campaign success 
 ## Handoff
 
 Chapter 4 deliberately breaks the upward progression with a serious failure.
+
+## Suspense and emotional stakes revision
+
+Training under Jamil must include actual crews, supply chains and people who can refuse orders. Ache notices a maneuver nobody else has seen, but a worker tells him the men cannot perform it without rest or pay. **Reversal:** talent fails when the human conditions of execution are ignored. **Cost:** either a delayed ambition or a crewman's trust. Hasan's language lessons likewise expose words whose meanings change by rank.
