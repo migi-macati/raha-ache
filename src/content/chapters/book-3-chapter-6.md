@@ -4,7 +4,7 @@ name: "Book III, Chapter 6: The Work of Rule"
 aliases: ["The Work of Rule", "Governor"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -81,3 +81,7 @@ Directly plants the grievances that later contribute to the coalition crisis.
 ## Handoff
 
 Chapter 7 shows how neighboring powers react to the stronger, more organized Maynila.
+
+## Merchant, language and status subplot: the false clarity of a ledger
+
+Ache's Harbour Council and Court of Scribes are **fictional institutional reforms**. A new standardized record protects a visitor's cargo but mistakenly assigns an inherited **aliping namamahay** obligation as if a dependent household's members could be taken away and sold. An elder's oral testimony conflicts with the ledger. Ache initially favors the simplicity of writing; the injured family forces him to reconsider. **Proposed character:** [Mehomete](/raha-ache/characters/mehomete-maynila/) can replace the anonymous commercial translator only if the chapter is dated late enough; **pre-1570 service is invented**, not documented. **Turn:** Ache orders an appeal and becomes politically vulnerable to claims of inconsistency. [Plasencia source](/raha-ache/sources/plasencia-customs-tagalogs-1589/); [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
