@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -524,7 +524,9 @@ The question stung more than I expected.
 
 “No,” I said.
 
-He nodded once.
+He nodded once. I waited for him to make a joke.
+
+He didn't.
 
 That was the end of it.
 
@@ -593,3 +595,33 @@ This time I returned the greeting.
 Then I sat beside him.
 
 “Show me what you counted,” I said.
+
+He turned his board toward me. Seven vessels. The cargoes agreed with our steward's marks. Beside each boat he had cut a smaller row of strokes.
+
+“The crews,” I said.
+
+He nodded.
+
+“Why?”
+
+“A woman came to Tondo last month looking for her husband. He had gone aboard a trading boat. No one could tell her whether he had sailed, or crossed the river, or left the vessel before it departed.”
+
+“Did you find him?”
+
+“No.”
+
+He touched the marks with one finger. “If it happens again, at least we'll know where to begin looking.”
+
+I had come ready to catch him taking something from Maynila. Instead he had told me about a woman who wanted her husband home.
+
+“And if a man comes looking because he claims a rower owes him service?” I asked.
+
+The clerk looked down at the board.
+
+“Then he will know where to begin looking too.”
+
+Across the river a boat was coming in on the evening tide. I watched its crew prepare the lines. Every one of them was a person someone might be searching for.
+
+“Who is allowed to look at your board?” I asked.
+
+The clerk did not answer quickly.
