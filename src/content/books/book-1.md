@@ -4,7 +4,7 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
 sources: [relacion-voyage-luzon-1570, plasencia-customs-tagalogs-1589, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
@@ -308,3 +308,13 @@ Ache still lacks command, military credibility, and the force needed to reclaim 
 Use [Maynila language, arts and social order](/raha-ache/research/maynila-language-arts-social-order/) to refine Chapters 1–3: Ache's first choices affect a fisherman's property and a porter's labor, imported jars and garments have owners and makers, and his fluency in Malay can fail when trade vocabulary outruns court greetings. Local Tagalog social labels **maharlika**, **aliping namamahay** and **aliping sa gigilid** have precise differences in later evidence, but individual c.1500 household membership is **novel reconstruction**.
 
 Avoid treating the **900 CE Kawi-related** inscription as Ache's baybayin record, or the **1593** printing as proof of a uniform court archive. Artistic craftsmanship should surface through action, not showpiece exposition.
+
+## Narrative escalation revision: danger within ordinary life
+
+The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contract/) and [character stakes and reversals matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/) supersede a simple *young prince learns a lesson each chapter* reading. The first three **prose chapters have been revised**: the Chapter 1 rescue now injures a rower's hand; Chapter 2 refuses to declare the injury settled and foregrounds the contested counting of crew members; Chapter 3 shows the clerk using those counts to help search for missing sailors, while revealing their possible coercive use. The specific events and people are **fiction**, not historical discoveries.
+
+**Book I reader's unresolved questions:** Is the mother's accommodation protection or a concession that endangers dependents? Is Ache right about the danger, yet wrong about how to respond? Who chooses to stay behind when he leaves? Can Sulad say no to him without destroying their friendship? Avoid an evil-mastermind solution; conflicting rights and human motivations suffice.
+
+**Chapter 4:** follow an actual disputed crew/landing or service claim to its cost, rather than restart the Tondo threat. **Chapter 5:** make flight a wound in the Ache–mother and Ache–Sulad relationships, not a painless strategic pivot. **Chapters 6–9:** each alliance and survival solution requires a concrete concession or loss. **Chapter 10:** Siripada's hospitality does not automatically grant an army. Achieve the **flight-to-Brunei resolution** at Chapter 10.
+
+**Pacing:** preserve humor, ordinary pleasures and the riverside intimacy readers might mourn. Threat without a loved place becomes anonymous spectacle.
