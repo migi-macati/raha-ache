@@ -29,7 +29,7 @@ relations:
   - target: pasay
     type: earlier-draft companion
     certainty: development
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
+related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 sources: [aganduru-moriz, pigafetta, william-henry-scott, riquel-1571, relacion-1572, luis-camara-dery]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -68,3 +68,9 @@ The [current psychological arc](/raha-ache/research/trilogy-character-stakes-and
 **Book I:** a rescued child and injured rower are simultaneously true; Ache can be perceptive about Tondo's trade records and still dismiss the human value of his mother's bargain. **Book II:** command mastery deepens his influence and the costs others bear. **Book III:** the fictionally imagined Court of Scribes creates genuine benefits and a wrong-status case; the Ch9–10 invented crisis requires real correction, not a final lecture. **1570–72:** Ache cannot possess foreknowledge of later Philippine colonial history; public events follow the source record.
 
 **Character surprise rule:** avoid treating each failure as a scripted moral lesson followed by a clean improvement. Ache can grow more effective before he grows more just.
+
+## Characterization: the useful flaw and its human cost
+
+**Fictional behavior, not recorded biography.** Ache often acts before asking who will bear the cost. His rescue at the quay saves a child and injures a rower. He wants gratitude and resents that another family still needs an answer. He can repair a boat expertly yet forget that Sulad's time and labor are not his to assign. When ashamed, he becomes formal; when relieved, he jokes too soon. He guards his father's cloth while mocking other people's protective objects. He can love Maynila and try to control it.
+
+**Scene stress test:** have Ache apologize without giving an explanation of why he was right. When the apology fails, make him tempted to command forgiveness. His final progress is accepting a refusal without treating it as insubordination. [Human-character guide](/raha-ache/research/psychologically-credible-characters/).
