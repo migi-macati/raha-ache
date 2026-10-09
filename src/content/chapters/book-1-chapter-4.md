@@ -4,7 +4,7 @@ name: "Book I, Chapter 4: Encroachment"
 aliases: ["Encroachment"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, lakandula, ache-mother, maynila, tondo, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakandula, ache-mother, maynila, tondo, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1
@@ -84,3 +84,7 @@ Pays off the succession and kinship setup from Chapter 2. Sets up Chapter 5's ir
 ## Handoff
 
 Chapter 5 forces Ache to choose among bad options.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** Ache follows a disputed crew or labor-status entry rather than hearing yet another general complaint about Tondo. The clerk counts people for a credible safety reason; a stronger patron begins asserting that the tally proves someone's debt or service. The injured rower's household from Ch1–2 is available as a *continuing fictional thread*, but do not make that man conveniently central to every conspiracy. **Ache's choice:** public accusation or discreet protection of affected people. **Reversal:** he correctly spots a serious abuse but exposes a vulnerable witness or disrupts a merchant who had relied on the agreement. **Cost:** his mother cannot reverse the damage without conceding her authority. Tondo may act through independent agents, not a single villainous secret order.
