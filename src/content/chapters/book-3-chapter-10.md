@@ -4,7 +4,7 @@ name: "Book III, Chapter 10: The Kingdom Holds"
 aliases: ["The Kingdom Holds"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, book-3-chapter-11, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, book-3-chapter-11, story-architecture-standard]
 sources: []
 timeline: [bay-coalition-crisis]
 book: book-3
@@ -95,3 +95,7 @@ The core trilogy is complete. Bonus Chapter 11 begins a **new historical crisis*
 ## Merchant, language and status subplot: institutional repair
 
 The council hears witnesses, reopens a coerced or mistranslated pledge, separates **namamahay** protections from the **gigilid** condition, and negotiates practical rights of fishing, landing, passage and service. Sulayman's command keeps trade safe while officials enforce a corrected settlement **without Ache supervising each step**. Captains' coalition loses the ability to operate as a unified threat, but individual people may remain unconvinced. **Climax:** Ache accepts that a living institution must be corrigible, not merely orderly. The fictional conflict **ends here**, before the Spanish crisis begins. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+**Resolve the Book III core conflict here.** Delegated adjudicators correct harmful service records, Sulayman coordinates armed protection, Tondo and local allies contribute terms they genuinely endorse, and captains' coalition ceases to be a coherent threat. **Reversal:** Ache gains a more durable order by surrendering the personal power to decide every grievance. **Cost:** he does not regain every friendship or undo every injury. **Historical dramatic irony:** viewers know new demands on the harbor will arrive, but Ache cannot predict their precise form.
