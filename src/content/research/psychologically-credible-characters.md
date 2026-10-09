@@ -4,7 +4,7 @@ name: "Flawed, Believable People: Trilogy Characterization Standard"
 aliases: [Human character design, Character contradictions, Psychological credibility standard, Characters as people]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, ache-mother, lakandula, ula, bulkan, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, jalal, lakanmulaw, sulayman, ache-wife, mehomete-maynila, pablo-japanese-1570, panday-pira, book-1, book-2, book-3, historical-suspense-contract, trilogy-character-stakes-and-reversals, story-architecture-standard]
+related: [rowers-sister, tondo-harbor-clerk, ache, sulad, ache-mother, lakandula, ula, bulkan, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, jalal, lakanmulaw, sulayman, ache-wife, mehomete-maynila, pablo-japanese-1570, panday-pira, book-1, book-2, book-3, historical-suspense-contract, trilogy-character-stakes-and-reversals, story-architecture-standard]
 sources: []
 timeline: []
 ---
