@@ -316,51 +316,31 @@ There it was again. Either shore.
 
 I went to find Sulad.
 
-He was carrying new stakes toward the fishing ground, his shoulder already marked by the weight.
+He and his uncle were setting the new stakes where the fishing nets had been damaged. His uncle braced one in the shallows while Sulad worked another into place. More lay on the bank than I had expected.
 
-“Could you help take her baskets out?” I asked.
+“Sima still needs a crew,” I said. “Could you take her baskets out?”
 
-“Perhaps. My uncle is waiting for these.”
+“When we finish this, there is the net.”
 
-“I could tell him why.”
+“I could help.”
 
-“Ask him, then. I cannot leave them lying here.”
+Sulad looked at the unplanted stakes. “Then hold that one.”
 
-“I will ask. If he agrees, could you row?”
+I took his place. The pole slid in my hands when the water pressed against it. His uncle caught it before it struck the next stake.
 
-“If the stakes are set and someone else can finish the net.”
+“Not there,” the man said, and showed me where to brace my foot.
 
-“Good.”
+For a while no one spoke. Sulad set the stakes and his uncle worked them into the bed. The work was slower than the boats passing downriver.
 
-I returned to the landing and told my mother Sulad might help.
+“If I stay,” I asked, “can you go?”
 
-He arrived in time to hear me.
+“If you can mend the net as well.”
 
-“Might,” he said.
+I looked at the torn mesh lying on the bank. I could not have finished it before dark.
 
-I turned.
+I helped them set the stake I was holding. Another boat passed the landing, carrying baskets toward the ship.
 
-“I said you might.”
-
-“You told them to wait for me.”
-
-“I thought you could come.”
-
-“I told you what had to happen first.”
-
-His uncle stood farther up the bank with the remaining stakes. He had heard enough.
-
-I looked at the men gathered around us. It would have been easy to tell Sulad that Maynila needed him. It was what I had nearly told him when we broke the fishing gear in the first place.
-
-Instead I said, “I spoke too soon.”
-
-Sulad's expression did not soften. He adjusted the weight on his shoulder.
-
-“Then I will go and finish what I promised.”
-
-I watched him leave.
-
-My mother did not rescue me from the silence.
+When I returned, my mother was still with the clerks. She saw the mud on my hands and said nothing.
 
 * * *
 
