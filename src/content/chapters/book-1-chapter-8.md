@@ -4,7 +4,7 @@ name: "Book I, Chapter 8: Diplomacy and Supplies"
 aliases: ["Diplomacy and Supplies"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, palawan, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, palawan, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -76,3 +76,7 @@ Plants debts and relationships that Book III can reactivate as **Old Alliances, 
 ## Handoff
 
 With supplies secured, the remaining obstacle is the final pursuit and the sea itself.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** a provision deal appears ingenious but places a less-powerful rower, broker or host at real risk. The local person refuses a bargain and **remains morally intelligible**. **Reversal:** Ache must negotiate from weakness and give up a personal advantage. **Cost:** Sulad questions whether Ache is becoming different from the men who took his home. **Handoff:** an earlier promise creates risk during the final pursuit.
