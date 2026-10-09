@@ -4,7 +4,7 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
 sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
@@ -334,3 +334,11 @@ Book II delivers Ache to the edge of the restoration conflict. Book III must tes
 ## Material culture, language, rank and the arts
 
 [Maynila's languages, writing, arts and strata](/raha-ache/research/maynila-language-arts-social-order/) supplies a cross-regional framework for Ache's Brunei training. A maritime commander learns to rely on interpreters, pilots, artisans, singers/memory keepers and diverse workers; he should be capable of losing an engagement through mistranslated provisions or coercive service demands. **Artistic display** at Brunei is a political language of gifts and rank, with local makers and owners. The surviving **900 CE** Kawi-related inscription and **1593** baybayin printing do not establish a uniform Ache-era scribal apparatus in either capital. Do not present Visayan artistic or class categories as identical to Tagalog/Bruneian usage.
+
+## Narrative escalation revision: becoming powerful is dangerous
+
+The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contract/) and [character stakes matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/) make Book II an emotional and moral progression, not ten levels of training. **Safi is right about the privilege of foreign kinship at least once**; Jamil can misjudge an operation; Hasan can refuse to give intellectual/religious cover to an unfair plan; Laila has a vision of her own life that Ache may frustrate. These are **planned fictional arcs**.
+
+**Chapters 1–4:** earned standing requires actual crews, labor and corrected assumptions; a tactical loss strains mentorship. **5–6:** an irregular victory and Loue success carry contested credit and concrete human cost. **7–8:** the reader anticipates a 1521 European encounter, but Ache makes choices based on the evidence *he* has; the character suspense is whose lives, reputations and bonds survive, not whether the documented date can be cheated. **9–10:** restoration of command does not mean forgiveness or everyone agreeing to accompany him home. The choice to leave Brunei must hurt.
+
+**Guardrail:** 1521 reports and Ache's release are subject to the site's existing historical source audit. Do not invent documented speech, pretend Portuguese Malacca's 1511 conquest was unknown to maritime Asians, or add preknowledge of Spanish Manila's later fate.
