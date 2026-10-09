@@ -4,7 +4,7 @@ name: "Book I, Chapter 7: The Visayan"
 aliases: ["The Visayan"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, lakanmulaw, palawan, mindoro, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakanmulaw, palawan, mindoro, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -84,3 +84,7 @@ Sets up Lakanmulaw's later return in Books II–III.
 ## Handoff
 
 The alliance creates opportunity, but Chapter 8 still has to solve the material problem of supplies and passage.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** the first encounter with a Visayan/other community is told through a specific dispute about a vessel, safe anchorage or shared threat. **Reversal:** the apparent adversary has a moral objection to Ache's position; Ache does not win simply by identifying as Brunei's grandson. **Choice:** make an unflattering concession or lose a potentially lifesaving ally. **Cost:** Sulad sees a kind of leader Ache has not yet learned to be.
