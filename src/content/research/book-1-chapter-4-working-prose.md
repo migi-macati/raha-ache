@@ -24,7 +24,15 @@ Instead I asked, “If I were that woman's husband, would you tell her where to 
 
 “And if I were a man who said her husband owed me two days at the paddle?”
 
-The clerk looked at me. “I would ask why you needed to know.”
+The clerk looked at me. His thumb stayed on the marks.
+
+“I would ask why you needed to know.”
+
+“And if the man asking were a friend of your lord?”
+
+He shifted his thumb, revealing the entire row.
+
+“I would still ask,” he said, a little too late.
 
 “You would ask a raha to explain himself?”
 
