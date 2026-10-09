@@ -4,7 +4,7 @@ name: Tagalog writing and recordkeeping
 aliases: [Baybayin writing, Kawi and Baybayin distinction, Writing in early Maynila]
 status: uncertain
 developmentStatus: current
-related: [maynila-language-arts-social-order, lagu-na-copperplate-inscription, loc-doctrina-christiana-1593, ache-language, languages-and-interpreters, part-3-institutions]
+related: [maynila-language-arts-social-order, laguna-copperplate-inscription, loc-doctrina-christiana-1593, ache-language, languages-and-interpreters, part-3-institutions]
 sources: [loc-doctrina-christiana-1593, elsa-clave-arlo-griffiths, william-henry-scott]
 timeline: []
 ---
