@@ -4,7 +4,7 @@ name: "Book II, Chapter 8: Prisoner"
 aliases: ["Prisoner"]
 status: fictional
 developmentStatus: working
-related: [ache, elcano, pazeculan, encounter-1521, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, elcano, pazeculan, encounter-1521, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [encounter-1521]
 book: book-2
@@ -76,3 +76,7 @@ Creates a deliberate echo of Chapter 4's defeat at much greater scale.
 ## Handoff
 
 Chapter 9 asks whether Ache can recover command after public humiliation and material loss.
+
+## Suspense and emotional stakes revision
+
+The historical contact defeats and captures Ache in the novel's current synthesis, but **the exact details remain subject to source reconciliation**. Suspense moves to crew members, captives, promises, what he confesses, and how others exploit his absence. **Reversal:** a captor's apparent mercy may be a survival strategy, not generosity. **Cost:** Ache cannot simply command himself free; release does not restore reputation or lost trust.
