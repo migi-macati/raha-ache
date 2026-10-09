@@ -4,7 +4,7 @@ name: "Book III, Chapter 1: The Bay That Forgot Him"
 aliases: ["The Bay That Forgot Him"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, maynila, tondo, manila-bay, return-to-maynila, port-centered-rule, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, book-3, ache, maynila, tondo, manila-bay, return-to-maynila, port-centered-rule, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [return-to-maynila]
 book: book-3
@@ -80,3 +80,7 @@ Pays off the homeward longing of Books I–II and reframes it. Sets up the actua
 ## Handoff
 
 Chapter 2 turns return into action.
+
+## Suspense, historical irony and emotional stakes revision
+
+**Reader sees a homecoming; Ache discovers strangers on his shore.** A household he expected to celebrate his return has made lawful arrangements under the rulers who remained. Its representative refuses to call Ache a liberator. **Choice:** intimidate them or acknowledge the cost of his absence. **Reversal:** a person whom Ache assumes he must save may regard him as the danger. **Cost:** nostalgia ceases to be a credible program of government.
