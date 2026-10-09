@@ -4,72 +4,47 @@ name: "Book I, Chapter 1: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river]
+related: [book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river, book-1-chapter-2-outline]
 sources: []
 timeline: []
 ---
-## Chapter purpose
 
-Establish the life Ache is about to lose: his skill, freedom, friendship with Sulad, ambition for Maynila, and avoidance of the responsibilities attached to being heir.
+## Chapter purpose and opening state
 
-## Opening state
+Establish Ache's skill and pleasure on the Pasig, his close but unequal friendship with Sulad, and his assumption that being heir entitles him to other people's time. Turn a seemingly heroic rescue into the first test of responsibility. This outline describes the **existing first-person prose**, not a proposed replacement.
 
-Ache experiences Maynila as home, playground, inheritance, and future possession. He assumes time is on his side.
+## Immediate objective, plot and stakes
 
-## Immediate objective
+Ache wants to win a river wager against Sulad and return before the second hall summons. A laden cargo boat breaks loose, steering damaged, with a child aboard. Ache wants to save its passengers. The stakes shift from his pride and training time to lives, fishing gear, labor, household resources and public trust.
 
-Ache wants freedom on the river and to avoid being pulled back into training, ceremony, or political obligation.
+## Scene-by-scene causal map (Ache POV)
 
-## Main plot movement
-
-The chapter establishes Ache's ordinary world and the gap between his imagined future as ruler and his present unwillingness to prepare for it.
-
-## Subplots
-
-- **Ache and Sulad:** comfortable friendship, with Sulad more practical and grounded.
-- **Future Maynila:** Ache dreams about what the settlement could become without yet understanding the work required.
-- **Responsibility:** adults and duties intrude at the edges of his freedom.
-
-## Conflict and stakes
-
-The immediate conflict is small: Ache wants autonomy while his position keeps generating obligations. The deeper stake is whether he will recognize those obligations before circumstances choose for him.
-
-## Themes and subthemes
-
-**Theme:** inheritance versus earned worth.
-
-**Subthemes:** youth, privilege, freedom, duty, imagination versus preparation.
+1. **River departure and wager.** Ache seeks freedom and the rice-cake prize; Sulad warns about the return deadline. The patched sail, small outrigger, morning trade and tide establish the river as both playground and working economy. **Turn:** a distressed cargo boat interrupts the wager.
+2. **Failed first rescue.** Ache attempts to tow the larger vessel with his small boat. Sulad identifies the load and sail risks. Ache's rope burns his hands; he releases it. **Consequence:** the cargo boat remains in danger and Ache has to abandon his initial plan.
+3. **Quay-post rescue.** The boys retrieve the loose line and pass it to people ashore to take the strain on a mooring post. Ache has not fully lowered the sail; the outrigger hits a submerged stake and breaks. The cargo hull stays upright and the child reaches shore. **Material-logic check:** specify in a later targeted prose pass that they recover the free end trailing from the larger boat, not a rope mysteriously detached from both vessels.
+4. **Claims at the landing.** Fisherman's stakes/net, porter's missed passage and owner's jars expose the costs of Ache's orders. Ache offers to settle losses without understanding which stores or labor he may command. **Reversal:** the rescue wins gratitude but creates obligations he cannot simply delegate.
+5. **Mother's hearing and return to the net.** His mother questions his choices, including his failure to heed Sulad. She requires him to hear the claimants the next day. Sulad challenges Ache without deference; Ache finally asks the fisherman to show him the damaged knots. **End:** first, incomplete accountability; he has not mastered repair or restitution.
 
 ## Character progression
 
-### Ache
+**Ache:** begins talented, impatient and accustomed to obedience; learns that saving someone does not cancel harm to others. His closing request to inspect the net is a real behavioral change, not continued unqualified resistance.
 
-**Begins:** talented, curious, confident, and protected enough to treat responsibility as optional.
+**Sulad:** starts as companion and safety minder; offers technically sound warnings, participates in the rescue, and remains candid after it. He can challenge Ache because their friendship precedes the public crisis.
 
-**Pressure:** reminders that his freedom exists because others carry the political burden.
+**Ache's mother:** reveals the difference between possessing a claim and earning continued cooperation. Her insistence on hearing each claimant sets up Chapter 2's compensation proceedings.
 
-**Ends:** still resistant, but the reader can now see the flaw that later chapters will punish.
+## Plot, subplots, themes
 
-### Sulad
+**Primary plot:** Ache's first public failure of judgment creates an enforceable social debt.
 
-**Begins:** friend and companion.
+**Subplots:** friendship/wager; the mother's political education of Ache; the working river's households and occupations.
 
-**Progression:** establishes himself as Ache's practical counterweight rather than a passive sidekick.
+**Theme:** inherited authority versus earned responsibility. **Subthemes:** courage versus competence; consequences of command; the value of labor; the difference between rescue and restitution.
 
-**Ends:** the person most able to challenge Ache without ceremony.
+## Historical and technical evidence boundary
 
-## Turning point
+The incident, characters' dialogue, exact boat maneuvers, wager, tally board and landing are invented. River commerce and rights are informed only analogically by later accounts such as Juan de Plasencia, *Customs of the Tagalogs* (1589), Blair and Robertson, *The Philippine Islands*, vol. VII (1903), pp. 165–170. Do not claim an exact early-sixteenth-century quay layout, tidal hour, fee regime, or rope-handling custom from this evidence. Sulad's dark arm markings have no established ethnicity or technique.
 
-Ache's carefree river world is interrupted by a reminder that being the prince of Maynila is not a game he can postpone indefinitely.
+## Setup/payoff and handoff
 
-## Resolution and ending state
-
-Ache returns from the river still feeling free, but the story has established that his inheritance is less secure than he believes.
-
-## Setup and payoff
-
-Sets up Ache's sailing ability, Maynila ambition, relationship with Sulad, and avoidance of responsibility. Sailing and river knowledge later become survival skills rather than leisure.
-
-## Handoff
-
-Chapter 2 reveals the family, death, regency, and political structure holding Ache's world together.
+The broken outrigger, net, stakes, jars, porter's missed sale, and promised hearing carry into Chapter 2; Ache's failure to lower the sail becomes his mother's example of incomplete judgment. The first-light repair promise continues into Chapter 3. River knowledge later becomes a survival and command skill, but his initial heroism must remain costly.
