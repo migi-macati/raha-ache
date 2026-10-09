@@ -4,7 +4,7 @@ name: "Book II, Chapter 1: Brunei"
 aliases: ["Brunei"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, brunei, siripada, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, brunei, siripada, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-2
@@ -80,3 +80,7 @@ Sets up court tests, mentors, rivals, and the contrast between inherited identit
 ## Handoff
 
 Chapter 2 turns that realization into direct political testing.
+
+## Suspense and emotional stakes revision
+
+Ache enters Brunei expecting kinship to secure support; a petition from another outsider shows the court weighing obligations by usefulness, danger and patronage. **Reversal:** a humble court worker knows how to protect Ache better than his royal name. **Choice:** accept a subordinate public role or jeopardize future access. **Cost:** his mother and Maynila feel farther away precisely because a new home becomes possible.
