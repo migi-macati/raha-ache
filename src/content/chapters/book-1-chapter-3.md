@@ -4,13 +4,13 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 3
 draftStatus: draft
-characters: [ache, sulad, ula]
+characters: [tondo-harbor-clerk, ache, sulad, ula]
 places: [maynila, namayan, brunei]
 events: []
 pov: [ache]
