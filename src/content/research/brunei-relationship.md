@@ -3,7 +3,7 @@ id: brunei-relationship
 name: Ache and Brunei
 aliases: []
 status: uncertain
-related: [joaquin-philippine-becoming, ache, siripada, sultan-bolkiah, brunei, ache-mother]
+related: [foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, sultan-bolkiah, brunei, ache-mother]
 sources: [nick-joaquin, laura-lee-junker, aganduru-moriz, pigafetta, william-henry-scott, cesar-adib-majul]
 timeline: [ache-leaves-for-brunei, ache-brunei-command, encounter-1521]
 ---
@@ -82,3 +82,9 @@ Joaquin's emphasis on cultural becoming helps explain why Ache's years in Brunei
 In Book II, distinguish what Ache learns from what he actually acquires the power to command. Model Loue's population and rival allegiances as autonomous participants rather than prizes of larger states. The European ships of 1521 expand the uncertainty of an already interconnected Asian maritime world.
 
 See [Joaquin and Philippine Becoming](/raha-ache/research/joaquin-philippine-becoming/) and [the existing source distinctions above](#comparing-the-1521-source-traditions).
+
+## Foreign merchants and external shocks
+
+The [foreign-presence dossier](/raha-ache/research/foreign-contacts-ache-era/) grounds Brunei–Luzon movement in the contemporary *Suma Oriental* of Tomé Pires (1512–15), which describes Luções moving between Luzon, Brunei and Malacca and Bornean merchants conveying cloth from Indian regions and beads from Cambay through these circuits.
+
+The Portuguese seizure of Malacca in **1511** is a plausible regional pressure on Ache's Brunei career and a **source of prior news about Europeans** before 1521. It does not prove that Ache himself had met any Portuguese individual or that Pires had visited Luzon. The 1521 campaign against Loue and its reported “Java Major” allegiance cannot on their own prove a surviving Majapahit government administered Loue.

@@ -4,8 +4,8 @@ name: "Book I: Raha Ache — The King of Luzon"
 aliases: [Book I, The King of Luzon, The Sea and Me, "Raha Ache: The Flight to Brunei"]
 status: fictional
 developmentStatus: current
-related: [joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
-sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
+related: [foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulad, lakandula, bulkan, ula, maynila, tondo, namayan, mindoro, palawan, brunei, story-architecture-standard, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, book-1-chapter-5, book-1-chapter-6, book-1-chapter-7, book-1-chapter-8, book-1-chapter-9, book-1-chapter-10]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
 ## Story promise
@@ -285,3 +285,15 @@ Ache still lacks command, military credibility, and the force needed to reclaim 
 - **Chapter 10:** Brunei exposes Ache to different forms of scale and court practice but is neither an automatic civilizational upgrade nor a guaranteed sovereign over Maynila.
 
 **Character test:** Ache's error is assuming his claim gives him command over a people; his growth comes from recognizing the obligations and consent on which command depends. Distinguish the later Aganduru Moriz story from attested 1521 testimony in the [Brunei evidence audit](/raha-ache/research/brunei-relationship/).
+
+## Maritime-world research integration
+
+[Foreign Presence and Influences in Raha Ache's Maritime World](/raha-ache/research/foreign-contacts-ache-era/) expands the setting without altering the book's flight-to-Brunei plot.
+
+**Background already familiar to Ache:** Chinese ceramics and trade intermediaries; goods ultimately from India, Southeast Asia, and southern China; Muslim Bruneian connections and older local ritual traditions. These should appear as everyday objects, relationships and occasional disputes in Chapters 1–4, not as exhibits explaining the history of civilization.
+
+**Conflict mechanism:** control of merchants and cargo can make Tondo's pressure on Maynila concrete. The mother's decision to maintain a fragile trade arrangement may save households Ache has not considered. The journey through Mindoro and Palawan progressively reveals markets in which Luzon people have already been trading for generations.
+
+**Chapter 10:** Brunei should contain interpreters, merchants who have been to Malacca, Indian-made cloth transshipped through regional ports, traders bringing Chinese wares, and Luzon people living abroad. Ache has traveled far but has not discovered the wider world for the first time.
+
+**Evidence guardrail:** do not import Majapahit or Srivijaya as living colonizing empires of sixteenth-century Luzon; do not invent a large Japanese community in Ache's youth. [Pires's contemporary account](/raha-ache/sources/tome-pires-suma-oriental/) is much more useful for the active c.1512–15 trade network.
