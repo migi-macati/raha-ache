@@ -282,7 +282,9 @@ I waited for the rest.
 
 “I have training tomorrow.”
 
-“Then your training will begin here.”
+“Bulkan can manage without you for one morning.” She glanced at our ruined boat. “When they told me you had struck the quay, nobody knew whether you were hurt.”
+
+It was the first time she had mentioned being afraid. I wished she hadn't done it in front of Sulad.
 
 Beside me, Sulad lowered his head. I suspected he was smiling.
 
