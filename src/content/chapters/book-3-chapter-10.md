@@ -4,7 +4,7 @@ name: "Book III, Chapter 10: The Kingdom Holds"
 aliases: ["The Kingdom Holds"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, book-3-chapter-11, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, book-3-chapter-11, story-architecture-standard]
 sources: []
 timeline: [bay-coalition-crisis]
 book: book-3
@@ -91,3 +91,7 @@ Pays off Book III's institutional, alliance, delegation, and succession threads.
 ## Handoff
 
 The core trilogy is complete. Bonus Chapter 11 begins a **new historical crisis** rather than finishing an unresolved Book III plot.
+
+## Merchant, language and status subplot: institutional repair
+
+The council hears witnesses, reopens a coerced or mistranslated pledge, separates **namamahay** protections from the **gigilid** condition, and negotiates practical rights of fishing, landing, passage and service. Sulayman's command keeps trade safe while officials enforce a corrected settlement **without Ache supervising each step**. Captains' coalition loses the ability to operate as a unified threat, but individual people may remain unconvinced. **Climax:** Ache accepts that a living institution must be corrigible, not merely orderly. The fictional conflict **ends here**, before the Spanish crisis begins. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
