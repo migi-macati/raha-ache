@@ -7,7 +7,7 @@ relations:
   - target: ache
     type: nephew and younger co-ruler
     certainty: strong-inference
-related: [ache, maynila, lakandula, bambalito, battle-manila-1570, bangkusay-1571, succession-1572, dynastic-network]
+related: [psychologically-credible-characters, ache, maynila, lakandula, bambalito, battle-manila-1570, bangkusay-1571, succession-1572, dynastic-network]
 sources: [william-henry-scott, riquel-1571, relacion-1572]
 timeline: [battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -29,3 +29,9 @@ Their identification may ultimately be correct, but it should be demonstrated ra
 ## Bangkusay
 
 The archive does not automatically equate Sulayman with every figure later called Tarik Sulayman or with Bambalito. The Bangkusay identity problem remains open.
+
+## Human contradictions (novel development)
+
+**Entirely fictional personal psychology.** He moves quickly when civilians need protection and can assume every delay is cowardice. He admires Ache's work and resents living under his name. He demands independent command yet micromanages his own younger officers. In the fictional Book III crisis, a decision he makes without Ache's permission must have both a benefit and a real cost. The recorded younger ruler's private motives are unknown.
+
+[Character guide](/raha-ache/research/psychologically-credible-characters/).
