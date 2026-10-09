@@ -8,6 +8,8 @@ related: [historical-suspense-contract, book-1, book-2, book-3, ache, sulad, ach
 sources: []
 timeline: []
 ---
+
+*Editorial development outline: contains planned plot developments and spoilers across Books I–III.*
 ## Central psychological risk
 
 Ache is gifted at reading a **technical** problem: the current, a rope, a fleet's spacing, conflicting harbor tallies, a ruler's strategic interests. What he misses is often the right of the people bearing the cost to disagree with his solution.
