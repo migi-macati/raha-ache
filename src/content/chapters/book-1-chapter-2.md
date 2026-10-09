@@ -314,6 +314,12 @@ I wanted to take the words back. They had already reached everyone in the hall.
 
 I found her beside an open chest, folding a piece of cloth whose color had faded at the creases.
 
+“I should not have spoken of your father that way before the hall,” she said.
+
+“But you did.”
+
+“Yes.” She folded the cloth again, though it was already folded.
+
 On the wall hung a wooden paddle. It was shorter than the ones used by our boatmen, its grip worn smooth. My mother had kept it for as long as I could remember.
 
 “Was that his?” I asked.
