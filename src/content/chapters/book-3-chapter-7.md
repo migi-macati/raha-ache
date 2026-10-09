@@ -4,7 +4,7 @@ name: "Book III, Chapter 7: Neighbors"
 aliases: ["Neighbors"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, pampanga, ifugao, panay, dynastic-politics, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, pampanga, ifugao, panay, dynastic-politics, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -84,3 +84,7 @@ Chapter 8 tests whether Ache can extend power by trusting another local authorit
 ## Merchant, language and status subplot: who gets to define a treaty?
 
 An overseas merchant wants protection while a shore-holder refuses permanent exclusive harbor privileges to Maynila. A trade expression translated into the language of personal submission creates an avoidable diplomatic incident. **Turn:** Ache settles for a limited, reciprocal compact with multiple guarantors; he gains safer trade but loses the appearance of direct jurisdiction. If [Mehomete](/raha-ache/characters/mehomete-maynila/) serves as broker in this fictional earlier life, the precise year must be settled first. **Handoff:** Chapter 8 tests local delegates enforcing agreements independently. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+A neighboring power or foreign merchant will accept a narrow pact, not Ache's notion of shared sovereignty. A translation that seems equivalent hides a different view of tribute, alliance or protective duties. **Reversal:** a messenger Ache trusts signs/announces terms a community does not recognize. **Choice:** respect the disagreement publicly and lose face, or enforce his interpretation. **Cost:** one ally remains wary even when the bargain holds.
