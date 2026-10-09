@@ -4,8 +4,8 @@ name: Tondo
 aliases: []
 status: historical
 developmentStatus: current
-related: [lakandula, ache, maynila, pasig-river, manila-bay]
-sources: [aganduru-moriz, riquel-1571, william-henry-scott]
+related: [foreign-contacts-ache-era, lakandula, ache, maynila, pasig-river, manila-bay]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, aganduru-moriz, riquel-1571, william-henry-scott]
 timeline: [tondo-encroachment, return-to-maynila, legazpi-manila-1571]
 ---
 Polity north of the Pasig River and major counterpart to Maynila.
@@ -37,3 +37,9 @@ Rivalry can take the form of contested river access, dependents, dues, witnesses
 - [Clavé and Griffiths (2022), *The Laguna Copperplate Inscription: Tenth-Century Luzon, Java, and the Malay World*](https://archium.ateneo.edu/phstudies/vol70/iss2/2/).
 - [Hector Santos, *The Date of the Laguna Copperplate Inscription*](https://archium.ateneo.edu/phstudies/vol44/iss4/5/).
 - William Henry Scott, *Barangay: Sixteenth-Century Philippine Culture and Society*; Rodrigo de Aganduru Moriz, *Historia general* (retrospective account).
+
+## Overseas exchange and political bargaining
+
+The [foreign-presence dossier](/raha-ache/research/foreign-contacts-ache-era/) adds potential stakes to Tondo's independent river-mouth authority: visiting foreign merchants, access to imports, cargo credit, storage, intermediaries and the distribution of goods upriver. Chinese imports and the wider Malay world can shape local rivalries without establishing that the Ming emperor, Srivijaya or Majapahit directly ruled Tondo.
+
+**Historical control:** the 900 CE Laguna copperplate demonstrates a much older connected writing and obligation world, not a continuous Tondo bureaucracy into Ache's lifetime. Specific customs regulations and the named merchants in the novel require fiction labels.
