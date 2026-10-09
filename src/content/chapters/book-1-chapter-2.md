@@ -4,7 +4,7 @@ name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
@@ -20,11 +20,15 @@ I had imagined the hearing would take an hour.
 
 The fisherman would ask for a new net. The porter would demand payment for his lost passage. The boat owner would count his broken jars. I would agree to reasonable terms, everyone would thank me, and Sulad and I would spend the afternoon repairing our outrigger.
 
+I had thought about the injured rower too. Mostly I had hoped his hand would be better by morning.
+
 By midday, I was beginning to suspect my mother had arranged the hearing to punish me.
 
 The fisherman brought his brother, who had woven the net. The porter brought a witness who swore that the cargo boat had delayed him before I arrived. The cargo boat's owner brought his daughter, the girl I had helped pull ashore, though he insisted she had come only because there was no one to watch her.
 
 She watched me from behind his knee.
+
+The injured rower's sister came in his place. She carried the paddle he had used to earn his food and set it against the wall. When someone moved it to make room, she put it back where I could see it.
 
 The harbor steward sat cross-legged with his tally board. My mother sat beside him. No one had offered me a seat.
 
@@ -132,9 +136,37 @@ The fisherman stared at us for so long that I thought he might refuse.
 
 “You'll spoil more knots than you mend,” he said at last. “But I can use hands for carrying the stakes.”
 
+The rower's sister lifted the paddle from the wall.
+
+“And my brother?”
+
+The boat owner looked away. I had been hoping someone else would answer.
+
+“His hand may heal,” I said.
+
+“Yes,” she replied. “It may.”
+
+“I can pay him while he cannot work.”
+
+“For how long?”
+
+I had no idea.
+
+“And when the silver is gone?” she asked.
+
+The boat owner protested that his steering oar had broken before I came alongside. I reminded him that I had stopped his daughter from being thrown into the stakes. Both things were true. Neither made the woman sit down.
+
+“I will bring him food,” I said. “Tomorrow, and the next day. We can hear the claim again when we know how his hand is healing.”
+
+“Then you are not settling it,” she said.
+
+“No.”
+
+That was the first answer I had given her that seemed to satisfy her. She took the paddle and moved toward the door. She had not thanked me.
+
 The steward began dividing the silver's likely value among the claims. The porter objected to his share. The boat owner argued that a painted jar was worth more than an unpainted one. By the time they agreed, the sun had crossed the center of the courtyard.
 
-My mother gave the steward permission to record the settlement. The men left, still talking over one another.
+My mother gave the steward permission to record what had been settled and to leave the rower's claim open. The men left, still talking over one another.
 
 I waited until they were gone.
 
@@ -251,6 +283,16 @@ My mother faced me. “Because our merchants are losing goods while our men argu
 “You know they will.”
 
 “Then we will answer when they ask.”
+
+“What will they want to count after the boats?” I asked. “The goods? The men who row? The people those men answer to?”
+
+My mother looked toward the trader who had spoken in favor of the plan. He had already left.
+
+“You are right to ask,” she said. “But if I refuse every useful arrangement because it might be abused, someone else pays that price today.”
+
+“And if you agree, someone else pays tomorrow.”
+
+She did not answer at once. It was the first time that day I felt I had said something she needed to consider.
 
 I heard a few men shift behind me. I lowered my voice.
 
@@ -395,6 +437,20 @@ I leaned closer. “And paid again.”
 The steward nodded. “The captain complained. Then he paid. He needed to unload.”
 
 There were more marks like it. Not enough to prove that Lakandula had ordered every collection. Enough to show that men were already making decisions in his name.
+
+On one board a second set of marks had been scratched beside the cargo.
+
+“Those are not payments,” I said.
+
+“Crew numbers,” the steward replied. “The man from Tondo says they can help identify a boat if its owner denies a debt.”
+
+“Is that what my mother agreed to?”
+
+“She agreed that the two shores would compare their accounts.”
+
+“That is not an answer.”
+
+“No,” he said. “It is all the answer I have.”
 
 I pushed the boards away.
 
