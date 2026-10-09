@@ -4,7 +4,7 @@ name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
@@ -483,3 +483,7 @@ He lifted the tallies. “And after that?”
 I looked across the dark water toward Tondo.
 
 “After that,” I said, “we find out who has been giving orders in our name.”
+
+## Suspense and emotional stakes revision
+
+**What Ache wants:** set things right and prevent Tondo controlling Maynila's landings. **Contradiction:** his mother's one-season tally agreement helps real traders but may create leverage over crew and dependent households. **Cost:** the rower's sister refuses to call a temporary payment a resolution; mother and son are *both partly right*. **New question:** why are Tondo boards counting people? This is *implemented in the prose draft* and connects to Chapter 3. Avoid pretending a uniform joint customs office is historically attested.
