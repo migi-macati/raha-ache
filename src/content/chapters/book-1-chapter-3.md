@@ -62,9 +62,9 @@ My mother had called the journey an obligation.
 
 I called it exile within exile.
 
-For three days I had studied the landing tallies from Chapter Two—though of course I did not think of my life in chapters—and found more collections made by men who claimed authority from Tondo, Maynila, or both. Some names repeated. Some did not. Some payments had no clear collector at all.
+For three days I had studied the landing tallies the steward had shown me, and found more collections made by men who claimed authority from Tondo, Maynila, or both. Some names repeated. Some did not. Some payments had no clear collector at all.
 
-I wanted to follow the money.
+I wanted to follow the payments.
 
 My mother wanted me to accompany Ula.
 
