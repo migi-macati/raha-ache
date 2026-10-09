@@ -4,8 +4,8 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
-sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
+related: [foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
 ## Story promise
@@ -318,3 +318,15 @@ Book II delivers Ache to the edge of the restoration conflict. Book III must tes
 - **Chapter 10:** Ache's return carries irreversible Bruneian experiences, obligations and new practices. Home is not a pure origin to which identity can be reset.
 
 **Character test:** Ache becomes a commander when he learns that his victories commit other people's lives and resources. This is where capability stops being a sufficient moral justification for conquest.
+
+## Maritime-world research integration
+
+[Foreign Presence and Influences in Raha Ache's Maritime World](/raha-ache/research/foreign-contacts-ache-era/) makes Brunei's cosmopolitanism a concrete source of training, conflicts and political stakes.
+
+**Chapters 1–4:** Jamil's naval teaching should include routes and winds, cargo, interpreters and security of agreements; Hasan should locate Islam among varied Malay, Arab/Persian-associated, Javanese and local traditions rather than as an ethnic uniformity. Rivals may have interests in Malacca, Sulu, Java, Indian cloth imports and Chinese exchange.
+
+**Chapters 5–6:** Loue's reported loyalty to “Java Major” is not proof that Majapahit holds Loue as a colony. The inhabitants, Brunei and Java-linked maritime interests may disagree over obligations. Foreign alliances matter materially to the campaign's supplies and costs.
+
+**Chapters 7–8:** Rumors of Portuguese conquest of Malacca (1511) can precede the 1521 personal encounter. The expedition's members were not uniform in nationality or motives. A long-existing Asian network gives Ache frameworks for interpreting them that may prove inadequate under direct attack.
+
+**Chapters 9–10:** recovering from capture and preparing for home requires merchant credit and voluntary followings as much as martial resilience. Imported objects are tangible, date-specific, and repeatedly re-used, not evidence that Brunei simply teaches an “advanced” civilization.
