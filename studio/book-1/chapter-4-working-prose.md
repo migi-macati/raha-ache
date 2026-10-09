@@ -76,7 +76,7 @@ I sat down again.
 
 * * *
 
-Her name was Sima. Her household had hired rowers from Tondo to take goods from a small boat to a larger trading vessel lying farther toward the bay. Her own people could move the baskets along the landing, but not all of them could leave their other work to row. She had paid for the first transfer.
+Her name was Sima. Her household had hired rowers from Tondo to carry baskets from the landing by small boat to a larger trading vessel lying farther toward the bay. Her own people could move the baskets along the landing, but not all of them could leave their other work to row. She had paid for the first transfer.
 
 The man who had arranged the crew said she had promised another.
 
@@ -208,7 +208,7 @@ The organizer looked back at him. “Come.”
 
 The young man hesitated, then let the boat swing free. Without his hands on the line, the hull drifted clear of the landing. He followed the others.
 
-She did not.
+Sima watched them go. She did not call them back.
 
 I could feel the eyes of the landing on me.
 
@@ -237,6 +237,8 @@ My mother arrived while the work continued. She touched one of Sima's baskets, t
 He looked at the Tondo clerk. Neither answered.
 
 My mother rubbed the bridge of her nose. “I should have asked what else you were counting.”
+
+Our steward sent for the organizer. He returned without his crew, still angry enough to make his answers short.
 
 She listened standing beneath the shade, where the two boards lay side by side. Sima spoke first. The organizer answered. One rower confirmed that food had been prepared for more than the first transfer; another said he had heard Sima ask whether the crew might return.
 
@@ -277,6 +279,10 @@ Sima considered this.
 “And I will not hold crews idle for a Maynila household again,” the organizer said, “unless someone stands witness to the terms.”
 
 He was entitled to say it. That was what troubled me.
+
+A merchant who had been waiting beside the baskets caught his sleeve before he left. I heard him ask whether two of the same rowers could be held for his cargo the next morning. The organizer said he would answer him in Tondo. The merchant nodded, as though that were the simplest place to settle it.
+
+No one had ordered him across the river. He had chosen where he expected to find men.
 
 My mother turned to Sima.
 
@@ -408,7 +414,7 @@ I could not hear her answer over the water. I could see that she made him wait.
 
 ## Studio editorial gate
 
-- **Narrative state:** First-pass prose only; not a final public chapter.
+- **Narrative state:** Revised second-pass Studio prose; not a final public chapter.
 - **Source classification:** Entire episode and all dialogue fictional. Plasencia 1589 supplies later comparative context for differentiated service obligations and witnessed arbitration; not direct Ache-era evidence. Aganduru Móriz original Spanish passage unverified.
 - **Continuity:** Chapter 2's damaged fishing stakes and consent lesson carried forward; Chapter 3's seven boats, one-season paired boards and missing-sailor concern preserved. The missing sailor is not resolved here.
 - **Second-pass changes:** Corrected missing-sailor antecedent; staged a current-driven boat handling problem; gave a kin-obligated rower his own grievance; made the regent own the widened crew tally; let Sima bargain independently; replaced the explicit moralizing conclusion with a contested recording decision.
