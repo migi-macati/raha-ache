@@ -4,7 +4,7 @@ name: Relation of the Voyage to Luzon (1570)
 aliases: [Relation of the Voyage to Luzon, Maynila 1570 eyewitness relation, Anonymous 1570 Manila account]
 status: historical
 developmentStatus: current
-related: [maynila, book-3, foreign-contacts-ache-era, maynila-living-port-1500, sulayman, chinese-merchants-maynila-1570]
+related: [maynila, book-3, foreign-contacts-ache-era, maynila-living-port-1500, sulayman]
 sources: []
 timeline: [battle-manila-1570]
 author: Anonymous Spanish expedition reporter; translated in Blair and Robertson
