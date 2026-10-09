@@ -12,9 +12,9 @@ timeline: [tondo-encroachment]
 
 *Studio working draft, 9 October 2026. Fictional reconstruction; not approved for reader-facing publication.*
 
-The clerk did not answer my question before the boat reached the landing.
+At first light Sulad went to help mend the fishing stakes. I went looking for the Tondo clerk.
 
-It came in with its bow low and two men arguing over which line to throw. Our steward rose to help. The Tondo clerk kept one hand over the marks he had cut beside the cargo.
+The night before, I had found crew marks beside cargo on our steward's boards. I wanted to know who might use those marks to demand a man's labor. The clerk had no answer ready when a small cargo boat approached the landing, its bow light and its crew arguing over which line to throw. Our steward rose to help. The Tondo clerk kept his thumb over the marks he had cut beside yesterday's cargo.
 
 I could have ordered him to lift it.
 
@@ -40,13 +40,13 @@ He shifted his thumb, revealing the entire row.
 
 I did not like his answer. I liked even less that I could not find anything wrong with it.
 
-The boat struck the landing gently. Its crew began handing baskets ashore. A woman in a faded red wrap took one basket from a young rower, examined the binding, and gave it back.
+The boat touched the landing. A woman in a faded red wrap stood over baskets stacked on the bank. She tested a binding, set the basket aside and waved the rowers back before they could lift anything.
 
-“That one stays aboard,” she said. “The other six go.”
+“That one stays here,” she said. “None of the others goes aboard until we agree what this trip costs.”
 
-The rower turned without argument.
+A rower let go of the carrying pole. The empty boat bumped against its mooring line.
 
-I had been studying the tally board. She had been studying the work.
+I had been studying the tally board. She had been watching who would carry her goods.
 
 “Who commands that boat?” I asked.
 
@@ -156,7 +156,7 @@ He looked at Sima.
 
 “She may. She always could.”
 
-I had raised my voice. Men unloading baskets had stopped to watch. The Tondo clerk stood beside his board, no longer smiling.
+I had raised my voice. Men waiting to load baskets had stopped to watch. The Tondo clerk stood beside his board, no longer smiling.
 
 “Then why,” I demanded, “does your clerk mark down the men who row for us?”
 
