@@ -483,7 +483,3 @@ He lifted the tallies. “And after that?”
 I looked across the dark water toward Tondo.
 
 “After that,” I said, “we find out who has been giving orders in our name.”
-
-## Suspense and emotional stakes revision
-
-**What Ache wants:** set things right and prevent Tondo controlling Maynila's landings. **Contradiction:** his mother's one-season tally agreement helps real traders but may create leverage over crew and dependent households. **Cost:** the rower's sister refuses to call a temporary payment a resolution; mother and son are *both partly right*. **New question:** why are Tondo boards counting people? This is *implemented in the prose draft* and connects to Chapter 3. Avoid pretending a uniform joint customs office is historically attested.
