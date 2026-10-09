@@ -4,7 +4,7 @@ name: "Book I, Chapter 2: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [book-1-chapter-2, story-architecture-standard, book-1, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo]
+related: [maynila-living-port-1500, book-1-chapter-2, story-architecture-standard, book-1, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo]
 sources: []
 timeline: [ache-father-dies]
 ---
@@ -82,3 +82,13 @@ Sets up the mother–son strategic conflict, Lakandula's role, and the importanc
 ## Handoff
 
 Chapter 3 asks what identities and wider relationships Ache can draw on beyond the immediate Maynila–Tondo struggle.
+
+## Research-grounded revision: compensation, authority, and the merchant's vote
+
+The **current prose** uses a real material problem from Chapter 1—the fisherman's net and stakes, damaged jars, the porter's missed passage—to make Ache listen to obligations beyond his rank. It introduces Lakandula's proposed shared **river tally arrangement** as a politically ambiguous solution.
+
+- **Chapter purpose refinement:** distinguish a prince's private stores from obligations to fishers, shippers and dependents. Ache's mother is protecting material systems on which her polity relies.
+- **Subplot:** an affected trader may genuinely favor fewer conflicting toll demands, while Ache sees Tondo gaining a political foothold.
+- **Turning point:** a merchant's complaint exposes that the prince's authority does not automatically secure the trader's livelihood.
+- **Research constraint:** [Plasencia (1589)](/raha-ache/sources/plasencia-customs-tagalogs-1589/) attests chiefs' **rights to particular fisheries and river markets** in some Tagalog locales. The proposed **dual-clerk tally and shared landing record** in this manuscript are **fictional political institutions**, not attested Ache-era port bureaucracy.
+- **Handoff:** Chapter 3's upriver movement can reveal multiple social and religious worlds; it must not become a travel lecture about globalization.
