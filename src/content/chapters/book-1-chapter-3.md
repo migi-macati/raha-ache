@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -625,3 +625,7 @@ Across the river a boat was coming in on the evening tide. I watched its crew pr
 “Who is allowed to look at your board?” I asked.
 
 The clerk did not answer quickly.
+
+## Suspense and emotional stakes revision
+
+**What Ache wants:** prove his ability to judge faith, kinship and a new trading world. **Contradiction:** Sulad's charm is not his to forbid; a Malay captain exposes his partial fluency; the Tondo clerk's count may help families search for missing sailors and also aid coercive claimants. **Cost:** his friendship with Sulad briefly loses its easy rhythm. **Handoff:** Chapter 4 investigates who may access the human tallies; it is not proof of a plot by Lakandula. *New ending already implemented in prose.*
