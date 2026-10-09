@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river]
+related: [maynila-living-port-1500, book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river]
 sources: []
 timeline: []
 ---
@@ -73,3 +73,14 @@ Sets up Ache's sailing ability, Maynila ambition, relationship with Sulad, and a
 ## Handoff
 
 Chapter 2 reveals the family, death, regency, and political structure holding Ache's world together.
+
+## Research-grounded revision: the working harbor
+
+The **current prose** already makes Ache's first failure specific: he saves a cargo boat and child, but damages fishing stakes, nets, jars, the porter's passage, and his own outrigger. This is **the causal event** that advances duty/leadership; it supersedes older outline phrases that merely call the interruption a vague reminder of obligation.
+
+- **Immediate objective:** win the river wager and return before his mother notices.
+- **Turning point:** Ache's first improvised rope solution fails; the shared rescue succeeds but damages third parties' property.
+- **Ending state:** Ache has preserved life while unintentionally transferring costs to workers and traders; his mother orders a claims hearing.
+- **Setup/payoff:** Chapter 2 converts those physical damages into competing household/property rights and an argument over who controls river traffic.
+- **Environmental grounding:** uncertain tide and draft, cargo jars, fishery claims, households supplying labor, people whose commercial schedules the prince does not know. Details are plausible fiction, supported comparatively by [Living Maynila](/raha-ache/research/maynila-living-port-1500/) and [Plasencia's later Tagalog evidence](/raha-ache/sources/plasencia-customs-tagalogs-1589/).
+- **Guardrail:** no 1570 Chinese/Japanese resident totals presented as eyewitness fact for Ache's c.1500 childhood. Exposition on foreign imports is optional, and only if it affects the boat incident.
