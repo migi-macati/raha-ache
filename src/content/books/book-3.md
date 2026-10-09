@@ -4,8 +4,8 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
-sources: [nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
+related: [foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
 ## Story promise
@@ -339,3 +339,17 @@ Bonus Chapters 11–12 show history imposing a new order after Ache's own state-
 - **Bonus Chapter 12:** Baptism, accommodation, succession and death unfold under unequal choices and incomplete evidence. The future “Filipino” is a category of retrospective historical interpretation, not Ache's stated destination.
 
 **Character test:** Ache must decide what parts of his own creation he will surrender so others can preserve and adapt it. The core book resolves at Chapter 10; the historically grounded coda remains Chapters 11–12.
+
+## Maritime-world research integration
+
+[Foreign Presence and Influences in Raha Ache's Maritime World](/raha-ache/research/foreign-contacts-ache-era/) is the factual framework for Maynila's trade world and the late Spanish encounter.
+
+**Chapters 1–3:** Ache must renegotiate control of overseas trade, Chinese-linked intermediaries, duties, debts and local market access with Tondo and returning merchants. Local authority is partly the power to mediate transactions.
+
+**Chapters 4–8:** vessels, ceramics, cloth, metals, fortifications and arms connect the city to overseas supply chains. Each new harbor rule creates beneficiaries and opponents. Introduce Indian-made goods through Malacca–Brunei intermediaries rather than an undocumented resident Indian quarter. Maintain local technical expertise and workshop agency.
+
+**Chapters 9–10:** trade and customs grievances contribute to the fictional coalition crisis, but do not convert it into a modern unified national market. Ache's settlement preserves plural arrangements where necessary.
+
+**Bonus Chapter 11:** Japanese traders were reportedly present at Maynila when Goiti arrived in May 1570, including a Christian named Pablo (Paulo); this is an evidence-backed possibility for scene design from [Iaccarino's cited archival record](/raha-ache/sources/ubaldo-iaccarino-japanese-luzon/). Put Chinese and other regional interests into the broader port landscape where independently warranted. None should be invented as an eyewitness to Ache's private decisions.
+
+**Bonus Chapter 12:** the new Spanish order reorders an old Asian cosmopolitan port. Conversion, legal status and diplomacy change amid unequal claims, with all three forms of historical evidence, inference and novel invention separated.
