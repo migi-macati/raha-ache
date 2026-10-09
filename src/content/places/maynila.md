@@ -4,8 +4,8 @@ name: Maynila
 aliases: [Manila]
 status: historical
 developmentStatus: current
-related: [ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics, social-rank-and-households, food-clothing-and-material-life]
-sources: [aganduru-moriz, riquel-1571, relacion-1572]
+related: [foreign-contacts-ache-era, ache, ache-mother, salalila, sulayman, tondo, pasig-river, manila-bay, port-centered-rule, dynastic-politics, social-rank-and-households, food-clothing-and-material-life]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, aganduru-moriz, riquel-1571, relacion-1572]
 timeline: [ache-father-dies, tondo-encroachment, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 ---
 Fortified settlement and trading polity at the mouth of the Pasig River.
@@ -45,3 +45,13 @@ See [regional research](/raha-ache/research/manila-tondo-namayan/) and [Brunei c
 The Manila Bay–Pasig system offered access between coastal shipping and inland Luzon networks. Ptak's reconstruction includes ships moving from China through Luzon toward Mindoro or the Calamianes and into the Sulu Sea, while a parallel Borneo route could call at Brunei. Maynila should therefore be written as one connected node rather than the endpoint of a single Brunei–Manila trade line. [Ptak, *The Northern Trade Route to the Spice Islands*](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
 
 Whether any particular Ache-era cargo moved by a specified passage is normally **novel reconstruction**. Do not assign modern national boundaries or a centralized customs bureaucracy to the polity.
+
+## Foreign people, goods, and knowledge
+
+The [foreign-presence dossier](/raha-ache/research/foreign-contacts-ache-era/) separates evidence for imported objects from actual foreign visitors and settlements. Chinese ceramics and other Asian wares occur at Philippine sites, including Santa Ana, Manila. Maynila's pre-Spanish economy was connected to Chinese and Malay-region routes, but a Chinese vessel, a locally owned porcelain vessel and a resident Chinese household are **different historical propositions**.
+
+Indian textiles, glass beads and other goods could pass via Malacca and Brunei, as Pires describes for the Luções and Borneans in 1512–15. Material culture could be cosmopolitan without every trader traveling from the goods' original place of manufacture. Muslim and Indic cultural ideas also had multiple intermediaries, including Malay and Javanese ports.
+
+**A later-year fact:** research using a 1570 Spanish archival record reports Japanese merchants at Maynila when Goiti arrived, including one Christian called Pablo (Paulo). This supports their appearance in Book III's bonus chapter, but cannot establish a Japanese commercial quarter during Ache's youth. Nor should the post-1571 Parian or galleon-era commerce be silently backdated.
+
+See [Pires](/raha-ache/sources/tome-pires-suma-oriental/), [imported ceramics](/raha-ache/sources/nmp-tradeware-philippines/), and [Japan–Luzon archival synthesis](/raha-ache/sources/ubaldo-iaccarino-japanese-luzon/).
