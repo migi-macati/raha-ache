@@ -4,7 +4,7 @@ name: "Book III, Chapter 4: The Making of the Kota"
 aliases: ["The Making of the Kota"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, pasig-river, manila-bay, panday-pira, kota, lantaka, cannonry, fortification-building, part-3-institutions, port-centered-rule, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, pasig-river, manila-bay, panday-pira, kota, lantaka, cannonry, fortification-building, part-3-institutions, port-centered-rule, story-architecture-standard]
 sources: [blair-robertson]
 timeline: []
 book: book-3
@@ -84,3 +84,7 @@ Chapter 5 forces Ache to call on relationships and debts created during earlier 
 ## Merchant and craft subplot: commission versus consent
 
 Ache's fortifications and artillery orders create a contest over **copper, timber, skilled workers and the right to demand labor**. Panday Pira should have material knowledge and independent judgment; the craftsmen do not exist merely to prove Ache's ingenuity. A captain's claim to requisition a craftsperson conflicts with a dependent family's rights. **Turn:** construction proceeds after Ache discovers the cost of a supposedly free royal order. **Setup:** who controls artisans, supplies and records of work performed? [Research](/raha-ache/research/maynila-language-arts-social-order/) and [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+Building kota defenses and commissioning artillery gives immediate pride and communal protection. **Reversal:** the skilled person who makes the system possible rejects a requisition affecting dependents or artisans. **Choice:** delay a military advantage or authorize labor coercion. **Cost:** an injured worker's household, a bitter foundry agreement, or an estranged ally becomes a living debt; don't resolve it with a larger budget alone.
