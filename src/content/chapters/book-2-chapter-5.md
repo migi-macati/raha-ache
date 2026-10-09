@@ -4,7 +4,7 @@ name: "Book II, Chapter 5: Pirate Life"
 aliases: ["Pirate Life"]
 status: fictional
 developmentStatus: working
-related: [ache, sulu, mindanao, jalal, lakanmulaw, putri-laila-nur, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulu, mindanao, jalal, lakanmulaw, putri-laila-nur, story-architecture-standard]
 sources: []
 timeline: []
 book: book-2
@@ -81,3 +81,7 @@ Expands the alliance network and prepares the tactical flexibility used in Chapt
 ## Handoff
 
 Chapter 6 tests whether Ache can convert irregular adaptability into organized campaign command.
+
+## Suspense and emotional stakes revision
+
+Pirate/irregular tactics expose captives and communities who are not merely targets on a map. An ally requests a payoff Ache considers unacceptable, and refusal may risk crew survival. **Reversal:** a clever ambush creates political enemies whose response is rational. **Cost:** someone he meant to protect no longer believes his victory was worth its price.
