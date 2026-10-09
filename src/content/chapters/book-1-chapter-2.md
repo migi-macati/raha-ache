@@ -4,13 +4,13 @@ name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
 chapterNumber: 2
 draftStatus: draft
-characters: [ache, sulad, salalila, ache-mother, lakandula]
+characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother, lakandula]
 places: [maynila, tondo]
 events: [ache-father-dies]
 pov: [ache]
