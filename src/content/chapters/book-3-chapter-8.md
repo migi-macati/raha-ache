@@ -4,7 +4,7 @@ name: "Book III, Chapter 8: The Gift of the Southern Shore"
 aliases: ["Rewarding Loyalty", "The Gift of the Southern Shore"]
 status: fictional
 developmentStatus: current
-related: [book-3, ache, pasay, sulad, maynila, manila-bay, dynastic-politics, book-3-final-crisis, story-architecture-standard]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, pasay, sulad, maynila, manila-bay, dynastic-politics, book-3-final-crisis, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -80,3 +80,7 @@ Direct setup for **The Broken Oath**.
 ## Handoff
 
 Chapter 9 reveals the accumulated political cost of Chapters 4–8.
+
+## Merchant, language and status subplot: a delegate's competing duties
+
+The southern-shore grantee—beneficiary still unresolved **Sulad/Pasay**—must choose between enforcing Maynila's standardized dues and defending the rights of local fishers, dependent families and passing vessels. One record says a household's work is owed permanently; local witnesses insist it was conditional. **Turn:** the delegate refuses a demand or revises a levy in a way Ache did not authorize, while still maintaining loyalty. **Setup:** injured captains and merchants find a shared grievance in Chapter 9. This is fictional. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
