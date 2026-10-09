@@ -4,7 +4,7 @@ name: "Book I, Chapter 9: The Last Storm"
 aliases: ["The Last Storm"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, bulkan, brunei, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, brunei, story-architecture-standard]
 sources: []
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -80,3 +80,7 @@ Pays off sailing, negotiation, alliances, and Ache's shift toward responsibility
 ## Handoff
 
 Chapter 10 replaces survival danger with a new test: whether Brunei will receive Ache and what that reception actually means.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** the final storm and pursuit force two incompatible rescues. Weather and navigational skill matter, but do not turn survival into a lecture on seamanship. **Reversal:** the most technically sound choice carries a deeply personal loss; no quick speech resolves it. **Cost:** a vow, object, ally's trust or non-historical supporting character can be lost permanently. Don't kill a named figure without checking later canon. **Handoff:** survivors bring grief to Brunei.
