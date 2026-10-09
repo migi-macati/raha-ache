@@ -4,8 +4,8 @@ name: Loue
 aliases: [Laoe]
 status: historical
 developmentStatus: current
-related: [ache, brunei, loue-campaign]
-sources: [pigafetta, aganduru-moriz]
+related: [foreign-contacts-ache-era, ache, brunei, loue-campaign]
+sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, pigafetta, aganduru-moriz]
 timeline: [loue-campaign]
 ---
 City in Borneo described in the 1521 expedition accounts as having been attacked by the force commanded by Ache because it resisted the king of Brunei.
@@ -19,3 +19,9 @@ Pigafetta's 29 July 1521 account calls the place **Laoe** (also rendered Loue), 
 The place cannot presently be fixed to reliable modern coordinates. An older editor suggested a small island near southern Borneo; that is an **editorial conjecture**, not Pigafetta's direct observation. Neither Tawau nor any particular modern city should be presented as established without a stronger historical-geographical argument. [Pigafetta edition with historical notes](https://en.wikisource.org/wiki/The_First_Voyage_Round_the_World/Pigafetta%27s_Account_of_Magellan%27s_Voyage).
 
 **Novel boundary:** Ache's precise siege tactics, casualties, opponent's name, and the geography of Loue remain fictional reconstructions. The reported conflict of allegiance is the historical seed. The novel should avoid depicting Loue's people as uniformly non-Muslim or identifying their ruler with the last Majapahit monarch without evidence.
+
+## Javanese connections are not automatic Majapahit sovereignty
+
+A reported refusal to obey Brunei in favor of the ruler of “Java Major” does not establish that **Majapahit maintained a garrison or tax office at Loue in 1521**. A Java-linked merchant, court faction or local ruler may have understood the obligations differently from Brunei's sovereign. The inhabitants' view remains inaccessible from Pigafetta's reported information.
+
+See [foreign presences in the maritime world](/raha-ache/research/foreign-contacts-ache-era/) and [Rausa-Gomez on Sri Vijaya and Madjapahit](/raha-ache/sources/rausa-gomez-srivijaya-majapahit/). Make the competing loyalties narratively substantial while keeping named combatants and local ordinances fictional.
