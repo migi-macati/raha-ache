@@ -8,6 +8,8 @@ related: [book-1, book-2, book-3, ache, sulad, ache-mother, lakandula, sulayman,
 sources: [aganduru-moriz, pigafetta, relacion-voyage-luzon-1570, relacion-1572, william-henry-scott]
 timeline: []
 ---
+
+*Editorial development outline: contains planned plot developments and spoilers across Books I–III.*
 ## Narrative promise
 
 This is a **writing rulebook**, not evidence that its invented conflicts actually happened. We tell a historically constrained novel, **not a reenactment whose scenes exist merely to deliver dates**.
