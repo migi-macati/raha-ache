@@ -3,7 +3,7 @@ id: manila-tondo-namayan
 name: Maynila, Tondo, and Namayan
 aliases: []
 status: uncertain
-related: [joaquin-philippine-becoming, maynila, tondo, namayan, pasig-river, laguna-de-bay]
+related: [foreign-contacts-ache-era, joaquin-philippine-becoming, maynila, tondo, namayan, pasig-river, laguna-de-bay]
 sources: [nick-joaquin, laura-lee-junker, william-henry-scott, huerta]
 timeline: []
 ---
@@ -59,3 +59,9 @@ Do not convert a dynastic quarrel into a neat Tondo-versus-Manila national war. 
 Nick Joaquin's argument that the distinct Manila Bay polities reveal an inherited aversion to political scale is **a cultural judgment, not a documented reason for their separate existence**. The question worth asking is what marriage ties, labor obligations, trade opportunities, competing followings, jurisdictions and political risks made aggregation or separation advantageous to the actors themselves.
 
 For the novel, use the historical problem—negotiating authority across Tondo, Maynila and neighboring communities—without adopting a national-psychology diagnosis. See the [Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) and Laura Lee Junker's work on aggregation and fragmentation. The tenth-century copperplate's regional network establishes deep history but **not** guaranteed continuity with sixteenth-century institutions.
+
+## Foreign trade and Manila Bay
+
+See the [foreign-presence dossier](/raha-ache/research/foreign-contacts-ache-era/) for the chronologically separated Chinese, Bruneian, Malay, Indian-derived, Javanese and later Japanese evidence. The Pasig corridor's control of imports, redistributions, debts, anchorage and safe passage can supply **specific political stakes** for the Tondo–Maynila rivalry. No surviving archaeological assemblage proves a particular named trader lived in Ache's own harbor.
+
+A Japanese merchant presence becomes documentable in Maynila by **May 1570** through the archival record discussed by Iaccarino; it must not be projected unquestioningly into Ache's youth. “Chinese trade” likewise must be separated into **objects**, **visiting crews**, **settled intermediaries**, **tribute missions**, and **political sovereignty**.
