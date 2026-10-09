@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
 sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -358,3 +358,15 @@ Bonus Chapters 11–12 show history imposing a new order after Ache's own state-
 ## Bonus 11: resident foreigners and the 1570 civil population
 
 The [1570 voyage relation](/raha-ache/sources/relacion-voyage-luzon-1570/) reports four Chinese ships, **forty married Chinese and twenty Japanese residents** of Maynila, and families affected by the town's burning. It also describes the Maynila-born interpreter [Mehomete](/raha-ache/characters/mehomete-maynila/), whose trade and family connections ran through Cebu, and the Japanese Christian [Pablo](/raha-ache/characters/pablo-japanese-1570/). Their existence complicates any simple local-versus-European binary. Their motives and private thoughts are unknown. The figures are an attributed **1570 snapshot**, not an earlier census. Read the [Living Maynila dossier](/raha-ache/research/maynila-living-port-1500/) before bonus-chapter revisions.
+
+## New continuing subplot: the Broken Compact
+
+[The Book III merchant, translation, and social-rank subplot](/raha-ache/research/book-3-merchant-and-status-conflict/) now threads Chapters **4–10**. Harbor records and translated agreements make trade predictable but can also turn old negotiations into coercive claims over fishing places, cargo, military service, homes or children. Plasencia's **1589** Tagalog account distinguishes maharlika and aliping namamahay/sa gigilid obligations; particular lawsuits in Ache's time are **fictional**, not documented.
+
+**Arc:** Chapters 4–5 impose manufacturing and reciprocal trade costs; 6 establishes rules and a wrong-status record; 7 tests treaty autonomy; 8 forces Sulad/delegated authority to defend local people; 9 unites commercial and status grievances with the existing coalition resistance; 10 resolves the coalition through Sulayman, council adjudication, corrected registers and negotiated freedoms. The main climax and outcome remain intact.
+
+**Character casting:** [Mehomete](/raha-ache/characters/mehomete-maynila/) is now a **proposed major broker** in late core Book III **only if** Chapters 6–10 are dated to plausible years before his recorded 1570 work; this earlier employment is invented. He can replace the unnamed interpreter/broker role, **not Sulad, Sulayman, Lakandula or Ache's wife**. If the core runs too early, use an original fictional broker there. [Pablo](/raha-ache/characters/pablo-japanese-1570/) becomes a **major supporting figure in Bonus 11**, not a retroactively invented youthful companion. His alleged artillery work remains hearsay.
+
+**Bonus 11:** the documented 1570 interpreter and Japanese Christian resident force readers to reassess the language of peace, allegiance and protection after the town is burned. Both may have strong fictional inner lives but cannot be given invented historical motives. Bonus 12 follows known evidence and their unresolved fates conservatively.
+
+The research basis is [Maynila languages, scripts, art and strata](/raha-ache/research/maynila-language-arts-social-order/) and the prior [living-port dossier](/raha-ache/research/maynila-living-port-1500/).
