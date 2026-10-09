@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
 sources: []
 timeline: []
 book: book-1
@@ -317,3 +317,7 @@ Sulad crouched beside us without a word.
 I had won the wager around the post, if anyone still cared to count it.
 
 Sulad never asked for his rice cakes.
+
+## Suspense and emotional stakes revision
+
+**What Ache wants:** win his bet and be recognized for a rescue. **What goes wrong:** his improvisation saves a child but injures a rower's hand and disrupts fishers' work. **Cost:** an injured man's livelihood cannot be restored by praise or a finite payment. **Reader question:** whether Ache's choice was necessary, reckless, or both. Keep Sulad's affectionate refusal to endorse Ache's version, and the final net-mending image. This is *newly implemented in the prose draft*; the injured crewman is a fictional individual, not a documented person.
