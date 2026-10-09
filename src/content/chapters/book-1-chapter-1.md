@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
 sources: []
 timeline: []
 book: book-1
@@ -150,11 +150,15 @@ Water splashed over my feet. A length of our outrigger floated away.
 
 The cargo boat hit the quay. Several jars shattered. Men shouted and hauled at the rope.
 
+A rower reached for the quay to steady himself. The hull struck before he could pull his hand free. He cried out and stumbled back, clutching his wrist against his chest.
+
 But the hull stayed upright.
 
 Someone lifted the child ashore. She began crying as soon as her feet touched the ground.
 
 I had never been so pleased to hear someone cry.
+
+The injured rower sat against a piling. Another man tried to examine his hand. He would not let anyone touch it. I looked at him, then at the girl, and told myself that the boat had been about to overturn.
 
 Sulad sat in the water collecting inside our boat.
 
@@ -184,11 +188,11 @@ A porter pushed forward. “My bundles are still on the quay. I'll miss my passa
 
 The cargo boat's owner arrived, dripping water, and pointed at his broken jars.
 
-“You saved my boat,” he said. “I thank you. But who pays for these?”
+“You saved my daughter,” he said. He looked toward the rower, still sitting by the piling. “I thank you for that. But who pays for these? And what happens if he cannot row?”
 
-I had three angry men before me and only one answer: the child was alive.
+I had three men demanding answers, an injured rower who had said nothing, and only one answer: the child was alive.
 
-It seemed enough to me. It did not seem enough to them.
+It seemed enough to me. No one else seemed willing to call it enough.
 
 I summoned the harbor steward. He arrived with a tally board and the expression of a man whose morning had been made unnecessarily expensive.
 
@@ -248,6 +252,18 @@ She examined the tally. “You ordered men away from their work.”
 
 I looked down.
 
+“And the rower?”
+
+“He would have been hurt if the boat overturned.”
+
+“Perhaps. Was he hurt when you turned it into the quay?”
+
+I stared at her. It was not a question I wanted her to ask in front of Sulad.
+
+“I was trying to save them.”
+
+“I know what you were trying to do.”
+
 “Your father left you a claim to Maynila,” she said. “He did not leave you a separate river.”
 
 I had never known my father. I knew him through the empty place beside her at ceremonies, and through older men who studied my face before they spoke.
@@ -262,7 +278,7 @@ I had never known my father. I knew him through the empty place beside her at ce
 
 I waited for the rest.
 
-“Tomorrow the fisherman, the porter, and the boat owner will come here. You will hear their claims and decide how they should be settled.”
+“Tomorrow the fisherman, the porter, the boat owner, and someone who can speak for the injured man will come here. You will hear their claims and decide what can be settled.”
 
 “I have training tomorrow.”
 
@@ -301,3 +317,7 @@ Sulad crouched beside us without a word.
 I had won the wager around the post, if anyone still cared to count it.
 
 Sulad never asked for his rice cakes.
+
+## Suspense and emotional stakes revision
+
+**What Ache wants:** win his bet and be recognized for a rescue. **What goes wrong:** his improvisation saves a child but injures a rower's hand and disrupts fishers' work. **Cost:** an injured man's livelihood cannot be restored by praise or a finite payment. **Reader question:** whether Ache's choice was necessary, reckless, or both. Keep Sulad's affectionate refusal to endorse Ache's version, and the final net-mending image. This is *newly implemented in the prose draft*; the injured crewman is a fictional individual, not a documented person.

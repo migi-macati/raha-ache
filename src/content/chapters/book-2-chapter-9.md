@@ -4,7 +4,7 @@ name: "Book II, Chapter 9: After the Iron Ships"
 aliases: ["After the Iron Ships", "Triumphant Return and Wedding"]
 status: fictional
 developmentStatus: working
-related: [ache, elcano, pazeculan, brunei, maynila, encounter-1521, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, elcano, pazeculan, brunei, maynila, encounter-1521, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [encounter-1521]
 book: book-2
@@ -77,3 +77,7 @@ Pays off the lesson of Chapter 4: this time, defeat produces disciplined adaptat
 ## Handoff
 
 Chapter 10 becomes a free choice rather than forced motion: return to Brunei or continue to Luzon.
+
+## Suspense and emotional stakes revision
+
+Ache tries to rebuild after humiliation, but different comrades remember the 1521 disaster differently. Safi may offer help on terms Ache dislikes; Jamil or Laila may refuse reassurance. **Reversal:** publicly displaying strength would break a relationship; acknowledging weakness may allow command to work again. **Cost:** not everyone forgives him, and some allies choose Brunei rather than his proposed restoration.

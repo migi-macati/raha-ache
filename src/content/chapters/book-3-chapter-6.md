@@ -4,7 +4,7 @@ name: "Book III, Chapter 6: The Work of Rule"
 aliases: ["The Work of Rule", "Governor"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -85,3 +85,7 @@ Chapter 7 shows how neighboring powers react to the stronger, more organized May
 ## Merchant, language and status subplot: the false clarity of a ledger
 
 Ache's Harbour Council and Court of Scribes are **fictional institutional reforms**. A new standardized record protects a visitor's cargo but mistakenly assigns an inherited **aliping namamahay** obligation as if a dependent household's members could be taken away and sold. An elder's oral testimony conflicts with the ledger. Ache initially favors the simplicity of writing; the injured family forces him to reconsider. **Proposed character:** [Mehomete](/raha-ache/characters/mehomete-maynila/) can replace the anonymous commercial translator only if the chapter is dated late enough; **pre-1570 service is invented**, not documented. **Turn:** Ache orders an appeal and becomes politically vulnerable to claims of inconsistency. [Plasencia source](/raha-ache/sources/plasencia-customs-tagalogs-1589/); [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+New harbor rules and translators work for ordinary traders at first. A dependent household then discovers a record converts a conditional duty into an enforceable claim on a person. **Reversal:** the invention Ache is proudest of turns someone else's existence into an entry he cannot easily erase. **Character:** proposed Mehomete can fill the broker role only if chronology allows a *fictional* earlier relationship; otherwise use a distinct invented broker. **Cost:** a family refuses his apology and local officials question his inconsistent corrections.

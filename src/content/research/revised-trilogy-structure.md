@@ -4,7 +4,7 @@ name: Revised trilogy structure
 aliases: []
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, open-questions, original-trilogy-outline, book-3-final-crisis, book-3-sequence-history, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, open-questions, original-trilogy-outline, book-3-final-crisis, book-3-sequence-history, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12]
 sources: []
 timeline: []
 ---
@@ -57,3 +57,13 @@ The bonus chapters continue the historical life after Book III's main dramatic c
 The [Broken Compact continuing subplot](/raha-ache/research/book-3-merchant-and-status-conflict/) integrates **trade, interpretation, making things and uneven social rank** across Chapters 4–10 without changing their existing purpose. A harbor rule may secure visiting merchants and simultaneously place dependents at risk. Chapter 9's coalition crisis now includes both elite captains and affected households; Chapter 10 must demonstrate enforceable correction, negotiated liberty and delegated judgment.
 
 [Mehomete](/raha-ache/characters/mehomete-maynila/) is documented in 1570 as an interpreter; a larger fictional role in **late Book III** is *conditional on the chapter chronology* and must not be mistaken for attested biography. [Pablo](/raha-ache/characters/pablo-japanese-1570/) is prioritized as a major supporting figure in **Bonus 11**, where his professed Christianity does not dictate political allegiance. Preserve the 10-chapter resolution and the 1570–72 bonus timeline.
+
+## Historical dramatic irony and emotional stakes
+
+The trilogy follows [the suspense contract](/raha-ache/research/historical-suspense-contract/) and [the character-choice matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/).
+
+- **Book I by Ch10:** flight to Brunei resolves; the cost is leaving people who have a real reason not to follow, without a clean resolution with his mother.
+- **Book II by Ch10:** command earned and departure toward Luzon chosen; Ache cannot carry every Bruneian relationship or political commitment into the return.
+- **Book III by Ch2:** Maynila retaken, still morally fraught; by Ch3 negotiated Tondo coexistence. Ch4–8 introduce escalating, personal and potentially irreversible costs of reform rather than idle administration. The separate fictional coalition crisis is fully answered by Ch10. **Bonus 11–12:** the historical 1570–72 confrontation and Ache's end receive emotional closure, not a detached appendix.
+
+Future history intensifies reader concern without granting prophetic knowledge to characters or allowing fictional twists to overturn recorded dates and public outcomes.

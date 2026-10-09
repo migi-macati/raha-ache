@@ -4,7 +4,7 @@ name: "Book III, Chapter 5: Old Alliances, New Debts"
 aliases: ["Old Alliances, New Debts"]
 status: fictional
 developmentStatus: current
-related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, palawan, panay, cebu, lakanmulaw, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, palawan, panay, cebu, lakanmulaw, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -84,3 +84,7 @@ A wider network increases the need for standardized rules, records, and administ
 ## Merchant and craft subplot: favors become obligations
 
 When old allies come collecting on promises, their accounts differ. A gift of cloth, safe anchorage or a crew's assistance may be remembered as kinship, paid service or a debt. An interpreter or locally recognized witness must decide whether a pledge was conditional. **Turn:** Ache chooses to honor a costly old commitment rather than insist his own version controls. **Handoff:** his demand for more consistent records in Chapter 6. All named cases are fiction. [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/).
+
+## Suspense, historical irony and emotional stakes revision
+
+Ache repays promised aid across Brunei and local networks; each side remembers the nature of the pledge differently. **Reversal:** a friend or spouse disputes his supposedly generous settlement. **Choice:** recognize another person's interpretation or force uniformity through a new court. **Cost:** a key ally gains a rational reason to resist him. **Question:** do shared memories bind a polity or let powerful people rewrite it?

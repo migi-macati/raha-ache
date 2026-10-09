@@ -4,7 +4,7 @@ name: "Book I, Chapter 10: The Sultan"
 aliases: ["The Sultan"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, siripada, brunei, book-2-chapter-1, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, brunei, book-2-chapter-1, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
@@ -88,3 +88,7 @@ Pays off Bruneian kinship and the entire flight. Sets up Book II's court, mentor
 ## Handoff
 
 Book II begins with a new problem: Ache is safe, but he is not yet powerful.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** Ache reaches Siripada, but the court can receive a grandson without accepting his demand for an army. **Reversal:** the previously reassuring blood tie exposes his lack of independent value; Bruneian interests are not identical to his homecoming. **Ache's choice:** remain a protected petitioner or accept demanding training/service. **Cost:** a significant personal concession closes Book I. **Emotional payoff:** he has escaped, but he now chooses what kind of man he intends to become, not merely where he will sail next.

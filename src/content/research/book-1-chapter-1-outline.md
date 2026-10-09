@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [maynila-living-port-1500, book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-living-port-1500, book-1-chapter-1, story-architecture-standard, book-1, ache, sulad, maynila, pasig-river]
 sources: []
 timeline: []
 ---
@@ -84,3 +84,9 @@ The **current prose** already makes Ache's first failure specific: he saves a ca
 - **Setup/payoff:** Chapter 2 converts those physical damages into competing household/property rights and an argument over who controls river traffic.
 - **Environmental grounding:** uncertain tide and draft, cargo jars, fishery claims, households supplying labor, people whose commercial schedules the prince does not know. Details are plausible fiction, supported comparatively by [Living Maynila](/raha-ache/research/maynila-living-port-1500/) and [Plasencia's later Tagalog evidence](/raha-ache/sources/plasencia-customs-tagalogs-1589/).
 - **Guardrail:** no 1570 Chinese/Japanese resident totals presented as eyewitness fact for Ache's c.1500 childhood. Exposition on foreign imports is optional, and only if it affects the boat incident.
+
+## Current prose correction: a rescue is not a verdict
+
+The [historical suspense model](/raha-ache/research/historical-suspense-contract/) is now **implemented in Chapter 1's prose**. Ache saves a child but the collision injures a rower's hand in addition to damaging nets, cargo and an outrigger. The boat owner can be grateful and demand redress simultaneously. Ache's mother requires a hearing that must include the injured man's representative. The **turning point** is not simply an admonition that the river belongs to others; it is a visible cost to a working person's future.
+
+**Character effect:** Sulad cares for Ache but does not validate an effortless heroic narrative; Ache wants thanks and cannot honestly claim everyone is fine. **Handoff:** Chapter 2's hearing must leave the injured man's livelihood uncertain, not settle everything with coins. The injury, rower and court scene are invented, not source-attested.

@@ -4,7 +4,7 @@ name: "Book I, Chapter 2: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [maynila-living-port-1500, book-1-chapter-2, story-architecture-standard, book-1, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-living-port-1500, book-1-chapter-2, story-architecture-standard, book-1, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo]
 sources: []
 timeline: [ache-father-dies]
 ---
@@ -92,3 +92,9 @@ The **current prose** uses a real material problem from Chapter 1—the fisherma
 - **Turning point:** a merchant's complaint exposes that the prince's authority does not automatically secure the trader's livelihood.
 - **Research constraint:** [Plasencia (1589)](/raha-ache/sources/plasencia-customs-tagalogs-1589/) attests chiefs' **rights to particular fisheries and river markets** in some Tagalog locales. The proposed **dual-clerk tally and shared landing record** in this manuscript are **fictional political institutions**, not attested Ache-era port bureaucracy.
 - **Handoff:** Chapter 3's upriver movement can reveal multiple social and religious worlds; it must not become a travel lecture about globalization.
+
+## Current prose correction: both sides can be right
+
+The [historical suspense and character stakes model](/raha-ache/research/historical-suspense-contract/) is **implemented in Chapter 2's draft**. The injured rower's sister demands answers that silver cannot provide; Ache promises food while the claim remains unresolved. His mother agrees to a one-season joint tally arrangement that actually relieves traders' double payments. Ache correctly recognizes that joint records of boats can expand into records of **crew and dependents**; his mother is not simply right in a way he must learn to accept.
+
+**Escalation:** the steward shows that Tondo's account already includes crew counts. **Reader question:** can that tracking protect people or also enable coercion? **Handoff:** Chapter 3 lets the Tondo clerk defend the practice with an intelligible reason. The particular injury, meetings and bureaucratic proposal are novel fiction.

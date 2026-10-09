@@ -4,7 +4,7 @@ name: "Book I, Chapter 5: Fight or Flight"
 aliases: ["Fight or Flight"]
 status: fictional
 developmentStatus: working
-related: [ache, sulad, bulkan, lakandula, maynila, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, lakandula, maynila, story-architecture-standard]
 sources: []
 timeline: [tondo-encroachment]
 book: book-1
@@ -85,3 +85,7 @@ Pays off Ache's Brunei connection from Chapter 3. Sets up all survival logistics
 ## Handoff
 
 Chapter 6 makes the decision physically irreversible.
+
+## Suspense and emotional stakes revision
+
+**Scene mandate:** a threatened household or independent supporter refuses Ache's proposed immediate armed stand even when he intends to protect them. **Ache's choice:** strike before he is ready, accept the settlement, or leave Maynila to seek future support. **Reversal:** a loved person makes a defensible choice that he experiences as betrayal; his mother cannot promise everyone will remain safe. **Cost:** permanent separation without a satisfying reconciliation. **Sulad's agency:** he accepts exile under a condition Ache resents rather than mechanically following the prince.

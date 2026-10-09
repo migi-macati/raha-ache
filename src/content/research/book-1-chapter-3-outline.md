@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: Development outline"
 aliases: []
 status: fictional
 developmentStatus: working
-related: [maynila-living-port-1500, book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, maynila, namayan, brunei]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-living-port-1500, book-1-chapter-3, story-architecture-standard, book-1, ache, sulad, ula, maynila, namayan, brunei]
 sources: []
 timeline: []
 ---
@@ -83,3 +83,9 @@ Ula's spiritual authority, Sulad's inherited charm, and a Muslim princely househ
 The passage that explicitly jokes about “Chapter Two” in Ache's own first-person narrative breaks historical immersion; revise that line with minimal alteration, preserving the three-day examination of disputed harbor tallies.
 
 For location and dating controls see [Living Maynila](/raha-ache/research/maynila-living-port-1500/) and [the larger foreign-contacts research](/raha-ache/research/foreign-contacts-ache-era/).
+
+## Current prose correction: rights cannot be reduced to the prince's approval
+
+The [dramatic irony model](/raha-ache/research/historical-suspense-contract/) is **implemented in Chapter 3's prose**. Ula's authority and Sulad's charm belong to them, not to Ache. Sulad fails to make his usual joke after Ache asks whether he would discard it. A Malay-speaking captain sees through Ache's courtly pride without knowing his entire future. At the landing, the **Tondo clerk counts crews partly because a family could not find a missing sailor**; the same record could serve a coercive patron. He hesitates when Ache asks who can read it.
+
+**Handoff:** Chapter 4 should follow the human consequences of this contested record, with multiple possible interpretations, rather than reboot a generic fear of Tondo. The missing sailor, human tallies and clerk scene are fiction; they must not be treated as documented history.

@@ -4,7 +4,7 @@ name: "Book II, Chapter 6: Tactics and Conquest"
 aliases: ["Tactics and Conquest"]
 status: fictional
 developmentStatus: working
-related: [ache, loue, brunei, jamil, raden-muda-safi, ache-brunei-command, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, loue, brunei, jamil, raden-muda-safi, ache-brunei-command, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign]
 book: book-2
@@ -81,3 +81,7 @@ Pays off Chapters 3–5. Deliberately places Ache at maximum confidence before C
 ## Handoff
 
 The return voyage toward Luzon begins and encounters unfamiliar ships.
+
+## Suspense and emotional stakes revision
+
+The Loue success tests the ethics of force and the loyalty of Safi, Jamil, Jalal or Laila without flattening them. **Reversal:** a win makes Ache appear indispensable while revealing that he has borrowed other people's men, risks, promises and grief. **Choice:** claim credit, distribute spoils, or accept a settlement that costs his reputation. **Future irony:** growing mastery cannot guarantee he'll recognize every approaching danger.

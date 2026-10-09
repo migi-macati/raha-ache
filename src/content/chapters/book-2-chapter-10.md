@@ -4,7 +4,7 @@ name: "Book II, Chapter 10: Luzon on the Horizon"
 aliases: ["Luzon on the Horizon", "Admirable Admiral"]
 status: fictional
 developmentStatus: working
-related: [ache, maynila, brunei, sulad, siripada, putri-laila-nur, book-3-chapter-1, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, brunei, sulad, siripada, putri-laila-nur, book-3-chapter-1, story-architecture-standard]
 sources: [aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
@@ -87,3 +87,7 @@ Pays off the entire training, rivalry, mentorship, campaign, and failure arc.
 ## Handoff
 
 Book III opens when the abstract idea of "home" becomes a real political landscape that does not simply welcome Ache back.
+
+## Suspense and emotional stakes revision
+
+Ache earns enough real command to embark toward Luzon, **without retaking Maynila**. **Reversal:** a meaningful offer to remain in Brunei is emotionally compelling and politically sensible. **Choice:** depart knowing that he cannot have both futures or bring every person with him. **Cost:** allow Laila and Safi independent decisions, not a chorus cheering his triumph. **End:** complete the command-and-return decision arc, leave Book III's homecoming outcome unresolved.

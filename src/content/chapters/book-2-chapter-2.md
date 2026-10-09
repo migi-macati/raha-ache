@@ -4,7 +4,7 @@ name: "Book II, Chapter 2: The Sultan's Court"
 aliases: ["The Sultan's Court"]
 status: fictional
 developmentStatus: working
-related: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: []
 book: book-2
@@ -87,3 +87,7 @@ Introduces relationships that should recur throughout Book II.
 ## Handoff
 
 Chapter 3 converts political opportunity into disciplined training.
+
+## Suspense and emotional stakes revision
+
+Safi defeats Ache fairly in one courtly/professional contest and articulates a credible grievance: a displaced claimant is using Bruneian people and resources for private restoration. **Reversal:** Safi prevents an insult or mistake by Ache *without becoming his friend*. **Choice:** confess the defeat or conceal it behind bloodline. **Cost:** the court can prefer Safi for sound reasons, forcing Ache to grow.

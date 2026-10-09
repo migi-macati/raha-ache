@@ -4,7 +4,7 @@ name: "Book II, Chapter 4: Losing"
 aliases: ["Losing"]
 status: fictional
 developmentStatus: working
-related: [ache, jamil, raden-muda-safi, brunei, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, jamil, raden-muda-safi, brunei, story-architecture-standard]
 sources: []
 timeline: []
 book: book-2
@@ -80,3 +80,7 @@ Creates the wound that Chapter 8 will reopen on a larger scale. The difference i
 ## Handoff
 
 Chapter 5 places Ache in irregular conditions where formal prestige matters less and adaptation matters more.
+
+## Suspense and emotional stakes revision
+
+A tactical defeat harms a particular crew member or dependent household and strains Jamil's authority. **Reversal:** Jamil was wrong about an element and Ache was right, but Ache's separate arrogance still matters. **Choice:** blame the mentor and protect his reputation, or acknowledge both errors without dissolving responsibility. **Cost:** a trusted relationship changes permanently, not a clean “lose now, level up later” beat.

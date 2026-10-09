@@ -29,7 +29,7 @@ relations:
   - target: pasay
     type: earlier-draft companion
     certainty: development
-related: [salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 sources: [aganduru-moriz, pigafetta, william-henry-scott, riquel-1571, relacion-1572, luis-camara-dery]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -60,3 +60,11 @@ An earlier outline used Pasay as Ache's same-age companion. That version is pres
 ## Uncertainty
 
 The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.
+
+## Novel character flaw and long-range suspense
+
+The [current psychological arc](/raha-ache/research/trilogy-character-stakes-and-reversals/) distinguishes Ache's **historically documented public life** from invented private behavior. He recognizes navigational and administrative patterns quickly, and increasingly tends to believe understanding a system permits him to command it. That instinct helps save people and can also inflict harm on those he never consulted.
+
+**Book I:** a rescued child and injured rower are simultaneously true; Ache can be perceptive about Tondo's trade records and still dismiss the human value of his mother's bargain. **Book II:** command mastery deepens his influence and the costs others bear. **Book III:** the fictionally imagined Court of Scribes creates genuine benefits and a wrong-status case; the Ch9–10 invented crisis requires real correction, not a final lecture. **1570–72:** Ache cannot possess foreknowledge of later Philippine colonial history; public events follow the source record.
+
+**Character surprise rule:** avoid treating each failure as a scripted moral lesson followed by a clean improvement. Ache can grow more effective before he grows more just.

@@ -4,7 +4,7 @@ name: Story architecture standard
 aliases: [Outline standard, Chapter standard, Book standard]
 status: fictional
 developmentStatus: current
-related: [genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
 sources: []
 timeline: []
 ---
@@ -156,3 +156,17 @@ When prose drafting begins, every major scene should still be legible as:
 **POV character wants something → opposition creates pressure → the character chooses → the choice creates a consequence → the situation changes.**
 
 Atmosphere, exposition, worldbuilding, humor, lore, and historical detail should support that movement rather than replace it.
+
+## Additional mandatory editorial questions
+
+The original components above remain required. Each **chapter plan** must also answer concisely:
+
+- **Why read now?** What is urgent *in-scene*, beyond the chapter's historical milestone?
+- **Whose independent desire is obstructed?** A supporting character should have a position that cannot be reduced to serving or correcting Ache.
+- **What does the choice cost?** A material, emotional or political consequence that survives the chapter. Not every damage is fixable by an apology, payment or promotion.
+- **What does the reader know or suspect that the POV does not?** Include historical dramatic irony only where appropriate, and no future omniscience.
+- **What honest uncertainty remains?** The concrete question carrying tension to the next chapter, without manufacturing a generic surprise.
+- **What earlier detail changes meaning?** A planted object, word or promise may return later; avoid a self-congratulatory “callback” with no consequence.
+- **Fact vs invention:** identify which described conditions are attested, inferred or novel canon in source notes.
+
+The [historical suspense contract](/raha-ache/research/historical-suspense-contract/) and [character stakes map](/raha-ache/research/trilogy-character-stakes-and-reversals/) give the first full pass across Books I–III. Apply them when turning outlines into prose. **Do not place editorial prompts, source citations or synopsis spoilers inside Ache's narration.**
