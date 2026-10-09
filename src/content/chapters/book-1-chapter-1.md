@@ -270,7 +270,7 @@ I had never known my father. I knew him through the empty place beside her at ce
 
 “I didn't say the river was mine.”
 
-“No. You gave orders as though everyone on it had been waiting for you.”
+“No. But they recognized you and came running. You did not have to say the river was yours.”
 
 “I saved the child.”
 
@@ -317,7 +317,3 @@ Sulad crouched beside us without a word.
 I had won the wager around the post, if anyone still cared to count it.
 
 Sulad never asked for his rice cakes.
-
-## Suspense and emotional stakes revision
-
-**What Ache wants:** win his bet and be recognized for a rescue. **What goes wrong:** his improvisation saves a child but injures a rower's hand and disrupts fishers' work. **Cost:** an injured man's livelihood cannot be restored by praise or a finite payment. **Reader question:** whether Ache's choice was necessary, reckless, or both. Keep Sulad's affectionate refusal to endorse Ache's version, and the final net-mending image. This is *newly implemented in the prose draft*; the injured crewman is a fictional individual, not a documented person.
