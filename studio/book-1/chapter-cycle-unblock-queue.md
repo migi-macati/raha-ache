@@ -28,3 +28,9 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - Q-05: PR #24 is draft and mergeable; Studio content is not Chapter 4 publication. The checkpoint still points to Chapter 4.
 - Q-06: Previously rejected prose edits were not executed; a separate, permitted revision already exists in PR #24. Do not replay blocked payloads.
 - User intervention required now: none established by this review. Further platform checks may still reject individual actions.
+
+## Cycle update — 2026-10-10, PR cleanup and source review
+- **Q-03 closed:** PR #22 was closed without merge after verifying that Chapter 3 on main already ends cleanly at the clerk's hesitation. No reader-facing change was necessary.
+- **Q-04 substantive review:** PR #27 changes the early attribution from Lakandula to the unidentified ruler of Tondo, removes the unsupported strong-inference cousin relation in both Ache and Lakandula profiles, and removes premature Lakandula links in Chapters 4–5. These edits correctly narrow claims; the 1571 Lakandula remains documented. The underlying Aganduru Spanish original is still not independently verified. PR #27 remains draft pending normal review and release checks; do not collapse source caution into proof of a different ruler.
+- **Q-05:** PR #24 still contains the second-pass Chapter 4 prose; its last passage asks the clerk to seek the rowers' permission before marking them. Preserve this agency-driven ending when assessing public prose. Studio frontmatter and editorial gate must not appear in reader text.
+- **Next editorial decision:** Review the title `Encroachment` versus provisional `The Second Crossing` against the final scene, then prepare the public chapter only when Chapter 4 source and chronology checks pass.
