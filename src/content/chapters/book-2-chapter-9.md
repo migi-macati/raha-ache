@@ -4,7 +4,7 @@ name: "Book II, Chapter 9: After the Iron Ships"
 aliases: ["After the Iron Ships", "Triumphant Return and Wedding"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, elcano, pazeculan, brunei, maynila, encounter-1521, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, elcano, pazeculan, brunei, maynila, encounter-1521, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [encounter-1521]
 book: book-2
@@ -81,3 +81,7 @@ Chapter 10 becomes a free choice rather than forced motion: return to Brunei or 
 ## Suspense and emotional stakes revision
 
 Ache tries to rebuild after humiliation, but different comrades remember the 1521 disaster differently. Safi may offer help on terms Ache dislikes; Jamil or Laila may refuse reassurance. **Reversal:** publicly displaying strength would break a relationship; acknowledging weakness may allow command to work again. **Cost:** not everyone forgives him, and some allies choose Brunei rather than his proposed restoration.
+
+## Romantic accountability after defeat
+
+Other people who love or desire Ache may decide his release and recovery do not restore trust. A partner can offer kindness without forgiving a broken promise. This scene should reveal the other person's own life and obligations; do not make romance a reward automatically unlocked by surviving 1521. Adult involvement only, with independent, voluntary choices. [Guide](/raha-ache/research/ache-attraction-romance-chemistry/).

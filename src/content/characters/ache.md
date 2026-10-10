@@ -29,7 +29,7 @@ relations:
   - target: pasay
     type: earlier-draft companion
     certainty: development
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, salalila, ache-mother, siripada, lakandula, sulayman, sulad, pasay, pazeculan, maynila, tondo, brunei, loue, encounter-1521, return-to-maynila, battle-manila-1570, legazpi-manila-1571, ache-baptism-death-1572]
 sources: [aganduru-moriz, pigafetta, william-henry-scott, riquel-1571, relacion-1572, luis-camara-dery]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-brunei-command, loue-campaign, encounter-1521, return-to-maynila, legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -74,3 +74,15 @@ The [current psychological arc](/raha-ache/research/trilogy-character-stakes-and
 **Fictional behavior, not recorded biography.** Ache often acts before asking who will bear the cost. His rescue at the quay saves a child and injures a rower. He wants gratitude and resents that another family still needs an answer. He can repair a boat expertly yet forget that Sulad's time and labor are not his to assign. When ashamed, he becomes formal; when relieved, he jokes too soon. He guards his father's cloth while mocking other people's protective objects. He can love Maynila and try to control it.
 
 **Scene stress test:** have Ache apologize without giving an explanation of why he was right. When the apology fails, make him tempted to command forgiveness. His final progress is accepting a refusal without treating it as insubordination. [Human-character guide](/raha-ache/research/psychologically-credible-characters/).
+
+## Attraction and intimate life (fictional canon)
+
+The novel portrays Ache as capable of romantic and sexual attraction **toward women and men**. This is **literary invention**, not a claim that the historical Raja Ache's sexuality is documented. Do not give his circa-1500 narration a modern identity declaration; let the reader recognize the pattern through particular people and genuine, differing connections.
+
+**Book I (~16–17):** tentative crushes, awkward jealousy, embarrassment, admiration and entirely **nonsexual** affection among peers. His deep attachment to Sulad can have ambiguous first-crush subtext but cannot require Sulad to reciprocate.
+
+**Book II, only after Ache and the other person are adults:** genuine chemistry with Laila and potentially an independent, age-appropriate male peer such as Jalal; the latter is an *option*, not a confirmed pairing. Consent and practical ability to refuse matter, especially in courts and fleets.
+
+**Book III:** marital closeness and discord, memories of past love, possible attractions that do not necessarily become affairs. Marriage does not erase earlier or future bisexual attraction. Respect the distinct identity of his historically reported wife, whose intimate biography is unknown.
+
+[Romance and chemistry plan](/raha-ache/research/ache-attraction-romance-chemistry/).

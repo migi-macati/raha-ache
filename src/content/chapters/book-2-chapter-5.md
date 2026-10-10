@@ -4,7 +4,7 @@ name: "Book II, Chapter 5: Pirate Life"
 aliases: ["Pirate Life"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulu, mindanao, jalal, lakanmulaw, putri-laila-nur, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulu, mindanao, jalal, lakanmulaw, putri-laila-nur, story-architecture-standard]
 sources: []
 timeline: []
 book: book-2
@@ -85,3 +85,7 @@ Chapter 6 tests whether Ache can convert irregular adaptability into organized c
 ## Suspense and emotional stakes revision
 
 Pirate/irregular tactics expose captives and communities who are not merely targets on a map. An ally requests a payoff Ache considers unacceptable, and refusal may risk crew survival. **Reversal:** a clever ambush creates political enemies whose response is rational. **Cost:** someone he meant to protect no longer believes his victory was worth its price.
+
+## Provisional adult attraction: Jalal
+
+If Book II's ages are fixed so **Ache and Jalal are both adults**, unrelated, and independent enough to refuse each other, their teasing and shared risky work could develop into romantic chemistry. **Do not impose a relationship in the name of representation.** Suggested emotional reversal: what begins as an easy private joke becomes serious when Jalal refuses Ache's request for Sulu crews. Ache must discover whether his interest survives a refusal; Jalal must remain a self-directed prince first. This is **optional plot development**, not documented biography or confirmed canon pairing. [Chemistry guidance](/raha-ache/research/ache-attraction-romance-chemistry/).

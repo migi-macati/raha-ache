@@ -4,7 +4,7 @@ name: "Book III: Raha Ache — The Kingdom United"
 aliases: [Book III, The Kingdom United, The Cannon and Me]
 status: fictional
 developmentStatus: current
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, maynila-living-port-1500, mehomete-maynila, pablo-japanese-1570, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, sulayman, lakandula, ache-wife, maynila, tondo, namayan, pasay, sulad, story-architecture-standard, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, book-3-final-crisis, bay-coalition-crisis, book-3-sequence-history]
 sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
@@ -386,3 +386,9 @@ The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contr
 ## Flawed human beings
 
 See [the character standard](/raha-ache/research/psychologically-credible-characters/). Ache's need for order becomes intrusion; Sulad's protection becomes control; Sulayman's decisiveness becomes impatience. Mehomete and Pablo's private personalities are imagined around limited 1570 evidence. Each should have habits, offstage obligations, embarrassing faults and choices that do not revolve around Ache. Avoid a perfect reconciliation at the Chapter 10 crisis.
+
+## Mature intimacy within the political story
+
+[Romance and chemistry guidance](/raha-ache/research/ache-attraction-romance-chemistry/) continues Ache's **fictionally developed bisexual attraction** into his mature and older life. His historical marriage needs real affection or loneliness, daily habits, and private disagreement with a spouse who is a full character. A remembered adult male attachment or lost possibility can deepen the stakes, but marriage does not erase bisexuality and bisexuality does not require infidelity.
+
+Do not force Sulad into a romance because of Book I's possible youth crush, or make the wife an obstacle to be removed. Across the 1570–72 historical coda, keep Ache's intimate choices specific and human, with no invented certainty about historical records of sexuality or motives.

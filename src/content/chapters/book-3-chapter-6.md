@@ -4,7 +4,7 @@ name: "Book III, Chapter 6: The Work of Rule"
 aliases: ["The Work of Rule", "Governor"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, part-3-institutions, port-centered-rule, malay-diplomacy, religious-duality, story-architecture-standard]
 sources: []
 timeline: []
 book: book-3
@@ -89,3 +89,7 @@ Ache's Harbour Council and Court of Scribes are **fictional institutional reform
 ## Suspense, historical irony and emotional stakes revision
 
 New harbor rules and translators work for ordinary traders at first. A dependent household then discovers a record converts a conditional duty into an enforceable claim on a person. **Reversal:** the invention Ache is proudest of turns someone else's existence into an entry he cannot easily erase. **Character:** proposed Mehomete can fill the broker role only if chronology allows a *fictional* earlier relationship; otherwise use a distinct invented broker. **Cost:** a family refuses his apology and local officials question his inconsistent corrections.
+
+## Private intimacy beneath public rule
+
+Ache's marriage can include affection, loneliness, habit and disagreement. His wife can notice his exhaustion but still object to the injuries caused by his records; he can long for approval without deserving it. An adult bisexual attraction does not mean the wife is a disguise or that he must have an affair. Avoid implying modern identity categories are archival facts. [Guide](/raha-ache/research/ache-attraction-romance-chemistry/).

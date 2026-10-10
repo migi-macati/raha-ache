@@ -4,7 +4,7 @@ name: "Book II, Chapter 2: The Sultan's Court"
 aliases: ["The Sultan's Court"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: []
 book: book-2
@@ -91,3 +91,7 @@ Chapter 3 converts political opportunity into disciplined training.
 ## Suspense and emotional stakes revision
 
 Safi defeats Ache fairly in one courtly/professional contest and articulates a credible grievance: a displaced claimant is using Bruneian people and resources for private restoration. **Reversal:** Safi prevents an insult or mistake by Ache *without becoming his friend*. **Choice:** confess the defeat or conceal it behind bloodline. **Cost:** the court can prefer Safi for sound reasons, forcing Ache to grow.
+
+## Emerging attachment, with age and autonomy checks
+
+Laila is not a prize for an accomplished heir. Ache notices her attention partly because she refuses his court performance; she notices both his vulnerability and his self-regard. Their chemistry can begin with **conversation, disagreement and a small private kindness**, but **no adult-romance scene until Ache and Laila have both been established as adults**. Safi's rivalry is intense without making him a default love interest. [Chemistry guidance](/raha-ache/research/ache-attraction-romance-chemistry/).

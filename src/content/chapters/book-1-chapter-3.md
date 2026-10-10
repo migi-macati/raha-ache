@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, ache-attraction-romance-chemistry, rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -532,6 +532,8 @@ He nodded once. I waited for him to make a joke.
 
 He didn't.
 
+I wanted him to look at me again. It was irritating how much that mattered, and I could not have said what I expected to see.
+
 That was the end of it.
 
 For now.
@@ -629,3 +631,7 @@ Across the river a boat was coming in on the evening tide. I watched its crew pr
 “Who is allowed to look at your board?” I asked.
 
 The clerk did not answer quickly.
+
+## Age-appropriate attachment and romantic subtext
+
+Ache and Sulad are about **16–17**, and Book I's relationship material remains **nonsexual**. In the current prose, after Sulad withholds his usual joke during a disagreement about an inherited cord, Ache is struck by how much he wants Sulad to look at him. This may later be understood as youthful attraction, an unsettled friendship, or a complicated mixture. **Do not declare Sulad attracted without developing his independent choice.** [Romance guidance](/raha-ache/research/ache-attraction-romance-chemistry/).
