@@ -18,3 +18,13 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 
 ## Checkpoint
 `.automation/raha-ache-chapter-cycle.json` currently says lastCompleted `book-1-chapter-3`, nextChapterId `book-1-chapter-4`. No retroactive edit or Studio merge advances the checkpoint.
+
+## Unblock review — 2026-10-10
+- Main is `10542d33a1167754490e8ed5bd1b74d6548eb2d7`; GitHub Pages workflow `38026064553` completed successfully for that SHA. This confirms build, not rendered-page inspection.
+- Q-01: PR #24 contains a later second-pass Chapter 4 Studio draft; treat it as canonical candidate, while preserving the earlier draft branch for comparison. Do not auto-merge a reader-facing chapter.
+- Q-02: PR #15 is draft and has merge conflicts (`dirty`); retain for comparison only.
+- Q-03: RESOLVED ON MAIN. Chapter 3 now ends with the clerk's hesitation and has no appended editorial heading. PR #22 is redundant; avoid merging it. Closing it is optional cleanup.
+- Q-04: PR #27 is draft and mergeable; historical identity correction needs substantive review before merge.
+- Q-05: PR #24 is draft and mergeable; Studio content is not Chapter 4 publication. The checkpoint still points to Chapter 4.
+- Q-06: Previously rejected prose edits were not executed; a separate, permitted revision already exists in PR #24. Do not replay blocked payloads.
+- User intervention required now: none established by this review. Further platform checks may still reject individual actions.
