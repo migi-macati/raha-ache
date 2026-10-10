@@ -71,3 +71,11 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-18 PROPOSED, NOT EXECUTED:** Test a restrained political consequence in Chapter 4: the regent assigns the next crew negotiation to her steward, excluding Ache after his public intervention. Check Chapter 5 causation before changing prose; no edit this pass.
 - **Q-19 PENDING:** A 2021 Recollect historical study identifies Aganduru Móriz (1584–1626) as arriving in Manila in 1606; he was not a 1521 eyewitness. Source: https://rst.edu.ph/wp-content/uploads/2023/02/2021-January-to-December-Vol.16-no.1-2.pdf . Source-chain update rejected; preserve caution about the alleged speech.
 - **Forward checkpoint unchanged:** Book I Chapter 4. PR #24 and PR #27 remain draft; no PR CI or deployment evidence this pass.
+
+## 11 October 2026, 07:17 PHT — verified dossier reconciliation
+- **Q-15 RESOLVED:** Canonical Chapter 4 dossier now acknowledges the completed Ache/Sima dialogue correction rather than describing it as unexecuted. Commit `ad6540d48d165a2fb67edc03214d35ed33f5666f`; the current manuscript already contains the correction from `0fb1c6fa`.
+- **Q-18 PENDING:** Political consequence (regent assigns next Tondo negotiation to steward) remains a proposed manuscript revision. Check its causal fit with Chapters 3–5; do not report as published prose.
+- **Q-10 PENDING:** PR #27 historical correction remains open; review/CI/release checks must be verified independently.
+- **Q-11/Q-16/Q-19 PENDING:** Original Aganduru Spanish passage still unexamined; Pigafetta eyewitness account must not be conflated with later attributed speech.
+- **Q-13/Q-14 PENDING:** PR #24 metadata/comment correction rejected in earlier runs; Studio files control current truth.
+- **Forward checkpoint:** `book-1-chapter-4`, unchanged; no public manuscript publication.
