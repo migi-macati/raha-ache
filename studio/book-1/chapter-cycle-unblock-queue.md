@@ -64,3 +64,10 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - Q-16: Pending. Update to `studio/book-1/chapter-4-aganduru-original-source-locator-20261009.md` was rejected before execution. Next: verify secondary page-60 pointer against 1882 Spanish scan; Google Books contents show the next chapter at page 61. No owner intervention established.
 - Q-17: Resolved in handoff file commits `0068bbc5` and `de56cb35`; Tondo crew was never booked.
 - Q-10/Q-11/Q-13/Q-14: Pending as previously recorded. PR #24 remains Studio-only; forward checkpoint unchanged.
+
+## 11 October 2026, 05:02 PHT — source locator and blocked edits
+- **Q-15 PENDING:** Dossier's earlier claim that Ache's dialogue correction was unapplied is stale; manuscript and revision log confirm `0fb1c6fa`. A freshly scoped dossier replacement was rejected by safety checks this run. Next: update the note only after re-reading the current blob. No owner-side approval established.
+- **Q-16 PENDING:** Ghent University links to a 36.5 MB scan of Aganduru's 1882 Spanish edition in CODOIN vol. 78: https://www.heuristiek.ugent.be/wp-content/uploads/2018/08/codoin.78.pdf . Web inspection failed because of file size; direct download also failed. Next: inspect original Spanish pp. 55–61 and compare Craig 1924. A source-chain-file update was rejected by safety checks.
+- **Q-18 PROPOSED, NOT EXECUTED:** Test a restrained political consequence in Chapter 4: the regent assigns the next crew negotiation to her steward, excluding Ache after his public intervention. Check Chapter 5 causation before changing prose; no edit this pass.
+- **Q-19 PENDING:** A 2021 Recollect historical study identifies Aganduru Móriz (1584–1626) as arriving in Manila in 1606; he was not a 1521 eyewitness. Source: https://rst.edu.ph/wp-content/uploads/2023/02/2021-January-to-December-Vol.16-no.1-2.pdf . Source-chain update rejected; preserve caution about the alleged speech.
+- **Forward checkpoint unchanged:** Book I Chapter 4. PR #24 and PR #27 remain draft; no PR CI or deployment evidence this pass.
