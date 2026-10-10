@@ -8,7 +8,7 @@ relations:
   - target: ache
     type: love interest and influence
     certainty: development
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, brunei, book-2, ache-wife]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, brunei, book-2, ache-wife]
 sources: []
 timeline: []
 ---
@@ -31,3 +31,9 @@ Laila does not exist to reward Ache for developing into a commander. She wants a
 Laila wants a life and political future in Brunei that does not depend on Ache choosing her. She plans for everyone's safety and can manipulate those she loves to make her preferred future seem inevitable. Ache's praise of her intelligence can sound like dismissal when he ignores her refusal. She has private playfulness and real anger. She remains distinct from Ache's unnamed historical wife until canon resolves that identity.
 
 [Character guide](/raha-ache/research/psychologically-credible-characters/).
+
+## Romantic chemistry without losing agency
+
+For **adult** Book II scenes, Ache's attraction to Laila should have an individual flavor: pleasure in an argument, small private kindnesses, admiration for her political intelligence, and discomfort when she refuses his priorities. She can desire him yet decide against a shared future; she does not exist to prove his heterosexuality or make his attraction to men disappear.
+
+Avoid implying that Laila's relationship automatically becomes the historical cousin-marriage. Her eventual identity relative to the historically reported wife is still undecided. [Romance development](/raha-ache/research/ache-attraction-romance-chemistry/).
