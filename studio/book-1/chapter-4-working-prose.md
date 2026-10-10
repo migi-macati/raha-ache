@@ -280,7 +280,11 @@ Sima considered this.
 
 He was entitled to say it. That was what troubled me.
 
-A merchant who had been waiting beside the baskets caught his sleeve before he left. I heard him ask whether two of the same rowers could be held for his cargo the next morning. The organizer said he would answer him in Tondo. The merchant nodded, as though that were the simplest place to settle it.
+A merchant waiting beside the baskets caught the organizer's sleeve before he left. He asked whether two of the same rowers could take his cargo the next morning. The organizer said he would answer him in Tondo.
+
+"Then I'll bring the baskets to Tondo's landing at first light," the merchant said. "Tell me there whether your men can take them."
+
+The organizer agreed to meet him, but made no promise about the crew.
 
 No one had ordered him across the river. He had chosen where he expected to find men.
 
