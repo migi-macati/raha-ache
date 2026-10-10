@@ -4,7 +4,7 @@ name: Genre and story model
 aliases: [Genre, Story model, Shonen model]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, book-1, book-2, book-3, revised-trilogy-structure]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, book-1, book-2, book-3, revised-trilogy-structure]
 sources: []
 timeline: []
 ---
@@ -138,3 +138,9 @@ Apply [Historical Suspense and Dramatic Irony](/raha-ache/research/historical-su
 **Prose correction:** do not build every dialogue exchange as witty child versus correct adult. Alternate silence, emotional misreading, conflict without a lesson, unreciprocated affection and imperfect apologies. Keep pleasure and ordinary life present so losses matter.
 
 **Avoid “historical fact as plot twist.”** Surprise must come from plausible unrecorded decisions and fair earlier cues, without rewriting recorded endpoints or claiming invented events occurred historically.
+
+## Romantic chemistry and bisexual Ache
+
+See [the age-aware intimacy plan](/raha-ache/research/ache-attraction-romance-chemistry/). In our **fictional portrayal**, Ache is capable of attraction to women and men. This does **not** establish the historical ruler's orientation. Book I (~16–17) has nonsexual crushes, attachment and embarrassment; Book II adult years may carry reciprocal romance between clearly adult, independent peers; Book III has marriage, maturity, changing desire and remembered intimacy.
+
+Write feelings through attention, humor, awkwardness, refusal and changed choices rather than modern labels or sexualized exposition. Both partners' agency matters, especially where Ache's royal or command authority creates unequal power. A bisexual character does not need a romantic encounter in every chapter, and a friendship can remain unambiguously platonic.
