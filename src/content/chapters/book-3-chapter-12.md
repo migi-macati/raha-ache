@@ -4,7 +4,7 @@ name: "Book III, Bonus Chapter 12: The Last Raha"
 aliases: ["The Last Raha"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, legazpi, maynila, succession-1572, ache-baptism-death-1572, book-3-chapter-11, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, legazpi, maynila, succession-1572, ache-baptism-death-1572, book-3-chapter-11, story-architecture-standard]
 sources: [relacion-1572, riquel-1571, william-henry-scott]
 timeline: [ache-baptism-death-1572]
 book: book-3
@@ -90,3 +90,7 @@ The new Spanish order alters legal categories, conversion incentives, landholdin
 ## Suspense, historical irony and emotional stakes revision
 
 **Historical coda through the project's 1572 endpoint.** An older Ache is neither omniscient nor a mouthpiece for modern nationalism. His final intimate choice—about family, protection, a promise, or what the next generation may preserve—must matter as much as titles and ceremonies. **Reversal:** the colonial record may describe “peace” or “submission” where a family remembers a painful compromise. **End:** a complete personal emotional reckoning, with no invented prophecy or confident report of historical figures' undocumented fates.
+
+## Mature love and remembered possibilities
+
+The historical end of Ache's life offers room for intimate memory—an unkept promise to an adult companion, tenderness with his wife, or recognition that he cannot live every possible life. Do not invent documentary certainty about the fate of possible male lovers. The final human scene may carry affection or regret without making sexuality a symbolic explanation for colonial history. [Guide](/raha-ache/research/ache-attraction-romance-chemistry/).
