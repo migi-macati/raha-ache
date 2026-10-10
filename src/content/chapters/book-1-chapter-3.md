@@ -20,7 +20,7 @@ My mother responded to my plan to investigate Tondo by sending me upriver with a
 
 I considered this unfair.
 
-“I said I wanted to find the men collecting in Lakandula’s name,” I told Sulad as we pushed away from the landing.
+“I said I wanted to find the men collecting in Tondo’s ruler’s name,” I told Sulad as we pushed away from the landing.
 
 “And your mother said no.”
 
