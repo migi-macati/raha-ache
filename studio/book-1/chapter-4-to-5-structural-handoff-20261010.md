@@ -9,7 +9,7 @@ State: Studio-only editorial analysis; no public chapter or checkpoint change.
 - Chapter 3 is present on main and the checkpoint says lastCompleted = Chapter 3. Its divergent draft PR #15 is not canonical.
 
 ## New structural finding
-The Chapter 4 working prose now demonstrates commercial drift toward Tondo when a merchant books tomorrow's crew there. This is credible, but the ending concentrates on Ache apologizing to Sima and learning to ask permission. It does **not yet earn the outline's required strategic rupture with his mother**. The repeated corrective voices (clerk, Sima, mother, Sulad, Sima) risk turning the political plot into a lesson cycle. The chapter's principal reversal should be a costly change in Maynila's bargaining position, with Ache's embarrassment a secondary consequence.
+The Chapter 4 working prose demonstrates commercial drift toward Tondo when a merchant decides to bring his baskets to its landing tomorrow, although the organizer has not promised or booked a crew. This is credible, but the ending concentrates on Ache apologizing to Sima and learning to ask permission. It does **not yet earn the outline's required strategic rupture with his mother**. The repeated corrective voices (clerk, Sima, mother, Sulad, Sima) risk turning the political plot into a lesson cycle. The chapter's principal reversal should be a costly change in Maynila's bargaining position, with Ache's embarrassment a secondary consequence.
 
 ## Bounded revision plan
 1. Fix the boat and witness continuity problems documented in `chapter-4-boat-staging-and-witness-review-20261010.md`: crew must control the boat when casting off; independent witnesses must be present for the hearing; clarify the paddle stroke.
