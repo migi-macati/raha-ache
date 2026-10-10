@@ -4,13 +4,13 @@ name: "Book I, Chapter 5: Fight or Flight"
 aliases: ["Fight or Flight"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, lakandula, maynila, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, maynila, story-architecture-standard]
 sources: []
 timeline: [tondo-encroachment]
 book: book-1
 chapterNumber: 5
 draftStatus: outline
-characters: [ache, sulad, bulkan, lakandula]
+characters: [ache, sulad, bulkan]
 places: [maynila, tondo]
 events: [tondo-encroachment]
 pov: [ache]
@@ -36,7 +36,7 @@ Ache chooses secret departure toward Brunei. The story crosses from political pr
 - **Ache and his mother:** reaches rupture.
 - **Ache and Sulad:** Sulad must decide whether loyalty means following Ache into danger.
 - **Bulkan:** can represent older military logic, caution, or practical preparation.
-- **Lakandula:** his pressure indirectly determines Ache's departure.
+- **Tondo's unidentified leadership and independent traders:** commercial and political pressure narrows Ache's options, but does not determine his departure or establish a named youthful cousin.
 
 ## Conflict and stakes
 
