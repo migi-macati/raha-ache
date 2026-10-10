@@ -392,10 +392,6 @@ I stayed long enough to understand that I had not been invited into their bargai
 
 Beyond them, a crew from Tondo was loading another vessel. Their organizer had found work for his men. Our own steward was still counting the boats. The river carried all of them.
 
-I had thought that if I could prove the Tondo men were wrong, Maynila's people would stand with me.
-
-Now I had heard a woman tell me she would stand where her household could work.
-
 I found my mother beside the tally boards. Across the water, the Tondo crew had already taken another load. On our shore Sima was helping the new boatmen lift the first of her baskets.
 
 The Tondo clerk raised his knife over the wood.
