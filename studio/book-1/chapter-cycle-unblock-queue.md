@@ -57,3 +57,10 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 
 - **Q-13 — PR #24 description stale, BLOCKED (11 Oct 00:00 PHT):** Target PR #24 metadata on `studio/book1-ch4-source-and-prose-review-20261009`; attempted `update_pull_request` to replace outdated description that incorrectly says the merchant transfer and ending trims are unapplied, and to note Q-12 plus archaeological source evidence. Tool returned `This tool call was blocked by OpenAI's safety checks. Please double check what you are sending.` No PR metadata changed. Retry only with a materially different scoped edit after re-fetching PR; no owner action proven necessary. The current Studio files and this queue, not PR body, control verified progress.
 - **CI/release observation:** `.github/workflows/deploy.yml` runs on pushes to `main` and manual dispatch, not on PRs. No commit status or PR-triggered workflow run was returned for PR #24/#27 heads. The absence of PR checks is not proof of a successful build. Local GitHub clone for independent build validation was unavailable due DNS/network access (`Could not resolve host: github.com`).
+
+## 11 October 2026, 03:00 PHT
+- Q-12: Resolved in manuscript commit `0fb1c6fa`; earlier dossier wording is stale.
+- Q-15: Pending. Two distinct updates to `studio/book-1/chapter-4-dossier.md` were rejected by safety checks before execution. Next: reconcile stale editorial note against current prose; owner intervention not established.
+- Q-16: Pending. Update to `studio/book-1/chapter-4-aganduru-original-source-locator-20261009.md` was rejected before execution. Next: verify secondary page-60 pointer against 1882 Spanish scan; Google Books contents show the next chapter at page 61. No owner intervention established.
+- Q-17: Resolved in handoff file commits `0068bbc5` and `de56cb35`; Tondo crew was never booked.
+- Q-10/Q-11/Q-13/Q-14: Pending as previously recorded. PR #24 remains Studio-only; forward checkpoint unchanged.
