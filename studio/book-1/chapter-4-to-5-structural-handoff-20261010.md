@@ -23,3 +23,15 @@ The Chapter 4 working prose demonstrates commercial drift toward Tondo when a me
 
 ## Publication
 Chapter 4 remains a Studio draft in PR #24. Do not merge, publish, change Read Aloud, or advance `.automation/raha-ache-chapter-cycle.json` before manuscript repair, continuity reread, relevant checks and separate public release. Retrospective chapters revised in this review: none.
+
+## Political-rupture option — 11 October 2026
+
+**Problem:** The merchant's decision to seek crews at Tondo's landing makes the political cost visible, but Ache still leaves the confrontation with essentially the same access to his mother's negotiations. A second moral rebuke would weaken the chapter.
+
+**Test in prose only after rereading Chapters 3 and 5:** Following the regent's refusal to exclude Tondo crews, she quietly instructs her steward to approach the organizer in Tondo the next morning and obtain terms for keeping reliable crews at Maynila's landing. She does not send Ache, whose public accusation has made him a poor negotiator. The steward's glance at Ache can make the transfer of responsibility visible without another speech. The merchant's planned Tondo visit remains independent; no crew is booked and no new treaty is implied.
+
+**Narrative cost:** Ache loses a specific opportunity to represent Maynila and discovers that his mother is building a strategy around a network he wants to resist. The regent's decision is defensible, potentially dangerous, and imperfect: asking for terms may strengthen Tondo's bargaining power, yet refusing its crews may drive cargo away. This should sharpen Chapter 5's choice without forcing the Brunei departure decision into Chapter 4.
+
+**Character safeguards:** Keep the regent pragmatic rather than omniscient; she must have reasons to doubt Ache's judgment without being reduced to a scolding parent. Preserve Sima's independent shipment and Sulad's fishing obligations. The steward is not automatically a political antagonist. The proposed delegation and its dialogue are fiction, not an attested early-sixteenth-century port office or historical event.
+
+**Decision:** Planning candidate only; no manuscript change authorized by this note alone, no public release or checkpoint advance. Reader-facing title *The Second Crossing* remains provisional: the second crossing is a cargo dispute and a transfer of political initiative, not necessarily a literal second voyage.
