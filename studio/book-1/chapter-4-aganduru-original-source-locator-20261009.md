@@ -11,3 +11,6 @@ A scan candidate for *Colección de documentos inéditos para la historia de Esp
 **Chapter 4 consequence:** Keep its Tondo pressure and mother-son disagreement framed as fictional dramatization of later reported history. Do not convert the invented paired tally boards or Sima's disputed voyage into historical fact.
 
 **Editorial gate:** The separate Chapter 4 title review identifies three uncorrected manuscript issues (cargo direction, orphaned “She did not”, first-pass status label). Publication remains blocked until repaired and reviewed. Forward checkpoint stays book-1-chapter-4.
+
+## Independent eyewitness control: Pigafetta, 29 July 1521
+The Philippine Diary Project reproduces Pigafetta's 1521 account in Spanish and an English translation (https://philippinediaryproject.com/1521/07/29/29th-of-july-1521/). It describes the **unnamed son of the king of Luzon**, captain-general to the king of Brunei, captured aboard a junk and released by **João Carvalho** for gold. It does **not** name Ache, describe his mother's Tondo dispute, or credit Elcano personally with releasing him. Identification with Ache depends on comparison with later sources and scholarship. The original Aganduru passage remains unverified; do not present its author as a 1521 eyewitness.
