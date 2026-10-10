@@ -8,7 +8,7 @@ relations:
   - target: ache
     type: companion and protector
     certainty: novel-canon
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, mindoro, palawan, brunei]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, mindoro, palawan, brunei]
 sources: []
 timeline: [ache-leaves-for-brunei]
 ---
@@ -35,3 +35,11 @@ Avoid making him the permanent correct voice or the guarantee that friendship su
 Sulad keeps people safe by anticipating practical danger, but can become controlling when afraid. He tells himself he needs no reward, remembers each sacrifice, and then lashes out over something small. His mother's cord is his choice, not Ache's lesson. His tenderness shows in a repaired paddle or meal, not a polished speech. He can refuse an order and still love Ache.
 
 See [the full characterization guide](/raha-ache/research/psychologically-credible-characters/).
+
+## Possible adolescent chemistry — boundaries first
+
+Ache may privately feel a first crush or complicated tenderness toward Sulad in **Book I at around sixteen to seventeen**. The manuscript's Chapter 3 now has a very small hint after their disagreement over Sulad's cord. The relationship is **not** established as mutual romance, and Sulad's own attractions or identity remain undecided.
+
+Sulad retains the right to refuse, to love Ache platonically, and to have relationships Ache knows little about. Do not treat his employment as Ache's protector or his affectionate care as sexual consent. No sexualized adolescent scenes. Their adult friendship remains meaningful whether or not a youthful crush was reciprocated.
+
+[Chemistry guide](/raha-ache/research/ache-attraction-romance-chemistry/).
