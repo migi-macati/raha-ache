@@ -4,7 +4,7 @@ name: "Book II: Raha Ache — Conquest of the Seas"
 aliases: [Book II, Conquest of the Seas, The Sword and Me]
 status: fictional
 developmentStatus: current
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, foreign-contacts-ache-era, joaquin-philippine-becoming, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, lakanmulaw, jalal, putri-laila-nur, brunei, sulu, mindanao, loue, elcano, pazeculan, maynila, story-architecture-standard, book-2-chapter-1, book-2-chapter-2, book-2-chapter-3, book-2-chapter-4, book-2-chapter-5, book-2-chapter-6, book-2-chapter-7, book-2-chapter-8, book-2-chapter-9, book-2-chapter-10, book-3-chapter-1]
 sources: [tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, pigafetta]
 timeline: [ache-brunei-command, loue-campaign, encounter-1521]
 ---
@@ -346,3 +346,9 @@ The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contr
 ## Flawed human beings
 
 [Characterization standard](/raha-ache/research/psychologically-credible-characters/): Jamil can be capable and mistaken, Safi principled and envious, Hasan patient and pedantic, Laila caring and controlling, Jalal generous and unreliable. Each needs ordinary life beyond Ache, at least one unflattering choice and a relationship that does not become a lesson for the hero. These invented personalities should emerge through actions rather than narration declaring a flaw.
+
+## Adult romantic chemistry and competing loyalties
+
+[The intimacy and chemistry guide](/raha-ache/research/ache-attraction-romance-chemistry/) develops Ache's attraction toward women and men as **novel canon**, not historical biography. Only after clear adult ages for all involved, permit meaningful adult attraction and romantic relationships. Laila's own future in Brunei may be incompatible with Ache's claim to Maynila. [Jalal](/raha-ache/characters/jalal/) is a **provisional** male romantic candidate if chronology, independence and non-kinship checks pass; his obligations to Sulu must remain primary to his own character.
+
+Avoid romanticizing hierarchies in which a subordinate cannot refuse a ruler or commander, teacher–student imbalance, or a trainer's authority. Desire isn't the same as fidelity, disloyalty or conquest. Interleave quiet chemistry with mentorship, battles and loss; mutual attraction need not become a lifelong partnership. Both adult male and female relationships can have distinct emotional grammar.
