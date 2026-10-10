@@ -4,7 +4,7 @@ name: Story architecture standard
 aliases: [Outline standard, Chapter standard, Book standard]
 status: fictional
 developmentStatus: current
-related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, genre-and-story-model, revised-trilogy-structure, book-1, book-2, book-3]
 sources: []
 timeline: []
 ---
@@ -178,3 +178,9 @@ Apply the [psychologically credible characters standard](/raha-ache/research/psy
 Avoid dialogue in which all adults teach and Ache always learns. A good character is sometimes unfair, evasive, embarrassingly proud or mistaken. Don't fix every conflict with an insightful apology. Show motivation by habits, inaction, late answers and consequences.
 
 **Reader-facing boundary:** place craft directions, development spoilers and source classifications in research or outline pages; keep completed chapter prose free of appended editorial notes. The Book I Chapters 1–3 manuscripts have been cleaned accordingly.
+
+## Age-aware chemistry check
+
+On every chapter pass, consult [the chemistry/attraction guide](/raha-ache/research/ache-attraction-romance-chemistry/) when a connection might acquire romantic weight. Specify the ages and power relation before writing any intimate scene. In Book I, Ache and peers are around **16–17**; keep it to nonsexual crushes, tenderness and awkward affection. In Book II, any actual adult romance requires **both people** to be clearly adults and able to decline one another. Book III mature marriages and memories must be emotionally credible, not symbolic.
+
+Romantic chemistry is optional in individual chapters, but human chemistry (friendship, rivalry, kinship) should remain vivid. Preserve source boundary: no historical record of Ache's own orientation has been established, and speculative attachments must not masquerade as biography.
