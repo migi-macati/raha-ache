@@ -631,7 +631,3 @@ Across the river a boat was coming in on the evening tide. I watched its crew pr
 “Who is allowed to look at your board?” I asked.
 
 The clerk did not answer quickly.
-
-## Age-appropriate attachment and romantic subtext
-
-Ache and Sulad are about **16–17**, and Book I's relationship material remains **nonsexual**. In the current prose, after Sulad withholds his usual joke during a disagreement about an inherited cord, Ache is struck by how much he wants Sulad to look at him. This may later be understood as youthful attraction, an unsettled friendship, or a complicated mixture. **Do not declare Sulad attracted without developing his independent choice.** [Romance guidance](/raha-ache/research/ache-attraction-romance-chemistry/).
