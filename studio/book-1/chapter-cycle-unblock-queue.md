@@ -40,3 +40,11 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-08 — Chapter 4 dossier drift:** `studio/book-1/chapter-4-dossier.md` still says the merchant merely considers negotiating in Tondo. The current working prose instead has the merchant commit to bring baskets to Tondo's landing the next morning; the organizer has not booked a crew. A dossier replacement was rejected before execution. Reconcile that precise distinction when permitted, without asserting a completed crew contract.
 - **Historical gate:** Plasencia's 1589 Tagalog labor categories are later comparative evidence, not direct evidence of this fictional early-sixteenth-century river dispute. Original Aganduru Spanish passage and alleged Ache speech remain unverified.
 - **Forward checkpoint:** Book I Chapter 4; no public Chapter 4 prose PR or checkpoint advance. No owner-side approval has been shown to be necessary.
+
+## Unblock resolution — 2026-10-10, 22:53 PHT
+- **Q-07 RESOLVED:** Removed the two redundant explanatory sentences from the Chapter 4 Studio ending. Commit `40ce2ba5b6516dbfa48cb47afa90a2b3925af18e`; preserve the Sima/clerk exchange.
+- **Q-08 RESOLVED:** Updated Chapter 4 canonical dossier: merchant will bring baskets to Tondo's landing tomorrow; organizer agreed to meet, but no crew was booked. Commit `96e69f9a1753f380252f5863adbac8d5fc85589e`.
+- **Q-09 RESOLVED ON BRANCH:** Chapter 3 duplicate relationship metadata removed on historical-correction PR #27; publication still awaits PR merge.
+- **Q-10 PENDING:** PR #27 draft-to-ready and normal CI/release gates require fresh verification; no bypass.
+- **Q-11 PARTIAL:** Source-chain research committed earlier; remaining reconciliation and original Aganduru Spanish verification are independent historical tasks, not a reason to misstate provenance.
+- **Forward checkpoint unchanged:** `book-1-chapter-4`. Studio PR #24 is not public Chapter 4 publication.
