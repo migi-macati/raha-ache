@@ -192,9 +192,9 @@ Then she turned to me.
 
 “I did not ask you to say that.”
 
-“I am defending your right to choose.”
+“He is asking you to pay for a journey you never ordered,” I said.
 
-“You are choosing my quarrel for me.”
+“You are answering him for me,” she said.
 
 Her words reached farther than my accusation had. A porter at the landing looked away. The organizer called his rowers over and told them to take another assignment. Two climbed into the boat. His sister's son stayed by the bowline while they took up their paddles.
 
@@ -219,10 +219,6 @@ I could feel the eyes of the landing on me.
 She turned back to the baskets. Her younger relative was securing them again, although some had already been loosened for carrying.
 
 “I will speak for my own household,” she said. “You may hear us. You may judge what is brought before you. But do not put words in my mouth again.”
-
-I had wanted to drive Tondo away from our landing.
-
-Instead I had driven a woman away from me.
 
 * * *
 
