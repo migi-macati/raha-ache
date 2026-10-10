@@ -4,8 +4,8 @@ name: "Ache's Attraction, Romance, Chemistry, and Intimacy Across the Trilogy"
 aliases: [Ache bisexuality, Romantic chemistry guide, Age-appropriate romance, Queer reading of Ache, Bisexual Ache]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, putri-laila-nur, jalal, raden-muda-safi, ache-wife, book-1, book-2, book-3, genre-and-story-model, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals]
-sources: []
+related: [carolyn-brewer-gender-sexuality, ache, sulad, putri-laila-nur, jalal, raden-muda-safi, ache-wife, book-1, book-2, book-3, genre-and-story-model, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals]
+sources: [carolyn-brewer-gender-sexuality]
 timeline: []
 ---
 *Writer-facing development, contains possible future relationship spoilers. Ache's sexual and romantic attractions are **novel invention**: the surviving historical evidence does not establish his sexuality or private love life.*
