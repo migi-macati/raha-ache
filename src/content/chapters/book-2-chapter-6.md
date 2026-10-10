@@ -4,7 +4,7 @@ name: "Book II, Chapter 6: Tactics and Conquest"
 aliases: ["Tactics and Conquest"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, loue, brunei, jamil, raden-muda-safi, ache-brunei-command, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, loue, brunei, jamil, raden-muda-safi, ache-brunei-command, story-architecture-standard]
 sources: [pigafetta, aganduru-moriz]
 timeline: [loue-campaign]
 book: book-2
@@ -85,3 +85,7 @@ The return voyage toward Luzon begins and encounters unfamiliar ships.
 ## Suspense and emotional stakes revision
 
 The Loue success tests the ethics of force and the loyalty of Safi, Jamil, Jalal or Laila without flattening them. **Reversal:** a win makes Ache appear indispensable while revealing that he has borrowed other people's men, risks, promises and grief. **Choice:** claim credit, distribute spoils, or accept a settlement that costs his reputation. **Future irony:** growing mastery cannot guarantee he'll recognize every approaching danger.
+
+## Adult affection under the costs of victory
+
+If the chronology places Ache and his partner firmly in adulthood, an intimate quiet scene after Loue can dramatize an unsettling contrast: someone attracted to Ache is no longer certain they admire what he did to win. Laila can have real warmth and a painful political refusal. A possible adult male attraction need not become a jealousy triangle, nor must either adult partnership be resolved by the campaign's victory. [Guide](/raha-ache/research/ache-attraction-romance-chemistry/).
