@@ -26,3 +26,6 @@ The historical rationale is documented in `studio/book-1/chapter-4-tondo-ruler-p
 
 ## 12 October 2026 — Chapter 2 metadata correction
 Commit `2fae627874b4096f9f59350bd3df39c49ef23a9e` removes the stale Lakandula character tag and duplicate related links from Chapter 2. A subsequent branch read confirmed no remaining Lakandula mentions in Chapters 2, 3, or 5; Chapter 4 retains only a caution against assigning the youthful ruler that name. **Q-26 resolved on branch**, while **Q-10/Q-22** remain open until release. The commit returned no CI statuses or PR workflow runs. No main publication or checkpoint advancement is established.
+
+## 12 October 2026 — verified Chapter 2 correction
+Chapter 2's current branch file has no `lakandula` occurrence, including frontmatter. Q-26 is resolved on this PR, pending merge to main. PR #27 is still open, 14 commits ahead of main and zero behind, with no reviews or review threads returned. The checked commit has no reported PR workflow runs or commit statuses; this is not a passing build. The correction cannot be called deployed. Keep Book I Chapter 4 as forward target.
