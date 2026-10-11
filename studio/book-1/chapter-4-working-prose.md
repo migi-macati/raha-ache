@@ -148,7 +148,7 @@ The argument had become a knot with two ends, and I could see neither.
 
 * * *
 
-I thought of the men collecting payments in both our names. Of the marks cut beside cargo that could become marks beside people. Of the man across the river who called himself my kinsman while sending clerks to count Maynila's boats.
+I thought of the men collecting payments in both our names. Of the marks cut beside cargo that could become marks beside people. Of the ruler across the river whose clerks now counted Maynila's boats.
 
 “You cannot claim her rowers merely because you fed them,” I said.
 
