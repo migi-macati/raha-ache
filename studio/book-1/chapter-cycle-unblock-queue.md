@@ -126,3 +126,9 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-13/Q-14 RESOLVED (metadata inspected):** No currently demonstrated stale PR #24 description/comment needing mutation.
 - **Q-18 IMPLEMENTED; FINAL REVIEW OPEN:** steward delegation in Studio prose. **Q-19/Q-20 RESOLVED.** **Q-21 OPEN, nonblocking:** optional final steward staging line; do not retry identical rejected mutation.
 - **Title:** Chapter 4 *The Second Crossing* provisionally retained; Chapter 5/6 titles to review. **Checkpoint:** still Book I Chapter 4, no public release.
+
+## 11 October 2026, 18:12 PHT — release dependency reconciliation
+- Verified main chapter-cycle checkpoint still targets Book I Chapter 4, after Chapter 3. PR #24 remains open (61 ahead, 2 behind main); PR #27 remains open (9 ahead, 0 behind); PR #27 reviews and review threads empty. No publication or release evidence from this check.
+- **Q-22 OPEN, dependency of Q-10:** The main public Chapter 4 outline still carries unsupported Lakandula-as-early-rival/kinsman references; corrections are already on PR #27, not merged. Do not duplicate the changes on another branch; validate and release PR #27 first.
+- **Q-10 OPEN:** Reconcile historical correction PR #27 through its normal review/CI/merge gates. **Q-11 OPEN:** inspect original Aganduru Spanish CODOIN 78 pp. 59–60; no eyewitness attribution. **Q-18:** political setback implemented in Studio, editorial sign-off pending. **Q-21:** optional steward staging refinement; previous rejected action not retried.
+- **Q-13/Q-14 and Q-19/Q-20 RESOLVED** as previously verified. No account-side manual action demonstrated. Chapter 5 travel logistics dossier is a research gate; no invented voyage timing or ports. Reader title *The Second Crossing* provisional, Studio *Encroachment* functional. Keep 30 core chapters plus two Book III bonus chapters and unchanged checkpoint.
