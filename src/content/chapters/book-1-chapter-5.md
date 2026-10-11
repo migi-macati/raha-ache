@@ -29,7 +29,7 @@ Find a way to oppose Tondo without destroying Maynila or surrendering his claim.
 
 ## Main plot movement
 
-Ache chooses secret departure toward Brunei. The story crosses from political pressure into exile and adventure.
+Ache decides privately to seek support in Brunei. Whether his mother discovers, permits, or materially enables the journey remains a dramatic question for Chapters 5–6; do not assume the secrecy of his intention means she never learns of his departure. The story crosses from political pressure into exile and adventure.
 
 ## Subplots
 
