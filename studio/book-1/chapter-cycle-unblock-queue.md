@@ -95,3 +95,12 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-13/Q-14 OPEN:** PR #24 communication metadata needs reconciliation.
 - **Q-19 OPEN:** Propagate Aganduru chronology into canonical source-chain dossier with clear retrospective-vs-eyewitness distinction.
 - **Forward target:** Book I Chapter 4; checkpoint unchanged; title *The Second Crossing* retained provisionally.
+
+## 11 October 2026, 13:04 PHT — verified status reconciliation
+- **Q-19 RESOLVED (already present):** Canonical `chapter-4-aganduru-alfonso-source-chain-and-departure-gate-20261010.md` includes the Aganduru chronology and witness-classification correction. No duplicate edit required. **Q-11 remains OPEN:** original Spanish pp. 59–60 not inspected.
+- **Q-20 RESOLVED:** The Chapter 4 apology to Sima is shortened in the current `chapter-4-working-prose.md` blob `39c501f114daf43a8ece4573b27c4b6403ccb002`; earlier commit `a2c9162c69e25e90878fd621277ed22f086df17f`. Do not retry the previously rejected duplicate edit.
+- **Q-18 IMPLEMENTED; EDITORIAL GATE OPEN:** Regent delegates next day's Tondo crew negotiation to the steward; verify full pacing and continuity before public release.
+- **Q-10 OPEN:** PR #27 still open; no reviews, comments, combined statuses, or PR-triggered workflow runs returned for its latest checked commit `62a77b0c`.
+- **Q-13/Q-14 OPEN:** PR #24 metadata/comment reconciliation pending. No PR comments/reviews, combined statuses or PR-triggered workflow runs returned for checked Chapter 4 prose commit `a2c9162c`.
+- **Editorial assessment:** Chapter 3 closes at evening with Ache questioning crew marks; Chapter 4 opens at first light. Chapter 5 outline retains the unresolved question whether the regent later discovers or helps Ache's Brunei departure. Boat boarding and porter witness continuity are repaired in Studio. Preserve the distinction between historical source claims and fictional negotiation scenes.
+- **Title:** *The Second Crossing* remains provisional, *Encroachment* the functional Studio title. **Forward:** Book I Chapter 4; public release and checkpoint advancement not yet justified.
