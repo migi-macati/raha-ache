@@ -14,9 +14,6 @@ relations:
   - target: siripada
     type: maternal grandfather
     certainty: documented
-  - target: lakandula
-    type: cousin
-    certainty: strong-inference
   - target: sulayman
     type: nephew
     certainty: documented
@@ -37,7 +34,7 @@ timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-br
 
 Son of the previous ruler of Maynila, usually identified in secondary literature as Salalila. Aganduru Moriz says Ache's father died when Ache was newly born, leaving the government to his mother.
 
-Ache grew up with the ruler of Tondo, described by Aganduru as his cousin. As Tondo encroached on Maynila during his mother's regency, Ache went to Brunei to ask his maternal grandfather, Siripada, for support.
+A later account attributed to Aganduru Móriz describes Ache's early Tondo rival as a cousin, but the original passage and its provenance remain unverified. The ruler's identity is uncertain; identifying him as the Lakandula documented in 1571 would overstate the evidence. In the novel's reconstruction, Tondo pressures Maynila during Ache's mother's regency, contributing to Ache's eventual departure for Brunei.
 
 Aganduru says Siripada received him at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers. In 1521 Ache was a Bruneian naval commander. Pigafetta describes the captured commander as the son of the king of Luzon and captain-general of the king of Brunei.
 
@@ -59,7 +56,7 @@ An earlier outline used Pasay as Ache's same-age companion. That version is pres
 
 ## Uncertainty
 
-The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.
+The alleged early Tondo cousin is not securely identified with Lakandula; the Aganduru passage and its source chain require verification. The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.
 
 ## Novel character flaw and long-range suspense
 

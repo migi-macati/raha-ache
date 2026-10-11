@@ -4,7 +4,7 @@ name: "Book I, Chapter 3: The Muslim Way"
 aliases: ["The Muslim Way"]
 status: fictional
 developmentStatus: current
-related: [ache-attraction-romance-chemistry, ache-attraction-romance-chemistry, rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
+related: [ache-attraction-romance-chemistry, rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ula, maynila, namayan, brunei, religious-life-and-learning, languages-and-interpreters, book-1-chapter-3-outline, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
@@ -20,7 +20,7 @@ My mother responded to my plan to investigate Tondo by sending me upriver with a
 
 I considered this unfair.
 
-“I said I wanted to find the men collecting in Lakandula’s name,” I told Sulad as we pushed away from the landing.
+“I said I wanted to find the men collecting in Tondo’s ruler’s name,” I told Sulad as we pushed away from the landing.
 
 “And your mother said no.”
 
