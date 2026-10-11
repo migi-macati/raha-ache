@@ -47,3 +47,17 @@ Chapter 4 remains a Studio draft in PR #24. Do not merge, publish, change Read A
 **Historical limits:** The specific resistance proposal, household refusal, messenger, and departure decision are fictional hypotheses. Aganduru's attributed speech (original Spanish unverified) cannot certify them. Research feasible Brunei travel logistics and kinship networks separately.
 
 **Title review:** Chapter 4 *The Second Crossing* remains provisional; Chapter 5 *Fight or Flight* and Chapter 6 *Flight* are repetitive functional titles, not approved reader titles. **Release:** no public Chapter 4 change, no checkpoint advance.
+
+## 11 October 2026, 16:58 PHT — Manila–Brunei maritime research gate
+
+**Secondary scholarship inspected, with source limits.** Roderich Ptak, “The Northern Trade Route to the Spice Islands: South China Sea–Sulu Zone–North Moluccas (14th to early 16th century),” *Archipel* 43 (1992), 27–56, DOI 10.3406/arch.1992.2804, https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804 . The accessible opening explicitly describes a Borneo-coast route that might call at Brunei and a distinct China–Luzon–Mindoro/Calamianes–Sulu Sea route. The search-indexed article text describes Brunei-operated maritime links reaching Manila and surrounding regions in the late fifteenth to early sixteenth centuries. This supports a **plausible connected trading network**, not a documented personal itinerary for Ache.
+
+Bobby C. Orillaneda, “Maritime Trade in the Philippines During the 15th Century CE,” *Moussons* 27 (2016), 83–100, DOI 10.4000/moussons.3529, https://doi.org/10.4000/moussons.3529 . The accessible abstract identifies Philippine shipwreck and terrestrial archaeological evidence for regional maritime exchange, but does not specify Ache's voyage, an exact Luzon–Brunei itinerary, sailing duration or season.
+
+Maria Bernadette L. Abrera, “Boat building tradition in the Philippines (10th–16th centuries),” in *The Sea in History: The Medieval World* (2017), 904–917, DOI 10.1017/9781782049104.076, https://doi.org/10.1017/9781782049104.076 . The accessible summary documents local maritime craft, construction specializations, and trading/raiding uses. It does not license a particular hull type, speed, crew size or departure date for this fictional scene.
+
+**Route planning, expressly inferred:** A passage via Manila Bay and the western Philippine island chain toward the Sulu Sea, with onward travel to northwest Borneo/Brunei, is a *candidate itinerary* to research against navigational evidence; it is not a route Ptak specifically assigns to Ache or a demonstrated single-vessel journey. Do not draw a fixed port-by-port route yet.
+
+**Unresolved before Chapter 5–6 prose:** direction-dependent monsoon and local winds by month; likely coastwise legs and shelters; duration range for an appropriate vessel; crew, water and food requirements; whether Ache joins an established merchant vessel or commissions a passage; credible intermediaries linking his mother's Bruneian relatives to the port; linguistic needs and authority aboard ship. Avoid projecting Spanish galleon sailing practice onto a pre-1521 Philippine craft. The household-refusal scene can proceed as invented politics while passage details remain a research gate.
+
+**Title pass:** Chapter 4 *The Second Crossing* remains provisionally preferred. Chapter 5 *Fight or Flight* and Chapter 6 *Flight* remain functional labels pending concrete scene imagery. No public Novel/Universe edit or forward checkpoint change.
