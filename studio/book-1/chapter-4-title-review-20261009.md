@@ -35,3 +35,11 @@ Current public working titles: Chapter 1 **The Boy Prince**, Chapter 2 **Family 
 - The text remains Studio prose with an editorial gate; **not ready to paste into the reader-facing chapter without separating the gate and reviewing frontmatter**.
 
 **Remaining checks:** vessel/landing geography and tide assumptions, exact labor arrangements in this fictional scene, historical names and links, consistency with PR #27's early-Tondo-ruler correction, navigation and Read Aloud compatibility, and CI on the eventual public prose PR. None of these are cleared by this title review. The forward checkpoint remains Chapter 4.
+
+## 11 October 2026, 14:03 PHT — title and release-readiness recheck
+
+Keep *The Second Crossing* provisional. The current manuscript's second movement is a disputed proposed voyage, not a completed second voyage by Sima's original crew; the title works through the attempted booking and Ache's intrusion into her decision. The mother instead gives the steward the next Tondo negotiation. Do not overstate a literal second crossing. The closing knife poised over the tally board gives the title its final irony: a recorded crossing cannot by itself establish a future obligation. No reader-facing title change yet.
+
+The existing public Chapter 4 file on `main` is **an outline** with outdated early-rival references to Lakandula. PR #27 changes those references to an unidentified ruler; coordinate that correction before extracting Chapter 4 prose. Current Studio manuscript remains fictional and still includes an editorial gate that must be excluded from public Novel. Main Chapter 3 ends with Ache questioning the Tondo clerk's crew strokes; the next-day Chapter 4 opening follows directly. Chapter 5 currently frames the Brunei departure as a private decision whose eventual maternal authorization is unresolved. The Chapter 4 ending is plausible as a catalyst, but not yet sufficient proof of a compelling Chapter 5 departure: Chapter 5 must supply a new cost or failed alternative.
+
+**Quality gate:** final scene reread, PR #27 reconciliation, entity and chronology audit, public-frontmatter extraction, shared Read Aloud test and build checks remain. No checkpoint advancement or public publication in this pass.
