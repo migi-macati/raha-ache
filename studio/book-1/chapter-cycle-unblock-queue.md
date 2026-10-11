@@ -139,3 +139,11 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-11 OPEN:** Original Aganduru Spanish pp. 59–60 unexamined; 1882 Google Books catalogue identifies chapter pages 50–61 only. **Q-18** implemented, final review pending; **Q-21** optional, no retry. Q-13/Q-14/Q-19/Q-20 resolved.
 - **Q-23 OPEN, nonblocking:** Attempt to update PR #27's Studio continuity checkpoint with the dialogue change and release-gate assessment was rejected by tool safety checks. Target `studio/book-1/chapter-3-tondo-ruler-continuity-checkpoint-20261010.md` on PR #27; `update_file` did not execute. No owner-side permission action established. Retry only with a materially different scoped edit or record the assessment in a consolidated checkpoint; do not repeat identical payload.
 - No Chapter 4 publication; `.automation/raha-ache-chapter-cycle.json` unchanged. Chapter 4 title *The Second Crossing* provisional.
+
+## 11 October 2026, 20:55 PHT — owner 'M all' blocker sweep
+- Current main checkpoint still `book-1-chapter-4` after Chapter 3. PR #24 open (64 ahead, 2 behind), PR #27 open (11 ahead, 0 behind); PR #27 has no returned reviews. The candidate `.github/workflows/validate-pr.yml` on `ci/pull-request-build-check-20261011` returns GitHub 404; no PR CI workflow file is verified.
+- **Q-23 RESOLVED:** PR #27 Studio continuity checkpoint successfully updated, commit `45630cc2448d0f72ec5c12abe8ca76a904ca970f`. Remove from active blocker list.
+- **Q-24 OPEN:** PR validation workflow creation previously rejected by tool safety checks; branch creation alone does not establish workflow. Next: account-side GitHub web editor to create scoped PR workflow, or another permitted validation path. No confirmed permission requirement and do not claim CI passed.
+- **Q-25 RESOLVED:** monsoon research committed to Chapter 4–5 structural handoff, commit `87fac8c7fa1b0f5a431b063a571fe27207165106`.
+- **Q-10/Q-22 OPEN:** PR #27 correction remains unmerged and requires validation/merge. **Q-11 OPEN:** Aganduru original Spanish unverified. **Q-18** final editorial validation pending. **Q-21** optional steward-staging refinement pending. **Q-13/Q-14/Q-19/Q-20** resolved.
+- This is a reconciliation of observed state, not a release. Do not advance the forward checkpoint or overwrite protected branches.
