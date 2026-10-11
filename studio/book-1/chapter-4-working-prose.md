@@ -376,7 +376,7 @@ She turned back to the boat owner.
 
 He laughed and reached for the carrying pole. Sima took hold of the other end herself.
 
-I stayed long enough to understand that I had not been invited into their bargain.
+I stepped aside as they lifted the first basket.
 
 Beyond them, a crew from Tondo was loading another vessel. Their organizer had found work for his men. Our own steward was still counting the boats. The river carried all of them.
 
