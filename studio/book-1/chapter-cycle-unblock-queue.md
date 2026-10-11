@@ -87,3 +87,11 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-13/Q-14 OPEN:** PR #24 metadata remains stale; earlier rejected operations are not publication blockers for independent Studio work.
 - **Q-19 OPEN:** Aganduru chronology provenance still needs reconciliation into the canonical source-chain dossier; 1521 eyewitness claims must remain separated from later retrospection.
 - **Title:** *The Second Crossing* retained provisionally. **Forward:** Chapter 4 unchanged; no public release or deployment verification.
+
+## 11 October 2026, 09:59 PHT — Q-18 manuscript change executed
+- **Q-18 IMPLEMENTED IN STUDIO:** `studio/book-1/chapter-4-working-prose.md` now includes the regent instructing the steward to seek terms from Tondo's crews without promising anything, with Ache registering his loss of negotiating responsibility. Commit `20536c5520294a89625a1dad69ddd3980628eea0`. Still requires editorial reread and public-release validation; no publication claim.
+- **Q-10 OPEN:** PR #27 historical continuity correction awaits review/CI/release.
+- **Q-11 OPEN:** Aganduru CODOIN vol. 78 pp. 59–60 original Spanish wording remains unverified; Q-16 secondary locator saved.
+- **Q-13/Q-14 OPEN:** PR #24 communication metadata needs reconciliation.
+- **Q-19 OPEN:** Propagate Aganduru chronology into canonical source-chain dossier with clear retrospective-vs-eyewitness distinction.
+- **Forward target:** Book I Chapter 4; checkpoint unchanged; title *The Second Crossing* retained provisionally.
