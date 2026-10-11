@@ -356,25 +356,13 @@ The arrangement still worked.
 
 Across the landing, Sima's baskets waited beneath a covering. She was speaking to another boat owner. When I approached, she stopped speaking.
 
-“I owe you an apology,” I said.
+“I spoke for you,” I said. “I was wrong.”
 
-She waited.
+“Yes,” Sima said. She kept her eyes on the boat owner waiting beside her.
 
-“I accused a man before I knew what he had promised. I spoke for you without asking. I made your work harder.”
+“What can I do?”
 
-“Yes,” she said.
-
-I had expected her to add something.
-
-She did not.
-
-“If there is anything I can do—”
-
-“There is,” she said. “Make sure the men on both shores know what their marks mean.”
-
-“I will.”
-
-“And what they do not mean.”
+“Tell the men what those marks prove. And what they don't.”
 
 “I will.”
 
