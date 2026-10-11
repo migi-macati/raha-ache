@@ -378,9 +378,7 @@ He laughed and reached for the carrying pole. Sima took hold of the other end he
 
 I stepped aside as they lifted the first basket.
 
-Beyond them, a crew from Tondo was loading another vessel. Their organizer had found work for his men. Our own steward was still counting the boats. The river carried all of them.
-
-I found my mother beside the tally boards. Across the water, the Tondo crew had already taken another load. On our shore Sima was helping the new boatmen lift the first of her baskets.
+I found my mother beside the tally boards. Across the water, the organizer's Tondo crew was loading another vessel. Our steward was still counting the boats.
 
 The Tondo clerk raised his knife over the wood.
 
