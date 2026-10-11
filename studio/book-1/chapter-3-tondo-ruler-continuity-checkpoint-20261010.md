@@ -18,3 +18,8 @@
 The historical rationale is documented in `studio/book-1/chapter-4-tondo-ruler-provenance-correction-20261010.md` on PR #24: Alfonso (2016), *Historical Bulletin* 50, pp. 31–61, contrasts the unnamed cousin in an Aganduru-attributed speech with Sibunao Lacandola documented in 1571. The speech's original-language provenance is unverified. Malangsi is a conditional reconstruction, not a replacement name. All early private dialogue remains fictional.
 
 **Title decision:** No retrospective Chapter 3 title change. Chapter 4 provisional *The Second Crossing* remains apt, but public title metadata is unchanged. Shared Read Aloud untouched.
+
+## 11 October 2026 — Chapter 3 agency-language verification
+- Verified the branch's current public Chapter 3 now reads “the men claiming to collect for Tondo’s ruler,” not a claim that the ruler commissioned them. This preserves uncertainty about their authority. The correction is committed on PR #27 as `fa355e003d0ab5301efdc9754c32d7f41e71fef0`.
+- Current PR #27 remains open, 10 commits ahead and 0 behind main, with no returned reviews. The release still requires CI/build and merge checks. The checkpoint on main remains at Chapter 4; no Chapter 4 public prose or title metadata changed.
+- Title review: Chapter 3 *The Muslim Way* unchanged; Chapter 4 *The Second Crossing* provisional. Original Aganduru Spanish pages remain unverified, so do not infer an early Lakandula relationship.
