@@ -79,3 +79,11 @@ Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Rep
 - **Q-11/Q-16/Q-19 PENDING:** Original Aganduru Spanish passage still unexamined; Pigafetta eyewitness account must not be conflated with later attributed speech.
 - **Q-13/Q-14 PENDING:** PR #24 metadata/comment correction rejected in earlier runs; Studio files control current truth.
 - **Forward checkpoint:** `book-1-chapter-4`, unchanged; no public manuscript publication.
+
+## 11 October 2026, 08:45 PHT — locator committed
+- **Q-16 documentation subtask RESOLVED:** Secondary page locators Aganduru CODOIN vol. 78 pp. 59–60 and Scott *Barangay* pp. 280–281 recorded in `chapter-4-aganduru-original-source-locator-20261009.md`, commit `c73ad89bc4d9b3137256d073d6668825280b552e`. **Q-11 original Spanish verification remains OPEN**; a citation is not original-language inspection.
+- **Q-18 OPEN:** Steward delegation manuscript revision remains unexecuted after prior safety rejection. Continue bounded scene and Chapter 5 causation review without assuming prose changed.
+- **Q-10 OPEN:** PR #27 remains separate historical correction, open; do not infer release readiness from absent PR checks.
+- **Q-13/Q-14 OPEN:** PR #24 metadata remains stale; earlier rejected operations are not publication blockers for independent Studio work.
+- **Q-19 OPEN:** Aganduru chronology provenance still needs reconciliation into the canonical source-chain dossier; 1521 eyewitness claims must remain separated from later retrospection.
+- **Title:** *The Second Crossing* retained provisionally. **Forward:** Chapter 4 unchanged; no public release or deployment verification.
