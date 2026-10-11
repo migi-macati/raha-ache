@@ -14,7 +14,7 @@ timeline: [tondo-encroachment]
 
 At first light Sulad went to help mend the fishing stakes. I went looking for the Tondo clerk.
 
-The night before, I had found crew marks beside cargo on the Tondo clerk's board. I wanted to know who might use those marks to demand a man's labor. The clerk had no answer ready when a small cargo boat approached the landing, its bow light and its crew arguing over which line to throw. Our steward rose to help. The Tondo clerk kept his thumb over the marks he had cut beside yesterday's cargo.
+The night before, I had found crew marks beside cargo on the Tondo clerk's board. I wanted to know who might use those marks to demand a man's labor. The clerk had no answer ready when an empty cargo boat approached the landing, riding high at the bow, its crew arguing over which line to throw. Our steward rose to help. The Tondo clerk kept his thumb over the marks he had cut beside yesterday's cargo.
 
 I could have ordered him to lift it.
 
@@ -276,7 +276,7 @@ Sima considered this.
 
 He was entitled to say it. That was what troubled me.
 
-A merchant waiting beside the baskets caught the organizer's sleeve before he left. He asked whether two of the same rowers could take his cargo the next morning. The organizer said he would answer him in Tondo.
+A merchant waiting beside his own baskets caught the organizer's sleeve before he left. He asked whether two of the same rowers could take his cargo the next morning. The organizer said he would answer him in Tondo.
 
 "Then I'll bring the baskets to Tondo's landing at first light," the merchant said. "Tell me there whether your men can take them."
 
@@ -413,5 +413,5 @@ I could not hear her answer over the water. I could see that she made him wait.
 - **Narrative state:** Revised second-pass Studio prose; not a final public chapter.
 - **Source classification:** Entire episode and all dialogue fictional. Plasencia 1589 supplies later comparative context for differentiated service obligations and witnessed arbitration; not direct Ache-era evidence. Aganduru Móriz original Spanish passage unverified.
 - **Continuity:** Chapter 2's damaged fishing stakes and consent lesson carried forward; Chapter 3's seven boats, one-season paired boards and missing-sailor concern preserved. The missing sailor is not resolved here.
-- **Second-pass changes:** Corrected missing-sailor antecedent; staged a current-driven boat handling problem; gave a kin-obligated rower his own grievance; made the regent own the widened crew tally; let Sima bargain independently; replaced the explicit moralizing conclusion with a contested recording decision.
+- **Second-pass changes:** Corrected missing-sailor antecedent; staged a current-driven boat handling problem; gave a kin-obligated rower his own grievance; made the regent own the widened crew tally; let Sima bargain independently; replaced the explicit moralizing conclusion with a contested recording decision. Later pass gave the regent a concrete decision to send her steward to seek Tondo's terms instead of Ache; clarified that the incoming cargo boat is empty and that tomorrow's merchant has separate baskets.
 - **Still to verify:** Chapter 3's exact closing wording and temporal transition; whether the vessel positions are credible for the river; character age and crew relationships; semantic-link validation; chapter length and Read Aloud compatibility when moved into public Novel. This Studio gate must never appear in public prose.
