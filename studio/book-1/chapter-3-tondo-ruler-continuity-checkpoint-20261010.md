@@ -23,3 +23,6 @@ The historical rationale is documented in `studio/book-1/chapter-4-tondo-ruler-p
 - Verified the branch's current public Chapter 3 now reads “the men claiming to collect for Tondo’s ruler,” not a claim that the ruler commissioned them. This preserves uncertainty about their authority. The correction is committed on PR #27 as `fa355e003d0ab5301efdc9754c32d7f41e71fef0`.
 - Current PR #27 remains open, 10 commits ahead and 0 behind main, with no returned reviews. The release still requires CI/build and merge checks. The checkpoint on main remains at Chapter 4; no Chapter 4 public prose or title metadata changed.
 - Title review: Chapter 3 *The Muslim Way* unchanged; Chapter 4 *The Second Crossing* provisional. Original Aganduru Spanish pages remain unverified, so do not infer an early Lakandula relationship.
+
+## 12 October 2026 — Chapter 2 metadata correction
+Commit `2fae627874b4096f9f59350bd3df39c49ef23a9e` removes the stale Lakandula character tag and duplicate related links from Chapter 2. A subsequent branch read confirmed no remaining Lakandula mentions in Chapters 2, 3, or 5; Chapter 4 retains only a caution against assigning the youthful ruler that name. **Q-26 resolved on branch**, while **Q-10/Q-22** remain open until release. The commit returned no CI statuses or PR workflow runs. No main publication or checkpoint advancement is established.
