@@ -35,3 +35,15 @@ Chapter 4 remains a Studio draft in PR #24. Do not merge, publish, change Read A
 **Character safeguards:** Keep the regent pragmatic rather than omniscient; she must have reasons to doubt Ache's judgment without being reduced to a scolding parent. Preserve Sima's independent shipment and Sulad's fishing obligations. The steward is not automatically a political antagonist. The proposed delegation and its dialogue are fiction, not an attested early-sixteenth-century port office or historical event.
 
 **Decision:** Planning candidate only; no manuscript change authorized by this note alone, no public release or checkpoint advance. Reader-facing title *The Second Crossing* remains provisional: the second crossing is a cargo dispute and a transfer of political initiative, not necessarily a literal second voyage.
+
+## 11 October 2026, 16:03 PHT — departure-causation scene chain
+
+**Status: Studio planning, not historical assertion or public prose.** The Chapter 4 regent sends her steward to learn Tondo's crew terms. This is not yet a prohibition, exile or justification for a Brunei voyage. Chapter 5 needs a new irreversible cost.
+
+**Proposed Chapter 5 sequence:** (1) Ache tries to persuade a household whose boats and rowers would be endangered by an armed show of resistance; (2) the household declines for a concrete reason such as lost fishing days, food provision, debt or dependents, not cowardice; (3) Ache's attempt to recruit them is reported to his mother, who refuses to commit their labor or arms without consent; (4) a messenger or credible opportunity for travel toward Brunei makes the alternative real, with sailing season, passage, patronage and provisions to be researched before prose; (5) Ache privately resolves to leave, but the chapter does not falsely establish that his mother never learns of it. Chapter 6 must earn any later tacit permission or assistance through action rather than retrospective explanation.
+
+**Character and suspense test:** Ache is right that Tondo's crew network can shift trade and authority, wrong to assume other households must bear the costs of his answer. The refusing household must have its own interests and credible negotiating leverage. The regent's choice must be defensible yet politically risky. Preserve Sima and Sulad as independent actors, not tools to deliver another lecture. Keep the missing sailor unresolved unless a later payoff is planned.
+
+**Historical limits:** The specific resistance proposal, household refusal, messenger, and departure decision are fictional hypotheses. Aganduru's attributed speech (original Spanish unverified) cannot certify them. Research feasible Brunei travel logistics and kinship networks separately.
+
+**Title review:** Chapter 4 *The Second Crossing* remains provisional; Chapter 5 *Fight or Flight* and Chapter 6 *Flight* are repetitive functional titles, not approved reader titles. **Release:** no public Chapter 4 change, no checkpoint advance.
