@@ -300,6 +300,10 @@ I looked toward the fishing stakes Sulad had carried away. "We can find men."
 
 "I would keep a shore where boats still come."
 
+She beckoned to our steward. "Go to Tondo's landing tomorrow. Ask what it would take to keep those crews working from our shore. Bring me their terms before you agree to anything."
+
+He glanced at me before he bowed. My mother had sent me to speak for her before. Tomorrow she was sending him.
+
 She turned to Sima.
 
 “Would you accept another crew if we could provide one?”
