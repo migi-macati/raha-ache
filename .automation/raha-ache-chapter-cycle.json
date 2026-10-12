@@ -33,6 +33,34 @@
     {
       "lesson": "Do not repeat blocked PR mutations unchanged; continue independent work",
       "evidence": "PR #29 close and Chapter 5 PR creation rejected; Chapter 5 Studio branch still advanced"
+    },
+    {
+      "lesson": "After drafting a scene, compare recurring character objects and physical actions with preceding chapters; fix continuity through the smallest verified edit before adding more prose.",
+      "evidence": "Chapter 3 locates Sulad's cord beneath his cloth; Chapter 5 draft wrongly put it on his wrist. Scoped correction b5bae34b769fa39f9ed352406a9cb33d5e1b3892 saved; broad structural edit rejected."
     }
-  ]
+  ],
+  "studioWork": {
+    "chapterId": "book-1-chapter-5",
+    "branch": "studio/book1-ch5-decision-dossier-20261012",
+    "state": "studio_draft",
+    "latestVerifiedProseCommit": "b5bae34b769fa39f9ed352406a9cb33d5e1b3892",
+    "progress": "Scenes 1–3 drafted; scene 3 needs removal of a Chapter 4-like stake-setting beat. Scenes 4–6 remain unwritten in GitHub.",
+    "blockers": [
+      {
+        "id": "RA-CH5-EDIT-01",
+        "state": "pending",
+        "type": "tool_safety_rejection",
+        "operation": "Broader scene-3 structural update_file",
+        "next": "Do not repeat rejected broad edit; seek a genuinely smaller authorized edit on fresh blob, or work on independent scene/research."
+      },
+      {
+        "id": "RA-CH5-PR-01",
+        "state": "pending",
+        "type": "tool_safety_rejection",
+        "operation": "Create Chapter 5 Studio PR (normal and draft)",
+        "next": "Do not retry unchanged create_pull_request; preserve existing Studio branch and continue editorial work until an authorized different supported route is available."
+      }
+    ],
+    "verificationLimit": "GitHub Pages deployment run 38200104612 passed; public rendered page inaccessible via web. Do not claim live_verified."
+  }
 }
