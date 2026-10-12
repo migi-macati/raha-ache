@@ -88,3 +88,41 @@ Chapter 5 forces Ache to choose among bad options.
 ## Suspense and emotional stakes revision
 
 **Scene mandate:** Ache follows a disputed crew or labor-status entry rather than hearing yet another general complaint about Tondo. The clerk counts people for a credible safety reason; a stronger patron begins asserting that the tally proves someone's debt or service. The injured rower's household from Ch1–2 is available as a *continuing fictional thread*, but do not make that man conveniently central to every conspiracy. **Ache's choice:** public accusation or discreet protection of affected people. **Reversal:** he correctly spots a serious abuse but exposes a vulnerable witness or disrupts a merchant who had relied on the agreement. **Cost:** his mother cannot reverse the damage without conceding her authority. Tondo may act through independent agents, not a single villainous secret order.
+
+---
+
+At first light Sulad went to help mend the fishing stakes. I went looking for the Tondo clerk.
+
+The night before, I had found crew marks beside cargo on the Tondo clerk's board. I wanted to know who might use those marks to demand a man's labor. The clerk had no answer ready when an empty cargo boat approached the landing, riding high at the bow, its crew arguing over which line to throw. Our steward rose to help. The Tondo clerk kept his thumb over the marks he had cut beside yesterday's cargo.
+
+I could have ordered him to lift it.
+
+Instead I asked, “The woman who came to Tondo last month looking for her missing husband. Would you tell her where to find him?”
+
+“I would tell her what I knew.”
+
+“And if I were a man who said her husband owed me two days at the paddle?”
+
+The clerk looked at me. His thumb stayed on the marks.
+
+“I would ask why you needed to know.”
+
+“And if the man asking were a friend of your lord?”
+
+He shifted his thumb, revealing the entire row.
+
+“I would still ask,” he said, a little too late.
+
+“You would ask a raha to explain himself?”
+
+“If you were looking for a missing man, my lord, I would hope you could.”
+
+I did not like his answer. I liked even less that I could not find anything wrong with it.
+
+The boat came in sideways. Its bowline tightened around the post, and a rower jumped ashore before the hull could strike the baskets. The current pulled the stern out again. The man on the line shouted for another hand.
+
+A woman in a faded red wrap stood over baskets stacked on the bank. She tested a binding, set the basket aside and waved the rowers back before they could lift anything.
+
+“That one stays here,” she said. “And keep the boat off the stones. None of the others goes aboard until we agree what this trip costs.”
+
+A rower let go of the carrying pole and took the line instead. Another drew the stern back toward the landing with a short paddle stroke. The empty boat shuddered but held.
