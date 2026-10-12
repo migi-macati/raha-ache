@@ -148,4 +148,92 @@ He looked at me for a long time.
 
 That was not what I had asked.
 
-<!-- Studio working draft; next scene: Sulad's household. Not public Novel. -->
+* * *
+
+Sulad was standing in the shallows when I reached the fishing bank, holding a length of net between both hands. Each time his uncle drew the loose mesh toward him, Sulad shifted his grip so the wet knots would not drag in the mud. Two stakes lay on the bank, their broken ends pale and ragged. A third was still in the water, leaning at an angle.
+
+I had come to ask for the boat. The first thing I saw was how much work the boat had already missed.
+
+"Is it floating?" I asked.
+
+Sulad looked over his shoulder. "It floats."
+
+"Can it carry men?"
+
+"Most boats can, if the men sit down."
+
+His uncle did not laugh. He pulled another knot tight with his teeth and spat a fiber into the water.
+
+"I need it for three days," I said. "Perhaps less."
+
+"Then you should have come three days ago," the uncle said.
+
+I tried to explain the landing, the merchant's baskets, the way crews were being counted on a board that belonged to someone across the river. He kept working. Sulad held the net steady while I talked.
+
+"We could keep our own boat there," I finished. "If the merchants see that they have another choice—"
+
+"Which merchants?" his uncle asked.
+
+"The ones who are leaving."
+
+"Will they pay us to wait?"
+
+"I can speak to them."
+
+"Then speak to them first."
+
+He set down the mesh and showed me his fingers. The skin around two nails had split. "When the water turns, we can set the stakes again. If the fish come through tonight and we have nothing stretched between them, you will have your boat for three days because there will be nothing left for it to do."
+
+Sulad lowered his end of the net. I had been looking at the broken stakes as an inconvenience. His uncle was looking at them as the next meal.
+
+"What if I bring food?" I asked.
+
+"From where?"
+
+"From the household stores."
+
+"Your mother's stores?"
+
+I nodded, and heard how the promise sounded only after I made it.
+
+"Has she given them to you?" he asked.
+
+"Not yet."
+
+He went back to the knots. "When she does, come back."
+
+I could have gone to my mother and demanded the food. I could have told him I would repay it myself. I had no store of my own large enough to feed a crew waiting on the bank, and I knew exactly how long a demand would last in her hearing.
+
+Sulad waded out to the leaning stake. He tested it with his foot, then bent and worked the mud around its base.
+
+"You could help me find men," I called.
+
+He did not turn. "I am finding the stake."
+
+"After that."
+
+"After that we mend the net."
+
+His uncle held up a torn section for him to see. Sulad came back, water darkening his clothes to the thigh. He passed close enough that I could see the little cord at his wrist, the one I had noticed before. For a moment I wanted to take hold of it, as if it might keep him beside me long enough to agree.
+
+Instead I picked up the broken stake nearest my foot.
+
+"Where do you want this?"
+
+"Out of the way," Sulad said. Then, after a moment, "You can carry the sound one from behind the shed."
+
+I did. It was heavier than it looked. When we dragged it down to the water, his uncle inspected the wood and said it would last another season if the base held.
+
+By the time we had set it, my hands were streaked with mud. The boat lay where it had been all morning, drawn above the tide line. No one had offered it.
+
+His uncle finally said, "When this is mended, I could carry a message across. One crossing. If the water is fair and someone gives us food for the work."
+
+"One crossing will not hold the landing," I said.
+
+"No," he answered. "It will carry a message."
+
+I thanked him, though I had not come for a message. On the path back, I turned once. Sulad had already taken my place at the stake, and his uncle was pulling the net between them. They did not look like men who had refused to defend their shore. They looked like men who still had a shore to feed them, if they could finish before dark.
+
+* * *
+
+<!-- Studio working draft; next scene: private confrontation with the regent. Not public Novel. -->
