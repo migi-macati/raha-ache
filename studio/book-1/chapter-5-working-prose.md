@@ -214,7 +214,7 @@ He did not turn. "I am finding the stake."
 
 "After that we mend the net."
 
-His uncle held up a torn section for him to see. Sulad came back, water darkening his clothes to the thigh. He passed close enough that I could see the little cord at his wrist, the one I had noticed before. For a moment I wanted to take hold of it, as if it might keep him beside me long enough to agree.
+His uncle held up a torn section for him to see. Sulad came back, water darkening his clothes to the thigh. He passed close enough that I could see the little cord beneath his cloth, the one I had noticed before. For a moment I wanted to take hold of it, as if it might keep him beside me long enough to agree.
 
 Instead I picked up the broken stake nearest my foot.
 
