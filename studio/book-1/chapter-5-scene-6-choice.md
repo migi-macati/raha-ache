@@ -108,7 +108,7 @@ We walked back to the fire. His uncle had eaten one fish and left the other wher
 
 "So I have heard."
 
-"Not much. Enough to pay for a message, perhaps a little more. If you carry one, I will pay you from my own things."
+"Not much. If I ask you to take me upriver, I will pay you from my own things."
 
 "After I hear where it must go."
 
