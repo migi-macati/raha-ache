@@ -4,13 +4,13 @@ name: "Book I, Chapter 4: Encroachment"
 aliases: ["Encroachment"]
 status: fictional
 developmentStatus: working
-related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakandula, ache-mother, maynila, tondo, story-architecture-standard]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ache-mother, maynila, tondo, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1
 chapterNumber: 4
 draftStatus: outline
-characters: [ache, sulad, lakandula, ache-mother]
+characters: [ache, sulad, ache-mother]
 places: [maynila, tondo]
 events: [tondo-encroachment]
 pov: [ache]
@@ -34,7 +34,7 @@ Tondo's pressure becomes the book's active external conflict. Ache learns that M
 ## Subplots
 
 - **Ache and his mother:** strategic disagreement becomes personal.
-- **Ache and Lakandula:** kinship sharpens rather than softens rivalry.
+- **Ache and Tondo's unidentified ruler:** political rivalry develops through clerks, rowers, and merchants; any familial relationship remains unverified.
 - **Ache and Sulad:** Sulad must decide how far to encourage or restrain Ache.
 
 ## Conflict and stakes
@@ -65,13 +65,13 @@ Open resistance risks Maynila's survival. Accommodation risks making temporary w
 
 **Ends:** increasingly unable to protect Ache from the political consequences of his impatience.
 
-### Lakandula
+### Tondo's unidentified ruler and independent agents
 
-**Progression:** becomes a rival with understandable strategic incentives, not merely an invader.
+**Progression:** political pressure is visible through trade and labor choices; do not name the youthful rival Lakandula or imply that every agent acts under a single order.
 
 ## Turning point
 
-Ache sees evidence that the encroachment is not symbolic; it is altering who controls land, people, or obligations.
+A merchant chooses to stage tomorrow's cargo at Tondo after the crew organizer declines to promise labor at Maynila. This is a fictional commercial decision, not an attested treaty, a concluded booking, or proof of Tondo's direct command.
 
 ## Resolution and ending state
 
@@ -79,7 +79,7 @@ The family disagreement can no longer remain theoretical. Ache must decide wheth
 
 ## Setup and payoff
 
-Pays off the succession and kinship setup from Chapter 2. Sets up Chapter 5's irreversible choice.
+Pays off the trade-tally and disputed-service setup from Chapters 2–3. Sets up Chapter 5's difficult choice without fixing the motive or outcome in advance.
 
 ## Handoff
 

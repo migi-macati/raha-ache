@@ -4,7 +4,7 @@ name: "The Tondo Harbor Clerk (Working Character)"
 aliases: [Tondo tally clerk, Tondo clerk at the river]
 status: fictional
 developmentStatus: working
-related: [ache, lakandula, tondo, maynila, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, psychologically-credible-characters]
+related: [ache, tondo, maynila, book-1-chapter-2, book-1-chapter-3, book-1-chapter-4, psychologically-credible-characters]
 sources: []
 timeline: []
 ---

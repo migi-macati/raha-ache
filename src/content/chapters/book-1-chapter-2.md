@@ -4,13 +4,13 @@ name: "Book I, Chapter 2: Family and Community"
 aliases: ["Family and Community"]
 status: fictional
 developmentStatus: current
-related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, lakandula, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
 chapterNumber: 2
 draftStatus: draft
-characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother, lakandula]
+characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother]
 places: [maynila, tondo]
 events: [ache-father-dies]
 pov: [ache]
@@ -212,9 +212,9 @@ Then the visitors from Tondo arrived.
 
 There were four of them. Their leader wore a dark cloth at his waist and carried a small wrapped bundle. He bowed to my mother with the confidence of a man who expected to be welcomed.
 
-He was introduced as a messenger from Lakandula.
+He was introduced as a messenger from Tondo's ruler.
 
-I knew the name as well as my own. Lakandula was my kinsman across the river, ruler of Tondo, and a man whose gifts had filled our household more than once. When I was younger, I had thought the visits meant he liked us.
+I knew the household across the river by its gifts. They had arrived more than once, and when I was younger I had thought the visits meant the ruler liked us.
 
 The messenger laid his bundle on the floor. Inside was a carved wooden token.
 
@@ -342,13 +342,13 @@ She set the cloth down.
 
 “When he died, you could not even hold your head upright. Men came to offer condolences, and before the mourning was over they came again to ask who would confirm their rights, who would honor old promises, who would hear their disputes. Some waited for you to grow. Others decided they could not wait.”
 
-“Lakandula?”
+“The ruler across the river?”
 
 “Many people. Some are still our friends.”
 
 I did not like that answer. I preferred an enemy I could name.
 
-“He is my cousin,” I said. “He should have helped.”
+“His people have eaten at our table,” I said. “He should have helped.”
 
 “He has his own people to answer to.”
 
@@ -370,9 +370,9 @@ I had an answer for land. I had none for a boat.
 
 “Your father left you a claim,” she said. “I have spent your life keeping people willing to recognize it.”
 
-“You let Lakandula stand closer every year.”
+“You let Tondo's officers stand closer every year.”
 
-“Perhaps I have. And perhaps refusing him yesterday would have brought his men here tomorrow, while our own merchants asked why I preferred a quarrel to their livelihoods.”
+“Perhaps I have. And perhaps refusing the messenger yesterday would have brought his men here tomorrow, while our own merchants asked why I preferred a quarrel to their livelihoods.”
 
 I turned back. “So we keep giving way?”
 
@@ -444,7 +444,7 @@ I leaned closer. “And paid again.”
 
 The steward nodded. “The captain complained. Then he paid. He needed to unload.”
 
-There were more marks like it. Not enough to prove that Lakandula had ordered every collection. Enough to show that men were already making decisions in his name.
+There were more marks like it. Not enough to prove that Tondo's ruler had ordered any collection. Enough to show that men were making decisions while invoking his name.
 
 On one board a second set of marks had been scratched beside the cargo.
 
