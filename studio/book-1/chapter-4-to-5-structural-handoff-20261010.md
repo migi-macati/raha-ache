@@ -64,3 +64,7 @@ Maria Bernadette L. Abrera, “Boat building tradition in the Philippines (10th�
 
 ## Monsoon research check, 11 October 2026
 Gan et al. (2006, DOI 10.1029/2005JC003298) describe seasonally reversing South China Sea winds and currents. Matsumoto et al. (2020, DOI 10.1002/joc.6492) show regional variation in modern Philippine monsoon timing. Both are modern physical-climate evidence, not direct evidence for Ache's voyage. Before writing departure scenes, verify plausible season, local wind and tide, vessel, provisions, crew authority and merchant intermediaries. No departure month, route or duration is yet established. Chapter 4 title *The Second Crossing* remains provisional.
+
+
+## 12 October 2026 — reader renderer release gate
+The actual chapter renderer in `src/pages/[collection]/[id].astro` displays a **Development material** warning whenever `developmentStatus` is `working`, `early-outline`, or `superseded`. The provisional Chapter 4 public outline still has `developmentStatus: working`. A reader-facing release therefore must deliberately set `developmentStatus: current` after the prose is approved; changing only `draftStatus: draft` will leave the development warning visible. The same renderer already includes `ChapterReadAloud` and chapter navigation for chapter pages. These are static code observations, not a successful browser playback or build test. The title *The Second Crossing* remains provisional; do not advance the forward checkpoint.
