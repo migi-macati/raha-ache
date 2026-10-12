@@ -75,7 +75,7 @@
   "studioWork": {
     "chapterId": "book-1-chapter-5",
     "branch": "studio/book1-ch5-decision-dossier-20261012",
-    "state": "ci_pending",
+    "state": "ci_passed_editorial_pending",
     "latestVerifiedProseCommit": "b5bae34b769fa39f9ed352406a9cb33d5e1b3892",
     "progress": "All six scenes saved as separate Studio files on clean branch and draft PR #31; Scene 3 revised to remove repeated Chapter 4 stake-setting. Source working prose remains preserved on older branch. Six-scene editorial QA and public chapter assembly still pending; do not advance forward checkpoint.",
     "blockers": [
@@ -116,12 +116,14 @@
       "branch": "studio/book1-ch5-regent-scene-clean-20261012",
       "draftPr": 31,
       "headCommit": "8f720a26aa388389d223bbab8a973b9aaebee28a",
-      "state": "ci_pending",
+      "state": "ci_passed_editorial_pending",
       "ciRunId": 38282251174,
       "files": 7,
       "scenes": 6,
       "sourceBranch": "studio/book1-ch5-decision-dossier-20261012",
-      "editorialGate": "Scene 6 incorrectly says the messenger was paid to carry a question, though Ula has only agreed to ask a prospective carrier; targeted update was safety-rejected. Correct before public release."
+      "editorialGate": "Scene 6 incorrectly says the messenger was paid to carry a question, though Ula has only agreed to ask a prospective carrier; targeted update was safety-rejected. Correct before public release.",
+      "ciConclusion": "success",
+      "verification": "Validate PR run 38282251174 job 114922076094 completed success, including npm install and npm run build. PR #31 remains draft, unmerged, no deployment or live verification."
     }
   },
   "researchWork": {
