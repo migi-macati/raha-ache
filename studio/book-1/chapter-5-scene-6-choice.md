@@ -144,18 +144,14 @@ I waited for my mother to order him back across the river, or to accept the barg
 
 "Write down exactly what he asked," she said. "Tomorrow we will ask the merchants what they would pay for a crew of their own choosing."
 
-I could have stepped forward and told her I had found another answer. I had not. I had paid for a question to be carried upriver, and the answer might never return.
+I could have stepped forward and told her I had found another answer. I had not. Ula had offered to ask a woman whose brother sometimes carried goods upriver. The piece of silver I had left beside her shells might still be there tomorrow. No one had agreed to carry my words.
 
-I went inside and counted the silver I had left.
+I went inside and counted what remained. I counted it again, this time setting aside what I would need if a captain could be found. It was less than I had imagined when I first spoke of Brunei.
 
-It was less than I had imagined when I first spoke of Brunei.
+Outside, someone dragged a boat farther up the bank. The wood scraped against the stones and stopped. I thought of Sulad's uncle turning his fish over the fire, and of the young rower lifting his paddle without his wages.
 
-I set it aside anyway.
+I could not buy their consent with a promise. I could not make the captain answer a message that had not yet left Maynila. But I could keep the silver ready, and ask again when there was someone to ask.
 
-If a captain came, I would ask for passage. If he refused, I would have to find another way. I would not take Sulad's uncle's boat without his consent, or call the rower's unpaid wages a debt already settled, or tell my mother I had a fleet waiting beyond the sea.
-
-I would go to Brunei if I could.
-
-That was the decision I had. The voyage was still someone else's to grant.
+I would seek a passage to Brunei. Tonight there was no boat to take me.
 
 <!-- Studio scene; Chapter 6 owns physical departure and passage logistics. -->
