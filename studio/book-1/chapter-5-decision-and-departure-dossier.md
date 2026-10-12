@@ -1,6 +1,6 @@
 # Book I, Chapter 5 — decision, costs, and departure dossier
 
-**Research/planning pass:** 12 October 2026 (Asia/Manila). **Status:** Studio-only; no public prose or chapter checkpoint advancement. **Current functional title:** *Fight or Flight*. **Reader-facing title:** undecided.
+**Research/planning pass:** 12 October 2026 (Asia/Manila). **Status:** Studio-only; no public prose or chapter checkpoint advancement. **Current functional title:** *Fight or Flight*. **Reader-facing title:** under review; *The Boat That Stayed* is a provisional candidate because no boat leaves with Ache, while *The Price of Oars* emphasizes the wage and consent conflict. Do not propagate until public chapter is finalized.
 
 ## Canonical handoff and narrative question
 
@@ -54,7 +54,7 @@ The reader may expect Ache to reach Brunei eventually; uncertainty should center
 
 Identify season and prevailing winds without using modern averages as exact historical weather; credible boat and cargo arrangement; whether the trip requires several legs or a vessel change; water, food, labor, watchkeeping and authority aboard; which languages Ache/Sulad can actually speak; Brunei kinship proof and who would recognize it; whether the regent's gift/permission is shown or withheld. Do not assign exact dates, speeds, distances, port stops or passage durations without specific support.
 
-**Current manuscript state (verified against Studio working prose):** Scenes 1–3 exist. Scene 3 repeats Chapter 4's physical stake-setting work and requires a different action before release; the uncle's conditional offer of one paid message crossing and Ache's unauthorized suggestion of household food must survive revision. Scenes 4–6 are not yet written in the working manuscript. **Next writing pass:** develop Scene 4's provisions-and-authority confrontation, then establish a credible way to reach the Chapter 3 captain without assuming he is waiting at Maynila; preserve Sulad's independent choice. This dossier is an editorial hypothesis, not a completed chapter.
+**Current six-scene manuscript state (13 October 2026):** All six Studio scenes are saved individually on this clean branch and included in draft PR #31. Scene 3 now uses net-mending rather than repeating Chapter 4's stake-setting. Scene 6's ending explicitly states that Ula has only offered to seek a prospective messenger; no one has yet accepted Ache's message, no captain has been located, and no vessel is promised. The first-voyage rower wages remain unpaid. The regent has provisionally set aside food for one authorized crossing, not for an armed watch. Sulad has not agreed to travel. **Next editorial gate:** verify scene-to-scene timing, silver and grain accounting, Sulad's agency, and Chapter 3 captain continuity; only then mark Studio PR ready. The public Chapter 5 file remains an outline and must be separately assembled, reviewed and released. This dossier is planning evidence, not public prose.
 
 
 ## Manuscript integration checkpoint (Studio)
