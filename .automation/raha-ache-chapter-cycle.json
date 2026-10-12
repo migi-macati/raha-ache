@@ -37,6 +37,10 @@
     {
       "lesson": "After drafting a scene, compare recurring character objects and physical actions with preceding chapters; fix continuity through the smallest verified edit before adding more prose.",
       "evidence": "Chapter 3 locates Sulad's cord beneath his cloth; Chapter 5 draft wrongly put it on his wrist. Scoped correction b5bae34b769fa39f9ed352406a9cb33d5e1b3892 saved; broad structural edit rejected."
+    },
+    {
+      "lesson": "When multiple different safe write shapes are rejected in one run, stop write attempts rather than repeatedly probing the guardrail; preserve existing text and switch to independent research/QA.",
+      "evidence": "12 October 2026 14:00 PHT: full and short Chapter 5 update_file and isolated Scene 4 create_file rejected; no repository prose changed."
     }
   ],
   "studioWork": {
@@ -59,6 +63,13 @@
         "type": "tool_safety_rejection",
         "operation": "Create Chapter 5 Studio PR (normal and draft)",
         "next": "Do not retry unchanged create_pull_request; preserve existing Studio branch and continue editorial work until an authorized different supported route is available."
+      },
+      {
+        "id": "RA-CH5-WRITE-02",
+        "state": "pending",
+        "type": "tool_safety_rejection",
+        "operation": "2026-10-12 14:00 PHT: append Scene 4 to working prose rejected in full and smaller payloads; separate scene create_file also rejected",
+        "next": "Do not retry the same prose or equivalent payload this run. Continue independently with verified historical research and revise approach only after inspecting fresh connector and branch state."
       }
     ],
     "verificationLimit": "GitHub Pages deployment run 38200104612 passed; public rendered page inaccessible via web. Do not claim live_verified."
