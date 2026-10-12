@@ -15,7 +15,20 @@
     "sourceSha": "4f9c50202fe9a3f218a730ca460001f1b54186ff",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "External rendered-page request failed in web browser and container DNS"
+    "verificationLimit": "External rendered-page request failed in web browser and container DNS",
+    "artifactInspection": {
+      "artifactId": 11725190296,
+      "sourceSha": "4f9c50202fe9a3f218a730ca460001f1b54186ff",
+      "generatedHtmlPages": 235,
+      "internalLinksChecked": 13354,
+      "missingTargets": 0,
+      "chapter4ProsePresent": true,
+      "chapter4NavigationPresent": true,
+      "readAloudMarkupPresent": true,
+      "readerRuntimeTested": false,
+      "liveVerified": false,
+      "checkedAt": "2026-10-12 17:xx Asia/Manila"
+    }
   },
   "operatingLessons": [
     {
@@ -45,6 +58,10 @@
     {
       "lesson": "A clean, one-file source branch can accept a GitHub contents write while create_pull_request is independently safety-rejected; do not infer a branch or build problem from the PR rejection, and do not retry equivalent PR calls.",
       "evidence": "12 Oct 2026 16:xx PHT: source locator commit fddbe34d6a8184ad8b597639c40bc2c667fde7ff on research/aganduru-edition-locator-20261012; branch ahead 1, behind 0, only aganduru-moriz.md; create_pull_request rejected."
+    },
+    {
+      "lesson": "When public-page fetching fails, download the successful GitHub Pages build artifact and audit generated HTML, navigation, Read Aloud markup and internal link targets; this is artifact verification, NOT live verification.",
+      "evidence": "GitHub Pages run 38200104612 artifact 11725190296 (source SHA 4f9c50202fe9a3f218a730ca460001f1b54186ff) inspected on 2026-10-12: 235 generated HTML pages, 13,354 internal links checked, 0 missing targets; Chapter 4 manuscript, previous/next links and speechSynthesis reader markup present."
     }
   ],
   "studioWork": {
