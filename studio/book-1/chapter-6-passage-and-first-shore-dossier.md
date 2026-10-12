@@ -1,0 +1,57 @@
+# Book I, Chapter 6 — Passage, Consent, and the First Shore (Studio research and scene dossier)
+
+**Status:** planning/research only; not reader-facing prose. **Forward checkpoint remains Book I Chapter 5 until publication.** Created 13 October 2026 (Asia/Manila). Working title *Flight*; possible reader-facing titles *The Third Shore*, *A Boat Without a Banner*, or *The Cost of Passage*. Do not change canonical title until the actual ending earns it.
+
+## Canonical handoff: what Chapter 5 does and does not establish
+
+Chapter 5, *The Boat That Stayed*, is complete in Studio PR #31 and assembled but **not published** on `novel/book1-ch5-boat-that-stayed-20261013`. Its last scene ends with Ache resolving to seek Brunei passage while **no boat is available**. Ula has offered only to ask a woman whose brother sometimes carries goods upriver; no messenger has accepted the silver, no message has reached the unnamed Malay-speaking captain from Chapter 3, and the captain has not agreed to take Ache. Ache's mother authorizes at most a conditional, paid local crossing; she has **not** guaranteed stores, a voyage, or armed support. Sulad insists that he will decide for himself whether to accompany Ache and will speak directly to his uncle, whose fishing work depends on him. Bulkan has questioned the cost of putting men on watch and has not pledged to leave Maynila. The first-voyage rower's wages remain unpaid despite Sima's payment to the organizer; the regent's order addressed the second voyage. Preserve every distinction.
+
+**Chapter 6 dramatic question:** Can Ache obtain passage and leave Maynila without turning other people's labor, food, or safety into an unconsented debt? His first true loss of status should occur in a practical negotiation, not in a speech about humility.
+
+**Hard chronology gate:** Do not open Chapter 6 with Ache already at sea, with a confirmed Brunei captain, or with Sulad already sworn to follow. Show the intermediate consent and logistics. Physical departure happens here, not in Chapter 5. No precise sailing duration, month, route, crew complement, ship type, or harbor departure tide is established by historical evidence.
+
+## Historical evidence ledger and provenance limits
+
+1. **Near-contemporary commercial testimony:** Tomé Pires, *Suma Oriental* (written c. 1512–1515; Cortesão ed./trans. 1944, vol. I, pp. 133–134), describes Luzon-related commerce with Borneo and Malacca and goods including provisions, wax, honey, gold and textiles. This makes a multi-stop commercial route and bargaining with experienced traders plausible. Pires gathered commercial intelligence rather than documenting Ache's departure. Repo: `src/content/sources/tome-pires-suma-oriental.md`.
+2. **Modern scholarly reconstruction:** Roderich Ptak, “The Northern Trade Route to the Spice Islands,” *Archipel* 43 (1992), pp. 27–56, describes interconnecting corridors through the Borneo coast and the Mindoro/Calamianes approaches. It supports considering multiple sailing legs, **not** a particular Ache itinerary, a direct Maynila–Brunei service, or a travel time. The Chapter 5 dossier contains the checked bibliographic locator.
+3. **Later retrospective narrative:** Rodrigo de Aganduru Móriz's seventeenth-century *Historia General* says Ache sought help from his maternal grandfather in Brunei and that his mother eventually permitted the journey and gave gold. This is not contemporary testimony to Ache's adolescence. The original CODOIN vol. 78 Spanish pp. 59–60 and Aganduru's informant chain remain unverified. Mother-son bargaining, gifts, secrecy and the sequence of departure must remain clearly fictionalized. Repo: `src/content/sources/aganduru-moriz.md`.
+4. **Published fictional canon:** Chapter 1 establishes Ache's experience with a patched sail, current, mooring lines and a failed rescue in which he ignored Sulad's warning to lower the sail; the damaged boat and injured rower had costs. Chapter 3 introduces the **unnamed** Malay-speaking captain met upriver, Ula and Ache's uneven Malay. Chapter 4 establishes Tondo's labor/merchant pressure and the regent's limited response. Chapter 5 establishes the incomplete messenger chain and consent constraints. None proves a specific ancient sailing technique beyond what the fiction has already shown.
+5. **Caution about material culture:** Do not casually identify a particular outrigger configuration, vessel capacity, sail plan, currency equivalence, formal port tax, standardized passport, written contract or navigational instrument as a documented fact of Ache's exact household. Choose physical details supported by research or make the fictional reconstruction legible.
+
+## Provisional six-scene architecture
+
+**1. A message that has not left (Maynila; next day, not an instant answer).** Ache visits Ula and discovers whether the woman or her brother will even carry a question upriver. She may refuse, require a fee Ache cannot meet, or demand to know why the captain should answer. A real message requires a recipient, a carrier, a return route and time; money left near Ula's shells did not itself purchase delivery. **Reversal:** Ache learns he cannot command an absent captain. **Do not** insert the captain conveniently at the landing.
+
+**2. A price without a guarantee (river or port, after a credible interval).** Through a plausible chain of traders, Ache meets a potential intermediary or receives conditional news of the Chapter 3 captain. Distinguish an inquiry from a berth. A vessel might carry cargo first, demand that passengers work, travel only part of the way, or require another transfer. Ache cannot buy a direct voyage by naming his grandfather. **Reversal:** the available passage would expose another household to risk or cost more than Ache has set aside. **Open choice:** the actual carrier need not be the Chapter 3 captain; if it is someone else, do not invent an effortless personal connection to Brunei.
+
+**3. The regent's terms (private, political).** Ache brings his mother a concrete proposed route, the uncertainty and the price. She has sound reasons to preserve Maynila's negotiating capacity and fear that a departure will look like abandonment or an appeal for foreign intervention. She may offer restricted provisions or a condition, not an unlimited escort. Allow her a tactical misjudgment or an emotionally revealing mistake; she is neither a stock obstacle nor an infallible oracle. **Decision:** Ache accepts a costly limit or chooses to fund himself, rather than simply receiving gold because a later source says so. If the fictional story chooses the retrospective permission-and-gold motif, dramatize why she changes her mind.
+
+**4. Sulad's answer, not Ache's order (fishing bank).** Sulad speaks to his uncle independently. The uncle's labor, boat, nets and catch do not become available through a princely promise. A credible agreement might include replacement labor, a defined return arrangement or a refusal that Ache must accept. Sulad may set a condition Ache resents. Preserve the cord **beneath his cloth**, not on his wrist. Bulkan may choose to remain in Maynila and protect the household; his counsel or practical aid should have a cost or limit. **Reversal:** loyalty becomes a negotiated relationship rather than a given.
+
+**5. The departure (landing, tide/current, witnesses).** Only after the carrier, fare, supplies, household permissions and Sulad's choice are established should the boat leave. Give the reader tangible cargo placement, wet lines, an ordinary commercial reason for departure, and a constraint Ache cannot solve by invoking rank. Pay off Chapter 1: he notices a sail, rope or current problem early and **listens** when someone with more experience corrects him. Avoid repeating the exact broken-outrigger rescue or Chapter 4–5 stake-setting. **Irreversibility:** a small real loss occurs on departure, such as surrendered silver, a promise to a household, a missed farewell or an unreturned object. Do not assume an armed Tondo pursuit without planting its cause.
+
+**6. First shore, first refusal (outside Maynila's immediate authority).** The first leg need not reach Mindoro by chapter end; select geography only after mapping plausible stages. At a landing or exposed anchorage, a host, crew or trader can refuse Ache's request. He must bargain as one passenger among others. A weather, cargo or trust problem exposes the cost of departure without requiring an implausible chase. **Ending:** Ache and companions survive a first practical test, but the route to Brunei remains contingent on people he does not control. Chapter 7 can develop negotiation with strangers rather than another generic navigation problem.
+
+## Character and subplot progression
+
+**Ache:** begins determined but still assuming that intention plus silver produces service; ends having obtained a limited passage at a real cost and accepted that others can refuse. His flaw persists: he may mistake a concession for victory or conceal the price from his mother. His wit and attraction to a companion may complicate rather than erase power differences.
+
+**Sulad:** makes a decision independently and remains able to say no later. He is competent with boats and household labor, but his care for Ache need not be pure or unconflicted. A charged exchange is possible if age-appropriate, subtle and grounded in their shared history, without coercive rank or automatic romance.
+
+**The mother/regent:** weighs commercial dependency, internal legitimacy and Ache's safety. She can love him and still insist on protecting the people who stay. Her choices have future political consequences.
+
+**Bulkan:** must have an active reason to stay, travel, refuse or delegate. He is not an exposition device who appears to explain every rope or tide.
+
+**Ula / traders / rowers:** preserve their independent interests. The unpaid first-voyage rower should remain a live Maynila grievance, not magically paid by Ache's departure.
+
+## Continuity, plausibility and release gates
+
+- Check exact timing between Ula's inquiry, any return message, a vessel's readiness and departure. **Do not use an unearned same-day reply**.
+- Keep the unnamed Malay-speaking captain distinct from unmerged PR #15's proposed “Nakhoda Hamid” profile until deliberately adopted as canon.
+- Verify boat capacity, crew roles, cargo, tide/current and stops against a source before naming specifics. Mindoro/Calamianes is a possible corridor, not a fixed mandatory itinerary.
+- Differentiate source-supported trade geography from invented conversations and contractual practices; cite research in Studio, not in Ache's narrative voice.
+- Confirm the mother has not already paid for the voyage, Sulad has not yet agreed, and the Chapter 4 wage dispute remains open.
+- After prose drafting, compare physical actions and recurring objects with Chapters 1–5. Review title only against the actual scene that closes the chapter.
+- Before public release, remove Studio notes, preserve canonical metadata/Universe links, chapter navigation, Read Aloud and build audits; verify GitHub Pages deployment separately from rendered live inspection.
+
+**Next substantive pass:** research and map plausible first-leg stopping points and maritime seasonal constraints without assigning an exact sailing date; then draft Scene 1 with Ula's carrier negotiation and a real elapsed-time consequence. Do not treat this dossier as a completed chapter or advance the Chapter 5 publication checkpoint.
