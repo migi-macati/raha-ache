@@ -32,6 +32,8 @@ Chapter 3 ends with Ache seeing the Tondo clerk's marks beside crews and learnin
 
 **6. Sulad's condition and Ache's choice (night, repaired boat or household courtyard).** Sulad is not automatically recruited. His condition should cost Ache something measurable: he must secure a replacement worker or food for Sulad's family, promise not to order Sulad into another household's quarrel, or accept that Sulad may refuse if his obligations cannot be met. Avoid a sweeping modern declaration of equality. Ache privately resolves to seek support in Brunei rather than launch an immediate attack. His mother may discover or permit the journey in Chapter 6; this chapter must not pre-decide the historical uncertainty. **Ending image candidate:** the paddle Ache had expected to take remains beside the unfinished net while a different boat is made ready. The physical departure remains for Chapter 6.
 
+**Canonical-name guard:** Current `main` Chapter 3 presents this captain without a name. Open draft PR #15 separately contains `src/content/characters/nakhoda-hamid.md`, but that character file is absent from `main`; do not silently introduce “Nakhoda Hamid” into Chapter 5 as established reader canon. If that earlier draft is later reconciled, review the published Chapter 3, the character record, and Chapter 5 together before adopting the name.
+
 ## Arc ledger and continuity
 
 - **Ache:** begins knowing how to identify administrative capture; ends accepting that he cannot force others to defend his preferred solution. He chooses an uncertain appeal abroad, still partly motivated by pride. The choice should be costly, not presented as inevitable wisdom.
