@@ -4,9 +4,35 @@
   "nextChapterId": "book-1-chapter-5",
   "pendingChapterId": null,
   "pendingBranch": null,
-  "publicationState": "merged",
+  "publicationState": "deployed",
   "lastMergeSha": "061cd132c56107ad58867e7df29bf76eae487600",
   "completedChapterPasses": 4,
   "cycleNumber": 1,
-  "blocker": null
+  "blocker": null,
+  "deployment": {
+    "provider": "GitHub Pages",
+    "workflowRunId": 38200104612,
+    "sourceSha": "4f9c50202fe9a3f218a730ca460001f1b54186ff",
+    "conclusion": "success",
+    "liveVerified": false,
+    "verificationLimit": "External rendered-page request failed in web browser and container DNS"
+  },
+  "operatingLessons": [
+    {
+      "lesson": "Inspect actual hosting workflow before assuming Vercel",
+      "evidence": "GitHub Pages deploy run 38200104612 succeeded"
+    },
+    {
+      "lesson": "Use clean single-purpose PR branches and compare stale branch blobs",
+      "evidence": "PR #30 merged; nine PR #29 file blobs match main"
+    },
+    {
+      "lesson": "Split large rejected Studio prose writes into small verified increments",
+      "evidence": "Chapter 5 initial create rejected; scoped opening create d5c6af06 and two incremental updates succeeded"
+    },
+    {
+      "lesson": "Do not repeat blocked PR mutations unchanged; continue independent work",
+      "evidence": "PR #29 close and Chapter 5 PR creation rejected; Chapter 5 Studio branch still advanced"
+    }
+  ]
 }
