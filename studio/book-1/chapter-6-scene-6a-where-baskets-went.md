@@ -2,9 +2,9 @@
 
 *Studio working prose; provisional first-shore sequence after the still-unwritten release of the mooring line in Scene 5F. Ache narrates. The shore, trader, buyer, prices and dialogue are fictional; no attested Ache itinerary, exact distance or sailing duration is asserted. This is not the chapter ending.*
 
-The first thing I recognized at the new landing was the patched basket.
+The first thing I recognized at the new landing was the basket the crew had repaired in Maynila.
 
-It had been lifted out of our boat before either of us was allowed to move. The dark strip of reed ran across its side, and one of the men on shore pressed his thumb against it, just as the buyer in Maynila had done. Then he shook his head.
+It had been lifted out of our boat before either of us was allowed to move. A pale binding ran along its side, and one of the men on shore pressed his thumb against the seam. Then he shook his head.
 
 I had spent the journey watching the basket whenever the boat shifted. I had thought that if it reached shore whole, the trader would be pleased. He was not.
 
@@ -16,7 +16,7 @@ I had spent the journey watching the basket whenever the boat shifted. I had tho
 
 “The bottom is where the water will go.”
 
-The buyer turned the basket on its side. A thin line of water ran from the patch and darkened the boards. The trader crouched beside it, pushed the reed with his thumb and said nothing.
+The buyer turned the basket on its side. A thin line of water ran from the binding and darkened the boards. The trader crouched beside it, pushed the reed with his thumb and said nothing.
 
 Sulad was behind me with our bundles. He had kept them clear of the jars while the crew worked, but when he tried to follow the baskets ashore, a man carrying a pole told him to wait.
 
@@ -44,7 +44,7 @@ She looked at the cargo coming off it. “His boat is leaving again?”
 
 She walked on before I could ask her name.
 
-The buyer had called two more men to inspect the patched basket. They pulled at the reeds and argued about how much of the contents might have taken water. The trader's voice rose. I had heard him refuse my silver when he could not promise space. I had not expected to see him pleading for a price.
+The buyer had called two more men to inspect the basket with the new binding. They pulled at the reeds and argued about how much of the contents might have taken water. The trader's voice rose. I had heard him refuse my silver when he could not promise space. I had not expected to see him pleading for a price.
 
 “What happens if the buyer will not take it?” I asked Sulad.
 
@@ -62,7 +62,7 @@ I touched the cloth where my money had been. Sulad did not smile.
 
 The trader looked at the baskets. “I know men who say they will. I do not know which of them will be here when you have written your message.”
 
-“I have no writing.”
+“I brought no written message.”
 
 “Then you will need someone who remembers your words. That costs more than a mark on a board.”
 
@@ -94,13 +94,13 @@ Sulad looked at me. “We should find water before we find a captain.”
 
 “We have what is left in the jar. There is a difference.”
 
-I wanted to ask whether he regretted coming. I had asked it once on the boat, when there was nowhere for him to walk away from me. He had told me he was tired of answering questions that made my fear his responsibility.
+I wanted to ask whether he regretted coming. But the question would make my fear his responsibility, and he had given me no reason to think he wanted that.
 
 “Where do we find it?” I asked instead.
 
 He nodded toward the woman with the tray, who had stopped to speak to someone near the houses. “We can ask.”
 
-We picked up our bundles. Behind us the trader was still bargaining, and the patched basket stood open to the air. I had been counting the journey by how far we had come from Maynila. Sulad was counting how much water remained.
+We picked up our bundles. Behind us the trader was still bargaining, and the basket with the new binding stood open to the air. I had been counting the journey by how far we had come from Maynila. Sulad was counting how much water remained.
 
 I went with him to ask.
 
