@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-4",
-  "nextChapterId": "book-1-chapter-5",
+  "lastCompleted": "book-1-chapter-5",
+  "nextChapterId": "book-1-chapter-6",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "061cd132c56107ad58867e7df29bf76eae487600",
-  "completedChapterPasses": 4,
+  "lastMergeSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
+  "completedChapterPasses": 5,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "workflowRunId": 38200104612,
-    "sourceSha": "4f9c50202fe9a3f218a730ca460001f1b54186ff",
+    "workflowRunId": 38390807787,
+    "sourceSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "External rendered-page request failed in web browser and container DNS",
+    "verificationLimit": "Rendered public page and actual Read Aloud playback not verified",
     "artifactInspection": {
-      "artifactId": 11725190296,
-      "sourceSha": "4f9c50202fe9a3f218a730ca460001f1b54186ff",
+      "artifactId": 11807953070,
+      "sourceSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
       "generatedHtmlPages": 235,
-      "internalLinksChecked": 13354,
+      "internalLinksChecked": 13627,
       "missingTargets": 0,
-      "chapter4ProsePresent": true,
-      "chapter4NavigationPresent": true,
+      "chapter5ProsePresent": true,
+      "chapter5NavigationPresent": true,
       "readAloudMarkupPresent": true,
       "readerRuntimeTested": false,
       "liveVerified": false,
-      "checkedAt": "2026-10-12 17:xx Asia/Manila"
+      "checkedAt": "2026-10-13 Asia/Manila"
     }
   },
   "operatingLessons": [
@@ -74,86 +74,38 @@
     {
       "lesson": "Assemble a reader-facing chapter from verified individual Studio scene files on a fresh main-based release branch; strip Studio headings/comments and validate continuity before PR. A successful branch write does not imply PR, CI, merge or deployment.",
       "evidence": "13 Oct 2026: public Chapter 5 commit 4c0f1704 on one-file release branch, 22,689 characters and six scenes; draft PR creation safety-rejected."
+    },
+    {
+      "lesson": "Check push-triggered GitHub Pages build and deploy jobs separately from PR CI; after sequential PR merges, refresh mergeability before diagnosing a conflict. Advance chapter checkpoint from verified deploy evidence even when earlier checkpoint writes failed.",
+      "evidence": "Chapter 5 Studio PR #31 merged bb8517fa; public PR #32 merged 002f3ee8 after mergeability refreshed; Pages run 38390807787 build and deploy both success; artifact 11807953070 linked to 002f3ee8."
     }
   ],
   "studioWork": {
-    "chapterId": "book-1-chapter-5",
-    "branch": "studio/book1-ch5-regent-scene-clean-20261012",
-    "state": "ci_passed_ready_transition_blocked",
-    "latestVerifiedProseCommit": "b5bae34b769fa39f9ed352406a9cb33d5e1b3892",
-    "progress": "Six Studio scenes and corrected dossier saved on PR #31; Scene 6 messenger continuity corrected. Validate PR run 38295201699 passed. Ready-for-review transition safety-rejected; PR remains draft. Separately, all six scenes assembled into public Chapter 5 on novel/book1-ch5-boat-that-stayed-20261013, commit 4c0f1704; draft PR creation safety-rejected. Neither branch merged or deployed; Chapter 5 not published.",
+    "chapterId": "book-1-chapter-6",
+    "branch": "studio/book1-ch6-passage-conditions-20261013",
+    "state": "branch_written",
+    "progress": "Chapter 6 Studio draft includes departure 5F-2, first shore 6A–6B and 18 changed files, ahead 23/behind 2 main as of 14 Oct 2026 00:00 PHT. No Chapter 6 PR or public release. Needs editorial consolidation of repetitive household/negotiation scenes, first-landing buyer clarification and canonical outline revision before public assembly.",
     "blockers": [
       {
-        "id": "RA-CH5-EDIT-01",
-        "state": "resolved_in_clean_branch",
-        "type": "tool_safety_rejection",
-        "operation": "Broader scene-3 structural update_file",
-        "next": "Review revised scene in six-scene PR; do not restore repeated stake-setting.",
-        "evidence": "Revised net-mending Scene 3 commit 5d74e857a106c6bc72ccb9cca00d035ee2b48c2e; original branch retained unchanged."
+        "id": "RA-CH6-OUTLINE-01",
+        "state": "open",
+        "type": "editorial_mismatch",
+        "next": "Replace outdated fugitive/pursuit/Mindoro outline with paid cargo passage and unnamed first landing after manuscript QA."
       },
       {
-        "id": "RA-CH5-PR-01",
-        "state": "resolved",
-        "type": "tool_safety_rejection",
-        "operation": "Create Chapter 5 Studio PR (normal and draft)",
-        "next": "Await passing CI, editorial review, and deliberate merge.",
-        "evidence": "Draft PR #31 opened for clean Studio branch and now contains all six scenes and dossier; no public release."
-      },
-      {
-        "id": "RA-CH5-WRITE-02",
-        "state": "resolved_in_clean_branch",
-        "type": "tool_safety_rejection",
-        "operation": "2026-10-12 14:00 PHT: append Scene 4 to working prose rejected in full and smaller payloads; separate scene create_file also rejected",
-        "next": "Integrate six-scene draft into public chapter only after editorial QA.",
-        "evidence": "Scenes 4–6 saved in commits 8e1180f2, c3da06be, 61797669 on PR #31."
-      },
-      {
-        "id": "RA-CH5-QA-03",
-        "state": "resolved",
-        "type": "editorial_continuity_and_tool_safety_rejection",
-        "operation": "Scoped Scene 6 update_file rejected after QA identified Ula's messenger not yet confirmed",
-        "next": "Maintain corrected conditional messenger wording through publication.",
-        "evidence": "Scene 6 revision commit d9ef3dcc337046eae192f0568a4a698b5f906550; corrected wording fetched and Validate PR run 38287649627 passed."
-      },
-      {
-        "id": "RA-CH5-READY-04",
-        "state": "pending",
-        "type": "operation_specific_tool_safety_rejection",
-        "operation": "Mark Studio PR #31 ready for review",
-        "next": "Do not repeat rejected ready transition unchanged; preserve draft and completed CI evidence; continue independent release QA."
-      },
-      {
-        "id": "RA-CH5-PUBLIC-PR-05",
-        "state": "pending",
-        "type": "operation_specific_tool_safety_rejection",
-        "operation": "Create draft PR for public Chapter 5 from novel/book1-ch5-boat-that-stayed-20261013",
-        "next": "Do not retry equivalent create_pull_request; preserve one-file branch and seek later genuinely supported authorized integration."
+        "id": "RA-CH6-REPETITION-02",
+        "state": "open",
+        "type": "editorial_repetition",
+        "next": "Consolidate Sulad fishing-bank and mother's gold negotiations without losing distinct choices."
       }
     ],
-    "verificationLimit": "GitHub Pages deployment run 38200104612 passed; public rendered page inaccessible via web. Do not claim live_verified.",
-    "cleanSixScene": {
-      "branch": "studio/book1-ch5-regent-scene-clean-20261012",
-      "draftPr": 31,
-      "headCommit": "b68b8405522cee88fab33d552b5ec550e6a69999",
-      "state": "ci_passed_ready_transition_blocked",
-      "ciRunId": 38295201699,
-      "files": 7,
-      "scenes": 6,
-      "sourceBranch": "studio/book1-ch5-decision-dossier-20261012",
-      "editorialGate": "Scene 6 conditional messenger wording and dossier stale-status correction verified. Studio PR #31 remains draft because mark-ready operation safety-rejected.",
-      "ciConclusion": "success",
-      "verification": "Run 38295201699 job 114964497788 completed success (npm install, npm run build); no merge/deploy/live."
-    },
-    "releasePrep": {
-      "branch": "novel/book1-ch5-boat-that-stayed-20261013",
-      "commit": "4c0f1704de1ccef95bfbfaa6f5b02c52a8662b93",
-      "state": "branch_written",
-      "pr": "blocked_by_tool_safety",
-      "title": "The Boat That Stayed",
-      "scenes": 6,
-      "source": "Studio PR #31",
-      "file": "src/content/chapters/book-1-chapter-5.md",
-      "verification": "Fetched 22,689-character public chapter file; six scene sections, no Studio comments; clean one-file diff ahead 1 behind 0. No PR, CI, merge, deploy or live verification."
+    "priorChapter5": {
+      "studioPr": 31,
+      "studioMergeSha": "bb8517fa93e9226cb4730e954f25eafd5ff17d67",
+      "publicPr": 32,
+      "publicMergeSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
+      "publicationState": "deployed",
+      "liveVerified": false
     }
   },
   "researchWork": {
