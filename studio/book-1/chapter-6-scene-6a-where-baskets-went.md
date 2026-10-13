@@ -2,9 +2,9 @@
 
 *Studio working prose; provisional first-shore sequence after the mooring-line release and first-leg passage now saved in Scene 5F-2. Ache narrates. The shore, trader, buyer, prices and dialogue are fictional; no attested Ache itinerary, exact distance or sailing duration is asserted. This is not the chapter ending.*
 
-The first thing I recognized at the new landing was the basket the crew had repaired in Maynila.
+The first thing I recognized at the new landing was the basket with the pale binding I had watched them load in Maynila.
 
-It had been lifted out of our boat before either of us was allowed to move. A pale binding ran along its side, and one of the men on shore pressed his thumb against the seam. Then he shook his head.
+It had been lifted out of our boat before either of us was allowed to move. A buyer I had not seen in Maynila pressed his thumb against the seam, then shook his head.
 
 I had spent the journey watching the basket whenever the boat shifted. I had thought that if it reached shore whole, the trader would be pleased. He was not.
 
