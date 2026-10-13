@@ -1,6 +1,6 @@
 # Book I, Chapter 6 — Scene 6B: No Boat Owed Us
 
-*Studio working prose; follows Scene 6A. Ache narrates. First-shore refusal and immediate survival are fictional; no named onward route or carrier is established. The physical departure bridge in Scene 5F remains UNSAVED.*
+*Studio working prose; follows Scene 6A. Ache narrates. First-shore refusal and immediate survival are fictional; no named onward route or carrier is established. Scene 5F-2 now supplies the physical departure and first-leg passage.*
 
 The woman with the tray was selling cooked fish.
 
@@ -148,4 +148,4 @@ I looked toward the path leading to the houses. We had a place to ask for shelte
 
 Sulad pushed the last piece of fish toward me. I took it. When we stood, he lifted the jar and I carried the bundles. Neither of us knew whether the household would let us stay. We went to ask.
 
-<!-- Scene 6 ending candidate: first-shore refusal, limited paid labor and provisional shelter lead, no return-message carrier or onward berth. Chapter 6 is NOT complete until the Scene 5F physical-departure bridge and continuity QA are saved. No historical evidence is claimed for this unnamed landing or conversations. -->
+<!-- Scene 6 ending candidate: first-shore refusal, limited paid labor and provisional shelter lead, no return-message carrier or onward berth. Chapter 6 Studio scenes are drafted through the ending; continuous chronology, object continuity and literary QA remain before public assembly. No historical evidence is claimed for this unnamed landing or conversations. -->
