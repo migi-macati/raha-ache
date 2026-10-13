@@ -40,7 +40,7 @@ He told me. I repeated the name and asked which bank the boat would approach. He
 
 “Then you must find someone there willing to bring it. I will not promise that my crew can return to Maynila for your letter.”
 
-I nearly said that a message could travel with any boat. Ula's brother had taught me what that sentence cost.
+I nearly said that a message could travel with any boat. The intermediary's brother had taught me what that sentence cost.
 
 “If I cannot find a carrier there,” I said, “I will wait until I can.”
 
@@ -88,7 +88,7 @@ The trader stood and called to a crewman to move the leaking basket out of the s
 
 “When the baskets are sound and the buyer still wants them.”
 
-It was not the promise I wanted. It was a better answer than he had given me four days ago.
+It was not the promise I wanted. It was a better answer than he had given me on my earlier visit.
 
 I walked away before I could spoil it by offering silver for a place that did not exist. At the end of the landing I stopped and watched the crew move the basket into shade. The wet reeds had left a dark mark on the planks. Someone brought a length of fiber to bind the seam. The trader bent over the repair with the others.
 
