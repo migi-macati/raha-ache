@@ -1,6 +1,6 @@
 # Book I, Chapter 6 — Scene 6A: Where the Baskets Went
 
-*Studio working prose; provisional first-shore sequence after the still-unwritten release of the mooring line in Scene 5F. Ache narrates. The shore, trader, buyer, prices and dialogue are fictional; no attested Ache itinerary, exact distance or sailing duration is asserted. This is not the chapter ending.*
+*Studio working prose; provisional first-shore sequence after the mooring-line release and first-leg passage now saved in Scene 5F-2. Ache narrates. The shore, trader, buyer, prices and dialogue are fictional; no attested Ache itinerary, exact distance or sailing duration is asserted. This is not the chapter ending.*
 
 The first thing I recognized at the new landing was the basket the crew had repaired in Maynila.
 
@@ -104,4 +104,4 @@ We picked up our bundles. Behind us the trader was still bargaining, and the bas
 
 I went with him to ask.
 
-<!-- Editorial bridge: Scene 5F-2, the physical release and departure, remains UNSAVED after a rejected write. Do not assemble/publish Chapter 6 until that gap is filled. The first landing is deliberately unnamed in this fictional scene pending a verified geographic choice; no onward passage or message carrier is secured. -->
+<!-- Editorial bridge: Scene 5F-2 now saves the physical release, first-leg passage and approach to this landing. Perform continuous chronology and cargo QA before public assembly. The first landing is deliberately unnamed in this fictional scene pending a verified geographic choice; no onward passage or message carrier is secured. -->
