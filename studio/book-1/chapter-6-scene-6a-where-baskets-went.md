@@ -28,7 +28,7 @@ I felt Sulad's hand settle briefly against my back. It was not a warning to be q
 
 When the planks were clear, the trader nodded to us. Sulad stepped ashore first. I followed with my jar against my hip. The boards were rougher than those at home, and the jar knocked against a raised edge. I stopped to lift it higher. Behind us the boat moved against its rope, lighter now that the baskets were coming off.
 
-We had reached the place the trader had named to my mother. I had repeated that name so often I could still hear myself saying it in her room. But standing there, I could not have told anyone which house would shelter us or where we might buy another passage. The name had bought me the right to find the place. It had not made the place mine.
+We had reached the place whose name I had carried home from the trader. I had repeated it so often to my mother that I could still hear myself saying it in her room. But standing there, I could not have told anyone which house would shelter us or where we might buy another passage. The name had bought me the right to find the place. It had not made the place mine.
 
 Sulad pointed to a strip of shade beyond the baskets. “Put the food there before someone steps on it.”
 
