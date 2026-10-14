@@ -210,6 +210,6 @@ I thought of the care in the trader's eyes. It had not been respect.
 
 He left me there. I watched him disappear into the traffic of baskets and jars, returning to work that had waited while he answered my question.
 
-I had come looking for a man who could take me to Brunei. I now knew the price of asking after him, the price of one uncertain leg, and the price of speaking as though my mother's stores belonged to me. I had enough silver to pay the first. The second I could not yet afford. The third would have to be paid at home.
+The silver I had left would not buy even one place beside the baskets. I counted it again anyway, then put it away and took the path home. Behind me the trader called for another jar. His men carried it aboard without looking up.
 
 <!-- Source boundary: fictional trader, prices, dialogue and carrier chain. The historical basis is only broad regional commerce; no named itinerary, fare, vessel type or passage is attested. Chapter 6 departure remains unwritten. -->
