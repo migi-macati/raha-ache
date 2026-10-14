@@ -8,9 +8,9 @@ The next morning, Sulad's uncle had the repaired net laid out on the bank. A cou
 
 “I said I would.”
 
-“You also said you would help catch a fish.”
+“You also said you would help replace the fish you lost.”
 
-“I came too late yesterday.”
+“I know. I came to speak to you first.”
 
 “I remember.”
 
