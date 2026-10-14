@@ -46,11 +46,15 @@ He held out his hand.
 
 I stared at it. “For what?”
 
-“For asking. Ula said you would pay for the asking even if the answer was no.”
+“For asking.”
 
-I had said it. The silver lay against my skin where I had carried it from home.
+“I told Ula we had to agree on the price before anyone went. She said she wouldn't promise you my money.”
 
-“How much?”
+“She didn't. I was going upriver with goods. I asked while I was there. You can keep your silver.”
+
+He had done the work without a bargain. I could refuse him; he could refuse the next errand. The silver lay against my skin where I had carried it from home.
+
+“How much would you take?”
 
 He named a smaller amount than I had feared and a larger one than I liked. We settled it without calling witnesses. He counted the payment twice, then tucked it away.
 
