@@ -36,13 +36,11 @@ When we returned to the landing, the trader was no longer arguing. The buyer had
 
 “Can we stay aboard until you leave?” I asked the trader.
 
-“No.”
+“No. The space is for goods again.”
 
-“We have paid.”
+A crewman was clearing the place where Sulad and I had sat. He shook out a damp rope and coiled it there.
 
-“To come here. You have come.”
-
-“Then where do we sleep?”
+“Where do we sleep?”
 
 “Ask the people who own the ground.”
 
