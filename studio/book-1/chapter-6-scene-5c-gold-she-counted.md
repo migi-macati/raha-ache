@@ -78,7 +78,7 @@ Bulkan stayed.
 
 I showed her.
 
-She looked at the coins without touching them. “And how much did you spend finding the captain?”
+She looked at the silver without touching it. “And how much did you spend finding the captain?”
 
 “I did not find him.”
 
