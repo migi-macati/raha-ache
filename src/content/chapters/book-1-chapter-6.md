@@ -1,86 +1,52 @@
 ---
 id: book-1-chapter-6
-name: "Book I, Chapter 6: Flight"
-aliases: ["Flight"]
+name: "Book I, Chapter 6: No Boat Owed Us"
+aliases: ["No Boat Owed Us", "Flight"]
 status: fictional
 developmentStatus: working
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, namayan, mindoro, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, namayan, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 6
 draftStatus: outline
-characters: [ache, sulad, bulkan]
-places: [maynila, mindoro]
+characters: [ache, sulad, bulkan, ula]
+places: [maynila]
 events: [ache-leaves-for-brunei]
 pov: [ache]
 ---
 ## Chapter purpose
 
-Strip Ache of the protections of home and convert his political decision into a survival problem.
+Ache must obtain a real, limited passage without commandeering the labor or goods of his mother's household. The journey begins through trade rather than flight from pursuit, and its first landing provides no guaranteed onward route.
 
 ## Opening state
 
-Ache has chosen exile but still carries assumptions formed by rank, household support, and familiarity with Manila Bay.
-
-## Immediate objective
-
-Escape Tondo's reach and move safely into the Mindoro corridor.
+Ula's inquiry has not located the unnamed Malay-speaking captain. Ache has neither a berth nor sufficient silver. Sulad has not consented to travel. The first-voyage rower's unpaid wages and the household's labor obligations remain unresolved.
 
 ## Main plot movement
 
-Ache and Sulad leave Maynila. Pursuit and distance close the possibility of an easy return.
-
-## Subplots
-
-- **Ache and Sulad:** practical dependence intensifies.
-- **Bulkan:** experience and survival discipline challenge Ache's instinct.
-- **Home as absence:** every mile changes Maynila from present reality into memory and objective.
-
-## Conflict and stakes
-
-Pursuit, navigation, limited supplies, exposure, and the possibility that local communities may refuse help.
-
-## Themes and subthemes
-
-**Theme:** freedom has a cost.
-
-**Subthemes:** exile, vulnerability, status without infrastructure, trust.
+Ache receives an honest but unsuccessful inquiry, negotiates with a cargo trader, and learns the distinction between a fare and a promise of onward passage. His mother releases her own gold under conditions; Sulad separately decides whether to travel and contributes his silver. The trader accepts payment for two passengers to his first commercial landing only. The boat physically departs Maynila. At the unnamed shore, a buyer disputes damaged goods, the trader declines responsibility for further travel, and Ache and Sulad earn food by handling cargo. Shelter and a return-message carrier remain uncertain.
 
 ## Character progression
 
-### Ache
+**Ache:** Makes commitments before understanding their costs, breaks a promise to replace a lost fish, and learns to accept instructions and refusals without relying on his rank.
 
-**Begins:** prince in flight.
+**Sulad:** Negotiates his own terms, retains control of his labor and return decision, and attends to water, food, and immediate survival.
 
-**Pressure:** learns that title cannot produce food, weather, safe passage, or obedience.
+**Ache's mother:** Offers limited personal resources without treating household stores, workers, or political obligations as Ache's property.
 
-**Ends:** starts measuring decisions by survival consequences rather than dignity.
+**Bulkan:** Remains in Maynila because his obligations there cannot simply be transferred to Ache's journey.
 
-### Sulad
+**Ula:** Helps Ache seek information without guaranteeing the messenger, the captain, or a result.
 
-**Progression:** moves from companion to indispensable operational partner.
+## Stakes and constraints
 
-### Bulkan
+The trader's buyers determine cargo space; the passengers supply their own food and water. The fare buys no onward berth, return passage, crew labor, lodging, or message delivery. First-voyage rower wages are not settled by the second-voyage order.
 
-**Function:** represents experience that Ache must learn to value even when it limits his freedom.
+## Ending and handoff
 
-## Turning point
+Ache and Sulad have reached an unnamed first shore. Their immediate work has earned food and a possible lodging lead, but no one owes them another boat. Chapter 7 begins with unfamiliar people and obligations, not a guaranteed route to Brunei.
 
-The fugitives cross a threshold after which immediate return to Maynila is no longer realistic.
+## Historical boundary
 
-## Resolution and ending state
-
-They survive the first leg but are now dependent on uncertain routes and people beyond Ache's home network.
-
-## Setup and payoff
-
-Pays off sailing skills from Chapter 1. Sets up contact with unfamiliar allies in Chapter 7.
-
-## Handoff
-
-The next obstacle cannot be solved by navigation alone; it requires dealing with strangers.
-
-## Suspense and emotional stakes revision
-
-**Scene mandate:** the escape uses skills learned on the Pasig, but a delay, current or watchful merchant destroys their initial route. **Choice:** use another family's shelter and endanger the hosts, or sacrifice irreplaceable supplies to avoid exposing them. **Reversal:** Ache's princely identity attracts unwanted attention instead of securing privilege. **Cost:** a relationship, provision or promise is lost and cannot be bought back at Brunei.
+Regional maritime commerce is the broad setting. This trader, fare, landing, buyer, conversations, and first-leg itinerary are fictional. Aganduru Móriz's retrospective account requires checking against the original Spanish passage before treating its biographical details as established history.
