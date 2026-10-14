@@ -5,14 +5,16 @@ aliases: [Maritime trade, Port exchange]
 status: uncertain
 developmentStatus: current
 related: [maynila, tondo, brunei, loue, malay-diplomacy]
-sources: [pigafetta, william-henry-scott]
+sources: [pigafetta, william-henry-scott, tome-pires-suma-oriental]
 timeline: []
 ---
 ## Regional exchange
 
 Sixteenth-century maritime Southeast Asia connected Chinese manufactures, regional forest and marine products, metals, textiles, foodstuffs, captives, and goods passing through many intermediary ports. The commodity mix varied by port and season. **Do not infer that every item was traded at Maynila in Ache's childhood.**
 
-Ptak's reconstruction distinguishes Borneo- and Luzon-linked corridors toward the Moluccas; this does not establish a single royal monopoly or one fixed customs regime. [Ptak (1992)](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+Ptak reconstructs two overlapping networks: commerce connecting Malacca, Brunei and the northern Philippines, and traffic between the southern Philippines and the Moluccas. The Sulu zone helped connect them. His route descriptions are interpretations of uneven sources, not a schedule of direct sailings or proof of a single royal monopoly. [Ptak (1992), especially pp. 27–28 and 39–41](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+
+For Chapter 6, a cargo-first passage to an unnamed landing, followed by a separate search for a Brunei-bound carrier, is plausible fiction. The source does not attest Ache's departure route, a fare, or a particular first shore.
 
 ## Diplomacy in practice
 
