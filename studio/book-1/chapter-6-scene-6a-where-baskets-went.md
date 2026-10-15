@@ -18,7 +18,7 @@ I had spent the journey watching the basket whenever the boat shifted. I had tho
 
 The buyer turned the basket on its side. A thin line of water ran from the binding and darkened the boards. The trader crouched beside it, pushed the reed with his thumb and said nothing.
 
-Sulad was behind me with our bundles. He had kept them clear of the jars while the crew worked, but when he tried to follow the baskets ashore, a man carrying a pole told him to wait.
+The crew had finally cleared the baskets where our bundles were stowed. Sulad fetched both and stood behind me with them. When he tried to follow the cargo ashore, a man carrying a pole told him to wait.
 
 “We paid to come here,” I said.
 
@@ -26,7 +26,7 @@ Sulad was behind me with our bundles. He had kept them clear of the jars while t
 
 I felt Sulad's hand settle briefly against my back. It was not a warning to be quiet. He was holding me out of the path of two men carrying a jar.
 
-When the planks were clear, the trader nodded to us. Sulad stepped ashore first. I followed with my jar against my hip. The boards were rougher than those at home, and the jar knocked against a raised edge. I stopped to lift it higher. Behind us the boat moved against its rope, lighter now that the baskets were coming off.
+When the planks were clear, the trader nodded to us. I reached behind the baskets for my jar, where the crewman had wedged it for the crossing. Sulad stepped ashore first. I followed with the jar against my hip. The boards were rougher than those at home, and the jar knocked against a raised edge. I stopped to lift it higher. Behind us the boat moved against its rope, lighter now that the baskets were coming off.
 
 We had reached the place whose name I had carried home from the trader. I had repeated it so often to my mother that I could still hear myself saying it in her room. But standing there, I could not have told anyone which house would shelter us or where we might buy another passage. The name had bought me the right to find the place. It had not made the place mine.
 
