@@ -16,6 +16,11 @@ Ptak reconstructs two overlapping networks: commerce connecting Malacca, Brunei 
 
 For Chapter 6, a cargo-first passage to an unnamed landing, followed by a separate search for a Brunei-bound carrier, is plausible fiction. The source does not attest Ache's departure route, a fare, or a particular first shore.
 
+## Payment and material-culture caution
+
+The Bangko Sentral ng Pilipinas describes pre-Hispanic exchange through barter, cowries, gold barter rings and *piloncitos*; its monetary history discusses silver *macuquinas* in the Spanish period. This overview does **not** establish standardized silver coinage in Ache's pre-Spanish Maynila. It also does not prove that imported or weighed silver could never be exchanged. In Chapter 6, avoid recognizable colonial coins, fixed denominations, or a supposedly documented passenger tariff. Sulad's silver and the trader's fare remain fictional material details pending stronger place- and period-specific evidence. [BSP, History of Philippine Money](https://www.bsp.gov.ph/Pages/CoinsAndNotes/HistoryOfPhilippineMoney/HistoryOfPhilippineMoney.aspx).
+
+
 ## Diplomacy in practice
 
 Gift exchange, kinship claims, interpreter choice, guarantees of safe passage, debt, hostage-taking and patronage are useful dramatic mechanisms. Some are documented regionally, but the novel's particular documents, tolls and ceremonies must remain fictional unless supported by a source.
