@@ -24,7 +24,7 @@ By the time I reached Ula's house, the man was gone again.
 
 She returned to the work spread across her mat. She had made me wait four days without once pretending that she could make the river move faster. I had tried twice to come by. Both times she had been elsewhere. I had begun to suspect she was avoiding me, which was a convenient suspicion: it spared me the trouble of wondering why she should be available whenever I wanted her.
 
-At the landing, men were passing baskets from a boat to a row of buyers. One of the baskets had been patched with a strip of darker reed. I watched it go from one pair of hands to another, each man shifting his grip before the next took the weight. Nothing fell.
+At the landing, men were passing baskets from a boat to a row of buyers. One of the baskets had been patched with a strip of pale reed. I watched it go from one pair of hands to another, each man shifting his grip before the next took the weight. Nothing fell.
 
 The brother was standing by a stack of jars. He was broad across the shoulders, with a cut near one thumbnail. I knew him only because he turned when I asked for the woman who had spoken to Ula.
 
