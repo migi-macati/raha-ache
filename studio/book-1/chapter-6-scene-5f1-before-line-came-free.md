@@ -96,6 +96,6 @@ The trader looked over his cargo, then at us.
 
 “Both of you,” he said. “Bring your jars. If you are coming, come now.”
 
-Sulad lifted his bundle. I lifted mine. We stepped toward the boat together, though he reached the planks first.
+Sulad took up his jar. I took up mine. We stepped toward the boat together, though he reached the planks first.
 
 <!-- Scene 5F continues in a separate file. Boarding is imminent; the mooring has not been released and physical departure has not yet occurred. All voyage logistics are fictionalized, not an attested Ache itinerary. -->
