@@ -86,7 +86,7 @@ I wanted to be angry that she would stay with her accounts. I had asked her not 
 
 She drew the needle through the cloth. The stitch was still crooked.
 
-At the landing, Sulad was standing where I had left him. He had kept his bundle closed. The trader's crew had finished moving the jars and were testing the baskets that remained. The patched one stood beside the other baskets, its pale binding still visible. I felt an unreasonable pang at the thought of leaving it behind, as though it had been a sign that the trader would wait for me.
+At the landing, Sulad was standing where I had left him. He had kept his bundle closed. The trader's crew had finished moving the jars and were testing the baskets that remained. The patched one stood beside the other baskets, its pale binding still visible. I felt an unreasonable pang at the thought of watching it leave without us, as though the basket itself had been waiting for me.
 
 “I have enough to offer for two,” I told Sulad.
 
