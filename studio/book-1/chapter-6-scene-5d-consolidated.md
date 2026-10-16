@@ -66,7 +66,7 @@ For a moment Sulad looked as though he might follow. Then he turned to me.
 
 He tucked the bundle beneath his cloth. I wanted to tell him I would make the journey worth what he was leaving. I could not say what that meant, much less how to do it.
 
-At the landing, the trader was counting the jars that remained. A buyer had taken several already. The basket with the pale patch stood beside the others, still waiting to be loaded.
+At the landing, the trader was counting the jars that remained. A local buyer had already taken several jars. The basket with the pale patch stood beside the cargo bound for the trader's buyer at the first landing, still waiting to be loaded.
 
 “Two asking?” the trader said when he saw us.
 
