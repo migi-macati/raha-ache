@@ -8,7 +8,7 @@ The plank bent beneath Sulad's foot. I waited for him to move before I followed,
 
 I let go. He set it behind the baskets, where it could not roll.
 
-There was less room than the trader had promised, though he had never promised comfort. Sulad found our food beneath a fold of dry cloth and moved his knees to make space for me. I sat facing the landing. From there I could see the path by which I had come, and no farther.
+There was less room than the trader had promised, though he had never promised comfort. Sulad found our food beneath a fold of dry cloth. He nested his own jar beside it and tied the bundle closed, then moved his knees to make space for me. I sat facing the landing. From there I could see the path by which I had come, and no farther.
 
 “Keep clear of that rope,” Sulad said.
 
