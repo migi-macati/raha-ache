@@ -1,6 +1,6 @@
 # Book I Chapter 6 — Scene 3 decision ledger (Studio)
 
-**Status:** archival pre-draft planning ledger. Scene 3 prose is saved in `chapter-6-scene-3a-what-house-could-spare.md` and `chapter-6-scene-3b-broken-loop.md`. Chapter 5 is deployed (Pages run `38390807787`); the main checkpoint remains stale, with a corrected version saved only on `ops/chapter5-deployed-checkpoint-20261014`.
+**Status:** archival pre-draft planning ledger. Scene 3 prose is saved in `chapter-6-scene-3a-what-house-could-spare.md` and `chapter-6-scene-3b-broken-loop.md`. Chapter 5 is deployed (GitHub Pages run `38390807787`); main `.automation/raha-ache-chapter-cycle.json` correctly records `lastCompleted: book-1-chapter-5`, `nextChapterId: book-1-chapter-6`, and `publicationState: deployed`. Rendered-page and actual Read Aloud playback verification remain pending.
 
 **Handoff:** Scene 2's trader will consider a passenger only after knowing cargo, provisions, party size and intended first stop; he has offered no berth or guaranteed destination. Ache cannot afford the quoted first-leg fare. Sulad remains undecided; the unnamed Chapter 3 captain remains missing.
 
@@ -19,3 +19,5 @@
 **Source boundary:** Aganduru Móriz later claims maternal permission and gold, but his original Spanish CODOIN 78 pp. 59–60 remain uninspected. Exact scene timing, goods, gold object, wage dispute and conversation are invented. Pires supports regional commercial background, not the fictional transaction.
 
 **Gate (resolved):** Scene 3A and 3B were saved and reviewed before Scenes 4A–4B and later Chapter 6 material. The rower accepts separately paid new work without extinguishing his first-voyage wage claim; the regent discloses but does not yet transfer personal gold. Subsequent Scenes 5C and 5E handle conditional gold transfer and paid passage. Chapter 6 publication still requires continuous editorial QA, integration, CI and GitHub Pages evidence; do not infer publication from Studio prose.
+
+**Continuous-edit candidate (not adopted):** `novel/book1-ch6-no-boat-owed-us-20261014` contains `studio/book-1/chapter-6-assembled-scene-3-revision.md`, a single replacement for Scenes 3A+3B. Its trader does not demand advance payment before confirming cargo space; the rower's old wages remain unpaid even though his new jar-moving work is separately compensated; the mother shows but does not transfer gold. Compare this candidate against the selected Chapter 2 and Scenes 5C–5E before choosing it. Preserve both original Studio scenes and do not concatenate the candidate with them. The older branch diverges from main and must not be merged wholesale.
