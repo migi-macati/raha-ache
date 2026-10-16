@@ -14,6 +14,8 @@ Sixteenth-century maritime Southeast Asia connected Chinese manufactures, region
 
 Ptak reconstructs two overlapping networks: commerce connecting Malacca, Brunei and the northern Philippines, and traffic between the southern Philippines and the Moluccas. The Sulu zone helped connect them. His route descriptions are interpretations of uneven sources, not a schedule of direct sailings or proof of a single royal monopoly. [Ptak (1992), especially pp. 27–28 and 39–41](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
 
+Ptak also argues that, in the early sixteenth century, vessels from Borneo and the southern Philippines rarely traversed the entire northern Malacca–Moluccas route, instead commonly stopping in the Sulu zone. This is a reconstruction of network behavior, **not** evidence that Ache traveled through Sulu or used a particular number of transfers. [Ptak (1992), pp. 45–47](https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804).
+
 For Chapter 6, a cargo-first passage to an unnamed landing, followed by a separate search for a Brunei-bound carrier, is plausible fiction. The source does not attest Ache's departure route, a fare, or a particular first shore.
 
 ## Payment and material-culture caution
