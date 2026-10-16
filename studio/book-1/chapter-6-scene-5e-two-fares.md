@@ -8,7 +8,7 @@ I found her sitting on the floor with a strip of cloth across her knees. One edg
 
 “The trader has room?” she asked.
 
-“He may. His buyer has taken some of the jars.”
+“He may. A buyer here in Maynila has taken some of the jars. The rest are still bound for the landing he named.”
 
 “May.”
 
