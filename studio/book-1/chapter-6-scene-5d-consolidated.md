@@ -4,13 +4,17 @@
 
 The next morning, Sulad's uncle had the repaired net laid out on the bank. A cousin was helping him check the weights. Sulad stood apart with a cloth bundle in his hand.
 
-“You came,” he said.
+“You came back,” he said.
 
 “I said I would.”
 
-“You also said you would help replace the fish you lost.”
+“Yesterday. For the fish.”
 
-“I know. I came to speak to you first.”
+“I came after the catch. I know.”
+
+“And today?”
+
+“I came to speak to you first.”
 
 “I remember.”
 
