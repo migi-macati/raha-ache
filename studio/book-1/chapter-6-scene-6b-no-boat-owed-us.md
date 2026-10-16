@@ -44,9 +44,7 @@ A crewman was clearing the place where Sulad and I had sat. He shook out a damp 
 
 “Ask the people who own the ground.”
 
-He bent to inspect the binding on a jar. I had hoped that once he had carried us, he would feel responsible for what happened next. He had carried us. He had kept the bargain.
-
-Sulad took our jar from me before I could put it down too hard.
+He bent to inspect the binding on a jar. Sulad took our jar from me before I could put it down too hard.
 
 “Thank you for the passage,” he said.
 
