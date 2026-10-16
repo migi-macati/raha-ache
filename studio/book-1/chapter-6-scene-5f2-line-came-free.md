@@ -30,7 +30,7 @@ The crew settled into their work. One man showed me where to place my feet when 
 
 We traveled with the cargo, stopping when the men needed to attend to it and waiting when the water did not suit them. I learned how often a passenger could be in the way without taking a single step. Sulad asked questions when the crew had breath to answer. I asked one at the wrong moment and received no answer at all.
 
-At times I could still imagine the shore beyond us as a place where someone might know a way to Brunei. At other times I could think only of the gold we had spent and the patched basket shifting beside my knee.
+Each time the boat changed its angle, the patched basket leaned toward my knee. I steadied it once with my palm. A crewman shifted it back into place and told me to keep my hands clear of cargo that was not mine.
 
 When the trader finally pointed out the landing where his buyer waited, I did not recognize it from the name he had given me. Men stood among jars and baskets. Someone raised an arm to guide us toward a place beside the planks.
 
