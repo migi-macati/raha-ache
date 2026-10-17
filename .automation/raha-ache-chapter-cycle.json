@@ -1,32 +1,20 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-5",
-  "nextChapterId": "book-1-chapter-6",
+  "lastCompleted": "book-1-chapter-6",
+  "nextChapterId": "book-1-chapter-7",
   "pendingChapterId": null,
   "pendingBranch": null,
-  "publicationState": "deployed",
-  "lastMergeSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
-  "completedChapterPasses": 5,
+  "publicationState": "merged",
+  "lastMergeSha": "293f7ddc300664f96069a4eee9f3d8aa090cb04c",
+  "completedChapterPasses": 6,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "workflowRunId": 38390807787,
-    "sourceSha": "002f3ee843ab38e2401c2583987dfd50c5f03b2e",
-    "conclusion": "success",
+    "sourceSha": "293f7ddc300664f96069a4eee9f3d8aa090cb04c",
+    "conclusion": "pending_verification",
     "liveVerified": false,
-    "verificationLimit": "Rendered page and actual Read Aloud playback not verified",
-    "artifactInspection": {
-      "artifactId": 11807953070,
-      "generatedHtmlPages": 235,
-      "internalLinksChecked": 13627,
-      "missingTargets": 0,
-      "chapter5ProsePresent": true,
-      "chapter5NavigationPresent": true,
-      "readAloudMarkupPresent": true,
-      "readerRuntimeTested": false,
-      "liveVerified": false
-    }
+    "verificationLimit": "Chapter 6 deployment and rendered Read Aloud not yet verified"
   },
   "operatingLessons": [
     {
@@ -79,17 +67,15 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-1-chapter-6",
-    "branch": "studio/book1-ch6-passage-conditions-20261013",
-    "state": "pr_open_draft_editorial_review_pending",
-    "pr": 33,
-    "headSha": "9bfe4b172b277a50538a4c2ecc3468ae533fea61",
-    "progress": "37 Studio commits; consolidated alternative scenes coexist with originals. Draft PR #33 open; reconcile continuous manuscript and verify CI before review/merge.",
+    "chapterId": "book-1-chapter-7",
+    "branch": "studio/book1-ch7-visayan-alliance-research-20261017",
+    "state": "branch_written",
+    "progress": "Eight verified commits; scenes 1–2 and four research notes saved; Scene 3 unsaved",
     "blockers": [
       {
-        "id": "RA-CH6-EDITORIAL-01",
+        "id": "RA-CH7-SCENE3-WRITE",
         "state": "pending",
-        "next": "Select consolidated replacement scenes, resolve remaining buyer distinction and timing, review continuity and chapter title; keep draft until QA."
+        "next": "Develop materially revised scene with historical ownership and language constraints; do not repeat rejected write"
       }
     ]
   },
