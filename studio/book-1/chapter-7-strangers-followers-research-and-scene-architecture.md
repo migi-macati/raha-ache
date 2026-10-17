@@ -1,6 +1,6 @@
 # Book I, Chapter 7 — The Stranger's Followers (research and scene architecture)
 
-**Status:** Studio research/planning, not public canon or prose. **Prepared:** 17 October 2026, Asia/Manila. **Current release dependency:** Chapter 6 public PR #34 is draft; GitHub Actions build passed, but no merge or GitHub Pages deployment. This packet is independent and must not advance the Chapter 6 checkpoint.
+**Status:** Studio research/planning, not public canon or prose. **Prepared:** 17 October 2026, Asia/Manila. **Release evidence rechecked 18 October:** Chapter 6 PR #34 has merged; GitHub Pages run `39020247255` built and deployed main SHA `61fc628aaedd38231e8dc24f3536641d752de7f5`. Rendered-page and Read Aloud verification remain outstanding; the main automation checkpoint still records `merged`, not `deployed`. Chapter 7 is the active writing target. This Studio packet cannot advance the forward checkpoint.
 
 ## Exact Chapter 6 handoff
 
@@ -23,8 +23,8 @@ Chapter 6's public release candidate ends at an **unnamed first landing**, after
 **Scene beats (not yet prose):**
 - 7A: Shelter request is conditional. Ache cannot purchase a royal exception; the household's occupant or steward has a credible reason to limit access. Sulad offers labor without surrendering his own decision.
 - 7B: The visiting boat's problem is first visible as *someone else's* dispute. Mulaw appears with a specific follower who disagrees with him; show leadership as negotiation and obligation rather than universal obedience.
-- 7C: Ache correctly notices one material detail (cargo count, wet seam, disputed container or mooring hazard), but initially misreads the human claim attached to it. His intervention risks the household's trust. His mistake has an immediate cost.
-- 7D: Sulad opposes an offer Ache makes on both their behalf. Mulaw refuses the assumption that a stranger's rank buys his crew. Ache withdraws or amends the offer **in front of witnesses**, without a speech about lessons.
+- 7C: **Scene 3A saved** at `96ac1450a0d0c416c878245955a1905ad7cefbc8`: Ache pays one extra pole-handler to steady the visiting boat. The agreed work is completed and his silver is spent, but Nima refuses to land his sister's cloth on the fisherman's ground. The host has refused storage. Ache and Sulad go uphill again. Neither unloading nor onward passage is authorized.
+- 7D: **Unwritten / UNSAVED.** Sulad refuses any offer of his labor made without his consent; Ache must withdraw or amend it **in front of witnesses**, without a speech about lessons. The visiting leader must retain independent obligations to Nima and the crew. Do not presume the earlier safety-rejected Scene 3B or 4A drafts exist in GitHub.
 - 7E: Shared work under a bounded agreement solves the immediate material crisis; the host or buyer receives a meaningful concession. At least one participant remains displeased. Mulaw's followers choose to help for reasons visible in action.
 - 7F: Ache and Sulad gain an introduction or *conditional* chance to seek the next leg, **not** a guaranteed vessel to Brunei. Mulaw keeps a conflicting priority that can reappear in Books II–III. Chapter 8 retains its distinct negotiation for supplies and future obligations.
 
