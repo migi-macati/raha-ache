@@ -2,7 +2,7 @@
 
 *Ache narrates. Follows Scene 1's conditional one-night shelter bargain. The unnamed landing, host household, visiting vessel, Mulaw's encounter and crew member Nima are fictional; neither a particular vessel type nor an attested voyage is claimed. This scene introduces a dispute but does not resolve it, grant passage, or commit Ache and Sulad to anyone's crew.*
 
-The path to the water was longer with a full jar.
+The path back from the water was longer with a full jar.
 
 I had noticed a root crossing it on the way out. On the return I caught my foot beneath the same root and nearly let the jar strike a stone. Sulad stopped ahead of me. He did not offer to carry it.
 
