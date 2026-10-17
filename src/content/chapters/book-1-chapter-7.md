@@ -11,7 +11,7 @@ book: book-1
 chapterNumber: 7
 draftStatus: outline
 characters: [ache, sulad, lakanmulaw]
-places: [palawan, mindoro, calamianes]
+places: []
 events: []
 pov: [ache]
 ---
@@ -25,7 +25,7 @@ Ache is vulnerable and inclined to categorize unfamiliar armed men as obstacles 
 
 ## Immediate objective
 
-Survive the encounter and secure safe continuation south.
+Survive the dispute at an unnamed first landing and earn only a conditional chance to seek onward passage.
 
 ## Main plot movement
 
@@ -75,7 +75,7 @@ A shared threat or mutual need makes continued hostility more costly than cooper
 
 ## Resolution and ending state
 
-Ache gains passage or assistance, but more importantly learns that alliances are transactions of trust and interest, not gifts owed to rank.
+Ache gains a conditional introduction or chance to negotiate onward passage, not a guaranteed boat, route, or fare. Mulaw's independent obligations and Sulad's objections survive the immediate agreement.
 
 ## Setup and payoff
 
