@@ -21,7 +21,7 @@ Force Ache to form an alliance outside his inherited networks and establish Laka
 
 ## Opening state
 
-Ache is vulnerable and inclined to categorize unfamiliar armed men as obstacles or threats.
+Ache and Sulad have conditional shelter for one night, little silver, and no confirmed onward passage. Ache is too quick to treat his own willingness to help as authority to settle other people's arrangements.
 
 ## Immediate objective
 
@@ -29,17 +29,17 @@ Survive the dispute at an unnamed first landing and earn only a conditional chan
 
 ## Main plot movement
 
-Initial distrust becomes cooperation because neither side can solve the immediate danger alone.
+Ache pays for an extra hand to steady a visiting boat, but cannot authorize unloading Nima's sister's cloth onto occupied ground. His payment buys the agreed labor, not landing rights. Any cooperation must be negotiated afterward.
 
 ## Subplots
 
-- **Ache and Lakanmulaw:** future alliance begins in mutual suspicion.
-- **Ache and Sulad:** they may disagree over whether the stranger can be trusted.
+- **Ache and the visiting boat leader (provisionally Mulaw):** a possible alliance must respect the leader's obligations to his crew and the absent cloth owner.
+- **Ache and Sulad:** Sulad already challenges Ache's unilateral decisions; neither his labor nor his consent can be promised for him.
 - **Widening world:** political categories outside Maynila prove more complex than Ache expects.
 
 ## Conflict and stakes
 
-Misreading the encounter could cost supplies, freedom, lives, or the route to Brunei.
+Ache has spent scarce silver on useful work without resolving the dispute. The cloth remains aboard, the landing space remains contested, and Sulad has reason to question Ache's judgment.
 
 ## Themes and subthemes
 
@@ -51,7 +51,7 @@ Misreading the encounter could cost supplies, freedom, lives, or the route to Br
 
 ### Ache
 
-**Begins:** expects status or force to organize the interaction.
+**Begins:** assumes money and initiative can organize a dispute before securing the relevant people's permission.
 
 **Pressure:** must evaluate another leader as an equal actor with independent goals.
 
@@ -71,7 +71,7 @@ Misreading the encounter could cost supplies, freedom, lives, or the route to Br
 
 ## Turning point
 
-A shared threat or mutual need makes continued hostility more costly than cooperation.
+Ache must acknowledge in front of the affected people that his payment did not buy permission to unload; Sulad and the cargo owner retain the right to refuse further obligations.
 
 ## Resolution and ending state
 
