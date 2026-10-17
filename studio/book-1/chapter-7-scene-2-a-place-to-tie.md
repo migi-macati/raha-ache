@@ -90,6 +90,8 @@ The buyer stood beside the post. “That is what the last man said.”
 
 “His rope is. I cut it off myself.”
 
+The buyer repeated the request for the men ashore, pointing at the post. I understood his words; the young man's answer had reached me in pieces. I had been taking the pauses for anger when some of them were spent making sure each side had heard.
+
 The young man looked down at the rope trailing from the post, then at the man holding the boat with his pole.
 
 “Ask him whether he wants it,” he said.
@@ -102,7 +104,7 @@ The buyer did not laugh.
 
 A narrow bundle lay across the waiting boat's middle. Its covering had been pulled back to show folded cloth, with another bundle beneath it. A crewman was pressing the wet edge of the covering against his knee, trying to wring out the water without letting it reach the cloth.
 
-The young man noticed me looking.
+The young man noticed me looking. When he spoke to me, he chose shorter words than he had used across the water.
 
 “Have you bought something?” he asked.
 
