@@ -518,7 +518,7 @@ Sulad looked downhill. Through the trees I could see the visiting boat shift awa
 
 “This time.”
 
-I tried to pass. He stepped aside, but did not follow. When I turned, he was looking at our empty jar as though he might set it down and leave it there.
+I tried to pass. He stepped aside, but did not follow. When I turned, he was looking back toward the house as though he might leave me to finish the walk alone.
 
 “We still have a place to sleep,” I said.
 
