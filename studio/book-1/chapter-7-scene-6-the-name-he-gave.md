@@ -120,7 +120,7 @@ I raised my hand. He looked toward the buyer, then brought the boat close enough
 
 “I wanted to ask your name.”
 
-He looked at Sulad before answering. Sulad was filling our jar from a smaller vessel the buyer had set beside the baskets. He had not come to hear another bargain.
+He looked at Sulad before answering. Sulad was asking the buyer whether we might fill our jar from the smaller vessel beside the baskets. The buyer nodded, and Sulad bent to pour. He had not come to hear another bargain.
 
 “Mulaw,” the young man said.
 
@@ -180,6 +180,6 @@ Sulad shifted the jar against his side.
 
 “Then we should find breakfast.”
 
-The buyer was still counting baskets. We went to ask whether he needed hands.
+The buyer was still counting baskets. I waited until he finished one stack before asking whether he needed hands.
 
 <!-- Studio gate: Closing scene is provisional pending the unwritten confrontation and bridge scenes. No additional silver, guaranteed food, shelter beyond the first night, cargo landing, future passage, message home, named island, or established sailing route. Sulad has not consented to any new labor or voyage. Mulaw is a provisional fictional personal name only, without datu/lakan titulature. Nima's absent sister's cloth remains aboard and the visiting crew leaves to honor its own obligation. Chapter 8 owns the subsequent supply and passage negotiation. -->
