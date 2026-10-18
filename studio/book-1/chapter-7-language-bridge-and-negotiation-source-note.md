@@ -15,4 +15,18 @@
 
 For Scenes 3–5, distinguish *narrated English translation* from *in-world comprehension*. A compact interruption can show that the visitors initially understand a demand differently, with Nima correcting the interpretation by pointing to the wet bundle and the buyer to the occupied ground. Let the dispute hinge on a real ambiguous term (place to land vs place to store; paid labor vs right to move cargo), without fabricating a period Visayan or Malay word. Show who repeats, rephrases or gestures and whether a statement reaches its intended listener. Misunderstanding should add friction but not erase the separate legal/moral claims of the host, buyer, fisherman and Nima's absent sister.
 
+## Scene-level communication audit (18 October)
+
+The following maps *what the manuscript shows*, not a reconstructed historical lingua franca:
+
+- **Scene 1, host → Ache/Sulad:** the host repeats the name of the water source more slowly after Ache misses it. Sulad repeats the sound but does not claim to know its meaning. Their practical agreement is reinforced by pointing to jars, the roof and the sleeping space.
+- **Scene 2, visiting leader → buyer → people ashore:** the buyer repeats the mooring request for those ashore; Ache understands the buyer's words but catches only pieces of the leader's reply. Do not convert this into full Ache–leader fluency in later scenes.
+- **Scene 2, visiting leader → Ache:** the leader deliberately uses shorter speech when Ache looks at the covering. Their exchange demonstrates limited direct communication, not a named shared language.
+- **Scene 2, Nima/leader → buyer/fisherman:** the dispute's physical referents are visible (wet cloth, post, net, occupied ground), but the exact interpreter for every utterance is *not established*. A later negotiated agreement must explicitly check each affected person's understanding.
+- **Scene 3A, Ache → hired pole-handler:** silver is exchanged for a narrowly described action, holding the bow steady. Work is performed; the payment conveys no storage or unloading permission.
+- **Scene 3A, Nima → Ache:** Ache hears most of Nima's objection, requests the final part again, and receives slower words plus gestures toward the cloth and Ache. The narrative supports Ache understanding that objection, not a comprehensive command of Nima's speech.
+- **Still unverified for Scenes 3B–5:** whether the fisherman, Nima, the host and the visiting leader all hear and accept the *same* proposed terms. Stage a short repetition or physical demonstration before anyone acts. Distinguish consent to move a bundle from consent to leave it on the ground.
+
+**Dialogue release check:** for each proposed agreement record who speaks, who translates or repeats, who physically assents, what is *not* authorized, and who can withdraw. Do not retrofit a convenient universal interpreter or invent a period-specific term without source support.
+
 **QA gate:** Before publishing Chapter 7, annotate in Studio the likely speaker/listener for each crucial offer, refusal and concession; establish the shared medium or mediation in the fiction. Do not assert that every character shares one language, or use modern Tagalog/Visayan expressions as verified sixteenth-century dialogue. This note supplements, rather than replaces, the existing cloth-ownership and scene-architecture notes.
