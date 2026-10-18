@@ -896,7 +896,7 @@ She looked at Sulad, who was waiting at the path.
 
 We went down. The fisherman was lifting his net from the ground, drawing one edge through his fingers to find the places that needed mending. The post stood free. The buyer had already begun arranging his baskets for the day's work.
 
-Beyond the shallows the visiting boat moved slowly on its poles. Its covering had been folded over the bundle and weighted at the corners. Nima sat beside it, watching the shore. The young man who had argued with the fisherman stood near the bow.
+Beyond the shallows the visiting boat moved slowly on its poles. I could not tell whether it had returned during the night or waited beyond the landing after its rope was taken down. Its covering had been folded over the bundle and weighted at the corners. Nima sat beside it, watching the shore. The young man who had argued with the fisherman stood near the bow.
 
 I raised my hand. He looked toward the buyer, then brought the boat close enough for us to speak without shouting.
 
