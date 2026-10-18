@@ -828,9 +828,9 @@ A wind moved through the trees behind the house. The newly bound edge made no so
 
 The woman carried her child inside. We lay under the eaves with our bundles between us and the path. Sulad turned on his side to keep clear of the screen. I had to bend one knee to fit beneath the lowest part of the roof.
 
-“You told the fisherman I would carry the baskets back,” Sulad said.
+“You told the fisherman we would move his baskets,” Sulad said.
 
-“I told him I would.”
+“I took it back.”
 
 “After I asked what happened if I left.”
 
