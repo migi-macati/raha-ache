@@ -1,6 +1,6 @@
 # Book I, Chapter 7 — The Stranger's Followers (research and scene architecture)
 
-**Status:** Studio research/planning, not public canon or prose. **Prepared:** 17 October 2026, Asia/Manila. **Release evidence rechecked 18 October:** Chapter 6 PR #34 has merged; GitHub Pages run `39020247255` built and deployed main SHA `61fc628aaedd38231e8dc24f3536641d752de7f5`. Rendered-page and Read Aloud verification remain outstanding; the main automation checkpoint still records `merged`, not `deployed`. Chapter 7 is the active writing target. This Studio packet cannot advance the forward checkpoint.
+**Status:** Studio research and scene architecture; Scenes 1, 2, 3A, 4, 5 and 6 are saved as separate drafts. The assembled reader-facing Chapter 7 manuscript is on `novel/book1-ch7-length-of-a-rope-20261018` (branch-written, not merged or deployed). Studio material is not itself published canon. **Prepared:** 17 October 2026, Asia/Manila. **Release evidence rechecked 18 October:** Chapter 6 PR #34 has merged; GitHub Pages run `39020247255` built and deployed main SHA `61fc628aaedd38231e8dc24f3536641d752de7f5`. Rendered-page and Read Aloud verification remain outstanding; the main automation checkpoint still records `merged`, not `deployed`. Chapter 7 is the active writing target. This Studio packet cannot advance the forward checkpoint.
 
 ## Exact Chapter 6 handoff
 
@@ -24,13 +24,15 @@ Chapter 6's public release candidate ends at an **unnamed first landing**, after
 - 7A: Shelter request is conditional. Ache cannot purchase a royal exception; the household's occupant or steward has a credible reason to limit access. Sulad offers labor without surrendering his own decision.
 - 7B: The visiting boat's problem is first visible as *someone else's* dispute. Mulaw appears with a specific follower who disagrees with him; show leadership as negotiation and obligation rather than universal obedience.
 - 7C: **Scene 3A saved** at `96ac1450a0d0c416c878245955a1905ad7cefbc8`: Ache pays one extra pole-handler to steady the visiting boat. The agreed work is completed and his silver is spent, but Nima refuses to land his sister's cloth on the fisherman's ground. The host has refused storage. Ache and Sulad go uphill again. Neither unloading nor onward passage is authorized.
-- 7D: **Unwritten / UNSAVED.** Sulad refuses any offer of his labor made without his consent; Ache must withdraw or amend it **in front of witnesses**, without a speech about lessons. The visiting leader must retain independent obligations to Nima and the crew. Do not presume the earlier safety-rejected Scene 3B or 4A drafts exist in GitHub.
+- 7D: **Saved as Scene 4, *The Words He Took Back*.** Sulad challenges Ache's assumption that he will carry baskets; Ache publicly withdraws the unauthorized promise before witnesses. The buyer then reopens a narrower mooring negotiation. There is no separate saved Scene 3B; do not require or invent one.
 - 7E: Shared work under a bounded agreement solves the immediate material crisis; the host or buyer receives a meaningful concession. At least one participant remains displeased. Mulaw's followers choose to help for reasons visible in action.
 - 7F: Ache and Sulad gain an introduction or *conditional* chance to seek the next leg, **not** a guaranteed vessel to Brunei. Mulaw keeps a conflicting priority that can reappear in Books II–III. Chapter 8 retains its distinct negotiation for supplies and future obligations.
 
 **Character pressure:** Ache is observant but prematurely confident; he must be wrong in a way that inconveniences someone with less status. Sulad's dissent cannot vanish when Ache apologizes. Mulaw is funny or warm in a private moment yet capable of leaving strangers behind to protect his people. Give one follower a name, skill, fear and separate incentive, not a faceless entourage. The local host's caution should be rational.
 
 **Tension with future history:** Readers may know Ache will reach Brunei, but not whether this particular household, follower, bargain or companion survives the encounter. Avoid a false threat that history already settles; build suspense around whose trust is lost, what debt survives and who pays.
+
+**Chapter 7 release QA (open, 18 October):** The assembled manuscript needs a coherent account of returning the buyer's shifted baskets, consistency between Sulad's voluntary three-basket assistance and his later accusation, and a review of repeated buyer/onward-boat advice in Scenes 5–6. Earlier scoped public-manuscript corrections were safety-rejected: **UNSAVED**. Do not claim these defects fixed or retry equivalent rejected writes. The Chapter 7 public PR was also safety-rejected; no PR, CI or deployment is established by the assembled branch. Preserve the existing 30 core chapters and Book III bonus 11–12.
 
 ## Constraints and next research
 
