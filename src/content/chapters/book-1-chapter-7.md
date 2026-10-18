@@ -347,3 +347,313 @@ I looked at the cloth, then at the strip of shade beneath the woman's roof. Ther
 The young man called to the buyer again. This time he asked what would count as an agreement.
 
 I stayed long enough to hear the buyer begin to answer. Then I followed Sulad up the path.
+
+* * *
+
+The woman had set the smaller jar inside when we returned. The child was asleep with one hand caught in the edge of her cloth. She had not yet unrolled a mat.
+
+“Is the roof holding?” Sulad asked.
+
+“For now.” She looked from him to me. “What did you find at the water?”
+
+“A boat with cloth getting wet,” I said.
+
+“Most boats are wet.”
+
+“The cloth is meant to stay dry.”
+
+“Then someone should have covered it.”
+
+“They did. The covering tore.”
+
+She laid the child down, eased her cloth free, and waited. I could hear people calling below us. I had come back to ask a question, but the answer seemed to be waiting in the house already.
+
+“There is room beneath your eaves,” I said.
+
+“For two people who carried my water.”
+
+“Only until the cloth can be covered again.”
+
+“Whose cloth?”
+
+“A man's sister's.”
+
+“Where is his sister?”
+
+“I don't know.”
+
+“Does he want it here?”
+
+“I haven't asked him.”
+
+“Then you have asked the wrong person first.”
+
+I looked at the ground we had measured for sleeping. There was no mat on it, and no fire. I had thought of the space as ours because she had said we could use it. Now I saw the basket she had been repairing, set beside the post to keep it out of the path, and the marks where the rain had washed soil down from the roof.
+
+“I could pay you,” I said.
+
+“You could. You would still need to ask the people whose things you want to put here.”
+
+Sulad was beside the water jars. He had taken the lid off ours to see how much remained.
+
+“We should leave it,” he said.
+
+“It's getting darker.”
+
+“Yes.”
+
+He replaced the lid. I waited for him to say more. He did not.
+
+Below us another call rose from the landing, shorter this time. The woman picked up her basket and sat where she could see the path.
+
+“If you go back,” she said, “do not tell anyone I am keeping their goods.”
+
+“I won't.”
+
+“And if someone comes asking, I will tell them the same.”
+
+We went down again. Sulad carried nothing. I had brought our small piece of silver out of my cloth and kept it closed in my fist.
+
+At the landing the visiting boat was still being held away from the post. One man had changed places with another at the forward pole. The fisherman had spread part of his net over the high ground beside the baskets. Its weighted edge lay where I had imagined the cloth could be set.
+
+The young man was speaking with the buyer. Nima stood behind him, one hand pressed to the wet covering.
+
+“The net could be moved,” I said.
+
+The fisherman heard me. “It could. Where would you put it?”
+
+I had no answer ready. I pointed to a man waiting near the baskets with a carrying pole.
+
+“Would you help lift the cloth clear of the water?” I asked him.
+
+“For what?”
+
+I opened my hand.
+
+He looked at the silver, then at the boat. “I can hold the bow while they shift it. I cannot tell you where it may lie.”
+
+“That would give them time.”
+
+“It would give them one more pole.”
+
+I gave him the silver. He took it and stepped into the shallows, calling to the man at the bow to make room. The two of them steadied the boat against a small wash. The crewman holding the cloth lifted one corner of the covering, and Nima caught it before it dragged through the water.
+
+“Bring the bundle up,” I called.
+
+Nima turned. “Who said we were bringing it up?”
+
+“There's dry ground.”
+
+“Where?”
+
+I pointed beside the net.
+
+The fisherman planted his foot there. “That is where I put my catch when I come in.”
+
+“Only for a little while,” I said.
+
+“You do not know when I come in.”
+
+The buyer looked at the man I had paid, now braced against the bow. “Did you hire him to take my place?”
+
+“No,” I said. “To help.”
+
+“Then let him help with what he agreed to.”
+
+Nima had pulled the covering back over the bundle. He kept his hand on it as if I might reach across the water and take it.
+
+“My sister told me to bring this to the buyer she named,” he said. “If I set it on another man's ground and it is spoiled, will you tell her that you meant well?”
+
+I had heard most of his words. I asked him to repeat the last part. He pointed first at the bundle, then at me, and said it again more slowly. The young man said nothing while I tried to answer.
+
+“I wasn't taking it,” I said.
+
+“You were telling us where to put it.”
+
+The young man turned to the fisherman. “Is there ground you will allow us to use?”
+
+“Not that ground.”
+
+“Then we are where we were,” he said.
+
+The man I had hired held the bow until the crew shifted their weight and the boat stopped striking against the wash. He came ashore dripping to the knees. I looked at the silver in his hand.
+
+“You asked me to hold her steady,” he said. “I did.”
+
+I had. He had done the work, and I had no claim on the payment.
+
+Sulad stood near the path, away from the people still bargaining. He had watched without offering a word on my behalf. When I reached him, he looked toward the boat.
+
+“You paid for another pair of hands,” he said.
+
+“I thought they could unload.”
+
+“You thought the ground was empty.”
+
+“It looked empty.”
+
+“It wasn't.”
+
+He turned uphill. I followed him. Behind us the calls began again, and I could no longer tell which side was asking the other to wait.
+
+* * *
+
+Sulad stopped halfway up the path.
+
+I nearly walked into him. The silver was gone, the boat was still in the water, and I wanted to be under the roof before someone below thought of another thing to ask of me.
+
+“What?” I said.
+
+“You called to the man with the pole before you knew where the cloth could go.”
+
+“I paid him for holding the boat. He held it.”
+
+“He did.”
+
+Sulad looked downhill. Through the trees I could see the visiting boat shift away from the bank, then back again. A man at the stern braced his pole in the mud.
+
+“You keep finding work for other people,” Sulad said.
+
+“I was the one who paid.”
+
+“This time.”
+
+I tried to pass. He stepped aside, but did not follow. When I turned, he was looking at our empty jar as though he might set it down and leave it there.
+
+“We still have a place to sleep,” I said.
+
+“For tonight.”
+
+“I know.”
+
+“You say that as though it means tomorrow too.”
+
+The woman's roof appeared through the leaves. I could see the basket she had been mending. She had warned me not to send anyone to her house with the cloth, and I had not. It seemed an achievement until I remembered I had brought nothing back to show for the silver.
+
+“Are you going home?” I asked him.
+
+“Not on a boat I haven't found.”
+
+“Then come up.”
+
+“I will when I decide to.”
+
+I went the last few steps alone. The woman was crouched beside her jar, scraping grit from its lip with a sliver of wood.
+
+“Did they bring the cloth?” she asked.
+
+“No.”
+
+“Good.”
+
+“The boat is still there.”
+
+“It was there before you went down.”
+
+I could hear the child moving inside. She lifted the jar, saw that the bottom was clean, and put it back.
+
+“You can sleep where I told you,” she said. “The ground will be drier if you leave it alone until night.”
+
+I thanked her. She went inside without asking whether I had made myself useful.
+
+Sulad came up the path and stood at the edge of the roof's shade. He did not look at me. After a while the child began to fuss and the woman called for us to move out of the way of the door. We moved.
+
+Below, the calls had changed. They were shorter and farther apart. The boat had not left.
+
+“The buyer knows where people can stand,” I said. “He could ask the fisherman again.”
+
+“He already asked.”
+
+“Then I could help move his baskets.”
+
+“You could.”
+
+“There are two of us.”
+
+Sulad turned toward me.
+
+I heard it after I said it. I had meant that two men could carry more than one. He had heard that I had counted his hands before he had offered them.
+
+“I didn't mean—”
+
+“You did.”
+
+I wanted to say I had only been thinking aloud. The fisherman would have heard the same words if I had spoken them at the landing. He would have made plans around them, as I had made plans around the woman's roof.
+
+“Come down with me,” I said. “You don't have to carry anything.”
+
+“I know.”
+
+He picked up our jar. He came because he wanted to hear what I would say, not because I had persuaded him.
+
+At the landing, the man I had paid was gone. The buyer was counting the baskets nearest the path, touching each one as he passed. The fisherman had lifted a corner of his net to shake out the grit. No one had moved the bundle of cloth. Nima was still beside it.
+
+I waited until the buyer looked up.
+
+“Could the baskets be shifted to that hard place above the water?” I asked.
+
+“Why?”
+
+“So they could use the post long enough to mend the covering.”
+
+The buyer looked at the fisherman. “You have already heard his answer.”
+
+“I can move them,” I said. “We can put them back when they're done.”
+
+The fisherman caught the last word.
+
+“We?”
+
+I looked at Sulad. He held the jar against his hip.
+
+“I haven't said I will,” he told the fisherman.
+
+The buyer's fingers stopped on the rim of a basket.
+
+“I spoke too soon,” I said. “I meant I could move them.”
+
+“And carry them back?” the fisherman asked.
+
+“If he leaves before the boat is free, will you still do it?”
+
+“Yes.”
+
+“Then why did you say we?”
+
+Because I had thought Sulad would stay. Because I had seen him carry water, and assumed he would carry whatever came next. I did not give the fisherman those answers. He was waiting for one he could use.
+
+“I shouldn't have spoken for him,” I said. “You have my word for my hands. Not his.”
+
+Sulad's expression did not change. He had not asked for an apology. He had asked me to stop making bargains he would have to keep.
+
+The buyer moved a basket with his foot, no farther than the width of his sandal.
+
+“Even if you carry these,” he said, “what will the boat do with the space?”
+
+I started to point toward the bundle. Nima saw the movement and leaned across it. I let my hand fall.
+
+“The cloth stays with its people,” I said.
+
+The young man at the bow called something I did not understand. The buyer answered him, then turned back to the fisherman.
+
+“They want the boat still while they work on its covering. They are not asking to leave the cloth here.”
+
+“That's not what they asked before,” the fisherman said.
+
+“No,” said the buyer.
+
+The young man spoke again. The buyer made him repeat it and showed him the post with two fingers. The young man nodded, but Nima said something sharp enough that the man beside him looked away.
+
+“What did he say?” I asked.
+
+“That the cloth doesn't leave the boat,” the buyer said. “You heard that before.”
+
+“I heard.”
+
+The fisherman gathered the net over one arm. His ground was narrow. The baskets stood where he would need to work. The boat could not be held against the post without a rope, and the visiting men were still spending their strength on poles. None of that gave me the right to settle the matter.
+
+The buyer walked to the fisherman and asked him whether the post could be used while the covering was secured.
+
+The fisherman looked at his net, then at the boat. He did not answer.
+
+I stayed where I was. Sulad stood beside me, holding the jar. It was the first time that evening I had waited without trying to finish another person's sentence.
