@@ -16,4 +16,4 @@ events: [legazpi-king-luzon-message]
 ---
 Superseded numbering from the later Book III development sequence.
 
-The material is now the current **Book III, Chapter 10: Old King, New World on the Horizon**.
+This archived title is **not** the current Book III Chapter 10. The active **Book III, Chapter 10: The Kingdom Holds** resolves the trilogy's invented coalition crisis. The Spanish arrival and its aftermath belong to **Book III, Bonus Chapter 11: The Foreigners Return** and **Bonus Chapter 12: The Last Raha**. This entry preserves an obsolete sequence label for research traceability only.
