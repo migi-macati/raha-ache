@@ -36,9 +36,9 @@ The woman watched him check the second bundle. When he finished, she asked wheth
 
 “That was not what I asked.”
 
-He looked at the mats on the rack, then at the water below. “They are mine to keep dry until she comes.”
+He looked at the mats on the rack, then at the water below. “I agreed to take them. They are mine to keep dry.”
 
-The woman made him repeat it to her brother. Only then did she tell us our work was finished.
+He took the payment he owed from his pouch and counted it into her hand. She counted it again, then made him repeat his promise to her brother. Only then did she tell us our work was finished.
 
 My hands had begun to shake. I had carried less than I had at the first landing, but I had been holding my breath whenever the man's fingers went near a loose edge.
 
