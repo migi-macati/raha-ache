@@ -21,25 +21,25 @@ Deliver Book I's survival crisis and prove that Ache has changed enough to lead 
 
 ## Opening state
 
-Brunei is within reach, but the group is exhausted and pursuit has not fully released them.
+At the end of Chapter 8, Ache and Sulad have negotiated only conditional passage for one leg to an unnamed landing. The mat carrier's cargo and decision to depart take priority. Their food has been earned for specific work; neither has an onward fare, a confirmed route to Brunei, or evidence of a pursuer on this shore.
 
 ## Immediate objective
 
-Break beyond pursuit and survive the final dangerous passage.
+Fulfill the one-leg cargo bargain, seek each subsequent passage on its own terms, and survive the final dangerous crossing without treating Sulad's labor or another person's vessel as Ache's to promise.
 
 ## Main plot movement
 
-Final confrontation and severe weather converge. Ache must make decisions under pressure that determine who reaches Brunei.
+A credible sequence of coastal legs and negotiated transport brings Ache and Sulad toward a dangerous open-water crossing. Worsening weather creates a crisis that tests obligations to crew, cargo, and one another. A pursuing antagonist may enter only if their presence, route and means are established beforehand; the storm must not arrive as a shortcut past missing travel logistics.
 
 ## Subplots
 
-- **Ache and Sulad:** trust is tested at maximum stakes.
-- **Bulkan/experienced fighters:** old authority and Ache's emerging leadership may conflict.
-- **Earlier alliances and supplies:** prior choices either pay off or reveal costs.
+- **Ache and Sulad:** Sulad retains an independent choice about every new leg; trust is tested when Ache cannot command his labor.
+- **Bulkan/experienced fighters:** include Bulkan only if his arrival and physical route are established; do not assume he is aboard.
+- **Earlier alliances and supplies:** the mat carrier's one-leg bargain must be fulfilled before any new transport agreement; earlier work and scarce provisions carry consequences.
 
 ## Conflict and stakes
 
-Lives, boats, supplies, and the entire possibility of reaching Brunei.
+Lives, boats, supplies, earned trust, and the possibility of continuing toward Brunei. No vessel or crew is obliged to carry Ache beyond a negotiated leg.
 
 ## Themes and subthemes
 
@@ -67,20 +67,24 @@ Lives, boats, supplies, and the entire possibility of reaching Brunei.
 
 ## Turning point
 
-Ache chooses to confront or outmaneuver the final threat rather than continue reacting to it.
+Ache must choose between two incompatible duties when dangerous weather makes a crossing unsafe. The choice should arise from established people and cargo, not an invented pursuer or sudden command over strangers.
 
 ## Resolution and ending state
 
-The survivors break beyond Tondo's immediate reach. The flight's physical danger is substantially resolved.
+After an earned sequence of passage agreements and the sea crisis, the survivors approach Brunei with the immediate danger substantially resolved. The narrative must account for the distance between the unnamed Chapter 8 landing and that approach.
 
 ## Setup and payoff
 
-Pays off sailing, negotiation, alliances, and Ache's shift toward responsibility.
+Pays off sailing, paid labor, limited passage agreements, negotiations, and Ache's shift toward responsibility. Do not retroactively make Chapter 8's conditional first leg a guaranteed Brunei voyage.
 
 ## Handoff
 
-Chapter 10 replaces survival danger with a new test: whether Brunei will receive Ache and what that reception actually means.
+Chapter 10 begins with the actual arrival in Brunei and the question of whether Ache will be received. Chapter 9 must earn proximity to Brunei before handing off.
 
 ## Suspense and emotional stakes revision
 
-**Scene mandate:** the final storm and pursuit force two incompatible rescues. Weather and navigational skill matter, but do not turn survival into a lecture on seamanship. **Reversal:** the most technically sound choice carries a deeply personal loss; no quick speech resolves it. **Cost:** a vow, object, ally's trust or non-historical supporting character can be lost permanently. Don't kill a named figure without checking later canon. **Handoff:** survivors bring grief to Brunei.
+**Scene mandate:** a storm or other well-seeded sea hazard forces two incompatible duties or rescues after the crew and its cargo have been established. Weather and navigational skill matter, but do not turn survival into a lecture on seamanship. **Reversal:** the most technically sound choice carries a deeply personal loss; no quick speech resolves it. **Cost:** a vow, object, ally's trust or non-historical supporting character can be lost permanently. Don't kill a named figure without checking later canon. **Handoff:** survivors bring grief toward Brunei. Any pursuit requires prior causal groundwork.
+
+## Continuity gate before prose
+
+Chapter 8 Scene 6 ends with a **conditional first-leg** agreement, not a departure or a booked route to Brunei. Verify the mat carrier's departure, Ache's loading/unloading duties, Sulad's separate consent, earned food, and the actual next landing before staging subsequent legs. The scene also contains an unresolved food-packet handoff for Ache (RA-CH8-S6-FOOD-01); do not assume he received a packet until that scene is corrected. The first shore and onward voyage require geographic and seasonal evidence; distinguish documented regional trading patterns from fictional individual itineraries. No named captain, pursuit vessel, or Bulkan reunion is established by the current Chapter 8 draft.
