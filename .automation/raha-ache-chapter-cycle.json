@@ -4,17 +4,17 @@
   "nextChapterId": "book-1-chapter-7",
   "pendingChapterId": null,
   "pendingBranch": null,
-  "publicationState": "merged",
+  "publicationState": "deployed",
   "lastMergeSha": "293f7ddc300664f96069a4eee9f3d8aa090cb04c",
   "completedChapterPasses": 6,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "293f7ddc300664f96069a4eee9f3d8aa090cb04c",
-    "conclusion": "pending_verification",
+    "sourceSha": "61fc628aaedd38231e8dc24f3536641d752de7f5",
+    "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "Chapter 6 deployment and rendered Read Aloud not yet verified"
+    "verificationLimit": "GitHub Pages run 39020247255 built and deployed main SHA 61fc628aaedd38231e8dc24f3536641d752de7f5 successfully (build job 117360462325; deploy job 117360541266); rendered page and actual Read Aloud playback remain unverified."
   },
   "operatingLessons": [
     {
@@ -70,14 +70,8 @@
     "chapterId": "book-1-chapter-7",
     "branch": "studio/book1-ch7-visayan-alliance-research-20261017",
     "state": "branch_written",
-    "progress": "Eight verified commits; scenes 1–2 and four research notes saved; Scene 3 unsaved",
-    "blockers": [
-      {
-        "id": "RA-CH7-SCENE3-WRITE",
-        "state": "pending",
-        "next": "Develop materially revised scene with historical ownership and language constraints; do not repeat rejected write"
-      }
-    ]
+    "progress": "Six separate Studio scene files (1, 2, 3a, 4, 5, 6) and four research notes verified on branch; 17 commits ahead and 3 behind main at 19 Oct 2026; editorial integration remains pending.",
+    "blockers": []
   },
   "researchWork": {
     "aganduruEdition": {
