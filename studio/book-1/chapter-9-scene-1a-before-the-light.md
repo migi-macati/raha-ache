@@ -78,9 +78,15 @@ Sulad looked at the jar. He had carried it up the path and down again, filled it
 
 The woman stepped into the boat and showed us a space beneath the support where the jar could rest upright. Her brother wedged a piece of wood beside it. He made me lift it out and put it back without touching the mats.
 
-“Now the last bundle,” she said.
+“Now the covering,” she said.
 
-I went for it. The mat-mender had come to the edge of his screen. He was watching Sulad, not me.
+Her brother drew a folded cloth across the mats already aboard. I held one corner while he worked the cord beneath the support. The covering caught on a rough edge and I pulled harder. He struck my wrist lightly.
+
+“Lift it. Don't tear it.”
+
+I lifted. He freed the cloth and drew it flat. The woman tested the knot, then made us move our hands so she could see the cargo beneath.
+
+The mat-mender had come to the edge of his screen. He was watching Sulad, not me.
 
 “You have time to stay,” he called.
 
@@ -92,8 +98,6 @@ I went for it. The mat-mender had come to the edge of his screen. He was watchin
 
 The man nodded and turned back to his work.
 
-When I reached the screen, I stopped beside the bundle. The mat was bound with a strip like the one Sulad had tightened the night before. I put my hands beneath it instead of gripping the edge. At the water the woman's brother waited to receive the weight.
-
-The tree was still dark against the sky. I could not see what lay beyond the next landing. I knew only that we had a place for this load, that it might carry us one leg, and that there would be work to do when we reached the other bank.
+The tree was still dark against the sky. I could not see what lay beyond the next landing. I knew only that we had been allowed to help secure this load, that the boat might carry us one leg, and that there would be work to do when we reached shore.
 
 <!-- Studio gate: No departure yet. The carrier may still delay or withdraw if water/load changes. Ache and Sulad have consumed the split mat-mending packet, not a separate packet from the carrier. No guaranteed second leg, named destination, storm, pursuer, Bulkan arrival, or historical sailing claim. -->
