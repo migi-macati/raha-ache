@@ -1,0 +1,44 @@
+# Book I, Chapter 10 — Brunei reception: source and plot gate
+
+Status: research/editorial planning only. Not reader-facing prose or approved historical fact. Prepared 20 October 2026 (Asia/Manila).
+
+## Dependency before prose
+
+The current `main` Chapter 9 outline, *The Last Storm*, assumes Brunei is already within reach and that a final pursuit/storm tests Ache's leadership. The saved Chapter 9 Studio scenes on `editorial/book1-ch9-conditional-passage-handoff-20261019` instead begin with successive small cargo passages, a completed mat delivery, and a possible crew vacancy whose destination and terms remain unconfirmed. The Chapter 9 outline therefore cannot be treated as evidence that the voyage, pursuit, storm, or arrival have happened. Chapter 10 must begin only after Chapter 9 actually establishes a defensible route, passage, arrival, and the costs carried forward. Do not manufacture an intervening voyage in a Chapter 10 opening paragraph.
+
+## Historical claim register
+
+1. **Ache's maternal grandfather and reception.** `src/content/sources/aganduru-moriz.md` attributes to seventeenth-century Rodrigo de Aganduru Moriz the account that Ache sought support from his grandfather Siripada and was received at the Brunei court. This is a *retrospective account*, not an eyewitness report from Ache's childhood. The novel may use this relationship as its fictionalized historical premise, but narration or source notes must not describe the whole private meeting as independently documented.
+2. **Siripada and Sultan Bolkiah.** `src/content/characters/siripada.md` explicitly treats their identification as **possible**, not certain. Do not merge their names or attach a secure regnal chronology to Siripada without additional primary-source verification.
+3. **Scale of military support.** Aganduru's reported nearly 200 vessels and up to 6,000 soldiers are uncorroborated retrospective numbers. They do not justify showing a counted fleet assembled in Chapter 10, or treating a royal promise as a verified historical muster.
+4. **Mother, Tondo, and Ache's claim.** The regency, kinship and encroachment story are likewise transmitted through Aganduru. Distinguish the novel's dramatization from independently established historical facts. Avoid declaring the unidentified early Tondo ruler to be the later documented Lakandula.
+5. **Source chain still open.** The exact original Spanish passage in Aganduru, CODOIN vol. 78, especially the proposed pp. 59–60 locator, remains unverified in the current research checkpoint. Secondary summaries cannot be passed off as verbatim primary testimony.
+
+Primary repository pointers: `src/content/sources/aganduru-moriz.md`; `src/content/characters/siripada.md`; `src/content/chapters/book-1-chapter-10.md`; `.automation/raha-ache-chapter-cycle.json`. Research branch `research/aganduru-edition-locator-20261012` is not merged.
+
+## Story decision: end the survival book without awarding a kingdom
+
+The Chapter 10 objective is to resolve the immediate exile/survival arc and open the Brunei service arc. A familial welcome should not settle the political request. Siripada can admit a claimant and still demand evidence that helping him serves Brunei. Avoid a didactic explanation of statecraft. Put the decision in the physical and social arrangements of the audience: who must wait, who interprets, who receives food, who speaks first, who may leave, and what specific duty Ache accepts.
+
+Proposed scene sequence, conditional on Chapter 9's actual ending:
+
+1. **Landing and admission.** A crew or host determines whether Ache and Sulad can disembark and whom they may ask for. Their obligations to the last carrier must be closed or carried visibly; no instant palace access.
+2. **Different ranks.** Ache's claimed kinship opens a door while Sulad is treated as a worker or attendant. Ache must decide whether to accept that classification, challenge it, or pay a cost to preserve Sulad's standing. Sulad has his own response.
+3. **A private recognition, with limits.** Siripada may recognize family details while testing Ache's account of the loss of Maynila. Do not put unverified historical dialogue in his mouth as a quotation.
+4. **The political refusal.** The request for immediate ships or soldiers fails for a concrete reason, such as obligations to existing merchants and coastal allies. Siripada need not be omniscient or morally ideal; a credible self-interested choice is stronger than a lecture.
+5. **An offer with a price.** Ache can receive temporary protection, lodging, or a limited service appointment conditional on work and obedience. The cost should affect his autonomy or a relationship already developed, not merely his pride.
+6. **Book I closure.** Ache makes a deliberate choice under incomplete knowledge. Sulad's choice must be separately articulated. End on a physical commitment that creates Book II's first problem, not on a summary of lessons learned.
+
+## Literary and continuity gates
+
+- Ache remains the first-person narrator; unfamiliar speech, etiquette, and architecture should be filtered through what he actually sees, misunderstands, or is told. Avoid a panoramic historical tour.
+- Keep Brunei's polity and commercial setting plausible without asserting exact court offices, rituals, regnal dates, fleet numbers, or routes that the evidence does not support.
+- Do not have Bulkan, Ula, Mulaw, the unnamed Malay-speaking captain, or any other supporting character appear at court unless Chapters 6–9 actually establish their presence and journey.
+- Ache cannot recover first-voyage rower wages by retroactive decree. Any outstanding debt needs an explicit resolution or remains a future obligation.
+- If Chapter 9 changes its end state, revisit the Chapter 10 scene order before drafting. In particular, do not force a storm, pursuit, permanent casualty, or sacrifice solely because an older outline requires one.
+- Review the working title *The Sultan*: it is functional but may be too declarative and may imply an unverified identification. Select a more specific reader-facing title only after the final scene earns it.
+- Preserve the Book I ten-chapter endpoint, all three books' thirty core chapters, and Book III bonus chapters 11–12. This note does not advance the publication checkpoint.
+
+## Release gate
+
+Before Chapter 10 publication, verify Chapter 9's actual final manuscript, travel handoff, Sulad's consent, Brunei arrival, character/profile links, chronology, source qualification, metadata, site build, GitHub Pages deployment, rendered page and Read Aloud. Only a published Chapter 10 with matching GitHub evidence advances the forward checkpoint beyond it.
