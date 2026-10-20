@@ -564,7 +564,7 @@ Below, the calls had changed. They were shorter and farther apart. The boat had 
 
 “He already asked.”
 
-“Then I could help move his baskets.”
+“Then I could help move the buyer's baskets.”
 
 “You could.”
 
@@ -722,7 +722,7 @@ I had not thought that far.
 
 I looked at the buyer. He did not help me.
 
-Sulad stepped forward.
+Sulad set our jar beside the path and stepped forward.
 
 “I can help carry the baskets back,” he said. “If I choose to stay until the boat is free. I am not agreeing to anything after that.”
 
@@ -828,7 +828,7 @@ A wind moved through the trees behind the house. The newly bound edge made no so
 
 The woman carried her child inside. We lay under the eaves with our bundles between us and the path. Sulad turned on his side to keep clear of the screen. I had to bend one knee to fit beneath the lowest part of the roof.
 
-“You told the fisherman we would move his baskets,” Sulad said.
+“You told the fisherman we would move the buyer's baskets,” Sulad said.
 
 “I took it back.”
 
