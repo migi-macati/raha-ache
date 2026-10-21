@@ -30,6 +30,16 @@ Use three to seven meaningful notes where warranted, fewer when evidence is thin
 4. **Wages, consent and households:** Sima's payment to the organizer, unpaid first-voyage rowers, Sulad's uncle's fishing work and the regent's conditional crossing are fictional dramatizations. Do not present them as attested incidents.
 5. **No boat yet:** Chapter 5 ends with Ache seeking passage; Ula's messenger and the captain are unconfirmed, Sulad undecided, physical departure reserved for Chapter 6.
 
+## Book I Chapters 6–9 — candidate notes for source review
+
+**Chapter 6 — The First Shore.** The paid first-leg passage, cargo handling and unnamed landing are fictional scene events. Contextualize maritime labor only after checking the relevant passages of William Henry Scott's 1982 boat-building article; its bibliographic record alone does not verify the depicted crew practices. Do not give the landing a historical name or imply a booked onward route.
+
+**Chapter 7 — The Length of a Rope.** William Henry Scott's *Barangay* (1994), Visayas discussions of trade, textile work, property and social organization, is a source for comparative context, subject to checking the printed edition before page-specific notes. Nima's absent sister retaining control of her cloth, the local fisherman's refusal of landing space, and Ache's paid pole-handler are fictional applications, not reported incidents. Mulaw is an invented personal name: the current manuscript does not assign him a datu/lakan title, and the older Universe alias must not be mistaken for an attested historical chief. Scott's 1982 vessel article has not yet been checked for the specific mooring and repair actions; withhold such an attribution.
+
+**Chapter 8 — Diplomacy and Supplies.** Regional exchange and maritime labor can be placed alongside Tomé Pires's *Suma Oriental* (Cortesão 1944 edition, vol. I, pp. 133–134, subject to source-file locator check), but Pires does not document Ache's supplies, mat-mending work or one-leg bargain. The mat carrier's consent and the division of earned food are fictional continuity facts; do not call them period records. Wait for the assembled public prose before selecting chapter-specific notes.
+
+**Chapter 9 — The Last Storm.** Roderich Ptak, “The Northern Trade Route to the Spice Islands,” *Archipel* 43 (1992), pp. 27–56, DOI 10.3406/arch.1992.2804, reconstructs overlapping trade corridors. The opening p. 27 has been inspected, while the later pp. 39–41 and 46–48 discussion has so far been checked through uncorrected searchable text rather than original page images. Cite the article as network-level scholarship only; it does not establish Ache's intermediate landing, a single through-voyage, a named captain or a specific storm. Modern monsoon climatology may inform a plausibility check after season and geography are fixed, but cannot attest weather on this fictional crossing. No public Chapter 9 prose or historical notes are release-ready.
+
 ## Implementation acceptance criteria (separate technical packet)
 
 1. Chapter notes are structured data or reusable chapter-linked records, not manually duplicated prose; support zero notes gracefully.
