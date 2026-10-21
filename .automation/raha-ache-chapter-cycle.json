@@ -11,10 +11,10 @@
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "61fc628aaedd38231e8dc24f3536641d752de7f5",
+    "sourceSha": "0cb5baa66aec314818b8319f0afa6204a75f00db",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "GitHub Pages run 39020247255 built and deployed main SHA 61fc628aaedd38231e8dc24f3536641d752de7f5 successfully (build job 117360462325; deploy job 117360541266); rendered page and actual Read Aloud playback remain unverified."
+    "verificationLimit": "GitHub Pages run 39202211346 built and deployed main SHA 0cb5baa66aec314818b8319f0afa6204a75f00db successfully on 19 October 2026 (build job 117897396877; deploy job 117897553078). Rendered public pages and actual Read Aloud playback remain unverified."
   },
   "operatingLessons": [
     {
