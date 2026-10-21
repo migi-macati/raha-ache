@@ -634,29 +634,19 @@ I started to point toward the bundle. Nima saw the movement and leaned across it
 
 “The cloth stays with its people,” I said.
 
-The young man at the bow called something I did not understand. The buyer answered him, then turned back to the fisherman.
+The young man called from the bow. The buyer made him repeat himself, then turned to the fisherman.
 
-“They want the boat still while they work on its covering. They are not asking to leave the cloth here.”
+“They need the post while they mend the covering. The cloth stays aboard.”
 
-“That's not what they asked before,” the fisherman said.
+Nima interrupted. The buyer listened again.
 
-“No,” said the buyer.
+“And no one touches the bundle unless Nima asks,” he added.
 
-The young man spoke again. The buyer made him repeat it and showed him the post with two fingers. The young man nodded, but Nima said something sharp enough that the man beside him looked away.
+The fisherman looked from his net to the baskets. “And my ground?”
 
-“What did he say?” I asked.
+The buyer asked whether the post could be used while the covering was secured. The fisherman looked at the boat and did not answer.
 
-“That the cloth doesn't leave the boat,” the buyer said. “You heard that before.”
-
-“I heard.”
-
-The fisherman gathered the net over one arm. His ground was narrow. The baskets stood where he would need to work. The boat could not be held against the post without a rope, and the visiting men were still spending their strength on poles. None of that gave me the right to settle the matter.
-
-The buyer walked to the fisherman and asked him whether the post could be used while the covering was secured.
-
-The fisherman looked at his net, then at the boat. He did not answer.
-
-I stayed where I was. Sulad stood beside me, holding the jar. It was the first time that evening I had waited without trying to finish another person's sentence.
+Sulad held the jar beside me. For once I let the silence belong to someone else.
 
 * * *
 
@@ -694,29 +684,15 @@ I shook my head before he spoke. I had no silver left to buy another man's help.
 
 Sulad stood beside me. I had not turned to him.
 
-The young man spoke across the water to Nima. Nima answered without looking up. The young man waited for the buyer to finish repeating the exchange to the men ashore.
+Nima called from the boat. The buyer repeated his condition: the cloth would stay aboard, untouched. The fisherman pointed to the baskets.
 
-“He says his sister's cloth stays aboard,” the buyer told us. “No one touches it unless Nima asks.”
-
-The fisherman looked at the bundle. “Then why do they need my ground?”
-
-“For their feet,” the buyer said. “And the post. They need to stop the boat striking the bank while they work.”
-
-The fisherman pulled the net through his hands. A knot snagged against his thumb.
-
-“Who moves the baskets?” he asked again.
+“Who moves them?”
 
 “I do,” I said.
 
-“Who takes them back?”
+“And who takes them back before I come in?”
 
-I had not thought that far.
-
-“I will,” I said, and heard how quickly I had answered.
-
-“Before I come in?”
-
-“Yes.”
+“I will,” I said, too quickly.
 
 “How do you know when I come in?”
 
