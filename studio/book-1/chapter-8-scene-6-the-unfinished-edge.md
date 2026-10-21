@@ -222,6 +222,8 @@ We told the woman together. She made each of us repeat the work we would do: I w
 
 The second bundle was ready. We carried it together, one at each end. Sulad walked backward until the path narrowed, then made me stop while we changed sides. The woman watched from the bank without calling for us to hurry.
 
+When the second bundle was secured, she fetched a leaf packet from beside the screen and put it in my hand. “For the carrying,” she said. “You have earned that whether we leave or not.” I kept it closed. I would need it in the morning.
+
 Afterward we sat near the screen with the jar between us. The mat-mender had gone inside. Sulad divided his packet, wrapped one portion again for morning, and placed the other in my hand. I tucked it inside my cloth without opening it. The boat rocked once against its pole and settled.
 
 There was no roof over us. I could not see the next landing, and the woman had not told us what lay beyond it. But I knew which bundle I had carried, what she had promised, and when she would leave.
