@@ -10,6 +10,12 @@ The article's opening (printed p. 27, directly inspected) distinguishes a Java r
 
 Related period source already checked in the Chapter 8 port-trust source gate: Tomé Pires, *Suma Oriental* (1512–1515), Cortesão English edition (1944), vol. I, printed pp. 133–134, reports regional Luções–Borneo commerce. That does not establish a single Luzon-to-Brunei passenger service or its sailing time. William Henry Scott, “Boat-Building and Seamanship in Classic Philippine Society,” *Philippine Studies* 30(3) (1982), 335–376, is an appropriate vessel/seamanship comparator; specific craft and handling claims must be checked in its text before adoption.
 
+## Additional source-text check — 21 October 2026
+
+The searchable text of Ptak's *Archipel* article, beyond the opening, describes a **Brunei-centered commercial network** and a partly distinct southern-Philippines/Sulu network meeting in the Sulu zone (printed around pp. 39–41). It characterizes the Brunei network's extension toward northern Philippine ports in the late fifteenth and early sixteenth centuries, but does not document Ache's personal passage or a scheduled Luzon–Brunei service. In the early-Portuguese-period discussion (printed around pp. 46–48), Ptak describes merchants from Borneo and the southern Philippines as commonly stopping within the Sulu zone rather than sailing the whole Malacca–Moluccas northern route. This supports staging distinct cargo owners and negotiated legs instead of a single uninterrupted voyage.
+
+**Verification level:** the passages were examined in the publisher's search-indexed article text, which warns that its OCR is uncorrected; the original printed pages and cited primary references have not been individually checked. Do not treat the article's route reconstruction, its tentative chronology, or Portuguese voyages as an itinerary for Ache.
+
 ## Plot decisions this evidence permits
 
 - A **multi-leg**, commercially contingent route toward Brunei is historically plausible at network scale. It remains a **fictional itinerary** until the story specifies Ache's landing, each counterparty, each cargo obligation, and what makes the next leg possible.
