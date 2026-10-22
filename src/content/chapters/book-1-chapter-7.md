@@ -738,7 +738,7 @@ The fisherman was already spreading his net. He did not wait for thanks. The vis
 
 The young man remained at the bow until the boat was clear.
 
-“Are you going south?” I asked.
+“Will you go toward Brunei?” I asked.
 
 He looked toward the buyer, as if weighing whether my words needed repeating. Then he answered with the same short speech he had used when we first met.
 
