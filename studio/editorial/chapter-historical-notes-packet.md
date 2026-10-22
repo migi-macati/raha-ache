@@ -32,7 +32,7 @@ Use three to seven meaningful notes where warranted, fewer when evidence is thin
 
 ## Book I Chapters 6–9 — candidate notes for source review
 
-**Chapter 6 — The First Shore.** The paid first-leg passage, cargo handling and unnamed landing are fictional scene events. Contextualize maritime labor only after checking the relevant passages of William Henry Scott's 1982 boat-building article; its bibliographic record alone does not verify the depicted crew practices. Do not give the landing a historical name or imply a booked onward route.
+**Chapter 6 — No Boat Owed Us.** The paid first-leg passage, cargo handling and unnamed landing are fictional scene events. Contextualize maritime labor only after checking the relevant passages of William Henry Scott's 1982 boat-building article; its bibliographic record alone does not verify the depicted crew practices. Do not give the landing a historical name or imply a booked onward route.
 
 **Chapter 7 — The Length of a Rope.** William Henry Scott's *Barangay* (1994), Visayas discussions of trade, textile work, property and social organization, is a source for comparative context, subject to checking the printed edition before page-specific notes. Nima's absent sister retaining control of her cloth, the local fisherman's refusal of landing space, and Ache's paid pole-handler are fictional applications, not reported incidents. Mulaw is an invented personal name: the current manuscript does not assign him a datu/lakan title, and the older Universe alias must not be mistaken for an attested historical chief. Scott's 1982 vessel article has not yet been checked for the specific mooring and repair actions; withhold such an attribution.
 
