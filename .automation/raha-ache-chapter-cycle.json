@@ -64,6 +64,10 @@
     {
       "lesson": "Recheck PR mergeability after upstream merges; GitHub's initial mergeability result can be transient. When an earlier PR creation was rejected, a materially advanced branch may later support an authorized PR without bypassing checks.",
       "evidence": "13 Oct PR #31 merged bb8517fa and PR #32 merged 002f3ee8 after recheck; 16 Oct draft Chapter 6 PR #33 opened at head 9bfe4b17."
+    },
+    {
+      "lesson": "Reconcile old Studio QA gates against the latest assembled reader-facing manuscript before repeating fixes; distinguish a working outline's promised alliance from what the prose actually establishes.",
+      "evidence": "24 Oct 2026: Chapter 7 Scene 5 already returns the buyer's baskets and Sulad's three-basket choice is internally consistent; Studio QA corrected in commit 1c888345a7d742496b02278abcd604a236eee045. Mulaw's name exchange does not establish the outline's promised alliance."
     }
   ],
   "studioWork": {
