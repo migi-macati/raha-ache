@@ -1,0 +1,162 @@
+# Raha Ache chapter-cycle unblock queue
+
+Updated 2026-10-10, Asia/Manila. Studio workflow note, not public Novel content.
+
+## Operating rule
+Continue research, editorial planning, drafting, retrospective continuity review, and permitted GitHub actions when one mutation is rejected. A rejected action blocks only that exact operation; it does not revoke general publication authority. Never bypass a safety control, repeatedly retry an identical rejected call, or treat a user's message “Unblock” as technical authorization to override platform controls.
+
+## Queued checks / actions
+- **Q-01 — Chapter 4 prose reconciliation:** Existing working draft on `draft/book1-ch4-encroachment-20261009` and independently developed Studio PR #24 (`studio/book1-ch4-source-and-prose-review-20261009`). Compare content and choose one canonical draft before any merge; do not overwrite either concurrent line.
+- **Q-02 — Chapter 3 alternate draft:** PR #15 remains draft; compare against canonical published Chapter 3 and retain useful material only through deliberate revision, not blind merge.
+- **Q-03 — Chapter 3 reader-facing editorial note:** PR #22 remains draft. Verify whether intervening merged changes already removed the note before deciding whether to close or merge.
+- **Q-04 — Historical identity continuity:** PR #27 is draft. Review its evidence and affected character/Chapter 3 pages before integrating, separately from Chapter 4 publication.
+- **Q-05 — Chapter 4 publication gate:** Research/prose PR #24 remains draft and mergeable as checked on 10 October. Do not publish a reader-facing Chapter 4 until scene, source, chronology, content-link, Read Aloud, and CI checks pass.
+- **Q-06 — Previous mutation safety rejections:** A multi-replacement Chapter 4 edit and an edit to the mother's entrance were rejected before execution. Their changes are proposals, not committed revisions. Continue with other work; revisit only through a newly scoped, independently legitimate action if permitted.
+
+## When user says “Unblock”
+Reinspect main, branch heads, PRs, checks, current feedback, and checkpoint. Report which queue entries are already resolved, which are actionable, and which require user approval or direct GitHub action. Attempt only allowed actions. Do not claim a rejected operation was executed.
+
+## Checkpoint
+`.automation/raha-ache-chapter-cycle.json` currently says lastCompleted `book-1-chapter-3`, nextChapterId `book-1-chapter-4`. No retroactive edit or Studio merge advances the checkpoint.
+
+## Unblock review — 2026-10-10
+- Main is `10542d33a1167754490e8ed5bd1b74d6548eb2d7`; GitHub Pages workflow `38026064553` completed successfully for that SHA. This confirms build, not rendered-page inspection.
+- Q-01: PR #24 contains a later second-pass Chapter 4 Studio draft; treat it as canonical candidate, while preserving the earlier draft branch for comparison. Do not auto-merge a reader-facing chapter.
+- Q-02: PR #15 is draft and has merge conflicts (`dirty`); retain for comparison only.
+- Q-03: RESOLVED ON MAIN. Chapter 3 now ends with the clerk's hesitation and has no appended editorial heading. PR #22 is redundant; avoid merging it. Closing it is optional cleanup.
+- Q-04: PR #27 is draft and mergeable; historical identity correction needs substantive review before merge.
+- Q-05: PR #24 is draft and mergeable; Studio content is not Chapter 4 publication. The checkpoint still points to Chapter 4.
+- Q-06: Previously rejected prose edits were not executed; a separate, permitted revision already exists in PR #24. Do not replay blocked payloads.
+- User intervention required now: none established by this review. Further platform checks may still reject individual actions.
+
+## Cycle update — 2026-10-10, PR cleanup and source review
+- **Q-03 closed:** PR #22 was closed without merge after verifying that Chapter 3 on main already ends cleanly at the clerk's hesitation. No reader-facing change was necessary.
+- **Q-04 substantive review:** PR #27 changes the early attribution from Lakandula to the unidentified ruler of Tondo, removes the unsupported strong-inference cousin relation in both Ache and Lakandula profiles, and removes premature Lakandula links in Chapters 4–5. These edits correctly narrow claims; the 1571 Lakandula remains documented. The underlying Aganduru Spanish original is still not independently verified. PR #27 remains draft pending normal review and release checks; do not collapse source caution into proof of a different ruler.
+- **Q-05:** PR #24 still contains the second-pass Chapter 4 prose; its last passage asks the clerk to seek the rowers' permission before marking them. Preserve this agency-driven ending when assessing public prose. Studio frontmatter and editorial gate must not appear in reader text.
+- **Next editorial decision:** Review the title `Encroachment` versus provisional `The Second Crossing` against the final scene, then prepare the public chapter only when Chapter 4 source and chronology checks pass.
+
+## 10 October 2026, 19:02 PHT — pending editorial reconciliation
+- **Q-07 — Chapter 4 ending:** The working prose still contains two consecutive explanations of Ache's political realization after Sima's independently negotiated shipment. Target `studio/book-1/chapter-4-working-prose.md`, PR #24. A scoped replacement was rejected before execution; no prose edit occurred. Continue independent research; when permitted, remove only the redundant explanation, preserve the final clerk/Sima exchange, then reread for continuity.
+- **Q-08 — Chapter 4 dossier drift:** `studio/book-1/chapter-4-dossier.md` still says the merchant merely considers negotiating in Tondo. The current working prose instead has the merchant commit to bring baskets to Tondo's landing the next morning; the organizer has not booked a crew. A dossier replacement was rejected before execution. Reconcile that precise distinction when permitted, without asserting a completed crew contract.
+- **Historical gate:** Plasencia's 1589 Tagalog labor categories are later comparative evidence, not direct evidence of this fictional early-sixteenth-century river dispute. Original Aganduru Spanish passage and alleged Ache speech remain unverified.
+- **Forward checkpoint:** Book I Chapter 4; no public Chapter 4 prose PR or checkpoint advance. No owner-side approval has been shown to be necessary.
+
+## Unblock resolution — 2026-10-10, 22:53 PHT
+- **Q-07 RESOLVED:** Removed the two redundant explanatory sentences from the Chapter 4 Studio ending. Commit `40ce2ba5b6516dbfa48cb47afa90a2b3925af18e`; preserve the Sima/clerk exchange.
+- **Q-08 RESOLVED:** Updated Chapter 4 canonical dossier: merchant will bring baskets to Tondo's landing tomorrow; organizer agreed to meet, but no crew was booked. Commit `96e69f9a1753f380252f5863adbac8d5fc85589e`.
+- **Q-09 RESOLVED ON BRANCH:** Chapter 3 duplicate relationship metadata removed on historical-correction PR #27; publication still awaits PR merge.
+- **Q-10 PENDING:** PR #27 draft-to-ready and normal CI/release gates require fresh verification; no bypass.
+- **Q-11 PARTIAL:** Source-chain research committed earlier; remaining reconciliation and original Aganduru Spanish verification are independent historical tasks, not a reason to misstate provenance.
+- **Forward checkpoint unchanged:** `book-1-chapter-4`. Studio PR #24 is not public Chapter 4 publication.
+
+## Cycle update — 2026-10-11, 00:00 PHT
+- **Q-12 — Chapter 4 dialogue register, BLOCKED:** Target `studio/book-1/chapter-4-working-prose.md` on PR #24 branch `studio/book1-ch4-source-and-prose-review-20261009`. Attempted a single-line `update_file` replacement of Ache's abstract `I am defending your right to choose` with a concrete defense of Sima against an uncommissioned voyage charge, using freshly fetched blob `ce947a27804ce7a5b67ac24bbf0d8ca3051de5a3`. Tool returned: `This tool call was blocked by OpenAI's safety checks. Please double check what you are sending.` No manuscript mutation executed. Do not resubmit the identical payload; retry only after reinspection with a materially different permitted approach, then verify the changed prose and Sima's response. No owner approval or account-side step is established as required.
+- **Independent evidence work completed:** `studio/book-1/chapter-4-dossier.md` now records the National Museum's dated fifteenth-century wrecks and the older Butuan construction comparandum, with explicit geographic/chronological limits. Commit `5ffdeb4105c4a98d70e0ac66eb3163c4421c1ecf`.
+- **Q-07/Q-08 resolved** in earlier verified commits; **Q-09 resolved on PR #27 branch** but not merged; **Q-10** PR #27 still draft, normal CI/review gate unverified; **Q-11** Plasencia and Aganduru source chain partially documented, original Spanish passage outstanding.
+- **Checkpoint:** `book-1-chapter-4` unchanged; no public Chapter 4 release. PR #24 is Studio only.
+
+- **Q-13 — PR #24 description stale, BLOCKED (11 Oct 00:00 PHT):** Target PR #24 metadata on `studio/book1-ch4-source-and-prose-review-20261009`; attempted `update_pull_request` to replace outdated description that incorrectly says the merchant transfer and ending trims are unapplied, and to note Q-12 plus archaeological source evidence. Tool returned `This tool call was blocked by OpenAI's safety checks. Please double check what you are sending.` No PR metadata changed. Retry only with a materially different scoped edit after re-fetching PR; no owner action proven necessary. The current Studio files and this queue, not PR body, control verified progress.
+- **CI/release observation:** `.github/workflows/deploy.yml` runs on pushes to `main` and manual dispatch, not on PRs. No commit status or PR-triggered workflow run was returned for PR #24/#27 heads. The absence of PR checks is not proof of a successful build. Local GitHub clone for independent build validation was unavailable due DNS/network access (`Could not resolve host: github.com`).
+
+## 11 October 2026, 03:00 PHT
+- Q-12: Resolved in manuscript commit `0fb1c6fa`; earlier dossier wording is stale.
+- Q-15: Pending. Two distinct updates to `studio/book-1/chapter-4-dossier.md` were rejected by safety checks before execution. Next: reconcile stale editorial note against current prose; owner intervention not established.
+- Q-16: Pending. Update to `studio/book-1/chapter-4-aganduru-original-source-locator-20261009.md` was rejected before execution. Next: verify secondary page-60 pointer against 1882 Spanish scan; Google Books contents show the next chapter at page 61. No owner intervention established.
+- Q-17: Resolved in handoff file commits `0068bbc5` and `de56cb35`; Tondo crew was never booked.
+- Q-10/Q-11/Q-13/Q-14: Pending as previously recorded. PR #24 remains Studio-only; forward checkpoint unchanged.
+
+## 11 October 2026, 05:02 PHT — source locator and blocked edits
+- **Q-15 PENDING:** Dossier's earlier claim that Ache's dialogue correction was unapplied is stale; manuscript and revision log confirm `0fb1c6fa`. A freshly scoped dossier replacement was rejected by safety checks this run. Next: update the note only after re-reading the current blob. No owner-side approval established.
+- **Q-16 PENDING:** Ghent University links to a 36.5 MB scan of Aganduru's 1882 Spanish edition in CODOIN vol. 78: https://www.heuristiek.ugent.be/wp-content/uploads/2018/08/codoin.78.pdf . Web inspection failed because of file size; direct download also failed. Next: inspect original Spanish pp. 55–61 and compare Craig 1924. A source-chain-file update was rejected by safety checks.
+- **Q-18 PROPOSED, NOT EXECUTED:** Test a restrained political consequence in Chapter 4: the regent assigns the next crew negotiation to her steward, excluding Ache after his public intervention. Check Chapter 5 causation before changing prose; no edit this pass.
+- **Q-19 PENDING:** A 2021 Recollect historical study identifies Aganduru Móriz (1584–1626) as arriving in Manila in 1606; he was not a 1521 eyewitness. Source: https://rst.edu.ph/wp-content/uploads/2023/02/2021-January-to-December-Vol.16-no.1-2.pdf . Source-chain update rejected; preserve caution about the alleged speech.
+- **Forward checkpoint unchanged:** Book I Chapter 4. PR #24 and PR #27 remain draft; no PR CI or deployment evidence this pass.
+
+## 11 October 2026, 07:17 PHT — verified dossier reconciliation
+- **Q-15 RESOLVED:** Canonical Chapter 4 dossier now acknowledges the completed Ache/Sima dialogue correction rather than describing it as unexecuted. Commit `ad6540d48d165a2fb67edc03214d35ed33f5666f`; the current manuscript already contains the correction from `0fb1c6fa`.
+- **Q-18 PENDING:** Political consequence (regent assigns next Tondo negotiation to steward) remains a proposed manuscript revision. Check its causal fit with Chapters 3–5; do not report as published prose.
+- **Q-10 PENDING:** PR #27 historical correction remains open; review/CI/release checks must be verified independently.
+- **Q-11/Q-16/Q-19 PENDING:** Original Aganduru Spanish passage still unexamined; Pigafetta eyewitness account must not be conflated with later attributed speech.
+- **Q-13/Q-14 PENDING:** PR #24 metadata/comment correction rejected in earlier runs; Studio files control current truth.
+- **Forward checkpoint:** `book-1-chapter-4`, unchanged; no public manuscript publication.
+
+## 11 October 2026, 08:45 PHT — locator committed
+- **Q-16 documentation subtask RESOLVED:** Secondary page locators Aganduru CODOIN vol. 78 pp. 59–60 and Scott *Barangay* pp. 280–281 recorded in `chapter-4-aganduru-original-source-locator-20261009.md`, commit `c73ad89bc4d9b3137256d073d6668825280b552e`. **Q-11 original Spanish verification remains OPEN**; a citation is not original-language inspection.
+- **Q-18 OPEN:** Steward delegation manuscript revision remains unexecuted after prior safety rejection. Continue bounded scene and Chapter 5 causation review without assuming prose changed.
+- **Q-10 OPEN:** PR #27 remains separate historical correction, open; do not infer release readiness from absent PR checks.
+- **Q-13/Q-14 OPEN:** PR #24 metadata remains stale; earlier rejected operations are not publication blockers for independent Studio work.
+- **Q-19 OPEN:** Aganduru chronology provenance still needs reconciliation into the canonical source-chain dossier; 1521 eyewitness claims must remain separated from later retrospection.
+- **Title:** *The Second Crossing* retained provisionally. **Forward:** Chapter 4 unchanged; no public release or deployment verification.
+
+## 11 October 2026, 09:59 PHT — Q-18 manuscript change executed
+- **Q-18 IMPLEMENTED IN STUDIO:** `studio/book-1/chapter-4-working-prose.md` now includes the regent instructing the steward to seek terms from Tondo's crews without promising anything, with Ache registering his loss of negotiating responsibility. Commit `20536c5520294a89625a1dad69ddd3980628eea0`. Still requires editorial reread and public-release validation; no publication claim.
+- **Q-10 OPEN:** PR #27 historical continuity correction awaits review/CI/release.
+- **Q-11 OPEN:** Aganduru CODOIN vol. 78 pp. 59–60 original Spanish wording remains unverified; Q-16 secondary locator saved.
+- **Q-13/Q-14 OPEN:** PR #24 communication metadata needs reconciliation.
+- **Q-19 OPEN:** Propagate Aganduru chronology into canonical source-chain dossier with clear retrospective-vs-eyewitness distinction.
+- **Forward target:** Book I Chapter 4; checkpoint unchanged; title *The Second Crossing* retained provisionally.
+
+## 11 October 2026, 13:04 PHT — verified status reconciliation
+- **Q-19 RESOLVED (already present):** Canonical `chapter-4-aganduru-alfonso-source-chain-and-departure-gate-20261010.md` includes the Aganduru chronology and witness-classification correction. No duplicate edit required. **Q-11 remains OPEN:** original Spanish pp. 59–60 not inspected.
+- **Q-20 RESOLVED:** The Chapter 4 apology to Sima is shortened in the current `chapter-4-working-prose.md` blob `39c501f114daf43a8ece4573b27c4b6403ccb002`; earlier commit `a2c9162c69e25e90878fd621277ed22f086df17f`. Do not retry the previously rejected duplicate edit.
+- **Q-18 IMPLEMENTED; EDITORIAL GATE OPEN:** Regent delegates next day's Tondo crew negotiation to the steward; verify full pacing and continuity before public release.
+- **Q-10 OPEN:** PR #27 still open; no reviews, comments, combined statuses, or PR-triggered workflow runs returned for its latest checked commit `62a77b0c`.
+- **Q-13/Q-14 OPEN:** PR #24 metadata/comment reconciliation pending. No PR comments/reviews, combined statuses or PR-triggered workflow runs returned for checked Chapter 4 prose commit `a2c9162c`.
+- **Editorial assessment:** Chapter 3 closes at evening with Ache questioning crew marks; Chapter 4 opens at first light. Chapter 5 outline retains the unresolved question whether the regent later discovers or helps Ache's Brunei departure. Boat boarding and porter witness continuity are repaired in Studio. Preserve the distinction between historical source claims and fictional negotiation scenes.
+- **Title:** *The Second Crossing* remains provisional, *Encroachment* the functional Studio title. **Forward:** Book I Chapter 4; public release and checkpoint advancement not yet justified.
+
+## 11 October 2026, 14:03 PHT — release dependency clarified
+- **Title/continuity assessment COMMITTED:** `studio/book-1/chapter-4-title-review-20261009.md`, commit `763a06fa27a9604c6f61f89448f93eda741160e3`. *The Second Crossing* retained provisionally; Chapter 5 needs a consequential new pressure to earn the Brunei departure.
+- **Q-21 OPEN (nonblocking):** Attempt to refine Chapter 4's late steward narration in `studio/book-1/chapter-4-working-prose.md` on PR #24 rejected by safety checks; source blob `7a2abbb51ef5bce2354a41ec776319d8efefe597` unchanged by that attempt. Next: revise one narrower line after reread, not the same rejected operation. No owner-side action established.
+- **Q-10 OPEN:** PR #27 historical correction reviewed in source; original main Chapter 3 still names Lakandula in youthful Tondo dispute. PR #27 correction must be reconciled before public Chapter 4 release. No passing commit status or PR workflow run returned for checked commit `62a77b0c`.
+- **Q-11 OPEN:** Aganduru original Spanish CODOIN 78 pp. 59–60 still unexamined; the 36.5 MB scan exceeded web extraction and direct runtime download failed due to DNS, not a permission request.
+- **Q-13/Q-14 STATUS:** PR #24 body already accurately describes Studio work and release gates; comments empty. Do not mutate metadata just to satisfy stale queue text. Mark resolved only after comparing intended metadata correction to current body.
+- **Q-18 IMPLEMENTED; FINAL REVIEW OPEN. Q-19/Q-20 RESOLVED.** No public chapter publication; forward checkpoint unchanged. Commit `763a06fa` has no returned combined statuses or PR-triggered runs, so CI is not proven passing.
+
+## 11 October 2026, 15:55 PHT — release-gate and planning checkpoint
+- **Q-19 RESOLVED:** The canonical Aganduru/Alfonso source-chain dossier already contains the retrospective-versus-eyewitness chronology distinction. **Q-11 OPEN:** original Spanish CODOIN vol. 78 pp. 59–60 still unverified.
+- **Q-18 IMPLEMENTED:** The steward delegation is in Chapter 4 Studio prose. **Q-21 OPEN, nonblocking:** Optional final steward-line refinement remains unexecuted after earlier safety rejection.
+- **Q-10 OPEN:** PR #27 remains draft and must be reconciled before Chapter 4's public release. **Q-13/Q-14:** PR #24 description and comments were inspected; current description accurately distinguishes Studio draft and public release, and there are no comments to correct. No metadata mutation needed; treat stale communication correction as resolved unless a specific mismatch emerges.
+- **New Chapter 5 planning decision:** An independently motivated household's refusal of Ache's proposed armed resistance is a stronger test than another rebuke from Sima or Sulad. Documented in the Chapter 4 title/transition review, commit `516c32c8885030f6ee81509d7d7fa36a0294fd70`. Full scene-chain expansion into the structural handoff was rejected by tool safety checks; not saved. No owner approval indicated.
+- **CI gate clarified:** Repository `deploy.yml` runs on pushes to main or manual dispatch, not on PR creation. Main `10542d33` has successful GitHub Pages deployment workflow run `38026064553` from 10 October; this does not validate PR #24 or #27. Public Chapter 4 still needs link/build and Read Aloud validation. Forward checkpoint unchanged.
+
+## 11 October 2026, 16:03 PHT — Chapter 5 causation saved
+- **Planning commit `544a684b2df60c52190659d804839c8737f4e9d2`:** Structural handoff now contains a five-beat household refusal and Brunei-departure causation proposal. It is fiction under research review, not public chapter prose or an attested event.
+- **Q-10 OPEN:** PR #27 historical correction requires review/release before Chapter 4 publication. **Q-11 OPEN:** original Aganduru Spanish pages 59–60 remain unverified.
+- **Q-13/Q-14 RESOLVED (metadata inspected):** No currently demonstrated stale PR #24 description/comment needing mutation.
+- **Q-18 IMPLEMENTED; FINAL REVIEW OPEN:** steward delegation in Studio prose. **Q-19/Q-20 RESOLVED.** **Q-21 OPEN, nonblocking:** optional final steward staging line; do not retry identical rejected mutation.
+- **Title:** Chapter 4 *The Second Crossing* provisionally retained; Chapter 5/6 titles to review. **Checkpoint:** still Book I Chapter 4, no public release.
+
+## 11 October 2026, 18:12 PHT — release dependency reconciliation
+- Verified main chapter-cycle checkpoint still targets Book I Chapter 4, after Chapter 3. PR #24 remains open (61 ahead, 2 behind main); PR #27 remains open (9 ahead, 0 behind); PR #27 reviews and review threads empty. No publication or release evidence from this check.
+- **Q-22 OPEN, dependency of Q-10:** The main public Chapter 4 outline still carries unsupported Lakandula-as-early-rival/kinsman references; corrections are already on PR #27, not merged. Do not duplicate the changes on another branch; validate and release PR #27 first.
+- **Q-10 OPEN:** Reconcile historical correction PR #27 through its normal review/CI/merge gates. **Q-11 OPEN:** inspect original Aganduru Spanish CODOIN 78 pp. 59–60; no eyewitness attribution. **Q-18:** political setback implemented in Studio, editorial sign-off pending. **Q-21:** optional steward staging refinement; previous rejected action not retried.
+- **Q-13/Q-14 and Q-19/Q-20 RESOLVED** as previously verified. No account-side manual action demonstrated. Chapter 5 travel logistics dossier is a research gate; no invented voyage timing or ports. Reader title *The Second Crossing* provisional, Studio *Encroachment* functional. Keep 30 core chapters plus two Book III bonus chapters and unchanged checkpoint.
+
+## 11 October 2026, 18:58 PHT — PR #27 retrospective dialogue refinement
+- **Verified:** PR #27 branch `fix/book1-ch3-tondo-ruler-identity-20261010` commit `fa355e003d0ab5301efdc9754c32d7f41e71fef0` revises public Chapter 3's dialogue to describe men *claiming* to collect for Tondo's ruler, without asserting the ruler authorized collection. Chapter 3 title unchanged.
+- **Q-10 / Q-22 OPEN:** PR #27 still requires release checks and merge; its historical correction is not on main. No successful PR CI or new deployment established. `deploy.yml` is main-triggered; lack of PR checks is not a pass.
+- **Q-11 OPEN:** Original Aganduru Spanish pp. 59–60 unexamined; 1882 Google Books catalogue identifies chapter pages 50–61 only. **Q-18** implemented, final review pending; **Q-21** optional, no retry. Q-13/Q-14/Q-19/Q-20 resolved.
+- **Q-23 OPEN, nonblocking:** Attempt to update PR #27's Studio continuity checkpoint with the dialogue change and release-gate assessment was rejected by tool safety checks. Target `studio/book-1/chapter-3-tondo-ruler-continuity-checkpoint-20261010.md` on PR #27; `update_file` did not execute. No owner-side permission action established. Retry only with a materially different scoped edit or record the assessment in a consolidated checkpoint; do not repeat identical payload.
+- No Chapter 4 publication; `.automation/raha-ache-chapter-cycle.json` unchanged. Chapter 4 title *The Second Crossing* provisional.
+
+## 11 October 2026, 20:55 PHT — owner 'M all' blocker sweep
+- Current main checkpoint still `book-1-chapter-4` after Chapter 3. PR #24 open (64 ahead, 2 behind), PR #27 open (11 ahead, 0 behind); PR #27 has no returned reviews. The candidate `.github/workflows/validate-pr.yml` on `ci/pull-request-build-check-20261011` returns GitHub 404; no PR CI workflow file is verified.
+- **Q-23 RESOLVED:** PR #27 Studio continuity checkpoint successfully updated, commit `45630cc2448d0f72ec5c12abe8ca76a904ca970f`. Remove from active blocker list.
+- **Q-24 OPEN:** PR validation workflow creation previously rejected by tool safety checks; branch creation alone does not establish workflow. Next: account-side GitHub web editor to create scoped PR workflow, or another permitted validation path. No confirmed permission requirement and do not claim CI passed.
+- **Q-25 RESOLVED:** monsoon research committed to Chapter 4–5 structural handoff, commit `87fac8c7fa1b0f5a431b063a571fe27207165106`.
+- **Q-10/Q-22 OPEN:** PR #27 correction remains unmerged and requires validation/merge. **Q-11 OPEN:** Aganduru original Spanish unverified. **Q-18** final editorial validation pending. **Q-21** optional steward-staging refinement pending. **Q-13/Q-14/Q-19/Q-20** resolved.
+- This is a reconciliation of observed state, not a release. Do not advance the forward checkpoint or overwrite protected branches.
+
+## 12 October 2026, 05:57 PHT — verified cargo continuity and Q-18 refinement
+- **Q-18 OPEN, editorial gate:** Rechecked Chapter 3 ending, Chapter 4 working prose and Chapter 5 outline. The original crew's controlled departure, organizer's separate return to the hearing, six-basket/two-basket partial shipment and next-day merchant plan are consistent; no additional boat-staging rewrite required on current evidence. One specific unresolved thread remains: the organizer's nephew says rowers were not paid for yesterday despite Sima paying the organizer. Decide whether to carry this grievance into Chapter 5 or show a restrained consequence; do not invent a completed payment. Saved to `studio/book-1/chapter-4-dossier.md` in commit `34cbfbd1712bb8e73e096e118444dcb5025a2f24`.
+- **Q-10/Q-22 OPEN:** PR #27 remains open with 15 commits ahead of main; no returned reviews, review threads, commit statuses or PR-triggered workflow runs on the checked head. Validate before merge; do not treat missing CI as passing. **Q-24 OPEN:** PR build workflow still not established; `ci/pull-request-build-check-20261011` branch exists but its workflow file was previously 404. **Q-11 OPEN:** original Spanish passage unverified. **Q-21 OPEN, optional:** steward staging refinement not essential on current reread. **Q-26 RESOLVED ON BRANCH**, pending PR #27 merge.
+- Provisional title *The Second Crossing* retained; no public Chapter 4 prose, Read Aloud or forward checkpoint update.
+
+## 12 October 2026, 11:07 PHT — 'M all' consolidated unblock sweep
+- Main checkpoint remains at next `book-1-chapter-4`; no chapter release. PR #27 open, 19 commits ahead and 0 behind main; PR #24 open, 71 ahead and 2 behind. PR #27 reviews empty. Publication branch `publish/book1-ch4-second-crossing-20261012` exactly matches PR #27 (`ahead=0`, `behind=0`) and still contains the Chapter 4 outline with `developmentStatus: working`, `draftStatus: outline`; it does not contain reader-facing prose.
+- **Q-26/Q-27/Q-28 RESOLVED ON PR #27, NOT ON MAIN:** Chapter 2 character references, Tondo event historical metadata and fictional clerk relation have been corrected on branch. Release dependency remains Q-10/Q-22.
+- **Q-29 OPEN:** Stage approved Chapter 4 narrative to publication branch, update `developmentStatus: current`, `draftStatus` and reader-facing title/aliases consistently, keep Studio notes out, then open PR and validate build, links, navigation and Read Aloud. Previous large write rejected by tool safety checks; do not repeat identical payload. No manuscript commit verified.
+- **Q-24 OPEN:** PR build workflow creation rejected; no passing PR validation established. Seek permitted scoped workflow/editor or independent reproducible build verification; no account-side permission requirement demonstrated.
+- **Q-10/Q-22 OPEN:** historical correction PR #27 still requires release validation and merge. **Q-11 OPEN:** Aganduru Spanish pp.59–60 still unverified. **Q-18 OPEN:** editorial/readiness gate, including unpaid-rower carryover and chapter metadata. **Q-21 OPTIONAL:** steward staging refinement not essential. Q-23/Q-25 resolved.
+- **Title:** *The Second Crossing* provisional for Chapter 4; *Encroachment* retained as Studio functional label. Thirty core chapters plus Book III bonus 11–12 intact. This checkpoint is a blocker audit, not publication.
