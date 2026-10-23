@@ -14,7 +14,7 @@ The carrier set them beside the tally keeper. A strip of red cloth showed beneat
 
 “The hands that receive it will be different.” She made a second mark.
 
-Sulad sat beside our jar, finishing the last of the food we had earned carrying the jars. I had eaten mine already. The woman who commanded that boat was preparing to leave, and I had watched her crew put away the sound remainder of their old rope. I did not know whether she would tell this tally keeper how I had caught her new one beneath a rack.
+Sulad sat beside our jar. We had already eaten the food we earned carrying the jars. The woman who commanded that boat was preparing to leave, and I had watched her crew put away the sound remainder of their old rope. I did not know whether she would tell this tally keeper how I had caught her new one beneath a rack.
 
 A narrow boat grounded near us. A man stepped out without helping to unload it. A pale mark ran from his ear to his jaw.
 
