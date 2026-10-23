@@ -33,6 +33,21 @@ Audit for consolidation, without discarding already written source files: Scenes
 
 **Historical status:** Ptak (1992), printed p. 27, reconstructs alternative routes from Luzon through Mindoro/Calamianes and along Borneo, using conditional wording. This supports possible network connectivity, not the geography, calendar, vessel, or timetable of these fictional landings. Scott (1982) is identified as a seamanship source, but vessel-specific passages were not verified in this pass: do not import a named rig or a technical storm maneuver from its bibliography alone. Publisher article: https://archium.ateneo.edu/phstudies/vol30/iss3/3/ ; Ptak text: https://www.persee.fr/doc/arch_0044-8613_1992_num_43_1_2804 .
 
+## Compression alternatives saved — 24 October 2026
+
+The first three scene-group alternatives now exist as **separate Studio manuscripts** on this branch; the eleven original prose files are unchanged and no reader-facing Chapter 9 assembly has occurred.
+
+| Source group | Original raw characters | Alternative characters | Reduction | Alternative file |
+| --- | ---: | ---: | ---: | --- |
+| Scenes 1A–2 | 19,214 | 7,582 | 60.5% | `chapter-9-compression-pass-mat-carrier.md` |
+| Scenes 3A–4 | 13,761 | 6,785 | 50.7% | `chapter-9-compression-pass-care-and-cargo.md` |
+| Scenes 5–7 | 28,036 | 10,285 | 63.3% | `chapter-9-compression-pass-rope-and-delivery.md` |
+| **First three groups** | **61,011** | **24,652** | **59.6%** | **Studio alternatives only** |
+
+The new rope-and-delivery candidate follows the care-and-cargo manuscript's worn bowline, preserves the purchased line, the jar-rack error and daylight cost, actual departure, completed delivery, both earned meals, the leader's truthful mixed assessment, and the transition to the larger carrier's tally keeper. It does **not** cure any defect in the unchanged original Scene 2; only the separate compressed alternative removes its duplicate payment.
+
+**Next editorial work:** compress Scenes 8–9, then read the four alternatives continuously against original source scenes, Chapters 7–8, and the Scene 9 departure handoff. Test whether the shorter pre-crisis narrative retains a distinct emotional movement, not merely a shorter sequence of similar bargains. Do not integrate or claim a published revision until the assembly and build are verified. Chapter 7 publication remains the higher-priority external release blocker.
+
 ## Next scene gates (not yet drafted)
 
 **10. The receiving creek and route decision.** First resolve Daya's parcel delivery or establish why the obligation changes; account for the tally keeper, Ache's cover-watch duties, Sulad's water work, crew meals, and any damage. Establish a credible subsequent carrier and why its actual cargo route could take the travelers toward Brunei. If the receiving creek does not support onward passage, show the consequence and compress only uneventful waiting or transit. Avoid a fourth extended bargaining scene. Do not name a port, bearing, or duration from a reconstructed trade network.
