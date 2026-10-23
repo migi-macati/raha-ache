@@ -102,7 +102,7 @@ The woman took out food wrapped in leaves and gave a packet to each of us. Sulad
 
 “I know what we agreed.”
 
-I looked at the packet in my hand. This was the meal for this delivery. It was not the food Sulad had shared with me at the first landing, and it was not the packet the mat carrier had paid us for unloading her mats. I had learned to count other people's jars more carefully than I counted what we had earned.
+I looked at the packet in my hand. This was the meal for this delivery. It was not the food Sulad had shared with me at the first landing. That had been gone before we boarded this boat. I had learned to count other people's jars more carefully than I counted what we had earned.
 
 The woman sat on the bank to eat. Her men did the same. No one invited us to the boat. We had carried our jar ashore before the last of the cargo.
 
