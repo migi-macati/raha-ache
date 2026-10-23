@@ -35,7 +35,7 @@ Audit for consolidation, without discarding already written source files: Scenes
 
 ## Compression alternatives saved — 24 October 2026
 
-All four scene-group alternatives now exist as **separate Studio manuscripts** on this branch; the eleven original prose files are unchanged and no reader-facing Chapter 9 assembly has occurred.
+All four scene-group alternatives exist as **separate Studio manuscripts** on this branch; the eleven original prose files are unchanged. A continuous Studio reading copy was assembled on 24 October 2026, but no reader-facing Chapter 9 integration or release has occurred.
 
 | Source group | Original raw characters | Alternative characters | Reduction | Alternative file |
 | --- | ---: | ---: | ---: | --- |
@@ -47,7 +47,15 @@ All four scene-group alternatives now exist as **separate Studio manuscripts** o
 
 The rope-and-delivery candidate follows the care-and-cargo manuscript's worn bowline, preserves the purchased line, the jar-rack error and daylight cost, actual departure, completed delivery, both earned meals, the leader's truthful mixed assessment, and the transition to the larger carrier's tally keeper. It does **not** cure any defect in the unchanged original Scene 2; only the separate compressed alternative removes its duplicate payment.
 
-**Next editorial work:** read all four alternatives continuously against their originals and Chapters 7–8; check transitions, chronological meal settlements, Ache's voice and the difference between repeated contracts and actual changed stakes. The fourth candidate preserves Daya's two parcels, tally keeper aboard, Sulad's loading meal, separate one-leg crew terms, and departure; a readback QA fix corrected its initial meal timing to follow compressed Scene 7. **No reader-facing assembly or build has occurred.** Chapter 7 publication remains the higher-priority external release blocker.
+**Next editorial work:** read the new continuous Studio assembly against Chapters 7–8 and the originals; check repetition, chronology, earned food, Ache's voice and the difference between repeated contracts and changed stakes. The fourth candidate preserves Daya's two parcels, tally keeper aboard, Sulad's loading meal, separate one-leg crew terms, and departure; an earlier readback QA fix corrected its meal timing to follow compressed Scene 7. **No reader-facing chapter integration or build has occurred.** Chapter 7 publication remains the higher-priority external release blocker.
+
+## Continuous pre-crisis assembly — 24 October 2026
+
+Committed Studio reading copy: `studio/book-1/chapter-9-compressed-continuous-assembly.md`, commit `2d707feab2bcd02de46a6352425127a98e825b33`. GitHub readback confirmed **31,697 characters and 5,992 whitespace-separated words**, including its Studio title and introductory note. All four compressed alternatives occur **verbatim and in the correct order** after removing their separate headers and continuity comments; zero embedded Studio HTML comments and one Studio-only heading remain. A one-commit comparison against `11d79977` confirms that only the new assembly file was added. Original scenes and alternatives remain unchanged.
+
+**Boundary audit:** The mat delivery ends with the sick sailor still ashore and awaiting arrangements; the next movement begins with his belongings and consent to paid care. The worn bowline introduced at the end of the care movement is examined and replaced at the start of the rope movement. The jar delivery settles Ache's and Sulad's separate food earnings; the next movement begins with those meals already consumed. The larger vessel's rejected wide bundle returns as Daya's two separately tallied parcels. Sulad's loading meal is a **third, separate payment** before his new crew-food agreement; Ache receives none of that loading packet. These are textual checks, not a claim of complete literary QA.
+
+**Remaining quality gate:** Read the entire assembly as one uninterrupted Ache POV narrative, not only its boundaries. Test the recurring consent/compensation explanations and the changing emotional stakes; smooth seams only where actual repetition or chronology defects are demonstrated. The present text stops after departure, before the receiving-creek delivery and survival crisis. No storm, named Brunei route, Chapter 9 publication PR, CI or deployment has been established. Do not call this a completed chapter or advance the publication checkpoint.
 
 ## Next scene gates (not yet drafted)
 
