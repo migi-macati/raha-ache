@@ -236,7 +236,7 @@ Sulad was quiet for so long that I thought he had gone to sleep.
 
 “Then come to the landing when you can,” he said. “Don't wait until you need something.”
 
-I went back to the sleeping room before the household closed the walkway. The two young men were already on their mats. I lay awake listening to the water against the posts. I had told my mother I was alive. I had not told her when I would return.
+I went back to the sleeping room before the household closed the walkway. The two young men were already on their mats. I lay awake listening to the water against the posts. I had given the witnesses words for my mother. I could not tell her when I would return.
 
 Before the light reached the river, I woke and went to the receiving platform. Daran was there with the woman and the older man who kept the dark cord. No boat had yet touched the steps.
 
