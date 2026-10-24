@@ -334,7 +334,7 @@ The other crewman looked at me. “If he stands where I need to work, I will tel
 
 He did not smile, but he agreed.
 
-She showed us our places. Sulad asked how far the bundles must be carried at the other landing; the answer depended on whether the path was passable. He accepted that limit. I accepted the watching and lifting, and the meal afterward. Neither of us had bought a place beyond the delivery.
+She showed us our places. Sulad asked how far the bundles must be carried at the other landing; the answer depended on whether the path was passable. He accepted that limit. I accepted the watching and lifting, and the meal afterward.
 
 We filled the crew's water vessels upstream. The path was rough with roots. I came back with one vessel knocking against my hip, wanting to hurry before the woman changed her mind.
 
@@ -682,7 +682,7 @@ Above us the sail made a hard sound. The master called to the men working it, an
 
 I did not know whether the wind would grow stronger. I knew only that the fold had turned once and might turn again.
 
-The landing had grown too small for me to pick out Daya or the woman with the jars. The tally keeper still knew where the cloth lay. The master knew where he had agreed to carry it. Sulad knew the work he had chosen. I watched the edge of the covering until the wind eased.
+The landing had grown too small for me to pick out Daya. I watched the edge of the covering until the wind eased.
 
 The banks drew close enough that I could hear wood being split beyond the trees. A man at the bow lowered his pole into the brown water and found the bottom. Another did the same on our right. The master let the sail fall and brought us toward a platform raised above the mud.
 
@@ -718,7 +718,7 @@ Sulad folded the leaf around the last of his meal.
 
 He looked toward the men pushing the boat off. “Because I have not decided to leave you.”
 
-It was less than I wanted him to say. I had no right to ask for more.
+It was less than I wanted him to say.
 
 The receiver knew of a carrier who sometimes brought wax and dried fish to an anchorage farther along the coast. He did not know whether the goods would arrive, or whether their owner would take us. The next boat was already easing away from the platform. I could have called after it. Instead I asked for somewhere dry to wait.
 
@@ -856,9 +856,7 @@ Sulad held his food away from me.
 
 He watched while I put my packet beside his. The seller took both and filled the jar below its chipped rim. We had not eaten since the receiving creek. Now we had water, and no food.
 
-The wax woman came from the shelter carrying her board.
-
-“Seven accepted,” she said. “The eighth will be taken from my payment.”
+The wax woman came from the shelter, counting the coins in her palm. She closed her hand when she saw me.
 
 “Will you say I owe it?” I asked.
 
@@ -868,7 +866,7 @@ The wax woman came from the shelter carrying her board.
 
 “No. I have seen you on one crossing. I do not know what you will do on another.”
 
-She went back to the shelter. The young man had already been taken beyond the sheds. I could still see the place where he had sat, his uninjured hand curled over the other wrist.
+She went back to the shelter. The young man had been taken beyond the sheds. I remembered his uninjured hand curled over the swollen wrist.
 
 Boats lay at different distances from the shore. One was taking on baskets; another had its covering tied down. I could hear men calling to one another, but not enough to learn where any of them were bound.
 
