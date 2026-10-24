@@ -102,7 +102,7 @@ The woman turned on me. “What did you do with the wax?”
 
 “Where?”
 
-I pointed to the place where it had vanished. The water there was already running out through the opening beside the floorboard, or so it seemed to me. I could not find the piece.
+I pointed to the place where it had vanished. The water there was already running beneath the floorboards toward the stern, or so it seemed to me. I could not find the piece.
 
 The woman knelt and counted what remained. The brother called for another vessel to empty water. Sulad passed his to the older crewman and took a smaller one from beneath the bench. He worked without looking at me.
 
