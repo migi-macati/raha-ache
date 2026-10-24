@@ -16,7 +16,7 @@ The screen behind us was dark. The mat-mender had left no lamp burning, and acro
 
 “Carry it by the body,” he said.
 
-We ate the food he had saved from the mat-mender's payment. The portion he had given me the night before was still beneath my cloth. I had thought I might want it more in the morning. I did, but it was no larger for having waited.
+Sulad unwrapped the portion he had saved from the mat-mender's payment. I took the portion he had given me from beneath my cloth, then opened the packet the carrier had paid me for carrying her mats. I gave Sulad half of that packet. We ate beside the jar while the screen was still dark.
 
 The carrier arrived before the tree she had named was light enough to see. Her brother stepped into the boat and moved a bundle of mats. She watched him make room without helping.
 
