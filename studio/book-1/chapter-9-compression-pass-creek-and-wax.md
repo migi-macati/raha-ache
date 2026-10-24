@@ -104,7 +104,7 @@ The sail lay gathered and wet. The brother returned to the steering paddle. The 
 
 “Seven,” she said.
 
-She counted again. The young man sat with his wrist against his chest. No one had asked me to touch the fish or the wax.
+She counted again. The young man sat with his wrist against his chest. No one had asked me to lift the fish or open the wax.
 
 “Where did it go?” the woman asked.
 
