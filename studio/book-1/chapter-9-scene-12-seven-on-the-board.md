@@ -96,7 +96,7 @@ I had been preparing an answer to an accusation. There was no accusation I could
 
 The coast came into view as a low line broken by trees. A second boat lay farther out, its sail dark against the clearing sky. I watched the brother watch it. He did not call to its crew.
 
-When we reached the shallower water, the older crewman took up a pole. The younger man tried to stand. His brother told him to remain seated. He tried again when no one was looking, then sank back with his injured hand held away from his knee.
+When we reached the shallower water, the older crewman took up a pole. The younger man tried to stand. The master told him to remain seated. He tried again when no one was looking, then sank back with his injured hand held away from his knee.
 
 The woman saw him.
 
@@ -174,7 +174,7 @@ Sulad pushed my hand back. “Keep yours.”
 
 I asked the seller how much water both packets would buy. He showed us a larger vessel and named the amount. Sulad put his packet down first. I added mine. The seller took both, filled our jar below the chipped rim, and pressed a wet leaf into its mouth.
 
-We stood with the jar between us. Neither of us had eaten since morning.
+We stood with the jar between us. We had not eaten since the receiving creek.
 
 Across the anchorage a vessel was taking on baskets. I could hear several voices, but not enough of their words to know where it was bound. A man came down the beach carrying a roll of cord, and I asked whether any boat here dealt with merchants from Brunei.
 
