@@ -90,8 +90,6 @@ I had been about to ask whether he would be finished in time to come to the hous
 
 “When the work is finished. If they still let me cross the landing.”
 
-I had imagined that reaching Siripada would mean finding a place for both of us. I had found a place that did not belong to Sulad, and he had found work that did not belong to me.
-
 “You could stay in the household,” I said.
 
 “You have asked me that already.”
