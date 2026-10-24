@@ -166,11 +166,7 @@ The answer struck harder than I expected. In Maynila my name had opened doors. I
 
 “I worked on the boats.”
 
-“I heard. You also lost track of a piece of wax.”
-
-“I did not lose it.”
-
-“You cannot tell me who did. That is different.”
+“I heard.”
 
 He motioned to the man who had stood by the jars.
 
