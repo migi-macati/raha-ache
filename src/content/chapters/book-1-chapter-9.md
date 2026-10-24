@@ -87,7 +87,7 @@ Chapter 10 must establish **how Ache and Sulad leave the unnamed anchorage, unde
 
 ## Editorial and historical gates
 
-- Reconcile the opening food-packet sequence against Chapter 8's closing ledger: Sulad saves one portion and gives Ache another before sleep. The compressed reading copy currently says they eat Sulad's saved food while Ache's portion remains beneath his cloth; clarify which portion each consumes before release.
+- Opening food ledger reconciled in the Studio reading copy (commit `bfa4338f`): Sulad eats his saved mat-mending portion; Ache eats the portion Sulad gave him and shares the separate mat-carrying packet he earned. This matches Chapter 8 PR #35's closing scene. Recheck against the eventual merged Chapter 8 text before Chapter 9 publication.
 - Recheck the twelve-scene reading copy for repeated bargaining explanations, cargo tally continuity, the injured wrist, and water-jar hygiene. Preserve original Studio scenes and alternatives.
 - Keep the exact vessels, route, weather, transactions, and injury fictional. Research may support regional maritime practices, but must not be cited as evidence that this specific voyage happened.
 - *Seven on the Board* is a **provisional reader-facing title**, rooted in the accepted wax tally and its missing eighth piece. Preserve *The Last Storm* as an alias until the final title review; do not promise a historical or climactic storm.
