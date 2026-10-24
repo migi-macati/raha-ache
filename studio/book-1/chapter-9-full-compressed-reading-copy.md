@@ -742,7 +742,7 @@ She counted eight wrapped pieces of wax before closing the basket. Her brother c
 
 We left while the receiver was still counting someone else's goods.
 
-For a time the bank stayed near. The woman lifted the corner of the mat over her wax to check for spray. The younger crewman moved between the mast and the fish. Sulad passed the small water vessel aft, keeping his knees clear when the older man turned to throw it over the side. I watched the cord as I had been told.
+For a time the bank stayed near. The woman lifted the corner of the mat over her wax to check for spray. The younger crewman moved between the mast and the fish. Sulad passed the small water vessel aft, keeping his knees clear when the older man turned to empty it over the side. I watched the cord as I had been told.
 
 The first drops left dark spots on the mat. A grey band of rain crossed the water ahead. The brother called for the sail to be taken in. I watched the crew's hands and could not tell which line was doing the work.
 
@@ -816,7 +816,7 @@ Her brother looked at the young man. “We got his hand free.”
 
 She wrapped the seven again. The board at the anchorage would record what she delivered. Nothing we said now would put an eighth piece back among them.
 
-The rain eased. A strip of coast emerged through it, broken by trees. Another boat lay farther out with its sail dark against the clearing sky. We approached shallow water slowly enough for the older crewman to use a pole. The younger man tried to rise, but the master told him to remain seated.
+The rain eased. A strip of coast emerged through it, broken by trees. Another boat lay farther out with its sail dark against the clearing sky. We approached shallow water slowly enough for the older crewman to use a pole. The younger man tried to rise, but the brother told him to remain seated.
 
 “Who will carry the fish?” he asked.
 
