@@ -148,7 +148,7 @@ The woman who commanded the boat watched him try to rise. He got one foot under 
 
 “You cannot reach the boat.”
 
-He lowered himself, angry enough to look away from her. I had thought the space he left aboard was the answer to my question. Now the woman had to find somewhere for him to sleep, and I could see what an answer cost her.
+He lowered himself, angry enough to look away from her.
 
 She asked the mat buyer whether the man could stay beneath his rack. He would give them shade until he needed the boards, he said, but he would not watch a stranger through the night. The woman looked up the path and asked who lived in the first house.
 
@@ -198,7 +198,7 @@ She called a crewman to test it. He leaned his weight against the jar, then pull
 
 “Leave it for loading,” he said.
 
-The woman nodded, but she did not offer me the sick man's place. I could still see him on the path, his feet scraping between the two men who carried him. He had not given me anything by leaving.
+The woman nodded, but she did not offer me the sick man's place. I could still see him on the path, his feet scraping between the two men who carried him.
 
 A man came down from the houses with two baskets on a carrying pole. He named a trader the leader knew and said there was payment for another load.
 
@@ -246,7 +246,7 @@ I helped him lift the pole to his shoulder. He left without thanking me. The lea
 
 “You thought it might buy you a place.”
 
-I had thought precisely that. The basket was still on its way up the path, and I wanted to point out that nothing had happened. She had refused it before it could harm anyone.
+The basket was still on its way up the path, and I wanted to point out that nothing had happened. She had refused it before it could harm anyone.
 
 Her crewman found a worn place in the bowline. He called her over and ran the fibers between his fingers. She told him to bring her the sound end before he cut anything.
 
@@ -320,7 +320,7 @@ Sulad stood by our jar.
 
 “For my work,” Sulad said.
 
-She nodded. I knew better than to answer for him. We waited while she sent a crewman to ask the buyer whether the two baskets she had refused were the last of his demands. He returned without the baskets and with an answer she made him repeat: there would be no more cargo today.
+She nodded. We waited while she sent a crewman to ask the buyer whether the two baskets she had refused were the last of his demands. He returned without the baskets and with an answer she made him repeat: there would be no more cargo today.
 
 The woman went ashore to buy a sound line. She came back carrying a coil on her shoulder, the seller behind her counting coins and complaints. The crewman unrolled it from end to end, bending each stiff place with his fingers. He approved it only after he had inspected the whole length.
 
@@ -412,7 +412,7 @@ The buyer marked the tally and paid the woman. He tried to offer another load wh
 
 “For the work that is finished.”
 
-She sent us down to the water with our own jar. When she came after us, she handed Sulad and me a packet of food each, wrapped in leaves. I waited until he had opened his before opening mine. He had earned his packet himself; neither was a share from the mat carrier's earlier payment.
+She sent us down to the water with our own jar. When she came after us, she handed Sulad and me a packet of food each, wrapped in leaves. I waited until he had opened his before opening mine.
 
 We ate on the bank. The woman and her crew ate nearby. When she rose, I asked whether she would speak for us to another boat.
 
@@ -472,7 +472,7 @@ The carrier set them beside the tally keeper. A strip of red cloth showed beneat
 
 “The hands that receive it will be different.” She made a second mark.
 
-Sulad sat beside our jar. We had already eaten the food we earned carrying the jars. The woman who commanded that boat was preparing to leave, and I had watched her crew put away the sound remainder of their old rope. I did not know whether she would tell this tally keeper how I had caught her new one beneath a rack.
+Sulad sat beside our jar. The woman who commanded that boat was preparing to leave, and I had watched her crew put away the sound remainder of their old rope. I did not know whether she would tell this tally keeper how I had caught her new one beneath a rack.
 
 A narrow boat grounded near us. A man stepped out without helping to unload it. A pale mark ran from his ear to his jaw.
 
@@ -586,7 +586,7 @@ He opened it and looked inside before she marked her board.
 
 “It does.”
 
-He ate under the shade. I had no part of that packet. He had agreed to the loading without me, and the food was his.
+He ate under the shade. I had no part of that packet.
 
 From the bank Daya called toward the larger boat. A man had raised the covering and was moving the red-edged parcel away from the side. The master stood beside him, pointing to a drier place farther in. The second parcel had not yet been set beside it.
 
