@@ -242,4 +242,4 @@ He gave me a puzzled look. “They asked whether you can count.”
 
 At the landing I could see Sulad bending over the water with a bowl in his hand. He tipped it, rinsed it, and set it beside the others. Our jar stood upright behind his feet. He saw me watching and raised one wet hand, then returned to the bowl before it could slip.
 
-The boy was already walking toward the receiving house. I followed him.
+The boy showed me where I should report at first light. Then I went back to the sleeping room.
