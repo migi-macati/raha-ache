@@ -92,11 +92,11 @@ The woman turned to the carrier. “Show me where you set them.”
 
 He went to the far side of the platform. I followed, feeling the other men watch us. Under the eaves, beyond a post that divided the roof, lay a bundle I had not included. It was covered with an old mat. The carrier pulled the mat aside.
 
-“That one came first,” he said. “You told me to keep it dry.”
+“That one came up while you were watching the boat,” he said. “You told me to keep it dry.”
 
 The woman nodded. “I did.”
 
-I had counted nine beneath the roof and not looked past the post. I had then added every bundle I saw carried up, including one the men had already moved before I began.
+I had counted nine before the last four came up. My total of thirteen was right. I had lost sight of one bundle after it reached the platform and accused the man who had carried it.
 
 The carrier put the mat back over the bundle.
 
@@ -158,7 +158,7 @@ He tore a piece from his food and chewed before answering.
 
 I went back to the woman. She was drying the cords, stretching them between two posts where air could pass.
 
-“I said he had lost a bundle,” I told her. “He had put it where you told him. I counted it twice.”
+“I said he had lost a bundle,” I told her. “He had put it where you told him. I did not look beyond the post.”
 
 She looked toward the carrier. He did not turn.
 
