@@ -128,7 +128,7 @@ I stood so quickly that my knee struck the bench. Sulad steadied the jar.
 
 The boy waited while I wiped my hands on my cloth. I had nothing on them, but I kept wiping until he turned toward the house.
 
-In the room where Siripada had questioned me, two men sat beside an unlit tray. One was the man who had carried the narrow strip of wood when I first arrived. The other I had not seen before. Siripada was absent.
+In the room where Siripada had questioned me, two men sat beside a low tray. One was the man who had carried the narrow strip of wood when I first arrived. The other I had not seen before. Siripada was absent.
 
 “Say whom the message is for,” the man with the strip told me.
 
