@@ -158,7 +158,7 @@ I took my packet. It was warm through the leaves. The brother did not smile or a
 
 Sulad opened his and broke off a piece. Then he closed it again and walked to the water seller beside the sheds. I followed with our jar.
 
-The seller tipped the jar to see its bottom. “Where is your water?”
+The seller tipped the jar to see its bottom and smelled the mouth. He pointed to a pot beside his stand and made us wash the jar and rinse it twice before he would fill it. “Where is your water?”
 
 “Gone,” Sulad said. “How much for enough to fill it?”
 
