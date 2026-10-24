@@ -2,7 +2,9 @@
 
 *Studio prose draft. Follows Scene 1, “A Name Given at the Anchorage.” The cloth buyer, voyage, carrier, landing keeper and dialogue are fictional. The Brunei River's houses raised above tidal water are broadly consistent with Pigafetta's 1521 description, but that account is later than this imagined arrival and does not verify these people, their procedures, this vessel, or Ache's route. Source locator: https://www.loc.gov/item/2021667606/ . Do not treat the passage as a documented itinerary.*
 
-The cloth buyer came the morning after the fish woman learned my name. She told him in front of me, just as she had promised.
+We slept on the hard ground above the fish sheds. Sulad kept our jar between us. Neither of us slept much.
+
+The cloth buyer came the next morning. The fish woman told him my name in front of me, just as she had promised.
 
 He did not bow. He looked at the salt dried on my sleeves and asked whether I could keep rain off a bundle without cutting the cord that held it.
 
