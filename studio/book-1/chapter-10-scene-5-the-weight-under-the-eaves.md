@@ -2,7 +2,7 @@
 
 *Studio prose draft. Follows Scene 4, “The Terms of Shelter.” The receiving-house workers, cargo dispute, methods of counting and dialogue are invented; this is not evidence for a specific Bruneian administrative practice. Siripada's household and Ache's placement there remain fictional. No message to Maynila has yet been sent.*
 
-The boy led me past the room where I had slept and down to a platform covered by a roof of overlapping leaves. The roof ended short of the water. Beneath it, a woman stood with her bare foot on a coil of cord, pulling a knot tight. Three men were unloading bundles from a boat. One carried each bundle up the steps while another caught it at the top. The third stayed in the boat to keep the load from shifting.
+At first light, the boy led me past the room where I had slept and down to a platform covered by a roof of overlapping leaves. The roof ended short of the water. Beneath it, a woman stood with her bare foot on a coil of cord, pulling a knot tight. Three men were unloading bundles from a boat. One carried each bundle up the steps while another caught it at the top. The third stayed in the boat to keep the load from shifting.
 
 “Here is the one they sent,” the boy said.
 
