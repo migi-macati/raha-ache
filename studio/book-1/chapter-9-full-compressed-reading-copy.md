@@ -682,9 +682,9 @@ Above us the sail made a hard sound. The master called to the men working it, an
 
 I did not know whether the wind would grow stronger. I knew only that the fold had turned once and might turn again.
 
-The landing had grown too small for me to pick out Daya or the woman with the jars. The tally keeper still knew where the cloth lay. The master knew where he had agreed to carry it. Sulad knew the work he had chosen. I watched the edge of the covering and waited for the next lift of wind.
+The landing had grown too small for me to pick out Daya or the woman with the jars. The tally keeper still knew where the cloth lay. The master knew where he had agreed to carry it. Sulad knew the work he had chosen. I watched the edge of the covering until the wind eased.
 
-The banks came close enough that I could hear wood being split beyond the trees. A man at the bow lowered his pole into the brown water and found the bottom. Another did the same on our right. The master let the sail fall and brought us toward a platform raised above the mud.
+The banks drew close enough that I could hear wood being split beyond the trees. A man at the bow lowered his pole into the brown water and found the bottom. Another did the same on our right. The master let the sail fall and brought us toward a platform raised above the mud.
 
 I had watched Daya's covering until the backs of my knees ached. Twice the wind lifted a corner, and twice I called the man responsible for it. Now he raised the whole cloth. The receiving man waited on the platform with a board across his knees. Beside him a boy held a cord of knots.
 
