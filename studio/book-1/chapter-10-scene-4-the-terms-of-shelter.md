@@ -178,7 +178,7 @@ He motioned to the man who had stood by the jars.
 
 “Like a servant?”
 
-“Like someone who must know what he is asking other people to risk.”
+“Like someone who can say which jars arrived sound and which did not.”
 
 I stared at the floorboards. The offer was small enough that I could have walked out and called it an insult. There was no boat waiting to carry that insult anywhere.
 
@@ -194,7 +194,7 @@ I looked up. “You used my mother's name to bring me into this room.”
 
 “Yes,” he said. “And I am responsible for what happens to you in it.”
 
-I had not thought of him as responsible for anything smaller than a city. He had been given a leaking jar that morning, and he had not been able to decide who owed for it.
+I had not thought of him as responsible for anything smaller than a city. He had been shown a spoiled jar that morning, and he had not yet decided who owed for it.
 
 “May I send word to her?” I asked.
 
