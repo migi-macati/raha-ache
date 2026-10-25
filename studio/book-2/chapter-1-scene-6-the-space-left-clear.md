@@ -292,7 +292,7 @@ She looked down at the board where I had planted my feet.
 
 “And keep that way clear. You found the right place.”
 
-It was the first instruction she had given me that she expected me to carry into another morning without her standing beside me. I wanted to ask whether she would tell Siripada. She had already turned toward the incoming boat.
+I wanted to ask whether she would tell Siripada. She had already turned toward the incoming boat.
 
 Daran came to collect the last empty basket. Idris was beside him, carrying another. They set them down against the wall and counted what they had moved. The woman paid Idris the amount they had agreed. He looked at it before putting it away.
 
