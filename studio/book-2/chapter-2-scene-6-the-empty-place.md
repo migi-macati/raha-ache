@@ -196,16 +196,6 @@ He went back beneath the side. I stayed on the stones and tried to remember his 
 
 I cut one mark near the edge for the man who was here. Beside it I left a space for the hands he needed. I could have cut two more marks and called them expected.
 
-From the passage came the sound of a quarrel. I turned, expecting another dispute over a load. It was only two boys arguing about which of them had been sent for water. One held an empty jar. The other said he had been told to carry it, not fill it. They both looked at me as I passed, waiting for me to decide.
-
-"Who sent you?" I asked.
-
-They named different women.
-
-"Then ask them."
-
-One boy laughed. The other scowled. Neither moved until I had gone back to the boat.
-
 Jamil returned after the light had shifted away from the wall. He had no one with him.
 
 "How many?" he asked.
@@ -243,10 +233,6 @@ I felt a quick satisfaction. Then Jamil added, "You asked him before you knew th
 "He may not listen the next time."
 
 The man beneath the boat called that the peg had shifted a little. Jamil knelt again. This time he kept his hands clear while the man showed him the movement.
-
-"Can it come out?" Jamil asked.
-
-"Not until the side is held."
 
 Jamil looked toward the yard.
 
@@ -292,9 +278,9 @@ He gave back the wood. I had expected something more for my day's embarrassment.
 
 "Then I have no voyage to put it on."
 
-"Can I ask you to look for one?"
+"Do you know a man who will carry it?"
 
-"You can ask me whether I know a man who will speak to you. Today I do not. If I hear of one, I will tell you what I have heard. I will not say he has agreed."
+"Today I do not. If I hear of one, I will tell you."
 
 I wanted him to say he would try. He did not.
 
@@ -308,14 +294,10 @@ I turned the offcut over. There was room on the other side for more marks.
 
 "Then you will know he has not agreed."
 
-Jamil went toward the passage. The man beneath the boat asked whether he should wait any longer. Jamil stopped and told him the owner must answer for the extra hands and the peg. He did not tell him the repair would be finished tomorrow.
-
-I stayed beside the propped boat while the man put away his tool. He drew a mat over the exposed fastening so no one would strike it in the dark. Then he took his things and went.
+Jamil went toward the passage. The man beneath the boat asked whether he should wait any longer. Jamil stopped and told him the owner must answer for the extra hands and the peg. I stayed beside the propped boat while the man put away his tool. He drew a mat over the exposed fastening so no one would strike it in the dark. Then he took his things and went.
 
 The boat remained where it was. I could see the gap beneath its side and the place where the peg had not come free.
 
 On my piece of wood I had marked one hand. Beside it were two empty spaces.
 
-I knew where Sulad had said he would be working. I could go there when the men were done and ask whether he wished to speak his own words. I could also return to the witnesses without him and pretend that asking was enough.
-
-I tucked the wood beneath my arm. The empty spaces were still there when I reached the passage.
+I knew where Sulad had said he would be working. I could go there when the men were done and ask whether he wished to speak his own words. I tucked the wood beneath my arm. The empty spaces were still there when I reached the passage.
