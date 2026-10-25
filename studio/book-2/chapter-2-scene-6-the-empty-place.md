@@ -86,7 +86,7 @@ I looked at Jamil. He did not answer for me.
 
 "Then the owner may ask."
 
-He went on. I watched him turn into the passage, angry at the way he had made me sound as though I had offered him nothing. He had no reason to stop.
+He went on. I watched him turn into the passage, angry at the way he had made me sound as though I had offered him nothing.
 
 The man beneath the boat pushed himself into the open. He held a wooden peg between two fingers.
 
@@ -194,7 +194,7 @@ The man watched my hand above the wood.
 
 He went back beneath the side. I stayed on the stones and tried to remember his answers. There was one worker here. He could not hold the side and remove the peg alone. The owner was absent. A replacement peg was said to exist, but no one had brought it. The repair might be small, or it might open the wood.
 
-I cut one mark near the edge for the man who was here. Beside it I left a space for the hands he needed. I could have cut two more marks and called them expected. The wood was mine to hold; the men were not mine to put upon it.
+I cut one mark near the edge for the man who was here. Beside it I left a space for the hands he needed. I could have cut two more marks and called them expected.
 
 From the passage came the sound of a quarrel. I turned, expecting another dispute over a load. It was only two boys arguing about which of them had been sent for water. One held an empty jar. The other said he had been told to carry it, not fill it. They both looked at me as I passed, waiting for me to decide.
 
@@ -296,7 +296,7 @@ He gave back the wood. I had expected something more for my day's embarrassment.
 
 "You can ask me whether I know a man who will speak to you. Today I do not. If I hear of one, I will tell you what I have heard. I will not say he has agreed."
 
-I wanted him to say he would try. He did not. I could not make him responsible for a message he had never offered to carry.
+I wanted him to say he would try. He did not.
 
 I turned the offcut over. There was room on the other side for more marks.
 
