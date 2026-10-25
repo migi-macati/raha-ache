@@ -240,9 +240,9 @@ The owner put the silver away. He told the poleman to bring the boat close.
 
 Daran handed me the cord. “Hold this until the basket is aboard.”
 
-The carrier stepped aside, but did not leave. He watched Daran and another man take the basket down. I stood where I could see the handles, the gunwale, and the owner's face. When the basket was settled in the boat, Daran looked up. I passed the cord to the keeper.
+The carrier stepped aside, but did not leave. He watched Daran and another man take the basket down. I stood where I could see the handles, the gunwale, and the owner's face. When the basket was settled in the boat, Daran looked up. I held the cord for the keeper.
 
-He loosened the knot.
+He loosened the knot while I kept the loose end.
 
 The owner had his basket again. The carrier still had no wages. The woman had other goods coming up the steps, and Daran had gone to meet them. The merchant's boat began to turn with the current.
 
