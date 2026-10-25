@@ -14,7 +14,7 @@ The man had gone into the yard. I could see his bare feet beneath the hanging ed
 
 I left the boy to his work. Behind me, someone called my name.
 
-Jamil stood by the wall with the torn covering folded over his arm. The patch the mender had sewn into it was darker than the old cloth. Safi was beside him, holding a short length of cord with a knot at each end.
+Jamil stood by the wall with another covering folded over his arm. A long tear ran along one edge; this one had not yet been mended. Safi was beside him, holding a short length of cord with a knot at each end.
 
 "The boat has gone," Jamil said.
 
@@ -86,7 +86,7 @@ I looked at Jamil. He did not answer for me.
 
 "Then the owner may ask."
 
-He went on. I watched him turn into the passage, angry at the way he had made me sound as though I had offered him nothing. I had offered him nothing. I knew it before he was out of sight.
+He went on. I watched him turn into the passage, angry at the way he had made me sound as though I had offered him nothing. He had no reason to stop.
 
 The man beneath the boat pushed himself into the open. He held a wooden peg between two fingers.
 
@@ -110,7 +110,7 @@ Safi looked away. I thought he was hiding a smile. When he turned back, his face
 
 Jamil picked up the covering again. "We have another length to mend before the next load can be covered. Safi, you know what has already been promised. Go and see whether the mender will take it, and what he wants for the work. Do not tell him he must."
 
-Safi wound the short cord around his palm.
+Jamil handed him the folded covering. Safi wound the short cord around his palm.
 
 "And the people who brought the poles?"
 
@@ -205,8 +205,6 @@ They named different women.
 "Then ask them."
 
 One boy laughed. The other scowled. Neither moved until I had gone back to the boat.
-
-I wanted to call them foolish. I had spent most of the day trying to settle matters by saying what other people would do.
 
 Jamil returned after the light had shifted away from the wall. He had no one with him.
 
