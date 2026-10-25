@@ -1,12 +1,10 @@
 # Book II, Chapter 1 — Scene 6: The Space Left Clear
 
-The cord keeper put the loose length of cord beside his knee and asked me why I was still holding it.
-
-I had not noticed that I was.
+The keeper reached for the cord again. I was still holding one end.
 
 “The basket is gone,” he said.
 
-I gave it back. There was a damp place on my palm where the knot had rested.
+I let go. He laid the loose length beside his knee. There was a damp place on my palm where the knot had rested.
 
 The owner’s boat was already past the farther post. Idris had gone toward the other landing, where men were calling for hands. I watched until I could no longer distinguish him from the people moving between the boats.
 
