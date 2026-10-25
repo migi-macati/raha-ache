@@ -1,6 +1,6 @@
 # Book II, Chapter 2 — A place on the list (working scene architecture)
 
-**Status:** Studio-only plan; no prose publication, canon change, or chapter checkpoint movement. **Prepared:** 25 October 2026 PHT. **Working title:** *A Place on the List*. Existing reader-facing outline title *The Sultan's Court* remains unchanged until prose justifies a change.
+**Status:** Studio plan with six completed draft scenes; no prose publication, canon change, or chapter checkpoint movement. **Prepared:** 25 October 2026 PHT. **Working title:** *A Place on the List*. Existing reader-facing outline title *The Sultan's Court* remains unchanged until prose justifies a change.
 
 ## Handoff that must be earned
 
@@ -68,3 +68,10 @@ Jamil offers Ache a supervised task: document what a vessel and its crew actuall
 3. Each scene must produce a different consequence; do not repeat the same argument about who knows what. Keep Ache's first-person limitations, credible labor, and flawed choices.
 4. Review *A Place on the List* against *The Sultan's Court* after prose; no title change merely because a plan exists.
 5. This file is Studio research/planning only. Preserve 30 core chapters plus Book III bonus 11–12. Do not advance the forward publication checkpoint until Chapter 7 is independently published.
+
+## Six-scene manuscript QA gate (26 October 2026)
+
+- **Physical and chronological continuity:** Scenes 1–4 follow the same two food baskets from waiting to explicit refusal; in Scene 5 their owners take them away and the tally boy records refusal; Scene 6 starts after that boat has left. Jamil's second torn covering is distinct from the repaired first covering. The single observed worker and two unfilled hand-spaces in Scene 6 are consistent. Do not reintroduce the baskets or count absent workers as committed.
+- **Pacing risk before public assembly:** Four successive scenes turn on the same unaccepted cargo, and Hasan and Jamil both revisit the limits of Ache's words in Scenes 5–6. Review the entire reading copy for duplicated question-and-answer beats and repeated moral explanation, especially Scenes 3–6. Preserve the different consequences: Safi's fair loading decision, the petitioner's lost time, Laila's actual provisioning debt, and Ache's narrowly supervised task. A passing build is not a literary clearance.
+- **Character and evidence locks:** The petitioner refuses a convenient rescue; the carrier receives payment for the last sack but this does not settle Idris's unrelated earlier wage; Safi retains accepted-load authority; Jamil can misjudge workers; Laila owes replacement food; Hasan cannot invent witnesses. Sulad has not consented to an appointment or dictated his words; no Maynila courier is confirmed. Keep fictional household procedures distinct from attested regional trade and material evidence.
+- **Title recommendation, not publication:** *A Place on the List* now has a concrete double meaning in the separate tally marks and Ache's unfilled spaces. *The Sultan's Court* implies a new royal audience that the chapter deliberately avoids. Reconsider the reader-facing title and preserve the old title as an alias only when assembling the public chapter; do not alter published navigation or the forward checkpoint here.
