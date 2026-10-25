@@ -32,13 +32,9 @@ She nodded once and pointed to the baskets in our hands.
 
 “Those belong against the wall. Leave the middle open.”
 
-I put mine where she indicated. When I turned back, the keeper was loosening the cord from the place where the disputed basket had stood. He wound it around his fingers and laid it with the other lengths. There would be nothing on it to show that Idris had worked and gone unpaid.
+I put mine where she indicated. When I turned back, the keeper was winding the cord he had taken from me. He laid it with the other lengths, where I could no longer tell it from the rest.
 
-I wanted to ask him to keep the knot.
-
-He had not made one for Idris’s wage. The cord had belonged to the basket. Keeping its knot would have changed nothing about the owner’s debt, and might have made someone think the basket was still in our hands.
-
-I went to the steps instead.
+I went to the steps.
 
 The next boat came in slowly, its bow low under two heavy bundles. A man in a red-brown cloth stood above them with his feet apart. He called to the woman that his load must be taken first because he had another place to reach before the water fell.
 
