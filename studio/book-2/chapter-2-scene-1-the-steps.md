@@ -96,7 +96,7 @@ She shifted her baskets.
 
 “I can wait. I cannot wait until tomorrow and still call this today's food.”
 
-I knew what it was to be sent from one person to another. The man with the message had just done it to me. Here was someone who had come with goods and a reason, and I wanted to be the person who did not send her away.
+I thought of the message still waiting on the shelf inside. The woman was waiting for me to answer.
 
 “My grandfather's people are seeing to the boats,” I said.
 
@@ -129,8 +129,6 @@ He made a face, but he did not go. I could see him looking at me, waiting to dis
 She took a breath, shifted one basket to the ground, then straightened with her hand against her back.
 
 “If they have room, tell them I am here.”
-
-I should have stopped at that.
 
 “I'll see that your baskets have a place,” I said.
 
@@ -209,10 +207,6 @@ I looked toward the men at the boat. The boy was speaking to one of them. The ma
 “Not yet,” I said.
 
 Her arms tightened around the baskets.
-
-“You said you would.”
-
-“I said I would see to it.”
 
 “You said they had a place.”
 
