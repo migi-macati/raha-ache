@@ -270,7 +270,7 @@ Jamil studied me. For a moment I wished I had asked about the peg instead.
 
 He gave back the wood. I had expected something more for my day's embarrassment. A word from Siripada, perhaps, or a task that would take me near a ship bound west. I had a piece of wood and an instruction to arrive before the carriers.
 
-"What of the message I brought from Maynila?"
+"What of the message I need sent to Maynila?"
 
 "Has a master agreed to carry it?"
 
