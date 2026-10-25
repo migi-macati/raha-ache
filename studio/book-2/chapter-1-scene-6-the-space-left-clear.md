@@ -308,7 +308,7 @@ He nodded to Daran, passed me on the clear board, and went down the steps.
 
 The waiting boat with the two bundles had turned away without unloading. The man aboard called that he would return when someone knew what to do with his goods. The woman did not answer. She was watching another vessel find the steps.
 
-I looked once toward the bank where Sulad worked. He was kneeling over the plank with his back to me. The message to my mother was still in Siripada’s house, and I had not carried Sulad’s words to the witnesses. I had no news to send and no way to know whether the merchant’s western contact would ever come.
+I looked once toward the bank where Sulad worked. He was kneeling over the plank with his back to me. The message to my mother was still in Siripada’s house, and I had not carried Sulad’s words to the witnesses. I had no word from Maynila and no way to know whether the merchant’s western contact would ever come.
 
 At the passage, the boards were clear. I stood sideways while the next men brought their load through. I knew what I was allowed to ask them. I knew who must answer the questions I could not.
 
