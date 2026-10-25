@@ -100,8 +100,6 @@ He did not move.
 
 I began to understand that he had returned for more than the basket. If he took it away, he would have the broken bowl and his own account of its breaking. He wanted an account from this house as well. The woman would not give him one that named the carrier.
 
-I had once thought a witness could end a quarrel by speaking plainly. The people who had been here all morning had spoken plainly, and the quarrel had only found more places to stand.
-
 “Did the carrier come back while I was gone?” the owner asked.
 
 “No,” Daran said.
