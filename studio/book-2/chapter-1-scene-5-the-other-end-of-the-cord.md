@@ -268,6 +268,10 @@ He stopped.
 
 “What do they call you?”
 
-He told me. I repeated it to be sure I had heard. He corrected my first attempt, then went.
+“Idris,” he said.
+
+“Idris,” I repeated.
+
+He nodded, then went.
 
 I stood with the empty cord in my hand until the keeper reached for it. There was no knot left for the basket. There was still a man to whom the owner owed money.
