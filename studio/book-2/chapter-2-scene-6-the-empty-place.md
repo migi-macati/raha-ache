@@ -20,7 +20,7 @@ Jamil stood by the wall with another covering folded over his arm. A long tear r
 
 "I saw."
 
-"The owner took the load we agreed upon. The food stayed here."
+"The owner took the load we agreed upon. The food did not go aboard."
 
 "I saw that too."
 
