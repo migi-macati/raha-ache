@@ -70,8 +70,6 @@ He looked at the older boatman, not at me.
 
 “Who pays me for that?”
 
-I had thought he might want to finish the work quickly. I had not thought of the difference between finishing his own work and taking on another man's.
-
 “Perhaps the boatman—”
 
 “No,” the older man said. “I have paid for the sacks to be carried down. I have not hired him for the poles.”
@@ -150,7 +148,7 @@ The boy raised his hand.
 
 A man who had finished carrying the first two sacks offered to go. He said he would bring back the answer, not the sack, and no one mistook the two.
 
-We waited while he went. I had begun to think of the loading as a problem that would end once someone spoke firmly enough. But the men still had to move every bundle, and the torn binding was still torn.
+We waited while he went. The sacks stayed on the steps.
 
 Safi turned the folded covering over so its repaired edge faced the man with the needle.
 
@@ -170,7 +168,7 @@ The boatman looked toward the shade.
 
 Jamil turned to me. “Your order needs another worker who has refused it. Safi's does not. We will use his.”
 
-I felt the heat rise beneath my collar. I had wanted Safi to be wrong about something. He had been wrong about the place near the stern, and he had changed his answer when the boatman showed him. I had been wrong about the carrier, and I had tried to make my grandfather part of the answer.
+Heat rose beneath my collar. Safi had corrected his plan when the boatman objected. I had brought my grandfather into an argument over one pair of hands.
 
 Safi did not smile. He was already helping the man fold the covering again.
 
