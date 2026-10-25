@@ -118,8 +118,6 @@ She did not say it proudly. She sounded irritated that the answer had to be repe
 
 The woman by the jar smiled at that, but only a little.
 
-I thought of the two baskets being carried away. There was no way to make them useful here. Their food had been bought for different people, and their owners were already gone.
-
 "I was looking for someone who might carry words to Maynila," I said.
 
 Laila took her hand from the mat.
@@ -220,12 +218,6 @@ I waited for him to go on. He did not.
 
 Laila was looking toward the yard. She had not asked Hasan to defend me, and he did not seem inclined to do it.
 
-"If we all spoke the same tongue," I said, "would this have happened?"
-
-"Perhaps. People who speak the same tongue still promise more than they can do."
-
-I had hoped that a difference between words could carry some of the blame. Hasan gave me no such comfort. He looked down at the board he had brought.
-
 "Was anyone present when you corrected the promise?"
 
 "The woman, her brother, the boy. Safi heard part of it. A man with a covering heard me say I had no authority."
@@ -311,29 +303,3 @@ She took the jar of spare ties from the mat and went into the house. I stayed lo
 "Ask Laila," the woman with the jar said. "She has said it will come from her store."
 
 The first woman did not look satisfied.
-
-I went back toward the landing. The place where the two rejected baskets had stood was empty. The boat was gone. The boy's board lay on the step beside him, its marks still visible. He was watching another load come through the passage.
-
-I asked whether he had found Safi.
-
-"Yes."
-
-"What did he tell you?"
-
-"To leave the marks until the woman had gone. Then to show they were refused."
-
-"Did you tell him why?"
-
-"I told him what you said."
-
-I looked at the two short cuts beside the marks. They were smaller than the first marks and would be easy to miss unless someone asked.
-
-"Good," I said.
-
-He picked up the board.
-
-"Is that what you wanted?"
-
-"That is what happened," I said.
-
-The boy turned the board over and went to meet the next carrier.
