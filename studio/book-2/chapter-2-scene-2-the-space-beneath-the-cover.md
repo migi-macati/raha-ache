@@ -192,7 +192,7 @@ The boatman did not reply. The carrier stayed, but he sat on the steps instead o
 
 Safi came back with a different strip of cloth. The man under the covering tested it and nodded. Safi crouched to help him hold the edge steady while he worked. The red mark on Safi’s palm opened a little when he pulled. He shifted his grip and went on.
 
-I could have offered to take his place. I thought of doing it, then saw that the man had already arranged the cloth against Safi’s hand. My help would have required them to stop and begin again.
+I moved toward them, then stopped. The man had already fitted the cloth against Safi’s hand.
 
 Jamil returned from the stern.
 
