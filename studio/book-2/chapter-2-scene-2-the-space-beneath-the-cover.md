@@ -280,4 +280,4 @@ Safi was coming off the boat with the torn piece of covering in his hands. He sa
 
 “I know what people told me. That is not always what comes down the steps.”
 
-He went past me toward the yard. I looked at the woman's baskets, then at the marks on the boy's board. The space I had promised had never been mine to give. I still wanted to find a way to put the baskets aboard before Safi returned.
+He went past me toward the yard. I looked at the woman's baskets, then at the marks on the boy's board. I still wanted to find a way to put the baskets aboard before Safi returned.
