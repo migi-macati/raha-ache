@@ -80,10 +80,6 @@ The woman stood. “You have made a rule for the marks. Does that get food to th
 
 “No,” Safi said. “It keeps another man's goods from being taken off the boat while we decide.”
 
-“Whose goods?”
-
-He named the sacks accepted the day before and pointed to the poles being brought down. The brother listened, but the woman watched the boat.
-
 “If the sacks were promised first, they go first,” she said. “I am asking why I was told to wait here.”
 
 Safi glanced at me. He did not answer for me.
@@ -114,7 +110,7 @@ The man with the covering shifted the cloth from one shoulder to the other. “W
 
 “Good,” he said. “Don't make us move it now.”
 
-He went into the yard. I had imagined that correcting the words would be one act. Instead I was going to meet them again in every person who had heard them.
+He went into the yard.
 
 The brother stepped closer. “If you had told us there was no promise, I could have gone back to the man who sent my sister. He might have known another way.”
 
@@ -234,9 +230,7 @@ Her brother picked up the heavier basket. He tested the binding and put it down 
 
 “Then do not tell me he will help until you have spoken to him.”
 
-He gave me a look before he went, as though I had taught them both a phrase they would now use against one another.
-
-I reached for the smaller basket. “I can carry this while you wait.”
+ I reached for the smaller basket. “I can carry this while you wait.”
 
 “You carried it well enough before,” the woman said. “That was never the trouble.”
 
@@ -254,7 +248,7 @@ She looked toward the water. “I could have sent my brother to look for another
 
 “Do you understand how long that was?”
 
-I had seen the light move across the wall. I had counted the sacks and the hands moving them. I had not counted her waiting as part of the work.
+The light had moved across the wall while she waited.
 
 “I saw you wait,” I said.
 
