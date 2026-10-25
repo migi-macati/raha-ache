@@ -1,6 +1,6 @@
 # Book II, Chapter 1 — Scene 6: The Space Left Clear
 
-The keeper reached for the cord again. I was still holding one end.
+The keeper's fingers closed around the cord. I was still holding one end.
 
 “The basket is gone,” he said.
 
