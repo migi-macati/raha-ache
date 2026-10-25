@@ -182,9 +182,7 @@ I had not asked her to do so. I had wanted her to offer a way that I could not n
 
 A man came through the passage carrying a narrow board under his arm. His beard was threaded with grey. He stopped when he saw Laila.
 
-"Your messenger found me," he said. "He said there was a question about the words used at the landing."
-
-"Hasan," she said. "That question belongs to Ache. He can ask it himself."
+"Hasan," she said. "Ache has a question about what was said at the landing. He can ask it himself."
 
 I had seen Hasan speaking with men from more than one trading boat. He listened closely even when the speaker stumbled. I had thought that made him a man who could tell what people meant.
 
@@ -302,13 +300,13 @@ Laila gathered the loose ties from the mat and placed them in the jar for reuse.
 
 "Would you tell them what you saw, or would you tell them I had a right to take it?"
 
-I thought of the man with the covering and the boy with the board. I had been asked nearly the same question all day, though no one had used the same words.
+I thought of the man with the covering and the boy with the board.
 
 "What I saw," I said.
 
 "Then if someone asks you, answer that. Do not go looking for a person to persuade."
 
-She took the empty jar from the mat and went into the house. I stayed long enough to hear the woman who had counted the first six bundles ask whether there would be enough for tomorrow.
+She took the jar of spare ties from the mat and went into the house. I stayed long enough to hear the woman who had counted the first six bundles ask whether there would be enough for tomorrow.
 
 "Ask Laila," the woman with the jar said. "She has said it will come from her store."
 
@@ -316,9 +314,7 @@ The first woman did not look satisfied.
 
 I went back toward the landing. The place where the two rejected baskets had stood was empty. The boat was gone. The boy's board lay on the step beside him, its marks still visible. He was watching another load come through the passage.
 
-I wanted to tell him what Hasan had said. I wanted him to know that there had been more than one way to hear my promise.
-
-Instead I asked whether he had found Safi.
+I asked whether he had found Safi.
 
 "Yes."
 
@@ -337,8 +333,6 @@ I looked at the two short cuts beside the marks. They were smaller than the firs
 He picked up the board.
 
 "Is that what you wanted?"
-
-I had come to the steps looking for a way to send words home. I had spent the day discovering how far my own words had travelled without me.
 
 "That is what happened," I said.
 
