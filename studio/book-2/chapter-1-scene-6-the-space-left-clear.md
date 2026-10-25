@@ -304,6 +304,6 @@ The waiting boat with the two bundles had turned away without unloading. The man
 
 I looked once toward the bank where Sulad worked. He was kneeling over the plank with his back to me. The message to my mother was still in Siripada’s house, and I had not carried Sulad’s words to the witnesses. I had no word from Maynila and no way to know whether the merchant’s western contact would ever come.
 
-At the passage, the boards were clear. I stood sideways while the next men brought their load through. I knew what I was allowed to ask them. I knew who must answer the questions I could not.
+At the passage, the boards were clear. I stood sideways while the next men brought their load through.
 
 When the last man passed, I stayed where I was. Another boat was coming in.
