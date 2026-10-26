@@ -1,6 +1,6 @@
 # Book I, Chapter 7 — Material cargo evidence and limits (research note)
 
-**Status:** Studio research; not reader-facing canon. **Checked:** 17 October 2026 (Asia/Manila). Complements the cloth-ownership, language-mediation and scene-architecture notes. Chapter 7 Scene 3 is still unsaved; this note does not stand in for it.
+**Status:** Studio research; not reader-facing canon. **Checked:** 17 October 2026 (Asia/Manila). Complements the cloth-ownership, language-mediation and scene-architecture notes. Scene 3A (*The Ground Between*) is saved in Studio and integrated into the separate six-scene reader-facing Chapter 7 draft on `novel/book1-ch7-length-of-a-rope-20261018`; neither branch is published canon.
 
 ## Archaeological anchors near the novel's broad period
 
@@ -22,4 +22,4 @@
 
 ## Verification gate
 
-Before reader-facing publication, check the relevant archaeological dates and descriptions against the National Museum pages again; resolve the provisional Mulaw/Lakanmulaw naming question; verify Scene 3 exists and connects Scenes 2–4; and keep history, plausible reconstruction and invented dialogue clearly separated. Do not append page-specific Scott citations until those pages have been inspected.
+Before reader-facing publication, check the relevant archaeological dates and descriptions against the National Museum pages again; resolve the provisional Mulaw/Lakanmulaw naming question; recheck Scene 3A's saved transition between Scenes 2 and 4 against the current assembled draft; and keep history, plausible reconstruction and invented dialogue clearly separated. Do not append page-specific Scott citations until those pages have been inspected.
