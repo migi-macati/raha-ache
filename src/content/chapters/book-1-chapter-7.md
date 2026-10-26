@@ -52,7 +52,7 @@ Sulad looked at me. We had not decided what would happen after one night.
 
 “With what?”
 
-I reached toward the cloth where I had kept our remaining silver. Sulad laid his hand on the jar between us. He did not touch my arm or stop me. I counted the pieces in my head before taking any out.
+I reached toward the cloth where I kept our last piece of silver. Sulad laid his hand on the jar between us. He did not touch my arm or stop me. I left the silver where it was.
 
 The woman watched my hand.
 
