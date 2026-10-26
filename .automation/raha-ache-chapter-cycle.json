@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-10",
-  "nextChapterId": "book-2-chapter-1",
+  "lastCompleted": "book-2-chapter-1",
+  "nextChapterId": "book-2-chapter-2",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "c3e319bdfc35aed50f184e2490edd2f5845e9ac2",
-  "completedChapterPasses": 10,
+  "lastMergeSha": "5b8a48dec1247705a246e2dcf42020b13004cefe",
+  "completedChapterPasses": 11,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "c3e319bdfc35aed50f184e2490edd2f5845e9ac2",
+    "sourceSha": "5b8a48dec1247705a246e2dcf42020b13004cefe",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 PHT: Book I Chapter 10 PR #36 merged as c3e319bdfc35aed50f184e2490edd2f5845e9ac2; GitHub Pages run 40402149442 built and deployed that SHA successfully (build job 121850536605; deploy job 121850877610). Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40402149442,
-    "buildJobId": 121850536605,
-    "deployJobId": 121850877610
+    "verificationLimit": "27 October 2026 05:21–05:xx PHT: Book II Chapter 1 PR #43 merged as 5b8a48dec1247705a246e2dcf42020b13004cefe; exact PR head a6005e8959095620f5b149f259b3b61816371cbb passed Validate PR run 40402716182 (build 121852495399); GitHub Pages run 40402919773 built and deployed the merge SHA successfully (build 121853182963; deploy 121853457644). Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40402919773,
+    "buildJobId": 121853182963,
+    "deployJobId": 121853457644
   },
   "operatingLessons": [
     {
@@ -79,13 +79,17 @@
     {
       "lesson": "A branch being behind main is not by itself a publication blocker: compare actual file overlap and GitHub mergeability, require successful PR CI, and verify the integrated Pages build/deploy after merge.",
       "evidence": "27 Oct 2026: Chapter 8 PR #35 was 1 ahead/20 behind current main with only chapter-8.md changed; mergeable and green PR CI 40072302554; merged f88346eea and Pages run 40392974093 built/deployed successfully."
+    },
+    {
+      "lesson": "Before drafting or repeating a release, reconcile the main branch, PR merges, and deployment runs against the checkpoint; a chapter can be merged and deployed while the checkpoint still points to it.",
+      "evidence": "27 Oct 2026: main already included Book II Chapter 1 via PR #43 merge 5b8a48de and successful Pages run 40402919773 while checkpoint still said lastCompleted Book I Chapter 10; reconciled before creating duplicate release."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-1",
-    "branch": "studio/book2-ch1-two-accounts-20261025",
+    "chapterId": "book-2-chapter-2",
+    "branch": "studio/book2-ch2-court-test-architecture-20261025",
     "state": "draft",
-    "progress": "Book I Chapters 1–10 are merged and deployed through Chapter 10 PR #36 (27 Oct 2026). The separate Chapter 7 Studio branch remains branch_written and unmerged; its prose was published separately. Next publication target is Book II Chapter 1; Studio draft PR #38 holds six scenes and source note, not yet reader-facing prose.",
+    "progress": "Book I Chapters 1–10 and Book II Chapter 1 are merged and deployed. Book II Chapter 1 public PR #43 merged as 5b8a48de with successful Pages run 40402919773; separate Studio PR #38 remains draft and unmerged. Next Book II Chapter 2 has six scenes and architecture in draft Studio PR #39, not yet assembled as reader-facing chapter. No next-chapter release PR.",
     "blockers": []
   },
   "researchWork": {
