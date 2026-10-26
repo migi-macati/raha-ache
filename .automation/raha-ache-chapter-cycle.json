@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-7",
-  "nextChapterId": "book-1-chapter-8",
+  "lastCompleted": "book-1-chapter-8",
+  "nextChapterId": "book-1-chapter-9",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954",
-  "completedChapterPasses": 7,
+  "lastMergeSha": "f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae",
+  "completedChapterPasses": 8,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954",
+    "sourceSha": "f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 PHT: Chapter 7 PR #41 merged as ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954; GitHub Pages run 40392554288 built and deployed that SHA successfully (build job 121817114850; deploy job 121817425667). Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40392554288,
-    "buildJobId": 121817114850,
-    "deployJobId": 121817425667
+    "verificationLimit": "27 October 2026 PHT: Book I Chapter 8 PR #35 merged as f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae; GitHub Pages run 40392974093 built and deployed that SHA successfully (build job 121818503548; deploy job 121818765762). Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40392974093,
+    "buildJobId": 121818503548,
+    "deployJobId": 121818765762
   },
   "operatingLessons": [
     {
@@ -75,6 +75,10 @@
     {
       "lesson": "Do not chase the latest deployment SHA with checkpoint-only commits; reconcile deployment evidence when advancing a chapter publication checkpoint, and avoid redundant deployment-triggering metadata writes.",
       "evidence": "26 Oct 2026 checkpoint-only commit dc8f9834 triggered Pages run 40297580557; 27 Oct Chapter 7 PR #41 merge ff5e1e1d and successful Pages run 40392554288 provided substantive publication evidence for this checkpoint update."
+    },
+    {
+      "lesson": "A branch being behind main is not by itself a publication blocker: compare actual file overlap and GitHub mergeability, require successful PR CI, and verify the integrated Pages build/deploy after merge.",
+      "evidence": "27 Oct 2026: Chapter 8 PR #35 was 1 ahead/20 behind current main with only chapter-8.md changed; mergeable and green PR CI 40072302554; merged f88346eea and Pages run 40392974093 built/deployed successfully."
     }
   ],
   "studioWork": {
