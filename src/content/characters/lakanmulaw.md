@@ -6,7 +6,7 @@ status: fictional
 developmentStatus: working
 relations:
   - target: ache
-    type: ally
+    type: acquaintance at the first landing; no alliance or passage promised
     certainty: development
 related: [psychologically-credible-characters, ache, sulad, book-1-chapter-7, brunei, book-2]
 sources: []
