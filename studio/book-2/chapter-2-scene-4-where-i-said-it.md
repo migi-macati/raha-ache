@@ -8,31 +8,15 @@ I stopped beside the steps. The boy with the board had followed us from the land
 
 “They have not agreed to take them,” I said.
 
-“I can see that.”
+“You told me you would see to it. The boy asked whether you meant both, and you said yes.”
 
-“I spoke before I had asked the boatman.”
+“I did. I had not asked the boatman.”
 
-She set the basket down. “You told me you would see to it.”
-
-“Yes.”
-
-“And when the boy asked whether you meant both baskets, you said yes.”
-
-The boy looked at the two marks on his board. He did not help me.
-
-“I had no right to say it.”
-
-The woman pressed her fingers against the basket cover, feeling for a loosened knot.
-
-“Do they have room or not?”
-
-“I don't know whether the owner will accept another load. The men have work already promised, and the boat cannot be loaded as I thought.”
-
-“Then go and ask him.”
+“Then ask the owner now.”
 
 “I can ask. I cannot promise what he will say.”
 
-She looked up at me. “That is what you should have told me when there was still time to carry these somewhere else.”
+“That is what you should have said when there was still time to carry these somewhere else.”
 
 Her brother came through the passage as she spoke. He was a narrow man with a wet patch down one side of his tunic. He had been running, or carrying something that had leaked. He stopped when he saw the baskets on the ground.
 
@@ -166,23 +150,11 @@ The woman had watched the exchange.
 
 “They can make a man stand there with his work until someone pays him,” she said. “I have stood here with mine. Who is supposed to answer me?”
 
-Jamil heard her. He came up the steps and asked what had been promised.
+Jamil heard her and came up the steps.
 
-“By me,” I said before Safi could speak. “I told her I would see that her baskets had a place. I had not seen the boat.”
+“Will the boat take the food?” she asked him.
 
-“Did you correct it?”
-
-“To her, and to the boy who carried my words.”
-
-“And to the men who heard him?”
-
-“The man with the covering heard me. The others may not have.”
-
-“Then they will hear it when they ask.”
-
-The woman crossed her arms. “Will the boat take the food?”
-
-Jamil looked back at the owner, who was watching the last sack being set down. He called him over. The owner listened to the woman's account of the workers above the bend. He lifted the cover of the nearer basket just enough to see how the portions were packed, then lowered it again.
+He looked back at the owner, who was watching the last sack being set down, and called him over. The owner listened to the woman's account of the workers above the bend. He lifted the cover of the nearer basket just enough to see how the portions were packed, then lowered it again.
 
 “Where do you want it landed?” he asked.
 
@@ -230,7 +202,7 @@ Her brother picked up the heavier basket. He tested the binding and put it down 
 
 “Then do not tell me he will help until you have spoken to him.”
 
- I reached for the smaller basket. “I can carry this while you wait.”
+I reached for the smaller basket. “I can carry this while you wait.”
 
 “You carried it well enough before,” the woman said. “That was never the trouble.”
 
