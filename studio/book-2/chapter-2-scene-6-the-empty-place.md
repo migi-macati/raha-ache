@@ -88,15 +88,15 @@ I looked at Jamil. He did not answer for me.
 
 He went on. I watched him turn into the passage, angry at the way he had made me sound as though I had offered him nothing.
 
-The man beneath the boat pushed himself into the open. He held a wooden peg between two fingers.
+The man beneath the boat pushed himself into the open. He pointed back to the wooden peg still caught in the hull.
 
 "I need the side steady long enough to take this out without splitting the wood," he said. "I do not need a boy telling every man who passes that there is work."
 
 "Will the peg come free?" Jamil asked.
 
-"It may. The hole has swollen around it. I would rather wait for the owner than break it."
+"It may. The wood has swollen around it. I would rather wait for the owner than break it."
 
-Jamil bent to look. His knee pressed into the stones. He reached for the peg, but the man moved it out of his hand.
+Jamil bent to look. His knee pressed into the stones. He reached for the peg, but the man raised a hand between Jamil's fingers and the wood.
 
 "If you pull it now, the wood may go with it."
 
