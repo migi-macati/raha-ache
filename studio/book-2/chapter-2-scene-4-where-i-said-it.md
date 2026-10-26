@@ -98,7 +98,7 @@ The boy's face tightened. “I said what I heard.”
 
 I raised my voice enough for the man with the covering to hear.
 
-“When I said to keep room for two baskets, I had not asked the boatman or the owner. I could not give that order. The two marks are for goods waiting to be considered, not goods accepted.”
+“When I told her I would see that her baskets had a place, I had not asked the boatman or the owner. I could not reserve that space. The two marks are for goods waiting to be considered, not goods accepted.”
 
 The boy held the board out so I could see the cuts. “They were always apart.”
 
