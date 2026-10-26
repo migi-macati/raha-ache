@@ -4,13 +4,13 @@ name: "Book II, Chapter 1: The Other End of the Cord"
 aliases: ["The Other End of the Cord", "Brunei"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, brunei, siripada, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, brunei, siripada, daran, idris, story-architecture-standard]
 sources: []
 timeline: [ache-leaves-for-brunei]
 book: book-2
 chapterNumber: 1
 draftStatus: draft
-characters: [ache, sulad, siripada]
+characters: [ache, sulad, siripada, daran, idris]
 places: [brunei]
 events: [ache-leaves-for-brunei]
 pov: [ache]
