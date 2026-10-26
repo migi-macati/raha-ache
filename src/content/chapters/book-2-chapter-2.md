@@ -1,97 +1,235 @@
 ---
 id: book-2-chapter-2
-name: "Book II, Chapter 2: The Sultan's Court"
-aliases: ["The Sultan's Court"]
+name: "Book II, Chapter 2: A Place on the List"
+aliases: ["A Place on the List", "The Sultan's Court"]
 status: fictional
-developmentStatus: working
-related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
-sources: [aganduru-moriz]
+developmentStatus: current
+related: [ache-attraction-romance-chemistry, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, brunei, story-architecture-standard]
+sources: []
 timeline: []
 book: book-2
 chapterNumber: 2
-draftStatus: outline
-characters: [ache, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur]
+draftStatus: draft
+characters: [ache, sulad, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur]
 places: [brunei]
 events: []
 pov: [ache]
 ---
-## Chapter purpose
 
-Establish the people and rules that will shape Ache's development: Siripada as sovereign, Jamil and Hasan as mentors, Safi as rival, and Laila as a possible emotional and political attachment.
+The man who had heard my message was washing a shallow tray when I found him. He tilted it so the water ran from one corner, then set it in the sun beside the doorway.
 
-## Opening state
+“Has anyone asked to carry my words?” I said.
 
-Ache knows he must prove useful but does not yet understand what Brunei values or who benefits from his success or failure.
+He looked at me without reaching for the strip of wood on the shelf.
 
-## Immediate objective
+“Have you brought another message?”
 
-Win a meaningful place at court without appearing weak, presumptuous, or merely dependent on his grandfather.
+“No. The same one.”
 
-## Main plot movement
+“Then it is still here.”
 
-Court tests determine that Ache will be given opportunity, not command. His path toward military service opens.
+I had learned to ask whether a boat was leaving before asking whether there was room on it. I had not yet learned how to bear an answer that did not change.
 
-## Subplots
+“Someone at the receiving house said a trader from the west may come in,” I told him.
 
-- **Safi rivalry:** challenges Ache's privilege and outsider status.
-- **Jamil mentorship:** identifies Ache's raw naval potential.
-- **Hasan mentorship:** widens language, religion, and political thinking.
-- **Laila:** introduces the possibility of belonging to Brunei rather than merely using it.
+“Someone at the receiving house hears about boats all day.”
 
-## Conflict and stakes
+“Have you heard of him?”
 
-Every display of confidence can look like entitlement; every display of humility can look like weakness.
+“I have heard that men are waiting for him.”
 
-## Themes and subthemes
+“Where will he go afterward?”
 
-**Theme:** legitimacy is negotiated.
+“If he comes, ask him.”
 
-**Subthemes:** patronage, reputation, court performance, kinship, merit.
+He lifted the tray again. A little water had collected beneath its rim. He shook it onto the ground, then took a cloth to the last wet place.
 
-## Character progression
+I had meant to tell him that I could find a carrier myself. It was a poor claim to make while I could not even name the vessel.
 
-### Ache
+“Sulad has words to add,” I said.
 
-**Begins:** wants recognition.
+“Then bring Sulad. We heard yours before two men. We will hear his from him.”
 
-**Pressure:** learns to read factions and consequences before speaking or acting.
+“He is working along the bank.”
 
-**Ends:** accepts a subordinate path to authority.
+“I did not send him there.”
 
-### Safi
+I left before I asked the man to send for him. Outside, the steps were crowded with people carrying things into the house and people trying to discover who would receive them. A woman held two shallow baskets against her hips. A narrow cover had been tied over each one, but one of the bindings had come loose. She was trying to retie it without putting either basket on the ground.
 
-**Begins:** sees Ache as favored foreign kin.
+I moved toward her. She saw me and turned her shoulder away, as though she thought I was reaching for the load.
 
-**Progression:** becomes a rival whose criticism may sometimes be correct.
+“I can hold one,” I said.
 
-### Jamil
+“Can you hold it without opening it?”
 
-**Progression:** sees enough potential to invest in Ache but not enough competence to trust him.
+“Yes.”
 
-### Hasan
+She gave me the smaller basket. It was lighter than I expected, though its bottom pressed sharply against my forearm. Beneath the cover something shifted when I moved.
 
-**Function:** begins challenging Ache to interpret worlds rather than simply conquer problems.
+“Keep it level,” she said.
 
-## Turning point
+I did. She tightened the binding on the other basket with her teeth and pulled the knot against her knee.
 
-Siripada or Jamil makes Ache's opportunity conditional on service and training.
+“Who receives these?” she asked.
 
-## Resolution and ending state
+“I don't know.”
 
-Ache gains a path forward, but only by accepting that he is not yet ready to lead.
+“You came out of that room.”
 
-## Setup and payoff
+“I was asking about a message.”
 
-Introduces relationships that should recur throughout Book II.
+“Then you know where to ask.”
 
-## Handoff
+I had spent the morning sending claimants to the receiving woman rather than accepting their goods myself. I should have given her the same answer. Instead I looked toward the open passage and said, “What are they for?”
 
-Chapter 3 converts political opportunity into disciplined training.
+“Men working above the bend. They have been promised food while they finish a bank that keeps falling into the water.”
 
-## Suspense and emotional stakes revision
+“Who promised them?”
 
-Safi defeats Ache fairly in one courtly/professional contest and articulates a credible grievance: a displaced claimant is using Bruneian people and resources for private restoration. **Reversal:** Safi prevents an insult or mistake by Ache *without becoming his friend*. **Choice:** confess the defeat or conceal it behind bloodline. **Cost:** the court can prefer Safi for sound reasons, forcing Ache to grow.
+“My brother arranged it. I brought what he bought.”
 
-## Emerging attachment, with age and autonomy checks
+She took the smaller basket back. The covering moved again, and I saw through a gap that it held leaf-wrapped portions, packed close enough that the bottom ones had begun to flatten.
 
-Laila is not a prize for an accomplished heir. Ache notices her attention partly because she refuses his court performance; she notices both his vulnerability and his self-regard. Their chemistry can begin with **conversation, disagreement and a small private kindness**, but **no adult-romance scene until Ache and Laila have both been established as adults**. Safi's rivalry is intense without making him a default love interest. [Chemistry guidance](/raha-ache/research/ache-attraction-romance-chemistry/).
+“The men are waiting for these?”
+
+“They have eaten what was sent yesterday. If they stop working, the owner will say my brother failed to supply them. If they keep working without food, they will come looking for him.”
+
+She looked past me to the passage.
+
+“I was told a boat is being made ready. I need to know whether these can go with it.”
+
+“Which boat?”
+
+“The one they are loading beyond the outer steps.”
+
+I could see only a strip of water between the buildings. A man came through carrying a pole on his shoulder, turned it to clear the doorway, and went on without looking at us.
+
+“Who told you it would take them?” I asked.
+
+“A man who said to bring them here before the light changed. He has gone to fetch the other load.”
+
+She shifted her baskets.
+
+“I can wait. I cannot wait until tomorrow and still call this today's food.”
+
+I thought of the message still waiting on the shelf inside. The woman was waiting for me to answer.
+
+“My grandfather's people are seeing to the boats,” I said.
+
+“Are you one of them?”
+
+“I am staying in his house.”
+
+“That is not what I asked.”
+
+A boy came out carrying a narrow board on which someone had made marks in rows. He stopped beside us to let two men pass. The woman turned to him.
+
+“Do you know where the load for the upper bend is being gathered?”
+
+He looked at her baskets. “What is in them?”
+
+“Food for the men.”
+
+“Have they taken it?”
+
+“Would I be standing here?”
+
+He made a face, but he did not go. I could see him looking at me, waiting to discover whether I knew more than he did.
+
+“I can speak to the people loading the boat,” I said.
+
+“Will they listen to you?” the woman asked.
+
+“They will hear me.”
+
+She took a breath, shifted one basket to the ground, then straightened with her hand against her back.
+
+“If they have room, tell them I am here.”
+
+“I'll see that your baskets have a place,” I said.
+
+The boy's gaze moved from me to the woman. He seemed to hear something in my words that I had not intended.
+
+“Both baskets?” he asked.
+
+“Yes, both,” I said, meaning that I would ask about both.
+
+The woman bent to retie the loose cover. “Then I will wait here. My brother will come looking for me when he returns.”
+
+The boy looked down at his board. There was a row near the bottom with fewer marks than the others. He touched it with his thumb.
+
+“I will tell them there are two more,” he said.
+
+“Tell them I am asking,” I said.
+
+“You said they have a place.”
+
+“I said I would see to it.”
+
+He stared at me. The difference had seemed plain when I spoke. It sounded less plain when I heard it back.
+
+“Whose place?” he asked.
+
+“I haven't seen the boat yet.”
+
+The boy put his board against his side.
+
+“Then I will tell them Ache says to keep room for two baskets, and they can ask you.”
+
+“No,” I said.
+
+He had already turned toward the outer steps. I followed, leaving the woman with her baskets.
+
+“Wait. I have not told anyone to keep room.”
+
+“You told her you would see to it.”
+
+“I meant I would ask.”
+
+“Then why didn't you say that?”
+
+He was younger than I was, or looked it, and I resented how easily he had asked the question. He went on before I answered.
+
+I could have called him back loudly enough for the people on the steps to hear. I could have told the woman that I had spoken too soon. Instead I walked beside him, trying to reach the boat before he did.
+
+At the turn of the passage a man carrying a folded covering stopped us. He had to brace its weight against the wall while another man cleared the way.
+
+“Are those baskets coming?” he asked the boy.
+
+“Two. Ache says there is room.”
+
+The man looked at me.
+
+“I haven't looked,” I said.
+
+“Then there may not be.”
+
+He adjusted the covering. Its edge had worn thin where it had been folded against itself.
+
+“Who is deciding?” I asked.
+
+“Ask the men whose boat it is.”
+
+He went past us. The boy hurried after him, holding the board clear of the covering. I stood where the passage opened toward the water.
+
+The boat was farther away than I had expected. I could see people moving along its side and a pair of baskets already waiting beneath a roof. A man lifted one of them, tested its weight, and put it back. Nothing about the boat told me whether two more would fit.
+
+The woman came around the corner behind me. She had carried both baskets rather than leave them where I could not see them.
+
+“Did you find the place?” she asked.
+
+I looked toward the men at the boat. The boy was speaking to one of them. The man turned and searched the passage until he found me.
+
+“Not yet,” I said.
+
+Her arms tightened around the baskets.
+
+“You said they had a place.”
+
+I opened my mouth. I could remember the exact words I had used. That did not make them any more useful to her.
+
+The man beside the boat called for the boy to bring his board. Then he called my name.
+
+I had wanted someone in this house to know it.
+
+The woman set down her baskets and waited for me to go to him.
