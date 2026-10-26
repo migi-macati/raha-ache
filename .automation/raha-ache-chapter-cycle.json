@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-1",
-  "nextChapterId": "book-2-chapter-2",
+  "lastCompleted": "book-2-chapter-2",
+  "nextChapterId": "book-2-chapter-3",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "5b8a48dec1247705a246e2dcf42020b13004cefe",
-  "completedChapterPasses": 11,
+  "lastMergeSha": "b05b25ce37880b6e0a4d18bc8a39e216aae2935e",
+  "completedChapterPasses": 12,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "5b8a48dec1247705a246e2dcf42020b13004cefe",
+    "sourceSha": "b05b25ce37880b6e0a4d18bc8a39e216aae2935e",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 05:21–05:xx PHT: Book II Chapter 1 PR #43 merged as 5b8a48dec1247705a246e2dcf42020b13004cefe; exact PR head a6005e8959095620f5b149f259b3b61816371cbb passed Validate PR run 40402716182 (build 121852495399); GitHub Pages run 40402919773 built and deployed the merge SHA successfully (build 121853182963; deploy 121853457644). Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40402919773,
-    "buildJobId": 121853182963,
-    "deployJobId": 121853457644
+    "verificationLimit": "27 October 2026 ~05:27 PHT: Book II Chapter 2 public PR #44 merged as b05b25ce37880b6e0a4d18bc8a39e216aae2935e. Exact PR head 5c8f9267a85dbd9da512645aabbe1983a046d4b5 passed Validate PR run 40404169620 (job 121857516246). GitHub Pages run 40404352394 built and deployed merge SHA successfully (build 121858130769; deploy 121858429741). Main file readback confirms 59,740 characters, six scenes and five scene breaks. Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40404352394,
+    "buildJobId": 121858130769,
+    "deployJobId": 121858429741
   },
   "operatingLessons": [
     {
@@ -86,10 +86,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-2",
-    "branch": "studio/book2-ch2-court-test-architecture-20261025",
-    "state": "draft",
-    "progress": "Book I Chapters 1–10 and Book II Chapter 1 are merged and deployed. Book II Chapter 1 public PR #43 merged as 5b8a48de with successful Pages run 40402919773; separate Studio PR #38 remains draft and unmerged. Next Book II Chapter 2 has six scenes and architecture in draft Studio PR #39, not yet assembled as reader-facing chapter. No next-chapter release PR.",
+    "chapterId": "book-2-chapter-3",
+    "branch": null,
+    "state": "outline",
+    "progress": "Book I Chapters 1–10 and Book II Chapters 1–2 are merged and deployed. Book II Chapter 2 PR #44 merged b05b25ce; Pages run 40404352394 succeeded. Next Book II Chapter 3 currently has a reader-facing outline ('Admiral in Training') on main, with no separate Studio prose branch or public release PR. Preserve unmerged Studio draft PRs #38–39 and research limitations.",
     "blockers": []
   },
   "researchWork": {
