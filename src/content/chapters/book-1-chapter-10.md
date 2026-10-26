@@ -4,13 +4,13 @@ name: "Book I, Chapter 10: Before the First Load"
 aliases: ["Before the First Load", "The Sultan"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, brunei, book-2-chapter-1, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, daran, brunei, book-2-chapter-1, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 10
 draftStatus: draft
-characters: [ache, sulad, siripada]
+characters: [ache, sulad, siripada, daran]
 places: [brunei]
 events: [ache-leaves-for-brunei]
 pov: [ache]
