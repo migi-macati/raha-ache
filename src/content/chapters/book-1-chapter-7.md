@@ -4,13 +4,13 @@ name: "Book I, Chapter 7: The Length of a Rope"
 aliases: ["The Length of a Rope", "The Visayan"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakanmulaw, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, lakanmulaw, nima, story-architecture-standard]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 7
 draftStatus: draft
-characters: [ache, sulad, lakanmulaw]
+characters: [ache, sulad, lakanmulaw, nima]
 places: []
 events: []
 pov: [ache]
