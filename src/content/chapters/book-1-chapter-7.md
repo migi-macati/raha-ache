@@ -750,14 +750,6 @@ He looked toward the buyer, as if weighing whether my words needed repeating. Th
 
 He watched his men settle the poles.
 
-“If you need to ask about another boat, ask the buyer in daylight. He knows who comes here. He cannot promise that they will take you.”
-
-The buyer heard his name and shook his head, though he had not heard the whole exchange.
-
-“I promise nothing,” he said.
-
-“I know,” I told him.
-
 Sulad had gone to fetch our jar. I went back to the baskets and carried them from the hard ground to the place the buyer had chosen for them. He moved the last one half a pace and nodded. By then the fisherman had spread his net again. I waited until Sulad returned before we started uphill. Behind us the rope was coiled inside the visiting boat. The post stood bare.
 
 The cloth had not come ashore. No one had given us a place on a boat. I had spent my last silver before we began.
