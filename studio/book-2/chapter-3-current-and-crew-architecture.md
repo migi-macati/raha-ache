@@ -1,9 +1,9 @@
 # Book II, Chapter 3 — Current and crew (Studio architecture)
 
 **Packet:** RA-B2C3-STUDIO-01  
-**State:** research/planning; not reader-facing prose and not publication.  
+**State:** six separate Studio scenes drafted and first-pass continuity QA completed; not yet a reader-facing chapter or publication.  
 **Current public outline:** `src/content/chapters/book-2-chapter-3.md`, “Admiral in Training” (`draftStatus: outline`).  
-**Proposed reader-facing title for later review:** *When the Water Turns*. Keep “Admiral in Training” as the working title until the six scenes justify a change.  
+**Proposed reader-facing title after six-scene review:** *When the Water Turns*. The changing tidal reach drives the physical action and Ache's misreading of authority. Retain “Admiral in Training” only as the original outline label; change reader-facing metadata only with the assembled release.  
 **Narrator:** Ache, first person. **Location:** Brunei river settlement and approaches. **Continuity:** Book II Chapter 2 ends with Jamil directing Ache to arrive before the first load, question boat workers about actual hands/agreements, and report before promising passage. The earlier vessel still awaits an owner's peg and payment; do not silently repair or commandeer it.
 
 ## Narrative problem
@@ -46,3 +46,11 @@ The decisive gain is not a spectacular maneuver: Ache identifies a danger, allow
 ## Release gate
 
 Draft six distinct scenes, check causal continuity against the final paragraphs of Book II Chapter 2 and Chapter 4's intended defeat, then assemble on a separate clean main-based public branch. Validate metadata schema, related Universe records, chapter navigation and Read Aloud integration, CI, merge and GitHub Pages deployment. Never advance `.automation/raha-ache-chapter-cycle.json` until publication evidence. Rendered-live and actual playback require separate proof.
+
+## Draft and editorial checkpoint — 27 October 2026, ~07:00 PHT
+
+All six first-person Studio scene files now exist on this branch, in causal order: *The Boat Already Moving* (9,993 characters), *The Loaded Side* (9,402), *The Return Course* (10,453), *Words Between Hulls* (8,222), *The Price of Waiting* (8,937), and *After the Water Falls* (11,514 before one scoped continuity correction). No reader-facing assembly has been attempted yet. Exact long-paragraph duplication check across the six scenes found zero matches; this is a mechanical check, not a literary sign-off.
+
+**Causal and character checks:** the Chapter 2 damaged boat remains unclaimed and unrepaired at opening; Ruma and Tahir control their own vessel; Safi earns a safe independent passage; Hasan refuses to invent words he cannot hear; Jamil acknowledges a mistimed tide expectation and pays for Ruma's broken pole and lost time without controlling her next customer; Ache helps coordinate but does not acquire command. The missed private load has a specific financial cost. Sulad has not agreed to send his own words, and the Maynila message still has no carrier. Chapter 4 retains the first consequential larger defeat. A temporal contradiction in Scene 6 about when Safi learned of Ruma's lost load was corrected in commit 775b5977.
+
+**Next QA gate:** read the six scenes as a single manuscript for repetitive didactic exchanges, pacing, physical choreography and passage timing; verify the original-text technical sources before adding any historically specific claim. Assemble only after that check, strip all Studio headings, preserve valid chapter frontmatter and update linked Universe records only where the prose establishes canon. Run a real PR build before release. This Studio PR remains draft; the main publication checkpoint stays at Book II Chapter 3.
