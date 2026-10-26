@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-9",
-  "nextChapterId": "book-1-chapter-10",
+  "lastCompleted": "book-1-chapter-10",
+  "nextChapterId": "book-2-chapter-1",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "49974440205ee3f97c7eeb48a78a1cef668bf54a",
-  "completedChapterPasses": 9,
+  "lastMergeSha": "c3e319bdfc35aed50f184e2490edd2f5845e9ac2",
+  "completedChapterPasses": 10,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "49974440205ee3f97c7eeb48a78a1cef668bf54a",
+    "sourceSha": "c3e319bdfc35aed50f184e2490edd2f5845e9ac2",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 PHT: Book I Chapter 9 PR #37 merged as 49974440205ee3f97c7eeb48a78a1cef668bf54a; GitHub Pages run 40401501707 built and deployed that SHA successfully (build job 121848239845; deploy job 121848574786). Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40401501707,
-    "buildJobId": 121848239845,
-    "deployJobId": 121848574786
+    "verificationLimit": "27 October 2026 PHT: Book I Chapter 10 PR #36 merged as c3e319bdfc35aed50f184e2490edd2f5845e9ac2; GitHub Pages run 40402149442 built and deployed that SHA successfully (build job 121850536605; deploy job 121850877610). Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40402149442,
+    "buildJobId": 121850536605,
+    "deployJobId": 121850877610
   },
   "operatingLessons": [
     {
@@ -82,10 +82,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-1-chapter-7",
-    "branch": "studio/book1-ch7-visayan-alliance-research-20261017",
-    "state": "branch_written",
-    "progress": "Chapter 7's separate Studio scene/research branch remains branch_written and unmerged; its reader-facing six-scene chapter and linked Mulaw/Nima records were published separately through PR #41, merged and deployed 27 Oct 2026. Chapter 10 is the next publication target; Chapters 7–9 are merged and deployed; do not confuse the Studio branch with a publication gate.",
+    "chapterId": "book-2-chapter-1",
+    "branch": "studio/book2-ch1-two-accounts-20261025",
+    "state": "draft",
+    "progress": "Book I Chapters 1–10 are merged and deployed through Chapter 10 PR #36 (27 Oct 2026). The separate Chapter 7 Studio branch remains branch_written and unmerged; its prose was published separately. Next publication target is Book II Chapter 1; Studio draft PR #38 holds six scenes and source note, not yet reader-facing prose.",
     "blockers": []
   },
   "researchWork": {
