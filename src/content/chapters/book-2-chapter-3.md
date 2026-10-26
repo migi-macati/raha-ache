@@ -465,3 +465,447 @@ We went around the outside. The boat rolled once as the current met its side, an
 The narrow water slipped behind us. I could still see the smoother line within the piles. It had looked as though it led straight to the bend. From where we were now, I could see a dark patch just beyond it, where the current struck the bank and came back against itself.
 
 I kept my eyes on that place until the timber boat disappeared around the bend. I could not yet tell whether Safi had chosen well or merely been fortunate. I could tell that he was already farther along the river, and that our jars were still whole.
+
+---
+
+By the time we reached the mooring above the bend, the men waiting for the timber had already put two short pieces across the gap they meant to repair. One of them stood on the new wood and called down for the longer lengths. His feet were bare. Each time he shifted his weight, the piece beneath him moved.
+
+Safi's boat lay against the outer posts. The woman who had taken the timber at the landing was passing it up again, one length at a time. Safi stood beside the man receiving it, checking where each piece went. He had not tried to climb onto the unfinished work.
+
+Ruma brought us in behind them. Tahir held the bow away from the posts until a man on the mooring could take our line. I stood to help, then sat again when Ruma pointed to the place where the line would run.
+
+“Your turn will come,” she said.
+
+We had carried two jars of water and a coil of rope. The men took the first jar and drank from a small vessel they passed among themselves. The second they carried up to a platform beyond the work. Ruma watched until it had been set where no one could knock it into the river. She counted the rope as it came out of our boat. One length had been wound into another; she made the man taking it separate them before she released her hold.
+
+I was still looking at the timber when I saw Jamil.
+
+He had arrived in a narrow boat tied beyond the work, with Hasan beside him. The small boat rode high, its bow turned toward the current. Jamil had mud on one calf. He was listening to the man who had asked for the timber, and the man was pointing at a gap I could see from the water but not from the landing.
+
+Safi saw Jamil before I did. He called something to the woman in the timber boat. She stopped passing up wood and waited while the man above tested the length already laid. Only when he nodded did she lift the next.
+
+I climbed onto the mooring after Tahir said the line would hold.
+
+“Where did you go?” I asked Jamil.
+
+“Where the work was to be done.”
+
+“You came before us.”
+
+“The boat I took was lighter.”
+
+I looked at Hasan. He had a strip of cloth folded around several small pieces of wood, each bearing cuts along one edge. He tucked them away when he saw me looking.
+
+“Were you counting the loads?” I asked.
+
+“I was listening to the men who ordered them,” he said. “They are not always the same men who carry them.”
+
+The man from the unfinished mooring called for a shorter piece. Safi found it beneath two long ones and told the woman where it lay. She moved the top length aside before reaching for it. It took longer than simply dragging the piece out. Nothing struck her feet.
+
+Jamil waited until the man above had received it.
+
+“The water will turn before these boats get back if they remain here much longer,” he said.
+
+Ruma had come up behind me. “I told you when I agreed to bring the jars that I must be at the lower landing before my next load comes.”
+
+“And I agreed,” Jamil said. “Have the jars been received?”
+
+“Yes. The rope is being counted.”
+
+“The timber?”
+
+Safi answered. “All the long pieces. Two short pieces remain aboard until the men finish setting the first lengths. They asked us not to put them on the wet work.”
+
+“Then you will leave when they take them.”
+
+“Provided the man at the stern agrees,” Safi said.
+
+Jamil looked at him. “Does he?”
+
+“He wants to see the water below the outer posts before he answers.”
+
+I had watched the timber boat go around those posts on the outward passage. It had seemed an unnecessary distance then. Now I remembered the stern coming close to the outermost one and the woman raising her arm when it cleared.
+
+Jamil turned to me.
+
+“Both boats must return through the same reach. The water is changing. Find out how their people intend to pass it, and whether one will hinder the other.”
+
+“Am I to lead them?”
+
+“You are to ask. If they agree to a common order, you may carry it between them. I will be aboard Ruma's boat to hear what you do.”
+
+I looked toward the small boat in which he had come. “And Hasan?”
+
+“He is returning with us. The man who brought us here will take his own boat back.”
+
+Hasan's expression did not change. I had hoped Jamil might leave him on the mooring, where there would be one fewer person to hear me make a mistake.
+
+“Tell me what you saw coming up,” Jamil said.
+
+“The timber boat took the outside of the piles. We followed it.”
+
+“Why?”
+
+“Tahir said he could not hold our stern if we took the inside.”
+
+“Was he speaking of the timber boat?”
+
+“No. Ours.”
+
+“What did you see of Safi's boat?”
+
+“I saw the woman at the bow signal when the stern cleared. I could not hear her words.”
+
+Safi had been listening. “She told him to keep the pole on the far side until we were past the last post.”
+
+“I thought she was telling him we had cleared.”
+
+“She was telling him how to clear.”
+
+I looked at the woman. She was still in the boat, bracing a piece of timber while the man above shifted his grip. She did not look up to settle the matter for me.
+
+“Then I did not know what her arm meant,” I said.
+
+“No,” Safi answered.
+
+Jamil said, “Ask the people who knew.”
+
+I went first to Tahir. He was examining the spare pole where it lay along the boat's side. He lifted one end, sighted along it, and set it down again.
+
+“Will you take the outside again?” I asked.
+
+“Perhaps.”
+
+“Which way is safer when the water turns?”
+
+“For this boat? When it is empty? That depends where the water has begun to run.”
+
+“Could you take the inside now?”
+
+He looked toward the posts. “There may be more water over the shallow place. Or less. The current may carry the bow away before I can plant the pole.”
+
+“Can you tell from here?”
+
+“No.”
+
+“Then what do you want to do?”
+
+“Come down slowly enough to see. Keep another boat from pressing us against the posts.”
+
+I had wanted a course I could carry to the other steersman as an instruction. Tahir had given me a condition instead.
+
+I crossed to Safi's boat. The woman at the bow was pulling the last short length clear of the boards. The man steering waited for her to finish before he answered me.
+
+“Will you follow the jar boat back?”
+
+“Which jar boat?” he asked.
+
+“Ruma's.”
+
+“It has no jars now.”
+
+“The boat that brought them.”
+
+“I know the boat.”
+
+I could hear Safi behind me, close enough to enjoy this.
+
+“We must agree who passes the piles first,” I said.
+
+“Must we?”
+
+“Jamil asked me to arrange it.”
+
+“He asked you to ask,” Safi said.
+
+The steersman looked past me toward the channel. “I will not hold here while another boat tests the inside. The water strikes the outer post when it begins to turn. If I wait in that place, I must work against it to keep the stern free.”
+
+I looked at the post. On the outward passage I had seen the dark marks left by the water. Here, above the bend, I could see how a current running past the timber boat would meet the posts before reaching the wider river. The steersman had brought us up by that route. He had felt the hull answer.
+
+“Then you want to go first.”
+
+“I want to leave when my load is finished and the water lets me. If the other boat needs room, I can give it farther down. Not beside that post.”
+
+Safi stepped down into the boat.
+
+“We passed ahead of you coming up,” he said. “We can pass ahead again. But we will not take a short course to make your plan look good.”
+
+“I have not made a plan.”
+
+“Then why are you asking who follows whom?”
+
+I nearly told him that Jamil had put me in charge. Jamil had said nothing of the kind.
+
+I went back to Ruma.
+
+“The timber boat cannot wait beside the outer post,” I told her. “Their steersman wants to pass first. Tahir wants room to see the water before deciding his course.”
+
+Ruma was coiling the line we had used at the mooring. She stopped long enough to look at Tahir.
+
+“Can we give them room?”
+
+“If they leave first,” he said. “We can wait above the bend, where the water is broad enough to hold us without crowding the work.”
+
+“Then tell them that,” Ruma said.
+
+“Will you agree?” I asked.
+
+“I have said what I will do. Tahir has said what he can do. Ask whether the others accept it.”
+
+I crossed again. By then the last timber was ashore. Safi's steersman had his pole in hand. He heard the arrangement, looked to the woman at the bow, and waited for her answer.
+
+“We can go ahead,” she said, “if the other boat does not come close while we clear the first post. We cannot see its bow from our stern when the hull turns.”
+
+“How far should we stay back?” I asked.
+
+She pointed to a dark, broken post farther up the reach. “Do not pass that until we have cleared the outer one.”
+
+I repeated the condition to Ruma and Tahir. Tahir looked at the broken post, then nodded. Ruma agreed to wait there. I carried their answer back.
+
+It took three journeys between the boats. Each time I returned, I wanted to shorten what I had been told. Each time the person hearing it asked a question that the shorter answer would not have settled.
+
+At last the timber boat cast off. The woman in the bow stood ready with her pole. Safi crouched near the middle, keeping out of her way. Their steersman set his pole against the bottom and turned the stern clear of the mooring.
+
+I came aboard Ruma's boat. Hasan sat near the bow, where the water could not reach the wrapped pieces of wood in his lap. Jamil settled behind me. He had said almost nothing while I carried the agreement.
+
+“Who goes first?” he asked.
+
+“The timber boat.”
+
+“Who chose that?”
+
+“Their steersman would not wait beside the post. Tahir and Ruma agreed we could hold above the bend.”
+
+“And where do we wait?”
+
+“Beside the broken post until they clear the outer one.”
+
+“Who will tell you they have cleared?”
+
+I looked at the woman in the other boat. She had already turned toward the river.
+
+“She pointed to the post,” I said. “I did not ask what we would see when they were past it.”
+
+Jamil watched the timber boat move into the current.
+
+“Then you have an agreement about distance,” he said, “and no agreement about how you will know it has been kept.”
+
+I was about to call after Safi when the woman at the bow raised her pole to keep the boat off the first post. From where I sat, the movement looked very like a signal.
+
+Tahir put his hand on the line that still held us.
+
+“Are we waiting,” he asked, “or are you sending us after them?”
+
+I kept my hand away from the rope.
+
+“We are waiting,” I said.
+
+The timber boat went down toward the bend. I could see the woman's pole above its bow. I could not yet tell what she meant by lifting it.
+
+---
+
+The timber boat had not yet reached the outer post when someone called from it.
+
+I heard a short word and the sound of water striking wood. The woman at the bow lifted her pole across her body. Safi stood behind her, holding the side with one hand.
+
+“Did she tell us to come?” I asked.
+
+“No,” Tahir said.
+
+“What did she say?”
+
+“I was watching the stern.”
+
+Hasan leaned forward. “I heard something about holding.”
+
+“Hold what?”
+
+“I do not know.”
+
+“You speak with the men here.”
+
+“I speak with some of them. I did not hear the whole sentence.”
+
+The other boat was moving across the darker water. Its bow came round before its stern. From our place above the bend, the last post hid the space behind the hull. The woman raised the pole again. This time she held it away from her body, as if trying to reach something I could not see.
+
+“That must mean they are clear,” I said.
+
+Tahir looked at me. “She has the pole in the water.”
+
+I saw then that she was not raising it to be seen. She was pushing against the post.
+
+The rope in Tahir's hand tightened as the water drew our empty boat toward the broken post. He paid out a little and took it back. Ruma sat facing the other boat. Jamil was beside me, looking toward the outer piles.
+
+“Can you see their stern?” he asked.
+
+“No.”
+
+“Can you see the woman?”
+
+“Yes.”
+
+“Then you have not answered the question we need answered.”
+
+I wanted him to tell me whether to move. He had put me between the two crews, and now he was asking questions as though I were still sitting on the landing with a piece of marked wood.
+
+“Perhaps Safi can hear us,” I said.
+
+“He may,” Hasan answered.
+
+“Call to him.”
+
+“What shall I ask?”
+
+I opened my mouth. I had meant to ask whether they were ready. Ready could mean that they were leaving, that they had cleared, or that they wished us to follow. The difference had not troubled me when I stood on the mooring.
+
+“Ask whether their stern has passed the outer post.”
+
+Hasan cupped his hands. His voice carried across the reach. Safi turned. He called back, but the end of his answer was lost beneath a sharp knock from the boat against something in the water.
+
+“He said to hold,” Hasan told me.
+
+“Then we hold.”
+
+“I heard the word again. I cannot tell whether he meant us or the woman at his bow.”
+
+Tahir was already holding our boat. I could feel the line pull against the post. He did not need me to tell him that much.
+
+“Did you hear the first word?” I asked Hasan.
+
+“I heard his voice. I cannot give you the words I did not hear.”
+
+He looked angry. I had asked him twice to turn noise into an instruction, and I had been ready to blame him for the difference.
+
+“Then we do not know,” I said.
+
+Jamil glanced at me.
+
+“We do not know whether their stern is clear,” I said more loudly, so Ruma and Tahir could hear. “I asked Hasan to find out. He could not hear the answer.”
+
+Ruma looked toward the dark water beneath the outer post. “We can stay here for a little while. Not forever.”
+
+“How long?”
+
+“Ask Tahir.”
+
+Tahir shifted his grip. “The water has begun to take us the other way. When it pulls harder, this is no place to remain tied by the bow.”
+
+“Can you bring us farther up?”
+
+“Yes, if you decide now. But then we will not see their stern at all.”
+
+The other boat was moving again. I could see Safi crouch to give the woman room. Her pole came free of the water and she carried it forward. The stern was still hidden. I had an urge to say that the danger must be past because she had stopped pushing.
+
+Jamil leaned close enough that I could hear him without raising his voice.
+
+“When I came here this morning,” he said, “the water was running strongly toward the bend. I thought we would have longer before it turned.”
+
+“You were wrong?”
+
+“I may have been. It has turned earlier than I expected at this post.”
+
+He looked at the taut line in Tahir's hand. “That is why I asked him to bring the boat.”
+
+It was the first time that day I had heard Jamil say he might have misjudged something. I had thought the test was to learn what he already knew. He was still watching.
+
+“Call once more,” I told Hasan. “Ask Safi to have the woman hold her pole upright when their stern has passed the last post. Not while she needs it to steer. Tell him we will not follow before then.”
+
+Hasan did not call immediately.
+
+“Do you want me to use your words?”
+
+“Use words they will understand.”
+
+“I can ask. I cannot promise what they will hear.”
+
+“Then ask them to say it back.”
+
+He turned toward the other boat. The first time he called, Safi did not answer. The woman was working her pole again. Hasan waited until it came free, then called a second time.
+
+Safi raised his head. I saw him speak to the woman. She looked back at us, then at the last post. She called something short. Hasan answered. They spoke again, slower.
+
+“What did she say?” I asked.
+
+“She says she will lift the pole when it is free and they are beyond the post. She says not to follow if she is still using it.”
+
+“Is that what you asked?”
+
+“That is what she said back.”
+
+Tahir let out a breath through his nose. “That I can watch.”
+
+Ruma said, “And if we cannot see her?”
+
+“We stay above the broken post,” I answered. “Or move up if Tahir says we cannot hold here.”
+
+“You will not decide to follow because you are tired of waiting?”
+
+“No.”
+
+She looked at Jamil rather than at me.
+
+“Will you answer for the extra time?” she asked him.
+
+“I asked you to bring us here,” he said. “I will hear what time this costs.”
+
+“That is not the same as paying for it.”
+
+“No,” he said. “It is not.”
+
+Ruma turned back to the river. She had another load waiting below. She had not promised to lose that work so that I could practice asking questions.
+
+The timber boat moved down past the outermost post. For a moment the woman disappeared behind the upright timber. When she came into view again, she was still pushing. Her pole bowed slightly under her weight. I could see Safi bracing one foot against a board, his hand on the gunwale.
+
+“Now?” Jamil asked.
+
+“No.”
+
+The woman took two steps along the bow. She pulled the pole free, but did not lift it. She laid it across the boat, changed her footing, and put it down again.
+
+“Now?” he asked.
+
+“No. She has not given the signal.”
+
+Jamil said nothing.
+
+I watched until my eyes began to water in the glare off the river. The woman stood upright. The pole came out of the water and rose above her head. She held it there for the length of a breath. Then she lowered it to the side.
+
+“Now,” I said.
+
+Tahir did not release the rope.
+
+“Where do you want me to go?” he asked.
+
+“The outside course. Keep clear of the posts. Follow them after they have room to move ahead.”
+
+He looked to Ruma. She nodded.
+
+Tahir eased the line from the broken post. The boat moved sideways at once. He set his pole against the bottom and brought the bow round before the current could take us broadside. I held the board beneath me with both hands. Hasan gathered his wrapped pieces of wood out of the water's path.
+
+Ahead, Safi's boat was already farther down the reach. The woman at its bow had lowered her pole again. She did not look back.
+
+For a few strokes the distance between us seemed right. We were following, but not close enough to crowd the other stern. I felt the pleasure of it: two boats moving in an order I had carried from one crew to the other.
+
+Then Tahir stopped walking his pole aft.
+
+A thin line had risen beside the last post. It came taut across the water, almost too low to see. The timber boat had passed over or beside it. Our bow was moving toward it.
+
+“Ruma,” Tahir said.
+
+She saw it. She was already reaching for the spare pole.
+
+I could not tell where the line was fastened, or whether it belonged to the mooring. I could only see that the water was drawing it across our course.
+
+The other boat was clear. We were not.
+
+Tahir looked at the space between the line and the post. He had no room to take us through without knowing what held it.
+
+“Back her off,” he told Ruma.
+
+I had just told him to follow. The boat was moving as I had asked. I wanted to say that the line might sink again.
+
+Instead I took my hands from the board.
+
+“Do what Tahir says,” I told her.
+
+Ruma already had the spare pole in the water.
