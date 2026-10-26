@@ -10,13 +10,13 @@ I stopped beside the steps. The boy with the board had followed us from the land
 
 “I can see that.”
 
-“I told you they had a place before I had asked the boatman.”
+“I spoke before I had asked the boatman.”
 
 She set the basket down. “You told me you would see to it.”
 
 “Yes.”
 
-“And when I asked whether that meant they could go, you said both.”
+“And when the boy asked whether you meant both baskets, you said yes.”
 
 The boy looked at the two marks on his board. He did not help me.
 
