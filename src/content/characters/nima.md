@@ -7,7 +7,7 @@ developmentStatus: working
 relations:
   - target: lakanmulaw
     type: crew member with independent cargo obligations
-    certainty: draft
+    certainty: development
 related: [book-1-chapter-7, lakanmulaw, ache, sulad]
 sources: []
 timeline: []
