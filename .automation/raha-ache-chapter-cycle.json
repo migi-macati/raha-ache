@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-6",
-  "nextChapterId": "book-1-chapter-7",
+  "lastCompleted": "book-1-chapter-7",
+  "nextChapterId": "book-1-chapter-8",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "293f7ddc300664f96069a4eee9f3d8aa090cb04c",
-  "completedChapterPasses": 6,
+  "lastMergeSha": "ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954",
+  "completedChapterPasses": 7,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "d4c79418f69621d2362af68d251dacaf91ac68e6",
+    "sourceSha": "ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "GitHub Pages run 39983562247 built and deployed main SHA d4c79418f69621d2362af68d251dacaf91ac68e6 successfully on 24 October 2026 PHT (build job 120516805236; deploy job 120517078626). Rendered public pages and actual Read Aloud playback remain unverified.",
-    "runId": 39983562247,
-    "buildJobId": 120516805236,
-    "deployJobId": 120517078626
+    "verificationLimit": "27 October 2026 PHT: Chapter 7 PR #41 merged as ff5e1e1d9ff23ec1027eb097f3eaec2489dd2954; GitHub Pages run 40392554288 built and deployed that SHA successfully (build job 121817114850; deploy job 121817425667). Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40392554288,
+    "buildJobId": 121817114850,
+    "deployJobId": 121817425667
   },
   "operatingLessons": [
     {
@@ -71,13 +71,17 @@
     {
       "lesson": "Reconcile old Studio QA gates against the latest assembled reader-facing manuscript before repeating fixes; distinguish a working outline's promised alliance from what the prose actually establishes.",
       "evidence": "24 Oct 2026: Chapter 7 Scene 5 already returns the buyer's baskets and Sulad's three-basket choice is internally consistent; Studio QA corrected in commit 1c888345a7d742496b02278abcd604a236eee045. Mulaw's name exchange does not establish the outline's promised alliance."
+    },
+    {
+      "lesson": "Do not chase the latest deployment SHA with checkpoint-only commits; reconcile deployment evidence when advancing a chapter publication checkpoint, and avoid redundant deployment-triggering metadata writes.",
+      "evidence": "26 Oct 2026 checkpoint-only commit dc8f9834 triggered Pages run 40297580557; 27 Oct Chapter 7 PR #41 merge ff5e1e1d and successful Pages run 40392554288 provided substantive publication evidence for this checkpoint update."
     }
   ],
   "studioWork": {
     "chapterId": "book-1-chapter-7",
     "branch": "studio/book1-ch7-visayan-alliance-research-20261017",
     "state": "branch_written",
-    "progress": "Six separate Studio scene files (1, 2, 3a, 4, 5, 6) and four research notes verified on branch; 17 commits ahead and 3 behind main at 19 Oct 2026; editorial integration remains pending.",
+    "progress": "Chapter 7's separate Studio scene/research branch remains branch_written and unmerged; its reader-facing six-scene chapter and linked Mulaw/Nima records were published separately through PR #41, merged and deployed 27 Oct 2026. Chapter 8 is the next publication target; do not confuse the Studio branch with a publication gate.",
     "blockers": []
   },
   "researchWork": {
