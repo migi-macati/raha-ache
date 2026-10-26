@@ -3,11 +3,11 @@ id: lakanmulaw
 name: Mulaw
 aliases: [Mulaw, Lakanmulaw, Datu Lakanmulaw]
 status: fictional
-developmentStatus: working
+developmentStatus: current
 relations:
   - target: ache
     type: acquaintance at the first landing; no alliance or passage promised
-    certainty: development
+    certainty: novel-canon
 related: [psychologically-credible-characters, ache, sulad, book-1-chapter-7, brunei, book-2]
 sources: []
 timeline: []
