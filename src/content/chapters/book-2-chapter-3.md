@@ -4,13 +4,13 @@ name: "Book II, Chapter 3: When the Water Turns"
 aliases: ["When the Water Turns", "Admiral in Training"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, jamil, hasan-al-fansuri, raden-muda-safi, brunei, ache-brunei-command, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, siripada, jamil, hasan-al-fansuri, raden-muda-safi, ruma, tahir, brunei, ache-brunei-command, story-architecture-standard]
 sources: [pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
 chapterNumber: 3
 draftStatus: draft
-characters: [ache, sulad, jamil, hasan-al-fansuri, raden-muda-safi]
+characters: [ache, sulad, jamil, hasan-al-fansuri, raden-muda-safi, ruma, tahir]
 places: [brunei]
 events: [ache-brunei-command]
 pov: [ache]
