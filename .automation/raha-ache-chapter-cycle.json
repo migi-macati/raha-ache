@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-1-chapter-8",
-  "nextChapterId": "book-1-chapter-9",
+  "lastCompleted": "book-1-chapter-9",
+  "nextChapterId": "book-1-chapter-10",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae",
-  "completedChapterPasses": 8,
+  "lastMergeSha": "49974440205ee3f97c7eeb48a78a1cef668bf54a",
+  "completedChapterPasses": 9,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae",
+    "sourceSha": "49974440205ee3f97c7eeb48a78a1cef668bf54a",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 PHT: Book I Chapter 8 PR #35 merged as f88346eea1f5aa34ad2f05c03af57c5d3cd0bbae; GitHub Pages run 40392974093 built and deployed that SHA successfully (build job 121818503548; deploy job 121818765762). Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40392974093,
-    "buildJobId": 121818503548,
-    "deployJobId": 121818765762
+    "verificationLimit": "27 October 2026 PHT: Book I Chapter 9 PR #37 merged as 49974440205ee3f97c7eeb48a78a1cef668bf54a; GitHub Pages run 40401501707 built and deployed that SHA successfully (build job 121848239845; deploy job 121848574786). Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40401501707,
+    "buildJobId": 121848239845,
+    "deployJobId": 121848574786
   },
   "operatingLessons": [
     {
@@ -85,7 +85,7 @@
     "chapterId": "book-1-chapter-7",
     "branch": "studio/book1-ch7-visayan-alliance-research-20261017",
     "state": "branch_written",
-    "progress": "Chapter 7's separate Studio scene/research branch remains branch_written and unmerged; its reader-facing six-scene chapter and linked Mulaw/Nima records were published separately through PR #41, merged and deployed 27 Oct 2026. Chapter 8 is the next publication target; do not confuse the Studio branch with a publication gate.",
+    "progress": "Chapter 7's separate Studio scene/research branch remains branch_written and unmerged; its reader-facing six-scene chapter and linked Mulaw/Nima records were published separately through PR #41, merged and deployed 27 Oct 2026. Chapter 10 is the next publication target; Chapters 7–9 are merged and deployed; do not confuse the Studio branch with a publication gate.",
     "blockers": []
   },
   "researchWork": {
