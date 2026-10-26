@@ -36,31 +36,23 @@ He turned toward the boy and his board.
 
 “Who has added a load?”
 
-The boy raised the board. “Two baskets for the men above the bend.”
+“Two baskets for the men above the bend,” the boy said.
 
-“Whose baskets?”
-
-The woman came forward. “Mine to deliver. My brother bought the food. The men have been waiting since morning.”
+The woman stepped forward. “My brother bought the food. The men have been waiting since morning.”
 
 “Who agreed to carry them?”
 
 She pointed at me.
 
-“I did not agree for the boat,” I said. “I told her I would see whether there was room.”
+“I told her I would ask about room,” I said.
 
-“You told me they had a place,” she answered.
+“You told me they had a place.”
 
-Jamil looked at me. I wished he would first ask how I had come to be there, or who my grandfather was. He did neither.
-
-“Have you been aboard?”
+Jamil looked at me. “Have you been aboard?”
 
 “No.”
 
-“Do you know what is already promised?”
-
-“No.”
-
-“Then you can come and look before we speak further.”
+“Then come and see what is already promised.”
 
 He said it to me, not to the woman. She gathered the loose binding in her hand.
 
@@ -201,18 +193,6 @@ Jamil returned from the stern.
 The older boatman looked at the cargo and then at the men waiting on the steps.
 
 “Not until I know whether the last sacks are coming. If they are, I need the place by the side.”
-
-“Could they be carried on a different boat?” I asked.
-
-“Whose?” the boatman said.
-
-I looked across the landing. Several boats were tied there. I knew nothing of their owners or where they were going.
-
-“I could ask.”
-
-“Ask if you like. Do not tell the woman they will take them.”
-
-Safi glanced up from the covering. He had heard.
 
 The older boatman turned to Jamil. “If you tell me to take the baskets, I will take them. Tell me which load I am to leave.”
 
