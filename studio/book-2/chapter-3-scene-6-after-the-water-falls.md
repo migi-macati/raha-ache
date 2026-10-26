@@ -216,7 +216,7 @@ He looked at the broken pole beside the wall.
 
 “I know.”
 
-“She told me before you came ashore.”
+“The men waiting for it told me.”
 
 I wondered what else she had told him.
 
