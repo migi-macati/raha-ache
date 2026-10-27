@@ -1,4 +1,4 @@
-# Book II, Chapter 9 — Scene 5: The Place Beside the Mast
+# Book II, Chapter 9 — Scene 5: The Darker Corner
 
 **Studio draft. Not reader-facing.** Ache POV. Private trust with Ruma is conditional; her own voyage and obligations take precedence. No marriage, romance or restored command is presumed.
 
@@ -8,7 +8,7 @@ Ruma's sail was spread across the floor of her house.
 
 The room was open to the evening air on one side. From the landing I could see the pale cloth rising and falling as the wind came through. A lamp stood beyond its edge, protected from the moving fabric by a ring of stones. Ruma sat with one knee bent, drawing a needle through a patch where a corner had torn loose.
 
-I had come to return a jar. She had lent it to the injured sailor's household when the junk arrived. They had washed it and sent it back with me. I set it beside the door.
+I had come to return a jar. She had lent it to the people tending the injured sailor when the junk arrived. They had washed it and sent it back with me. I set it beside the door.
 
 "Put it outside," she said. "The floor is full."
 
