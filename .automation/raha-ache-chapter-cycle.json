@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-8",
-  "nextChapterId": "book-2-chapter-9",
+  "lastCompleted": "book-2-chapter-9",
+  "nextChapterId": "book-2-chapter-10",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "63ef941eada343d750d4e1970cf34c722d10d1d0",
-  "completedChapterPasses": 18,
+  "lastMergeSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
+  "completedChapterPasses": 19,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "63ef941eada343d750d4e1970cf34c722d10d1d0",
+    "sourceSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~16:06 PHT: Book II Chapter 8 The Names They Kept public PR #60 merged 63ef941eada343d750d4e1970cf34c722d10d1d0 after exact-head Validate PR run 40470937524 (job 122077627042) passed for f2f30cd090dfb472964c0f90356d902e22d54e8a. GitHub Pages run 40471034126 passed build job 122077935143 and deploy job 122078210774. Artifact 12718581822 independently inspected: 253 HTML pages, 16,557 internal links, 0 missing targets/anchors; all six scenes, Chapter 7/9 navigation and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified.",
-    "runId": 40471034126,
-    "buildJobId": 122077935143,
-    "deployJobId": 122078210774
+    "verificationLimit": "27 Oct 2026 ~18:11 PHT: Book II Chapter 9 The List at Low Water public PR #63 merged 9fd11524aa5581f55945ad9ba1375094db5f46e2 after exact-head Validate PR run 40486139378 job 122128275836 passed for b4a8b911f948faa5bb97e41d3509682c38ef484e. GitHub Pages run 40486270166 passed build job 122128708786 and deploy job 122128995986. Artifact 12725511329 independently inspected: 253 HTML pages, 16,745 internal links, 0 missing targets/anchors; six scenes, Chapter 8/10 navigation and Read Aloud markup present. Rendered live-page and actual audio playback unverified.",
+    "runId": 40486270166,
+    "buildJobId": 122128708786,
+    "deployJobId": 122128995986
   },
   "operatingLessons": [
     {
@@ -99,13 +99,17 @@
     {
       "lesson": "Before adding historical notes to a reader-facing chapter, read the Studio historical-notes editorial contract: keep source commentary out of uninterrupted prose and default Read Aloud until structured, collapsed notes exist.",
       "evidence": "27 Oct 2026: `studio/editorial/chapter-historical-notes-packet.md` requires separate collapsed notes; Book II Chapter 7 public branch removed manually appended Historical Note in commit 53787c4e before exact-head CI, PR #57 merge and Pages deployment."
+    },
+    {
+      "lesson": "Before a chapter depends on a companion or romantic relationship, audit actual character appearances across the preceding published chapters, not only outlines; repair long absences or establish credible offstage work before using the relationship as a decisive emotional stake.",
+      "evidence": "27 Oct 2026: direct inspection of published Book II Chapters 1–9 found Sulad in Chapters 1–3 but absent 4–9, and Laila in Chapter 2 but absent 3–9, while Chapter 10 outline relies on both; research/retrospective continuity gate required."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-9",
-    "branch": "research/book2-ch9-recovery-architecture-20261027",
-    "state": "research_architecture_draft",
-    "progress": "Book II Chapter 8 The Names They Kept released via public PR #60 merge 63ef941e and Pages run 40471034126; six Studio scenes preserved in draft PR #59 and witness comparison in draft research PR #58. Chapter 9 outline After the Iron Ships is misleading because the foreign vessels were wooden-hulled; alternate Triumphant Return and Wedding prejudges romance. Provisional title The List at Low Water, six-scene source and causal architecture saved in draft PR #61. No Chapter 9 prose or public release yet. Preserve gold payer uncertainty, missing local captives, junk and injured sailor, Nasir and Laoe claims. Chapter 10 owns Book II resolution.",
+    "chapterId": "book-2-chapter-10",
+    "branch": null,
+    "state": "research_pending",
+    "progress": "Book II Chapter 9 The List at Low Water released in public PR #63 merge 9fd11524aa5581f55945ad9ba1375094db5f46e2 and Pages run 40486270166; six Studio scenes preserved in draft PR #62, source gates in draft PR #61. Next Book II Chapter 10 must resolve the Luzon-versus-Brunei choice and retain Book III's Maynila restoration. Continuity audit found Sulad absent from Book II Chapters 4–9 and Laila absent from Chapters 3–9 despite Chapter 10 outline relying on both. Re-establish their independent activities and stakes with evidence; consider scoped retrospective corrections before pivotal Chapter 10 relationship scenes.",
     "blockers": []
   },
   "researchWork": {
@@ -152,11 +156,13 @@
       "sourceLimit": "Pigafetta, Albo and Genoese-pilot transmission differ on junk counts, capture sequence, hostage exchange and ransom; exact original-language collation, captives' individual fates and gold payer remain unverified. The six-scene release is a fictional reconciliation."
     },
     "chapter9Recovery": {
-      "state": "research_architecture_draft",
+      "state": "published_with_source_limits",
       "researchPr": 61,
-      "branch": "research/book2-ch9-recovery-architecture-20261027",
-      "commit": "c07638307083797c85e8d3d04de9a2d005dd0093",
-      "next": "Draft six Studio scenes; verify post-release chronology, independent boat-owner and captive agency; no automatic wedding, restored command or iron-hulled ships."
+      "studioPr": 62,
+      "publicPr": 63,
+      "mergeSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
+      "deployRunId": 40486270166,
+      "sourceLimit": "Gold payer/amount, release terms, captives' individual fates and private Brunei recovery meetings remain unverified; scenes are fictional reconstruction grounded in competing Pigafetta/Albo/Genoese-pilot source limits."
     }
   }
 }
