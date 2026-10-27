@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-2",
-  "nextChapterId": "book-3-chapter-3",
+  "lastCompleted": "book-3-chapter-3",
+  "nextChapterId": "book-3-chapter-4",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "4f1c1aba2c49ea906e11c2d883f1632a7bd88eac",
-  "completedChapterPasses": 22,
+  "lastMergeSha": "146198f9c625cc4143522561b4d1ab11fc009fd4",
+  "completedChapterPasses": 23,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "4f1c1aba2c49ea906e11c2d883f1632a7bd88eac",
+    "sourceSha": "146198f9c625cc4143522561b4d1ab11fc009fd4",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 ~02:04 PHT: Book III Chapter 2 The Door They Left Open public PR #74 merged 4f1c1aba2c49ea906e11c2d883f1632a7bd88eac after exact-head Validate PR run 40536974661 passed for a6df46ff0dbe2781b64d7f5dd0c0f9371544891a. GitHub Pages run 40547271342 completed success, build job 122341121579 and deploy job 122341597113 passed. Artifact 12751634703 available but not independently inspected. Rendered-live and actual Read Aloud playback unverified.",
-    "runId": 40547271342,
-    "buildJobId": 122341121579,
-    "deployJobId": 122341597113
+    "verificationLimit": "28 Oct 2026 ~03:10 PHT: Book III Chapter 3 Where the Wood Stood public PR #78 merged 146198f9c625cc4143522561b4d1ab11fc009fd4 after exact-head Validate PR run 40566242020 passed for 5b742d076df7e58537c1ee7c2ce0a1101d79c461. GitHub Pages run 40566481108 build 122408988118 and deploy 122409443275 passed. Artifact 12764030293 independently inspected: 257 HTML pages, 17,415 internal links, zero missing targets or anchors; chapter 3 opening/ending, Chapter 2/4 navigation and speechSynthesis/Play markup present. Rendered-live and actual Read Aloud playback unverified.",
+    "runId": 40566481108,
+    "buildJobId": 122408988118,
+    "deployJobId": 122409443275
   },
   "operatingLessons": [
     {
@@ -114,10 +114,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-3",
-    "branch": "studio/book3-ch3-marker-and-toll-20261028",
-    "state": "draft",
-    "progress": "Book III Chapter 3 outline correction PR #75 merged 9151444c1ea0e083a20fca4ccf4e9cd657cf2d3b and Pages run 40556670542 passed. Studio draft PR #76 contains six-scene architecture and Scenes 1–2 at head e52691264c24e3f833c42c4b6a315fbf736ac3af; exact-head Validate PR run 40557117993 passed; scenes 3–6 pending. Chapter 2 public artifact 12751634703 inspected: 257 HTML pages, 17,350 internal links, zero missing targets; Chapter 1/3 navigation and Read Aloud markup present. Rendered-live/audio unverified.",
+    "chapterId": "book-3-chapter-4",
+    "branch": null,
+    "state": "research_pending",
+    "progress": "Book III Chapter 3 complete six-scene Studio PR #76 draft at dc6002d8df9d6e9fd547ac1838237d92432dc9e4 (exact-head Validate PR 40566168527 passed), public PR #78 merged 146198f9c625cc4143522561b4d1ab11fc009fd4 and Pages 40566481108 deployed with artifact audit. Chapter 4 opening outline corrected in PR #79, merged 5d58abff876453a067e185bed88133c989dcc658 after exact-head Validate PR 40566459069 passed. No Chapter 4 Studio prose yet; start with mooring-post work, independent maker/household claims, and no assumed Bruneian army or early Panday Pira cannon workshop.",
     "blockers": []
   },
   "researchWork": {
@@ -182,11 +182,29 @@
       "sourceLimit": "Early-1520s chronology, Lakandula office, genealogical claims and marriage remain unverified; no armed fleet or recognized title is established."
     },
     "acheMarriage": {
-      "state": "editorial_pr_pending_ci",
+      "state": "editorial_merged_deployed",
       "pr": 77,
       "head": "f29d69707d5d8dc82bbab67a62a2272f8c1908ee",
       "ciRunId": 40557321374,
-      "sourceLimit": "Original Aganduru CODOIN 78 printed pp.59–60 remains uncollated. The marriage event page falsely backlinked published Book III Chapter 2 and labeled source certainty documented; PR #77 changes to possible, removes Chapter 2 association, qualifies date and source wording. Do not merge until exact-head CI succeeds."
+      "sourceLimit": "Original Aganduru CODOIN 78 printed pp.59–60 remains uncollated. The marriage event page falsely backlinked published Book III Chapter 2 and labeled source certainty documented; PR #77 changes to possible, removes Chapter 2 association, qualifies date and source wording. Do not merge until exact-head CI succeeds.",
+      "mergeSha": "4497a2390b725517c907cfa7f352f65dac64c2aa",
+      "deployRunId": 40557484716,
+      "next": "Original Aganduru CODOIN 78 printed pp. 59–60 remains uncollated; keep possible marriage/date/kinship qualified."
+    },
+    "chapter3Passage": {
+      "state": "published_fictional_with_source_limits",
+      "studioPr": 76,
+      "publicPr": 78,
+      "mergeSha": "146198f9c625cc4143522561b4d1ab11fc009fd4",
+      "deployRunId": 40566481108,
+      "sourceLimit": "The marker dispute, far-bank witnesses, compensation and settlement are fiction. Lakandula is a reported political reference only; no historical personal meeting or treaty established. Rendered live/audio unverified."
+    },
+    "chapter4Construction": {
+      "state": "outline_merged",
+      "editorialPr": 79,
+      "mergeSha": "5d58abff876453a067e185bed88133c989dcc658",
+      "sourceLimit": "1570 Maynila guns and molds cannot verify a named Panday Pira workshop or completed kota in Ache's earlier decade. No Bruneian fleet or forced labor assumed.",
+      "next": "Research maker/material/consent and source chronology before drafting six scenes."
     }
   }
 }
