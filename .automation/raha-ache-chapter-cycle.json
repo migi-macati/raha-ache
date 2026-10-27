@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-3",
-  "nextChapterId": "book-2-chapter-4",
+  "lastCompleted": "book-2-chapter-4",
+  "nextChapterId": "book-2-chapter-5",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "6eb803a581fcf6ad6dd1db8797bcebba830a1dfe",
-  "completedChapterPasses": 13,
+  "lastMergeSha": "25880de1269064f44b46ecec825cbc7d1ed70d20",
+  "completedChapterPasses": 14,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "6eb803a581fcf6ad6dd1db8797bcebba830a1dfe",
+    "sourceSha": "25880de1269064f44b46ecec825cbc7d1ed70d20",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 ~08:02 PHT: Book II Chapter 3 public PR #46 merged as 6eb803a581fcf6ad6dd1db8797bcebba830a1dfe. Exact PR head 3fb1dd1083a149c90ffcb83d514fbf5511e7701b passed Validate PR run 40423355455 (job 121922929838). GitHub Pages run 40423496375 built and deployed merge SHA successfully (build 121923408195; deploy 121923686793). Six-scene manuscript and Ruma/Tahir Universe records verified on source branch and main. Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40423496375,
-    "buildJobId": 121923408195,
-    "deployJobId": 121923686793
+    "verificationLimit": "27 Oct 2026 ~10:12 PHT: Book II Chapter 4 public PR #48 merged 25880de1269064f44b46ecec825cbc7d1ed70d20. Exact PR head 8dbe9b66396d153cffc27e5a759dff8c1abc4f06 passed Validate PR run 40436781269 (build job 121967232661). Pages run 40436892011 built and deployed merge SHA successfully (build 121967599771; deploy 121967870919). Downloaded artifact 12703823627 inspected: 244 HTML pages, 15,010 internal links checked, zero missing targets/anchors; Chapter 4 manuscript, five scene breaks, four new Universe pages and speechSynthesis controls present. Rendered live page and actual audio playback remain unverified.",
+    "runId": 40436892011,
+    "buildJobId": 121967599771,
+    "deployJobId": 121967870919
   },
   "operatingLessons": [
     {
@@ -87,13 +87,17 @@
     {
       "lesson": "When a new chapter establishes named working characters, create only canon-supported Universe records, link their exact IDs in chapter metadata, and validate the schema plus exact-head PR build before merging.",
       "evidence": "27 Oct 2026: Book II Chapter 3 PR #46 included Ruma/Tahir records and chapter metadata; exact head 3fb1dd10 passed run 40423355455; merged 6eb803a5 and Pages run 40423496375 deployed."
+    },
+    {
+      "lesson": "When researching early-sixteenth-century Sulu or Mindanao, separate period-specific evidence from later eighteenth–nineteenth-century raiding institutions; never transfer later vessel types, captive labor systems or the label 'pirate' into the novel without dated support.",
+      "evidence": "27 Oct 2026: Rodriguez et al., Journal of Maritime Archaeology (2025), distinguishes c.1400–1500 Sulu polity formation from 1760–1848 Iranun-Balangingi raiding; Book II Chapter 5 outline currently titled Pirate Life."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-4",
+    "chapterId": "book-2-chapter-5",
     "branch": null,
     "state": "outline",
-    "progress": "Book II Chapter 3 When the Water Turns assembled from Studio draft PR #45, released separately through PR #46 and deployed in Pages run 40423496375. Studio PR #45 remains draft and preserved. Next Book II Chapter 4 Losing remains reader-facing outline; plan a consequential defeat building on Ache's premature confidence after supervised river passage. Historical-source boundaries and independent crew agency remain required.",
+    "progress": "Book II Chapter 4 The Empty Mooring released via public PR #48 and Pages run 40436892011. Six-scene Studio PR #47 remains draft and preserved. Book II Chapter 5 Pirate Life remains an outline; first research priority is to establish a credible Brunei-to-Sulu/Mindanao transition and avoid projecting the 1760–1848 Iranun-Balangingi raiding system onto the early 1500s. 2025 Journal of Maritime Archaeology periodization (https://link.springer.com/article/10.1007/s11457-025-09481-3) separates Sulu Sultanate emergence c.1400–1500 from much later large-scale slave raiding. Assess title after research; do not treat 'pirate' as an uncontested contemporary identity.",
     "blockers": []
   },
   "researchWork": {
@@ -103,6 +107,12 @@
       "state": "branch_written",
       "pr": "blocked_by_tool_safety",
       "next": "Do not repeat equivalent PR creation; preserve source commit; later use an authorized different supported route to integrate, then validate build and merge. Exact Spanish pp. 59–60 not yet inspected."
+    },
+    "suluPeriodization": {
+      "state": "research_lead",
+      "source": "Rodriguez et al., Sea Nomads, Sultans, and Raiders, Journal of Maritime Archaeology 20 (2025), 973–1000, https://link.springer.com/article/10.1007/s11457-025-09481-3",
+      "finding": "The review separates Sulu Sultanate emergence c.1400–1500 from 1760–1848 Iranun-Balangingi raiding; do not import later vessel types, captive labor markets or European colonial categories into Ache's early-16th-century chapter without period-specific evidence.",
+      "next": "Locate early-sixteenth-century sources and trace Brunei-Sulu-Mindanao links, crew obligations and political legitimacy before Chapter 5 prose."
     }
   }
 }
