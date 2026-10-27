@@ -6,7 +6,7 @@
 
 Banu came back with the cloth tied around his wrist.
 
-I had left it beneath a bowl in the hall, as he had asked. He had found it there and brought it back.
+I had left it beneath a bowl in the hall, where I had told him to find it. He had found it there and brought it back.
 
 "Did the man refuse it?" I asked.
 
@@ -200,7 +200,7 @@ The keeper said the landing had two workers who knew how to sound the shallows. 
 
 I looked at him. He nodded. It was a relief to him, I thought, though I could not know whether it was the money or the hours he would keep.
 
-The woman agreed to bring one steersman from her sister's boats. The first representative agreed to bring one from his own house. The man from upriver said he would ask his elder sister for someone who knew the shallow turn. None of them pledged another household.
+The woman agreed to bring one steersman from her household's boats. The first representative agreed to bring one from his own house. The man from upriver said he would ask his elder sister for someone who knew the shallow turn. None of them pledged another household.
 
 We had a trial to arrange, but the woman had not finished.
 
