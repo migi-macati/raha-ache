@@ -262,4 +262,4 @@ The ship moved. Water slapped against its side. From somewhere above came the so
 
 I sat down beside the bowl and waited for the door to open.
 
-I knew now that my freedom had a price. I still did not know who would be made to pay it.
+Through the wall came a scrape of rope and a man's voice calling from the water. I could not tell whether a boat was arriving or leaving.
