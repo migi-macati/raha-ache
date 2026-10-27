@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-7",
-  "nextChapterId": "book-2-chapter-8",
+  "lastCompleted": "book-2-chapter-8",
+  "nextChapterId": "book-2-chapter-9",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "815abf4b6f25b65143c7e6fe21115833db6c8317",
-  "completedChapterPasses": 17,
+  "lastMergeSha": "63ef941eada343d750d4e1970cf34c722d10d1d0",
+  "completedChapterPasses": 18,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "815abf4b6f25b65143c7e6fe21115833db6c8317",
+    "sourceSha": "63ef941eada343d750d4e1970cf34c722d10d1d0",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~15:10 PHT: Book II Chapter 7 The Whale Ships public PR #57 merged 815abf4b6f25b65143c7e6fe21115833db6c8317 after exact-head Validate PR run 40465277574 (job 122059044664) passed for 53787c4e5913b90710b92a384b97472b55780eec. GitHub Pages run 40465400782 passed build job 122059452374 and deploy job 122059685380. Artifact 12715624272 inspected: 253 HTML pages, 16,707 internal URLs, 0 missing targets/anchors; all six scenes, Chapter 6/8 navigation and Read Aloud markup present. Rendered live-page and actual playback remain unverified.",
-    "runId": 40465400782,
-    "buildJobId": 122059452374,
-    "deployJobId": 122059685380
+    "verificationLimit": "27 Oct 2026 ~16:06 PHT: Book II Chapter 8 The Names They Kept public PR #60 merged 63ef941eada343d750d4e1970cf34c722d10d1d0 after exact-head Validate PR run 40470937524 (job 122077627042) passed for f2f30cd090dfb472964c0f90356d902e22d54e8a. GitHub Pages run 40471034126 passed build job 122077935143 and deploy job 122078210774. Artifact 12718581822 independently inspected: 253 HTML pages, 16,557 internal links, 0 missing targets/anchors; all six scenes, Chapter 7/9 navigation and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified.",
+    "runId": 40471034126,
+    "buildJobId": 122077935143,
+    "deployJobId": 122078210774
   },
   "operatingLessons": [
     {
@@ -102,10 +102,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-8",
-    "branch": null,
-    "state": "not_started",
-    "progress": "Book II Chapter 7 The Whale Ships released via PR #57 merge 815abf4b and Pages run 40465400782 successful; six Studio scenes preserved in draft PR #56 and source comparison/architecture in draft PR #55. Book II Chapter 8 Prisoner owns the historically reported capture, captivity and Carvalho release. Pigafetta reports four junks captured and more than 100 praus; Albo reports one junk and 260 canoes; Genoese-pilot sequence and July European command remain unresolved. Ache ends Chapter 7 aboard a Laoe-linked junk as boarding begins, with Safi withdrawn, Tahir's message ashore and injured crew aboard. Preserve independent agency and avoid guaranteed European command names.",
+    "chapterId": "book-2-chapter-9",
+    "branch": "research/book2-ch9-recovery-architecture-20261027",
+    "state": "research_architecture_draft",
+    "progress": "Book II Chapter 8 The Names They Kept released via public PR #60 merge 63ef941e and Pages run 40471034126; six Studio scenes preserved in draft PR #59 and witness comparison in draft research PR #58. Chapter 9 outline After the Iron Ships is misleading because the foreign vessels were wooden-hulled; alternate Triumphant Return and Wedding prejudges romance. Provisional title The List at Low Water, six-scene source and causal architecture saved in draft PR #61. No Chapter 9 prose or public release yet. Preserve gold payer uncertainty, missing local captives, junk and injured sailor, Nasir and Laoe claims. Chapter 10 owns Book II resolution.",
     "blockers": []
   },
   "researchWork": {
@@ -141,6 +141,22 @@
       "deployRunId": 40465400782,
       "sourceLimit": "Pigafetta 29 July 1521 and Albo [21 June–29 July] differ on local flotilla count (100+ vs 260) and junks captured (four vs one). Exact original-language manuscript collation and July European command assignments remain unresolved.",
       "next": "For Book II Chapter 8, compare Genoese pilot, Albo and Pigafetta before assigning captors, release terms, casualties or vessel count; maintain source/fact/inference/fiction distinction."
+    },
+    "bruneiCaptivity": {
+      "state": "published_with_source_limits",
+      "researchPr": 58,
+      "studioPr": 59,
+      "publicPr": 60,
+      "mergeSha": "63ef941eada343d750d4e1970cf34c722d10d1d0",
+      "deployRunId": 40471034126,
+      "sourceLimit": "Pigafetta, Albo and Genoese-pilot transmission differ on junk counts, capture sequence, hostage exchange and ransom; exact original-language collation, captives' individual fates and gold payer remain unverified. The six-scene release is a fictional reconciliation."
+    },
+    "chapter9Recovery": {
+      "state": "research_architecture_draft",
+      "researchPr": 61,
+      "branch": "research/book2-ch9-recovery-architecture-20261027",
+      "commit": "c07638307083797c85e8d3d04de9a2d005dd0093",
+      "next": "Draft six Studio scenes; verify post-release chronology, independent boat-owner and captive agency; no automatic wedding, restored command or iron-hulled ships."
     }
   }
 }
