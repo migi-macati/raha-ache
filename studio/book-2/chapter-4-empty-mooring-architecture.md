@@ -1,7 +1,7 @@
 # Book II, Chapter 4 — The Empty Mooring (working architecture)
 
 **Packet:** RA-B2C4-STUDIO-01  
-**State:** research and causal outline; no prose scenes yet.  
+**State:** research and causal outline; Scenes 1–2 drafted separately, Scenes 3–6 pending integrated work.  
 **Main reader-facing outline:** `src/content/chapters/book-2-chapter-4.md`, *Losing*.  
 **Proposed reader title:** *The Empty Mooring*; review after six scenes. The absence at the landing must acquire its meaning through the chapter, not be explained in the title.  
 **Narrator:** Ache, first person. **Setting:** Brunei river settlement, its approaches and a fictional coastal passage. **Scope:** Book II Chapter 4 only; no change to the 30 core chapters plus Book III bonus 11–12.
@@ -57,3 +57,15 @@ The chapter's defeat must be larger and qualitatively different from Chapter 3's
 Write six separate first-person scenes with physically legible boat positions, limited visibility, named labor and genuine choices. Avoid consecutive speeches explaining the lesson. Keep the defeat irreversible within this chapter. Recheck Chapter 3's final Jamil instruction and Chapter 5's irregular-conditions handoff. Verify scene-specific source claims rather than citing Scott or Pigafetta as general authority for fictional maneuvers. Review title after integrated prose QA.
 
 Keep this Studio packet separate from the public chapter. Only after six scenes and QA, assemble a clean main-based reader-facing branch, validate the exact PR head, and release through GitHub Pages. Never advance the forward checkpoint for Studio work.
+
+## Draft continuity and next-scene handoff (27 October 2026)
+
+**Scene 1 — The Marks That Added Up:** `chapter-4-scene-1-the-marks-that-added-up.md`, 13,937 characters after a boarding/count-stick correction. Nine mornings of checking actual cargo and labor agreements follow Chapter 3. Hamzah owns the exposed cargo boat; Nasir is his working counter and has promised his sister her share of previously sold rice. Bakar owns the trailing cargo boat; Tuma steers it. Safi accompanies the small lookout boat under Jamil's instructions. One fisherman saw two unidentified boats before dawn; a later witness recognized one familiar trader's hull but could not see behind the point. Jamil chooses the later, more reassuring report without claiming the first was disproved. He explicitly orders the three vessels to stay within call on the outer passage, never use the inner cut, and return together if an unknown vessel appears. Ache is authorized to **repeat** this instruction, not amend it.
+
+**Scene 2 — A Shorter Separation:** `chapter-4-scene-2-a-shorter-separation.md`, 11,481 characters after an ending revision. Safi's lighter vessel leads on the seaward side, Hamzah's cargo boat follows nearer the bank, and Ache rides Bakar's trailing cargo boat with Tuma steering. Ache knowingly implies he carries permission from Jamil for Hamzah to enter the inner cut. Nasir warns the lookout cannot cover the hidden reach; Bakar explicitly asks whose order it is. Hamzah accepts, turns inside, and disappears behind the trees. Ache waves to Safi but does **not** establish that Safi understands the deviation. Bakar cannot see Hamzah to assist him. Ache has not yet told Safi or Jamil the truth.
+
+**Scene 3 gate:** Keep the three vessels' positions legible: Safi seaward and ahead, Bakar following outer water, Hamzah out of sight inside the point. Show the unidentified armed craft by observation, not instant identification or invented battle nomenclature. Any attempt to communicate must respect distance, wind, obstruction and uncertainty. Do not have Safi instantly know the changed instruction or Hamzah instantly reappear. Preserve the difference between Jamil's wrong intelligence judgment and Ache's unauthorized separation. Avoid turning the second report into a lie or claiming that it disproved the first.
+
+**Scene 4–6 gates:** Establish the injured worker and Nasir's missing status through limited eyewitness accounts. The sister's claim concerns rice already owed to her, not an invented vow that Nasir would certainly return. No confirmed death or instant restitution. Bakar and Tuma are witnesses with their own interests; Safi must make a costly independent rescue decision. Final consequences should not restore Ache's instruction privilege or close Sulad's unresolved message.
+
+**Research scope adjustment:** Bibliographic records for Scott's 1981 National Museum monograph and 1982 journal article are confirmed independently; specific ship-handling, raiding or weapon claims are not. Pigafetta's 1521 Brunei episode is useful for waterborne setting and documented maritime violence but does not describe this convoy or prove a 1510s Bruneian command procedure. Keep the inner cut, point, witnesses, crew and attack fictional and unnamed rather than using a precise modern channel name.
