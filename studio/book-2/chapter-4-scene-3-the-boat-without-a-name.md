@@ -134,7 +134,7 @@ Bakar shook his head. "You cannot watch both ends."
 
 He turned to his steersman. They spoke quietly. I could see the steersman pointing at a line of darker water along the edge of the trees. Safi listened, then asked a question. The man answered with a shake of his head and a movement of his hand that showed how the bow would have to turn.
 
-I had seen Safi take a different passage from mine in Chapter 3's exercise. He had not done it because he wanted to arrive first. He had listened to the woman at the bow, and they had chosen a course their boat could make. I had remembered his success and forgotten the people who made it possible.
+I remembered Safi's return above the bend: his steersman had given the small boat room, and the woman at its bow had known the water. I had remembered only that they came back first.
 
 "Take me with you," I said.
 
