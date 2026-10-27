@@ -2,7 +2,7 @@
 
 By the time I learned which jar held the crew's drinking water, the man at the mast had stopped telling me to move my feet. He still moved them for me when I stood in the wrong place.
 
-His name was Tarin. I had mistaken it for something Yusuf called him in respect, until Samad shouted it while the man was asleep and needed to take the sail. Tarin woke, cursed Samad, and came forward without looking at me.
+I learned his name when Samad shouted it while he was asleep and needed to take the sail. Tarin woke, cursed Samad, and came forward without looking at me.
 
 The boat had been away from Burné long enough for my rice to taste of the sack. On the first evening I had counted the jars twice and written the same number both times. By the next morning one had been opened, and a man had drunk from it without telling me. I made a mark for what remained. Tarin took the wood from my hand and asked whether I meant to follow every man's mouth with a tally.
 
