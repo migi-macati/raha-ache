@@ -42,6 +42,14 @@ In those mornings I learned how many ways a man could say yes without promising 
 
 I scratched out the mark. The cut remained visible beneath the new one.
 
+On the fourth morning I asked a boy from the timber bank whether Sulad had returned. The boy had been sent upriver for a replacement wedge. He said Sulad had stayed with the men clearing a fallen trunk from the channel beyond the second bend. They would be paid when the owner inspected the passage. A man who left before the work was counted might lose his share.
+
+"Did he send anything for the witnesses?" I asked.
+
+"He said he would speak when his work was finished. He did not give me words to carry."
+
+I nearly told the boy to fetch him. I wanted Sulad's account entered beside mine before Jamil sent me farther from the landing. But the boy had brought news of a job, not permission to take a man from it. I left the space for Sulad on the witness board empty. He had not refused to speak. He had not agreed to speak that day, either.
+
 After that I stopped making the marks while men were speaking. I listened first. I asked them to say what they meant again. When they had gone, I made the cuts and went back to see whether I had understood.
 
 The morning of the convoy, I had three pieces of wood laid beside one another on a mat in Jamil's room. There were no gaps on the first two. The third held a space beside the name of the man who had agreed to carry the last load, because his crew had not yet come.
