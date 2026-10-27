@@ -180,7 +180,7 @@ I had promised her I would carry news directly. I had been so pleased by the pos
 
 "I will ask Hasan to send the answers to your stall," I said. "If he agrees, I will tell you before I go. If he does not, I will not leave without telling you."
 
-"You are learning to ask," she said.
+"You ask more questions now," she said.
 
 I could not tell whether she meant it as praise. She returned to the fish.
 
@@ -196,7 +196,19 @@ I told him about the food, Samad's conditions, and Nasir's sister.
 
 "Yes."
 
-He agreed to send Nasir's sister the answers he could verify, directly to her stall, whether or not I remained in Brunei. He would not promise that every question would have an answer. I went back to tell her. She listened, then asked who would carry the message. Hasan had named a boy who worked near the lower landing. She knew his mother. That was enough for her to know where to complain if no message came.
+He agreed to send Nasir's sister the answers he could verify, directly to her stall, whether or not I remained in Brunei. He would not promise that every question would have an answer.
+
+"Jamil told me to remain and hear the owners," I said. "I have not asked him to release me."
+
+Hasan put down his list. "Then you have not finished asking."
+
+I found Jamil with Hamzah and one of the cloth owners. He heard what I wanted, then asked whether I had completed the accounts he had assigned me. I had copied the names and statements I knew, but the owners had not settled their claims.
+
+"Their claims will remain here whether you do or not," Jamil said. "If you go, you go in your own name, at the owner's permission. You carry no message or order from me. When Hasan sends for your testimony, you will answer. If you cannot promise that, you will stay."
+
+I promised. He did not ask where the voyage would make my reputation. He asked how Hasan would reach me if the witnesses' accounts changed. Yusuf had a carrier who came through the landing on his return voyages; I gave Hasan the man's name, but we could not promise when he would return. Jamil told me that uncertainty was mine to bear.
+
+I went back to Nasir's sister. She listened to Hasan's arrangement, then asked who would carry the message. Hasan had named a boy who worked near the lower landing. She knew his mother. That was enough for her to know where to complain if no message came.
 
 By the time I returned to Samad, the light had changed on the river. He inspected the food I brought, then added a little from Yusuf's share after Yusuf agreed to the amount in front of the crew. The man at the mast counted the water jars again. Samad asked whether anyone objected to my taking the space beside the covered goods. No one spoke. The man from the mast looked at me once, then went back to his rope.
 
@@ -216,6 +228,4 @@ I looked at the empty place where the bundles would have lain. The boat had room
 
 Samad called to the crew. The men took up their places without looking at me. The boat moved from the landing so slowly that I could still hear the fish sellers calling their prices when we reached the bend.
 
-I had no order to carry. I had no promise of a place at the next shore.
-
-For the first time in many days, I was going somewhere without being the man who had decided where.
+I had no order to carry and no promise of a place at the next shore. Samad gave the next instruction to the man at the mast. I opened Yusuf's list and made the first mark while the landing slipped behind us.
