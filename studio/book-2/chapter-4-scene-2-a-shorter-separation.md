@@ -208,7 +208,7 @@ I pulled the cloth from my shoulder and raised it. Safi turned after a moment. H
 
 "He sees you," Bakar said. "That is all I know."
 
-I waved toward the inner cut. Safi followed the direction of my arm, then spoke to his steersman. The lighter boat changed its angle slightly, as though they were trying to look behind the point without entering the shallower water.
+I pushed the count-stick back beneath my knee and waved toward the inner cut. Safi followed the direction of my arm, then spoke to his steersman. The lighter boat changed its angle slightly, as though they were trying to look behind the point without entering the shallower water.
 
 Nasir called from the trees. I caught only the end of his words.
 
