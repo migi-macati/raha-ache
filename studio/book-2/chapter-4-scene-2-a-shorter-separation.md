@@ -228,15 +228,15 @@ The water did not show me the place where they would meet.
 
 Bakar sat down beside the jars. He took a cord from his waist and began fastening the cover more tightly, though the knot had not come loose.
 
-"You may still be right about the time," he said.
+"He may reach the landing first," Bakar said.
 
-I looked at him.
+"That was what I meant."
 
-"Hamzah may reach the landing first. The buyers may be waiting. He may earn more because of what you told him."
+"I know what you meant."
 
 "Then why are you angry?"
 
-"Because if he does, you will think that proves you had the right to tell him."
+"Because I cannot see his boat. If he calls for help, what do I tell my steersman to do?"
 
 He pulled the knot tight and returned to the stern.
 
