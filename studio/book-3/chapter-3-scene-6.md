@@ -6,7 +6,7 @@
 
 The old stake came out of the mud with a sound like a foot pulled from a deep shoe.
 
-The landing worker had waited until the witnesses arrived. He had stood beside it with both hands empty while the keeper called the names of the people who had seen it leaning. The steerswoman from the far bank was there. So were the first representative, the man who had brought his aunt's old marker, and two workers from Maynila.
+The landing worker had waited until the witnesses arrived. He had stood beside it with both hands empty while the keeper called the names of the people who had seen it leaning. The steerswoman from the far bank was there. So were the first representative, the boy who had carried his aunt's old marker, and two workers from Maynila.
 
 The man who had moved it before did not touch it.
 
@@ -214,4 +214,4 @@ I had no coin ready. I told him I would go with him and speak to the owner mysel
 
 Outside, the tide was rising around the new stake. The old one lay dry above the steps, where anyone could ask why it had been taken out. Boats passed on either side of the turn. Some used the marked water. Others chose their own way.
 
-I went down to meet the man who had sent the porter. Across the river, the houses kept their boats and their claims. They had given me no crown. I had given them no shore. The wood stood between us until the next tide, and the people who had put it there knew where to find one another.
+I went down to meet the man who had sent the porter. Across the river, the houses kept their boats and their claims. The wood stood between us until the next tide, and the people who had put it there knew where to find one another.
