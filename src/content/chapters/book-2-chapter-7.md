@@ -1121,9 +1121,3 @@ I put my hand on the injured man's shoulder. He looked at me, waiting to know wh
 I had no answer.
 
 Above us, feet struck the foreign ship's rail.
-
----
-
-### Historical note
-
-The two foreign ships and their confrontation with vessels near Burné are drawn from accounts of the 1521 voyage. The surviving witnesses differ in consequential details. [Antonio Pigafetta's account](https://philippinediaryproject.com/1521/07/29/29th-of-july-1521/) describes more than a hundred approaching praus and four junks captured. [Francisco Albo's log](https://philippinediaryproject.com/1521/07/29/21-june-29-july-1521/) reports 260 armed canoes and one captured junk; its published date range is editorial. Neither account establishes the intentions of all the local boats or the fictional conversations, signals, rescue and injuries narrated here. The chapter ends before the capture described in the historical accounts.
