@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-6",
-  "nextChapterId": "book-2-chapter-7",
+  "lastCompleted": "book-2-chapter-7",
+  "nextChapterId": "book-2-chapter-8",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
-  "completedChapterPasses": 16,
+  "lastMergeSha": "815abf4b6f25b65143c7e6fe21115833db6c8317",
+  "completedChapterPasses": 17,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
+    "sourceSha": "815abf4b6f25b65143c7e6fe21115833db6c8317",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~14:11 PHT: Book II Chapter 6 The Other King's Shore public PR #54 merged 8da652de5c663731365535a059b79d2e6a14f5c5 after exact-head Validate PR run 40459274280 (job 122039769126) passed for b062c92a641c516300d9469b632f26d55b8e8bac. GitHub Pages run 40459386968 succeeded (build job 122040133719; deploy job 122040419233). Artifact 12712739593 inspected: 253 HTML pages, 16,242 internal links, 0 missing links/anchors; all six scenes, chapter navigation, four new Universe records, and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified.",
-    "runId": 40459386968,
-    "buildJobId": 122040133719,
-    "deployJobId": 122040419233
+    "verificationLimit": "27 Oct 2026 ~15:10 PHT: Book II Chapter 7 The Whale Ships public PR #57 merged 815abf4b6f25b65143c7e6fe21115833db6c8317 after exact-head Validate PR run 40465277574 (job 122059044664) passed for 53787c4e5913b90710b92a384b97472b55780eec. GitHub Pages run 40465400782 passed build job 122059452374 and deploy job 122059685380. Artifact 12715624272 inspected: 253 HTML pages, 16,707 internal URLs, 0 missing targets/anchors; all six scenes, Chapter 6/8 navigation and Read Aloud markup present. Rendered live-page and actual playback remain unverified.",
+    "runId": 40465400782,
+    "buildJobId": 122059452374,
+    "deployJobId": 122059685380
   },
   "operatingLessons": [
     {
@@ -95,13 +95,17 @@
     {
       "lesson": "Track who has already testified and which messages have been delivered across scenes; repair causal contradictions in both Studio and release branches before merging.",
       "evidence": "27 Oct 2026: Book II Chapter 6 follow-up embassy wrongly sought an already-heard boatman; corrected Studio Scene 5 commit 1f02769d and public chapter commit b062c92a before exact-head CI and PR #54 merge."
+    },
+    {
+      "lesson": "Before adding historical notes to a reader-facing chapter, read the Studio historical-notes editorial contract: keep source commentary out of uninterrupted prose and default Read Aloud until structured, collapsed notes exist.",
+      "evidence": "27 Oct 2026: `studio/editorial/chapter-historical-notes-packet.md` requires separate collapsed notes; Book II Chapter 7 public branch removed manually appended Historical Note in commit 53787c4e before exact-head CI, PR #57 merge and Pages deployment."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-7",
+    "chapterId": "book-2-chapter-8",
     "branch": null,
     "state": "not_started",
-    "progress": "Book II Chapter 6 The Other King's Shore released via PR #54 merge 8da652de and successful Pages run 40459386968. Six Studio scenes preserved in draft PR #53 and source/architecture in draft PR #52. Chapter 7 The Whale Ships is next: the July 1521 Brunei encounter must be researched from Pigafetta and other voyage accounts, including the expedition's changing command structure; Elcano's later captaincy must not be projected back into July without verified evidence. Chapter 6 leaves Ache with bounded responsibility for vessels toward Luzon, Laoe's sack and unresolved losses, Nasir missing, and Dima's mother's fate unknown.",
+    "progress": "Book II Chapter 7 The Whale Ships released via PR #57 merge 815abf4b and Pages run 40465400782 successful; six Studio scenes preserved in draft PR #56 and source comparison/architecture in draft PR #55. Book II Chapter 8 Prisoner owns the historically reported capture, captivity and Carvalho release. Pigafetta reports four junks captured and more than 100 praus; Albo reports one junk and 260 canoes; Genoese-pilot sequence and July European command remain unresolved. Ache ends Chapter 7 aboard a Laoe-linked junk as boarding begins, with Safi withdrawn, Tahir's message ashore and injured crew aboard. Preserve independent agency and avoid guaranteed European command names.",
     "blockers": []
   },
   "researchWork": {
@@ -127,6 +131,16 @@
       "publicPr": 54,
       "mergeSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
       "deployRunId": 40459386968
+    },
+    "bruneiEncounter": {
+      "state": "published_with_source_limits",
+      "researchPr": 55,
+      "studioPr": 56,
+      "publicPr": 57,
+      "mergeSha": "815abf4b6f25b65143c7e6fe21115833db6c8317",
+      "deployRunId": 40465400782,
+      "sourceLimit": "Pigafetta 29 July 1521 and Albo [21 June–29 July] differ on local flotilla count (100+ vs 260) and junks captured (four vs one). Exact original-language manuscript collation and July European command assignments remain unresolved.",
+      "next": "For Book II Chapter 8, compare Genoese pilot, Albo and Pigafetta before assigning captors, release terms, casualties or vessel count; maintain source/fact/inference/fiction distinction."
     }
   }
 }
