@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-9",
-  "nextChapterId": "book-2-chapter-10",
+  "lastCompleted": "book-2-chapter-10",
+  "nextChapterId": "book-3-chapter-1",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
-  "completedChapterPasses": 19,
+  "lastMergeSha": "5ae7f694c63c7f02546727ab850fdc47d1cafd9c",
+  "completedChapterPasses": 20,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
+    "sourceSha": "5ae7f694c63c7f02546727ab850fdc47d1cafd9c",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~18:11 PHT: Book II Chapter 9 The List at Low Water public PR #63 merged 9fd11524aa5581f55945ad9ba1375094db5f46e2 after exact-head Validate PR run 40486139378 job 122128275836 passed for b4a8b911f948faa5bb97e41d3509682c38ef484e. GitHub Pages run 40486270166 passed build job 122128708786 and deploy job 122128995986. Artifact 12725511329 independently inspected: 253 HTML pages, 16,745 internal links, 0 missing targets/anchors; six scenes, Chapter 8/10 navigation and Read Aloud markup present. Rendered live-page and actual audio playback unverified.",
-    "runId": 40486270166,
-    "buildJobId": 122128708786,
-    "deployJobId": 122128995986
+    "verificationLimit": "27 Oct 2026 ~20:04 PHT: Book II Chapter 10 Where the River Lets Go public PR #67 merged 5ae7f694c63c7f02546727ab850fdc47d1cafd9c after exact-head Validate PR run 40500577914 passed for 975138ea5d02eb6e94b01828e3cb861f99194581. GitHub Pages run 40500718745 passed build job 122177419328 and deploy job 122177765814. Artifact 12731934689 independently downloaded and inspected: 253 HTML pages, 16,941 internal links, zero missing targets/anchors; chapter title, six-scene opening/ending, previous/next navigation and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified. Universe follow-up PR #68 merged 8a1ee9e1cf458e1ea391255ca67fd61fdab44cbf; its deployment must be separately checked.",
+    "runId": 40500718745,
+    "buildJobId": 122177419328,
+    "deployJobId": 122177765814
   },
   "operatingLessons": [
     {
@@ -106,10 +106,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-10",
+    "chapterId": "book-3-chapter-1",
     "branch": null,
     "state": "research_pending",
-    "progress": "Book II Chapter 9 The List at Low Water released in public PR #63 merge 9fd11524aa5581f55945ad9ba1375094db5f46e2 and Pages run 40486270166; six Studio scenes preserved in draft PR #62, source gates in draft PR #61. Next Book II Chapter 10 must resolve the Luzon-versus-Brunei choice and retain Book III's Maynila restoration. Continuity audit found Sulad absent from Book II Chapters 4–9 and Laila absent from Chapters 3–9 despite Chapter 10 outline relying on both. Re-establish their independent activities and stakes with evidence; consider scoped retrospective corrections before pivotal Chapter 10 relationship scenes.",
+    "progress": "Book II Chapter 10 Where the River Lets Go published PR #67 merge 5ae7f694, Pages run 40500718745 passed and artifact 12731934689 independently inspected. Four new fictional crew/owner Universe records and chapter metadata linked in PR #68 merge 8a1ee9e1. Studio six-scene PR #66 and source-gate PR #64 remain draft archives. Next Book III Chapter 1 The Bay That Forgot Him: research and plan actual arrival in Manila Bay, altered political loyalties, cautious first landing and limits of Ache's claim. Maynila restoration remains unresolved; original-language source collation and live/audio verification pending.",
     "blockers": []
   },
   "researchWork": {
