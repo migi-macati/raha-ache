@@ -107,13 +107,17 @@
     {
       "lesson": "At a book boundary, compare the published final chapter's actual vessels, people, resources, relationships and permissions with the next book's outline before writing; repair assumptions that conjure unearned force, marriage or authority.",
       "evidence": "27 Oct 2026: published Book II Chapter 10 PR #67 ends with Harun's privately owned trading vessel, two voluntary companions, Tamin first leg and a limited ruler's letter; Book III Chapter 1/2 and book-level outlines still presume an armed Bruneian fleet, assured force and marriage. Draft research PR #69 documents the continuity gate and a six-scene arrival architecture."
+    },
+    {
+      "lesson": "Audit reverse-linked Universe event metadata against published chapter prose; a `chapters` backlink can falsely imply that an event happened in the novel, and its evidence certainty may be overstated.",
+      "evidence": "28 Oct 2026: Book III Chapter 2 GitHub Pages artifact 12751634703 exposed `Ache marries his Bruneian cousin` under Referenced by, despite no wedding in published Chapter 2. Source pages had uncollated Aganduru wording and `certainty: documented`; scoped correction PR #77 opened head f29d6970."
     }
   ],
   "studioWork": {
     "chapterId": "book-3-chapter-3",
-    "branch": "editorial/book3-ch3-two-crowns-continuity-20261028",
-    "state": "outline_review",
-    "progress": "Book III Chapter 2 The Door They Left Open released PR #74 merge 4f1c1aba2c49ea906e11c2d883f1632a7bd88eac; Pages run 40547271342 build/deploy passed. Chapter 3 continuity outline correction PR #75 draft, head e5a7f1292323dfd0f89118567346fb5437b2d859, exact-head Validate PR run 40547355260 passed. Establish bounded Maynila/Tondo crossing agreement without invented Lakandula battle or armed Bruneian fleet. Chapter 3 prose not yet drafted. Rendered-live and audio unverified.",
+    "branch": "studio/book3-ch3-marker-and-toll-20261028",
+    "state": "draft",
+    "progress": "Book III Chapter 3 outline correction PR #75 merged 9151444c1ea0e083a20fca4ccf4e9cd657cf2d3b and Pages run 40556670542 passed. Studio draft PR #76 contains six-scene architecture and Scenes 1–2 at head e52691264c24e3f833c42c4b6a315fbf736ac3af; exact-head Validate PR run 40557117993 passed; scenes 3–6 pending. Chapter 2 public artifact 12751634703 inspected: 257 HTML pages, 17,350 internal links, zero missing targets; Chapter 1/3 navigation and Read Aloud markup present. Rendered-live/audio unverified.",
     "blockers": []
   },
   "researchWork": {
@@ -176,6 +180,13 @@
       "mergeSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
       "deployRunId": 40518495415,
       "sourceLimit": "Early-1520s chronology, Lakandula office, genealogical claims and marriage remain unverified; no armed fleet or recognized title is established."
+    },
+    "acheMarriage": {
+      "state": "editorial_pr_pending_ci",
+      "pr": 77,
+      "head": "f29d69707d5d8dc82bbab67a62a2272f8c1908ee",
+      "ciRunId": 40557321374,
+      "sourceLimit": "Original Aganduru CODOIN 78 printed pp.59–60 remains uncollated. The marriage event page falsely backlinked published Book III Chapter 2 and labeled source certainty documented; PR #77 changes to possible, removes Chapter 2 association, qualifies date and source wording. Do not merge until exact-head CI succeeds."
     }
   }
 }
