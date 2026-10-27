@@ -824,7 +824,7 @@ Safi came up the path with a wet sleeve. He had been helping turn a watch boat a
 
 Jamil looked at the men around him. Some were already being sent to keep the inner landings clear. Others were needed to carry messages to the ruler. He could not send every boat to the same place.
 
-I knew the junk Safi meant. Its sail had been furled when we first saw it, and a patch of red cloth hung from its stern. A man from Laoe had used a similar cloth to mark his family's goods. It might have meant nothing. I could not stop looking at it.
+I knew the junk Safi meant. It had arrived after our return from Laoe with people and goods still waiting to be accounted for. Its sail was furled, and a patch of red cloth hung from its stern. I had never asked the master's name. I could not stop looking at it.
 
 "I can go with Safi," I said.
 
