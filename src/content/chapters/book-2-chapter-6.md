@@ -1130,7 +1130,7 @@ No one could say.
 
 For several days messengers went between the court and the households willing to speak for Laoe. One came back with a demand that Burné's collectors stop approaching the settlement. Another said a party loyal to a ruler across the water had seized the goods and would not return them. A third brought no words at all. He had been turned away before he reached the landing.
 
-Then one of the smaller boats that had carried the first embassy's guards failed to return from a later attempt to find the missing boatman. Its owner came to the court with the names of his crew. A man who had escaped said the boat had been taken and its people held at the settlement. He had seen two of them led away. He could not say what had happened to the rest.
+Then one of the smaller boats that had carried the first embassy's guards failed to return from a later attempt to deliver a message to the men holding the goods. Its owner came to the court with the names of his crew. A man who had escaped said the boat had been taken and its people held at the settlement. He had seen two of them led away. He could not say what had happened to the rest.
 
 Jamil asked to lead a larger force.
 
