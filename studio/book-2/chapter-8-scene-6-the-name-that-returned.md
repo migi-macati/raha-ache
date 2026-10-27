@@ -290,7 +290,7 @@ I looked at Jamil. He did not help me.
 
 I bowed my head.
 
-The order was less than a punishment and more than a dismissal. I had come back expecting to be asked how I escaped. I was being asked whether anyone could trust what I said had happened.
+The order left me free to walk the harbor and without authority to send a single boat. I had come back expecting to be asked how I escaped. They wanted an account that other people could check.
 
 When we left, Jamil did not speak until we reached the path above the harbor.
 
@@ -329,7 +329,5 @@ I stayed where I was for a moment. Below me, Tahir was still at the landing, cou
 Beyond the shoals, the foreign ship stood against the darkening sky. Somewhere aboard it were people who had asked me to remember their names. Somewhere on the water was the junk I had left. I could not see whether it was moving.
 
 I had a name that men now used to explain a payment I had not made and a bargain I had not heard.
-
-Tomorrow I would have to learn who had paid for me, who had been left behind, and who would believe my account.
 
 That evening I went to find Nasir's sister.
