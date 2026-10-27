@@ -6,7 +6,7 @@
 
 Jamil sent for me when the water was low enough to walk beneath the houses on the eastern bank.
 
-The messenger said the ruler would be there. I had expected to be called into the hall where men stood according to their place and waited for a name to be spoken. Instead I found Siripada in the shade of a raised house, watching two carpenters remove a rotten crosspiece from the platform above him.
+The messenger said the ruler would be there. I had expected to be called into the hall where men stood according to their place and waited for a name to be spoken. Instead I found Siripada in the shade beneath a raised house inside the palace enclosure, watching two carpenters remove a rotten crosspiece from the platform above him.
 
 The piece had been painted once. The color remained only where a beam had covered it. One carpenter was sawing through a peg while the other held the wood so it would not fall into the mud. Siripada stood with his hands folded behind his back. Jamil was beside him, holding a short board.
 
