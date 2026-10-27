@@ -1,4 +1,4 @@
-# Book II, Chapter 9 — Scene 4: The Men Who Could Say No
+# Book II, Chapter 9 — Scene 4: The Loose Peg
 
 **Studio draft. Not reader-facing.** Ache POV. Continues the unresolved gold account and Nasir inquiry. No restored command or promised crew.
 
@@ -252,8 +252,8 @@ Safi and I walked back along the landing. He did not tell me that the master had
 
 "The questions Nasir's sister has already paid to send. The people Ruma has already taken in. The damaged boats whose owners have to decide whether they can sail. Begin there."
 
-I watched a rower lift a coil of rope from the sand. He had to stop twice to untangle it. The rope was old, and one strand had begun to fray. He laid it out along the bank, cut the damaged length and tied the sound ends together. When he was finished, the rope was shorter. It would still hold a boat if he did not ask it to reach farther than it could.
+The rower nearest me lifted a coil of rope from the sand. A strand had frayed halfway through. He cut the damaged length, tied the sound ends together, and tried the knot against a post. When he pulled it free, the severed piece stayed on the sand.
 
-Safi had gone back to the watch boat. I remained at the landing until the trading master had loaded his last jar. He gave the order to push off without looking toward me.
+Safi had gone back to the watch boat. I remained until the trading master loaded his last jar. His steersman shouted for room at the post; I moved the cut rope out of the way.
 
-The boat left on the tide it had been waiting for. It carried no message from me.
+The boat pushed off on the tide it had been waiting for. It carried no message from me.
