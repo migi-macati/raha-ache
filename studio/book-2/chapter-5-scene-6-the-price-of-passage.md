@@ -100,6 +100,8 @@ When I had finished, Samad asked each person whether the words describing their 
 
 I made two copies on separate pieces of wood. They were not identical. One stayed with Saliha and the older woman, because they needed the names of those who would return for the last roll. The other went with Samad for Hasan. I read the differences aloud so that no one would later say I had hidden them. Samad made me tie his copy inside the covered basket where the crew kept dry things. He would not carry it loose against his body.
 
+I asked him to tell Hasan that I had heard nothing here about Nasir. The absence of news was not proof that Nasir had never passed this shore. It was all I could say. I asked him also to remind Hasan of the promise to send verified answers directly to Nasir's sister. Samad said he could carry my words; he could not answer for Hasan.
+
 "Hasan may ask you questions," he said.
 
 "I told Jamil I would answer."
