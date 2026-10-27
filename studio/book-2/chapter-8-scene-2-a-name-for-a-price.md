@@ -60,7 +60,7 @@ I looked at him more carefully. He had a narrow face and a pale line of old scar
 
 "No one owns me."
 
-He laughed once. It was a small sound, and it hurt his lip.
+He laughed once, then stopped as if the sound had cost him something.
 
 "Then tell them that."
 
