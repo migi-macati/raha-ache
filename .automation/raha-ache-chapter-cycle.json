@@ -1,23 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-3",
-  "nextChapterId": "book-3-chapter-4",
+  "lastCompleted": "book-3-chapter-4",
+  "nextChapterId": "book-3-chapter-5",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "146198f9c625cc4143522561b4d1ab11fc009fd4",
-  "completedChapterPasses": 23,
+  "lastMergeSha": "f4e5be69e503fb410e5224115e12f64935ad9e06",
+  "completedChapterPasses": 24,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "146198f9c625cc4143522561b4d1ab11fc009fd4",
+    "sourceSha": "f4e5be69e503fb410e5224115e12f64935ad9e06",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 ~03:10 PHT: Book III Chapter 3 Where the Wood Stood public PR #78 merged 146198f9c625cc4143522561b4d1ab11fc009fd4 after exact-head Validate PR run 40566242020 passed for 5b742d076df7e58537c1ee7c2ce0a1101d79c461. GitHub Pages run 40566481108 build 122408988118 and deploy 122409443275 passed. Artifact 12764030293 independently inspected: 257 HTML pages, 17,415 internal links, zero missing targets or anchors; chapter 3 opening/ending, Chapter 2/4 navigation and speechSynthesis/Play markup present. Rendered-live and actual Read Aloud playback unverified.",
-    "runId": 40566481108,
-    "buildJobId": 122408988118,
-    "deployJobId": 122409443275
+    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 4 What the Bank Could Keep PR #82 merged f4e5be69e503fb410e5224115e12f64935ad9e06 after exact-head Validate PR 40599907533 passed. GitHub Pages run 40600075690 build 122525702556 and deploy 122526032321 succeeded. Artifact 12778905263 independently inspected: 257 HTML pages, 17,638 internal links, 0 missing files/anchors; Chapter 4 title, opening, ending, Chapter 3/5 navigation, collapsed historical notes and Read Aloud speechSynthesis markup present. Rendered-live browser page and actual audio playback NOT verified; direct live HTTP fetch failed DNS.",
+    "runId": 40600075690,
+    "buildJobId": 122525702556,
+    "deployJobId": 122526032321,
+    "artifactId": 12778905263
   },
   "operatingLessons": [
     {
@@ -114,10 +115,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-4",
+    "chapterId": "book-3-chapter-5",
     "branch": null,
-    "state": "research_pending",
-    "progress": "Book III Chapter 3 complete six-scene Studio PR #76 draft at dc6002d8df9d6e9fd547ac1838237d92432dc9e4 (exact-head Validate PR 40566168527 passed), public PR #78 merged 146198f9c625cc4143522561b4d1ab11fc009fd4 and Pages 40566481108 deployed with artifact audit. Chapter 4 opening outline corrected in PR #79, merged 5d58abff876453a067e185bed88133c989dcc658 after exact-head Validate PR 40566459069 passed. No Chapter 4 Studio prose yet; start with mooring-post work, independent maker/household claims, and no assumed Bruneian army or early Panday Pira cannon workshop.",
+    "state": "research_ready",
+    "progress": "Book III Chapter 4 complete six-scene Studio PR #81 merged d891ed102b75bed588d7001d0d22732f7932da7a after exact-head Validate PR 40599773278 passed; public Chapter 4 PR #82 merged f4e5be69e503fb410e5224115e12f64935ad9e06, Pages 40600075690 deployed and artifact 12778905263 audited. Research PR #80 merged eb7a52b0b0a8ab69f3429b413a38d18d0da24e5f. Book III Chapter 5 continuity outline PR #83 merged 7833d51f0a0d45bfb90505854b89026faa13f431, correcting Mulaw's unpromised alliance. No Chapter 5 Studio prose yet. Start research and first scene only after checking current main and reader feedback.",
     "blockers": []
   },
   "researchWork": {
@@ -200,11 +201,21 @@
       "sourceLimit": "The marker dispute, far-bank witnesses, compensation and settlement are fiction. Lakandula is a reported political reference only; no historical personal meeting or treaty established. Rendered live/audio unverified."
     },
     "chapter4Construction": {
+      "state": "published_with_source_limits",
+      "researchPr": 80,
+      "studioPr": 81,
+      "publicPr": 82,
+      "publicMergeSha": "f4e5be69e503fb410e5224115e12f64935ad9e06",
+      "deployRunId": 40600075690,
+      "sourceLimit": "1570 Maynila waterfront defenses and 1589 Plasencia differentiated labor are later accounts, not evidence for Ache's exact construction. Raya, the damaged net, the repaired upper step and all bargaining are fictional. No Panday Pira workshop, completed kota or general passing levy. Original Spanish and Scott Tagalog-technology pages remain uncollated.",
+      "next": "Keep chronology and construction technique qualified; verify later source passages before retroactively naming makers or specifying technical terms."
+    },
+    "chapter5Alliances": {
       "state": "outline_merged",
-      "editorialPr": 79,
-      "mergeSha": "5d58abff876453a067e185bed88133c989dcc658",
-      "sourceLimit": "1570 Maynila guns and molds cannot verify a named Panday Pira workshop or completed kota in Ache's earlier decade. No Bruneian fleet or forced labor assumed.",
-      "next": "Research maker/material/consent and source chronology before drafting six scenes."
+      "editorialPr": 83,
+      "mergeSha": "7833d51f0a0d45bfb90505854b89026faa13f431",
+      "sourceLimit": "Book I Chapter 7 Mulaw gave Ache a name and advice only; no passage, alliance, return, lakan title or geographical first-landing location was established. Nima's absent sister owns her cloth. Harun/Tamin/Isan offer no guaranteed political or military backing.",
+      "next": "Develop Chapter 5 first scene from Chapter 4's unpaid Dala/Raya/Amaya claims and limited upper-step repair; treat Mulaw contact as contingent and verify trade/route evidence before assigning old alliances."
     }
   }
 }
