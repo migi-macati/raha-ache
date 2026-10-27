@@ -3,18 +3,18 @@ id: jalal
 name: Prince Jalal ud-Din
 aliases: [Jalal]
 status: fictional
-developmentStatus: working
+developmentStatus: current
 relations:
   - target: ache
-    type: ally and sparring partner
-    certainty: development
-related: [ache-attraction-romance-chemistry, psychologically-credible-characters, ache, sulu, mindanao, brunei, book-2]
+    type: disputed-shore interlocutor and possible future ally
+    certainty: novel-canon
+related: [ache-attraction-romance-chemistry, psychologically-credible-characters, ache, sulu, mindanao, brunei, book-2, book-2-chapter-5]
 sources: []
 timeline: []
 ---
-Sulu noble introduced in the Part II development framework.
+Jalal is a local noble encountered by Ache at a fictional eastern landing in Book II, Chapter 5, *The Price of Passage*. He is witty and socially connected but cannot promise the labor of Saliha's carriers, the use of his aunt's store, or passage on independent boats. His exact dynastic position remains developmental; the chapter does not establish a wider Sulu alliance.
 
-Serves as Ache's sparring partner and a Muslim ally whose political support is useful but not automatically secure.
+He questions Ache's version of the disputed cargo settlement and refuses to pledge other people's vessels. Ache's restraint interests him, but Karim's public humiliation has created a cost for Jalal among his own kin.
 
 ## Human contradictions (fictional characterization)
 
