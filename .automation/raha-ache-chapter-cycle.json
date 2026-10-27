@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-2",
-  "nextChapterId": "book-2-chapter-3",
+  "lastCompleted": "book-2-chapter-3",
+  "nextChapterId": "book-2-chapter-4",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "b05b25ce37880b6e0a4d18bc8a39e216aae2935e",
-  "completedChapterPasses": 12,
+  "lastMergeSha": "6eb803a581fcf6ad6dd1db8797bcebba830a1dfe",
+  "completedChapterPasses": 13,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "b05b25ce37880b6e0a4d18bc8a39e216aae2935e",
+    "sourceSha": "6eb803a581fcf6ad6dd1db8797bcebba830a1dfe",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 October 2026 ~05:27 PHT: Book II Chapter 2 public PR #44 merged as b05b25ce37880b6e0a4d18bc8a39e216aae2935e. Exact PR head 5c8f9267a85dbd9da512645aabbe1983a046d4b5 passed Validate PR run 40404169620 (job 121857516246). GitHub Pages run 40404352394 built and deployed merge SHA successfully (build 121858130769; deploy 121858429741). Main file readback confirms 59,740 characters, six scenes and five scene breaks. Rendered public page and actual Read Aloud playback remain unverified.",
-    "runId": 40404352394,
-    "buildJobId": 121858130769,
-    "deployJobId": 121858429741
+    "verificationLimit": "27 October 2026 ~08:02 PHT: Book II Chapter 3 public PR #46 merged as 6eb803a581fcf6ad6dd1db8797bcebba830a1dfe. Exact PR head 3fb1dd1083a149c90ffcb83d514fbf5511e7701b passed Validate PR run 40423355455 (job 121922929838). GitHub Pages run 40423496375 built and deployed merge SHA successfully (build 121923408195; deploy 121923686793). Six-scene manuscript and Ruma/Tahir Universe records verified on source branch and main. Rendered public page and actual Read Aloud playback remain unverified.",
+    "runId": 40423496375,
+    "buildJobId": 121923408195,
+    "deployJobId": 121923686793
   },
   "operatingLessons": [
     {
@@ -83,13 +83,17 @@
     {
       "lesson": "Before drafting or repeating a release, reconcile the main branch, PR merges, and deployment runs against the checkpoint; a chapter can be merged and deployed while the checkpoint still points to it.",
       "evidence": "27 Oct 2026: main already included Book II Chapter 1 via PR #43 merge 5b8a48de and successful Pages run 40402919773 while checkpoint still said lastCompleted Book I Chapter 10; reconciled before creating duplicate release."
+    },
+    {
+      "lesson": "When a new chapter establishes named working characters, create only canon-supported Universe records, link their exact IDs in chapter metadata, and validate the schema plus exact-head PR build before merging.",
+      "evidence": "27 Oct 2026: Book II Chapter 3 PR #46 included Ruma/Tahir records and chapter metadata; exact head 3fb1dd10 passed run 40423355455; merged 6eb803a5 and Pages run 40423496375 deployed."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-3",
+    "chapterId": "book-2-chapter-4",
     "branch": null,
     "state": "outline",
-    "progress": "Book I Chapters 1–10 and Book II Chapters 1–2 are merged and deployed. Book II Chapter 2 PR #44 merged b05b25ce; Pages run 40404352394 succeeded. Next Book II Chapter 3 currently has a reader-facing outline ('Admiral in Training') on main, with no separate Studio prose branch or public release PR. Preserve unmerged Studio draft PRs #38–39 and research limitations.",
+    "progress": "Book II Chapter 3 When the Water Turns assembled from Studio draft PR #45, released separately through PR #46 and deployed in Pages run 40423496375. Studio PR #45 remains draft and preserved. Next Book II Chapter 4 Losing remains reader-facing outline; plan a consequential defeat building on Ache's premature confidence after supervised river passage. Historical-source boundaries and independent crew agency remain required.",
     "blockers": []
   },
   "researchWork": {
