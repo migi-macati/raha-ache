@@ -4,7 +4,7 @@
 
 ---
 
-The rain began while I was carrying a board to the receiving house. By the time I reached the yard, water was running off the roof in thick ropes and gathering in the hollow where the jars stood.
+The rain began while I was carrying a message from the returned junk's master to the receiving house. By the time I reached the yard, water was running off the roof in thick ropes and gathering in the hollow where the jars stood.
 
 Laila had ordered the largest jars moved onto planks. Four women were working under the eaves. One held the mouth of a jar steady while the others lifted its base. They set it down, rolled their shoulders, and went back for the next. A boy stood beside the door with a tally. He was making marks faster than the women could move the jars.
 
