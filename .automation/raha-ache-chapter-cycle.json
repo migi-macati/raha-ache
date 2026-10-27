@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-10",
-  "nextChapterId": "book-3-chapter-1",
+  "lastCompleted": "book-3-chapter-1",
+  "nextChapterId": "book-3-chapter-2",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "5ae7f694c63c7f02546727ab850fdc47d1cafd9c",
-  "completedChapterPasses": 20,
+  "lastMergeSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
+  "completedChapterPasses": 21,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "5ae7f694c63c7f02546727ab850fdc47d1cafd9c",
+    "sourceSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~20:04 PHT: Book II Chapter 10 Where the River Lets Go public PR #67 merged 5ae7f694c63c7f02546727ab850fdc47d1cafd9c after exact-head Validate PR run 40500577914 passed for 975138ea5d02eb6e94b01828e3cb861f99194581. GitHub Pages run 40500718745 passed build job 122177419328 and deploy job 122177765814. Artifact 12731934689 independently downloaded and inspected: 253 HTML pages, 16,941 internal links, zero missing targets/anchors; chapter title, six-scene opening/ending, previous/next navigation and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified. Universe follow-up PR #68 merged 8a1ee9e1cf458e1ea391255ca67fd61fdab44cbf; its deployment must be separately checked.",
-    "runId": 40500718745,
-    "buildJobId": 122177419328,
-    "deployJobId": 122177765814
+    "verificationLimit": "27 Oct 2026 ~22:11 PHT: Book III Chapter 1 The Bay That Forgot Him PR #71 merged 3d94c6fecbc8808c4205305f783fe381e08af8a4 after exact-head Validate PR run 40518292746 passed for 6386f964d0afa2fb07fff40e9f874e8f4b35b210. GitHub Pages run 40518495415 completed success, build job 122238559454 and deploy job 122239206593 passed. Pages artifact 12739329529 present; not independently inspected in this run. Rendered-live and actual Read Aloud playback unverified.",
+    "runId": 40518495415,
+    "buildJobId": 122238559454,
+    "deployJobId": 122239206593
   },
   "operatingLessons": [
     {
@@ -110,10 +110,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-1",
+    "chapterId": "book-3-chapter-2",
     "branch": "research/book3-ch1-arrival-and-local-power-20261027",
     "state": "research_pending",
-    "progress": "Book II Chapter 10 published and deployed PR #67 / Pages 40500718745; Universe PR #68 merged and final main Pages 40501084636 passed with 257 HTML pages, 17,223 internal links and zero missing targets/anchors. Next Book III Chapter 1 research draft PR #69 (latest f72fa46b) records six-scene arrival plan and continuity risk: Book II ends with a limited private trading passage, while older Book III outlines assume an armed fleet and marriage. NAST 1992 offers a tentative Lakandula kinship counterhypothesis; verify chronology and original sources before prose. Rendered-live/audio still unverified.",
+    "progress": "Book III Chapter 1 The Bay That Forgot Him released via PR #71 merge 3d94c6fe and successful Pages run 40518495415. Chapter 2 handoff plan is saved in draft research PR #69 at studio/book-3/chapter-2-handoff-causal-gates.md. Start from published Chapter 1's three nights paid lodging, Harun's private vessel, Banu's limited hearing, and mother's instructions; no armed fleet or marriage. Chapter 2 must earn local alliances, time passage, resources and concrete restoration without unverified historical claims. Rendered-live and audio unverified.",
     "blockers": []
   },
   "researchWork": {
@@ -167,6 +167,15 @@
       "mergeSha": "9fd11524aa5581f55945ad9ba1375094db5f46e2",
       "deployRunId": 40486270166,
       "sourceLimit": "Gold payer/amount, release terms, captives' individual fates and private Brunei recovery meetings remain unverified; scenes are fictional reconstruction grounded in competing Pigafetta/Albo/Genoese-pilot source limits."
+    },
+    "chapter1Homecoming": {
+      "state": "published_with_source_limits",
+      "researchPr": 69,
+      "studioPr": 70,
+      "publicPr": 71,
+      "mergeSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
+      "deployRunId": 40518495415,
+      "sourceLimit": "Early-1520s chronology, Lakandula office, genealogical claims and marriage remain unverified; no armed fleet or recognized title is established."
     }
   }
 }
