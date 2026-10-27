@@ -1,6 +1,6 @@
 # Book II Chapter 6 — Loue source gate and causal architecture
 
-**Packet:** RA-B2C6-RESEARCH-01 / RA-B2C6-PLAN-01. **State:** preliminary Studio research and planning, not prose, canon or publication. **Working title in main:** *Tactics and Conquest*. **Title under review:** *The Other King's Shore*. **POV:** Ache, first person. **Chronology:** before the July 1521 encounter. **Immediate prior chapter:** Book II Chapter 5, *The Price of Passage*, public PR #51, pending final deployment verification when this packet was drafted.
+**Packet:** RA-B2C6-RESEARCH-01 / RA-B2C6-PLAN-01. **State:** preliminary Studio research and planning, not prose, canon or publication. **Working title in main:** *Tactics and Conquest*. **Title under review:** *The Other King's Shore*. **POV:** Ache, first person. **Chronology:** before the July 1521 encounter. **Immediate prior chapter:** Book II Chapter 5, *The Price of Passage*, public PR #51, merged and Pages-deployed (run 40448166735; checkpoint deployment 40448328714 also successful).
 
 ## Source boundary
 
@@ -11,6 +11,18 @@
 **Geography:** Loue's modern location is unresolved. No automatic identification with Tawau or any modern port; no precise coastline, headland, depth chart, sailing time, or distance. The reported allegiance to Java Major does not establish a Majapahit garrison, fixed provincial administration, or the inhabitants' own interpretation of the relationship. A Java-linked merchant, local court or allied faction may make claims the Brunei ruler contests, but such actors are invented unless separately sourced.
 
 **Fictional reconstruction clearance:** It is permissible to dramatize conflicting loyalties, local supply, a maritime expedition, the loss of noncombatants' goods and the politics of a sack. The particular councils, guides, leaders, crews, signals, negotiations, battle sequence and post-campaign obligations are fictional. Avoid imported nineteenth-century raiding systems, standardized vessel specifications and modern naval doctrine.
+
+## Source verification pass — 27 October 2026, 13:00 PHT
+
+**Read, with edition limits:** The Philippine Diary Project's full 29 July 1521 entry gives a Spanish rendering of Pigafetta's Brunei episode (https://philippinediaryproject.com/1521/07/29/29th-of-july-1521/). A separately accessible English rendering of the episode in the Blair–Robertson tradition appears at https://www.scribd.com/document/767406449/Pigafetta-First-Voyage-Around-the-World-BR-v33 (text visible in search results); an earlier English rendering is indexed in the digitized edition at https://www.sabrizain.org/malaya/library/pigafetta.pdf . The Library of Congress catalogs a surviving French manuscript version dated circa 1522–1525, but its manuscript folio has **not** been collated here (https://www.loc.gov/item/2021667606/). The Spanish web text is a **translation**, not Pigafetta's autograph or proof of an original Spanish manuscript. Do not claim original-language textual verification.
+
+**Directly supported in the accessible episode:** On **29 July 1521**, Pigafetta's party observed a large group of praus near Brunei, feared attack, and attacked junks, capturing four and killing people. One captive is described as the *son of the ruler of Luzon* and *captain-general of Brunei's ruler*, returning from the conquest and sack of Laoe/Laoé over a reported preference for the king of Java Major. Carvalho is said to have released him for gold. The prince is **not named Ache in this passage**. The date marks the **encounter and capture**, not the day of the Loue attack. The text provides no verified date for the attack.
+
+**Important distinction:** The more-than-one-hundred praus in three squadrons were seen near Brunei on 29 July; this is **not a verified muster for the earlier Loue expedition**. The account also reports that Brunei's ruler said the approaching boats intended to fight another group, which should not be silently identified with Loue. Spanish and English translation choices vary around “conquered,” “destroyed,” and “sacked”; the shared attested core is a reported violent capture/plunder, **not** the choreography, number of dead, or subsequent government. Exact word-level comparison to surviving French/Italian manuscripts remains OPEN.
+
+**Historical reconstruction consequence:** Pigafetta's evidence supports writing a costly Loue victory before the 29 July encounter and the prince's later command status. It does **not** authorize a same-day Loue battle, a specific route or sailing interval, a 100-vessel Loue force, or a named Majapahit garrison. The chronology between Chapter 5's fictional eastern shore and that encounter remains an invented sequence requiring credible elapsed time.
+
+**Next evidence gates:** Inspect the relevant manuscript folio or a critical edition for wording and location; inspect the full Stanley (1874) and Blair–Robertson (1906) passages for translator/editor glosses; keep Loue's location and the ruler of Java Major unresolved. These source checks must not block scene-level fictional labor that makes no unsourced geographical assertion.
 
 ## Hard continuity gate from Chapter 5
 
