@@ -4,13 +4,13 @@ name: "Book II, Chapter 10: Where the River Lets Go"
 aliases: ["Where the River Lets Go", "Luzon on the Horizon", "Admirable Admiral"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, brunei, sulad, siripada, putri-laila-nur, book-3-chapter-1, story-architecture-standard, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri, ache-brunei-command]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, brunei, sulad, siripada, putri-laila-nur, book-3-chapter-1, story-architecture-standard, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri, ache-brunei-command, harun, tamin, isan, naim]
 sources: [pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
 chapterNumber: 10
 draftStatus: draft
-characters: [ache, sulad, siripada, putri-laila-nur, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri]
+characters: [ache, sulad, siripada, putri-laila-nur, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri, harun, tamin, isan, naim]
 places: [brunei, maynila]
 events: [ache-brunei-command]
 pov: [ache]
