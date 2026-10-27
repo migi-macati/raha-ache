@@ -266,8 +266,8 @@ He finished his mouthful before answering.
 
 "Then you will have another thing to write."
 
-I had wanted the delay because it would keep us from taking something we could not yet name. The boat could not leave. Saliha's roof was unfinished. Yusuf had paid for food, space and work he had not planned to buy. Rafiq had spent the day defending a claim that might still fail.
+I had wanted the delay because it would keep us from taking something we could not yet name. The boat could not leave. Saliha's roof was unfinished. Yusuf had agreed to pay for food, space and work he had not planned to buy. Rafiq had spent the day defending a claim that might still fail.
 
 I went back to the list. The six rolls were still six. Beneath them I made marks for everything their waiting had cost.
 
-There was no mark that would tell me whether I had chosen well.
+At the house, a man was carrying the unfinished roof covering inside before night. The other men were still watching our cloth.
