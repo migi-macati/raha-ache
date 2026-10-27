@@ -103,13 +103,17 @@
     {
       "lesson": "Before a chapter depends on a companion or romantic relationship, audit actual character appearances across the preceding published chapters, not only outlines; repair long absences or establish credible offstage work before using the relationship as a decisive emotional stake.",
       "evidence": "27 Oct 2026: direct inspection of published Book II Chapters 1–9 found Sulad in Chapters 1–3 but absent 4–9, and Laila in Chapter 2 but absent 3–9, while Chapter 10 outline relies on both; research/retrospective continuity gate required."
+    },
+    {
+      "lesson": "At a book boundary, compare the published final chapter's actual vessels, people, resources, relationships and permissions with the next book's outline before writing; repair assumptions that conjure unearned force, marriage or authority.",
+      "evidence": "27 Oct 2026: published Book II Chapter 10 PR #67 ends with Harun's privately owned trading vessel, two voluntary companions, Tamin first leg and a limited ruler's letter; Book III Chapter 1/2 and book-level outlines still presume an armed Bruneian fleet, assured force and marriage. Draft research PR #69 documents the continuity gate and a six-scene arrival architecture."
     }
   ],
   "studioWork": {
     "chapterId": "book-3-chapter-1",
-    "branch": null,
+    "branch": "research/book3-ch1-arrival-and-local-power-20261027",
     "state": "research_pending",
-    "progress": "Book II Chapter 10 Where the River Lets Go published PR #67 merge 5ae7f694, Pages run 40500718745 passed and artifact 12731934689 independently inspected. Four new fictional crew/owner Universe records and chapter metadata linked in PR #68 merge 8a1ee9e1. Studio six-scene PR #66 and source-gate PR #64 remain draft archives. Next Book III Chapter 1 The Bay That Forgot Him: research and plan actual arrival in Manila Bay, altered political loyalties, cautious first landing and limits of Ache's claim. Maynila restoration remains unresolved; original-language source collation and live/audio verification pending.",
+    "progress": "Book II Chapter 10 published and deployed PR #67 / Pages 40500718745; Universe PR #68 merged and final main Pages 40501084636 passed with 257 HTML pages, 17,223 internal links and zero missing targets/anchors. Next Book III Chapter 1 research draft PR #69 (latest f72fa46b) records six-scene arrival plan and continuity risk: Book II ends with a limited private trading passage, while older Book III outlines assume an armed fleet and marriage. NAST 1992 offers a tentative Lakandula kinship counterhypothesis; verify chronology and original sources before prose. Rendered-live/audio still unverified.",
     "blockers": []
   },
   "researchWork": {
