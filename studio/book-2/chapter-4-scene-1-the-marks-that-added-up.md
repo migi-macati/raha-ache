@@ -268,14 +268,14 @@ I repeated the instruction to the other cargo owner. I repeated it to Safi's ste
 
 He inspected the cuts and asked whether all three owners had agreed. I told him what each had said. One had asked to stop at a fishing landing on the return. Jamil told me that was his business after the cargo was delivered, provided the other boats did not have to wait.
 
-I watched him add a small mark beside that owner's name.
+I watched him add a small mark beside that owner's name. He handed the wood back to me.
 
 The men began pushing the boats clear. The water had risen against the lower steps and the rope that held Hamzah's stern floated free of the post. Nasir caught it before it slid beneath the hull.
 
-Safi stood at the bow of the lighter vessel, speaking with its steersman. He looked across at me and raised his hand. I raised mine.
+I stepped into the last cargo boat while its bow was still against the landing. Safi stood at the bow of the lighter vessel, speaking with its steersman. He looked across at me and raised his hand. I raised mine.
 
 The three boats moved out from the landing in the order Jamil had chosen. I had repeated every word correctly. The owners had heard me. There was nothing missing from the count.
 
-When the last boat passed the far steps, I looked down at the wood in my hand. I could see where I had marked the expected hour of arrival. I knew the wider passage would keep the boats together. I also knew that if one of them took the shorter water, the others might reach the outer landing before the buyers lost patience.
+When our boat passed the far steps, I looked down at the wood in my hand. I could see where I had marked the expected hour of arrival. The wider passage was meant to keep the boats together. I also knew that if one of them took the shorter water, the others might reach the outer landing before the buyers lost patience.
 
-I put the wood away and went aboard.
+I put the wood beneath my seat.
