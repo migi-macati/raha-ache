@@ -4,7 +4,7 @@
 
 ---
 
-The first man to ask for me after the hearing had mud up to his knees.
+The first man to come to the hall after sunrise had mud up to his knees.
 
 He stood outside the hall with a broken carrying pole across his shoulders. One end was splintered. The other held a basket of dried fish that had been pulled out of the river. Water ran from the weave and made a dark patch on the floor.
 
@@ -92,7 +92,7 @@ The keeper looked at the baskets still in the hull. Two were wet on their lower 
 
 The men looked at one another. No one had gone.
 
-I sent a boy from the steps to find her. I offered him a piece of dried fish from my own meal. He said he would rather be paid when he returned. I agreed.
+I sent a boy from the steps to find her. I offered him a piece of dried fish from my own meal. He said he would rather be paid a small coin when he returned. I agreed.
 
 The man with the broken pole followed me as I climbed back to the shelter.
 
@@ -220,7 +220,7 @@ The keeper asked Dala whether the frame could be carried farther upstream. Dala 
 
 I nodded. She did not thank me.
 
-The boy I had sent returned with the buyer, a woman who walked so quickly that he had to trot to keep beside her. She stopped at the wet baskets, opened one, and pressed the fish between her fingers. She smelled it and looked at the steersman.
+The boy I had sent returned with the buyer, a woman who walked so quickly that he had to trot to keep beside her. I paid him the promised coin. She stopped at the wet baskets, opened one, and pressed the fish between her fingers. She smelled it and looked at the steersman.
 
 "I paid for dry fish," she said.
 
