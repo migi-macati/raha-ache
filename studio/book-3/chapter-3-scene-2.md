@@ -294,7 +294,7 @@ A woman carrying firewood came down the path and asked which of them had the rig
 
 The keeper told her she could pass.
 
-The woman went through without waiting for either of them to agree.
+The woman climbed into the waiting ferry without asking either man again.
 
 I had spent the morning trying to discover who spoke for Tondo. I had learned how many people could refuse to be spoken for. The meeting I had asked for would be harder than the one that had given me my place in Maynila.
 
