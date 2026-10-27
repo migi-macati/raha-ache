@@ -4,13 +4,13 @@ name: "Book II, Chapter 5: The Price of Passage"
 aliases: ["The Price of Passage", "Pirate Life"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, jalal, jamil, nasir, bakar, tuma, brunei, sulu, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, jalal, jamil, nasir, bakar, tuma, samad, saliha, yusuf, rafiq, karim, brunei, sulu, story-architecture-standard]
 sources: [pigafetta]
 timeline: []
 book: book-2
 chapterNumber: 5
 draftStatus: draft
-characters: [ache, jalal, jamil, nasir, bakar, tuma]
+characters: [ache, jalal, jamil, nasir, bakar, tuma, samad, saliha, yusuf, rafiq, karim]
 places: [brunei, sulu]
 events: []
 pov: [ache]
