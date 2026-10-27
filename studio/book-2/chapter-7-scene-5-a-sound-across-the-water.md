@@ -158,7 +158,7 @@ I landed on a deck slick with spilled water and broken pottery. The man who had 
 
 I knelt to help. From the far side of the junk came another gunshot, followed by a crack that ran through the boards beneath us.
 
-The men on deck began shouting toward the stern. I could see Safi's boat turning for shore with its two wounded men. The owner had kept his word.
+The men on deck began shouting toward the stern. I could see Safi's boat turning for shore with the injured man and the one who had not breathed. The owner had kept his word.
 
 Between the junk and the landing, another vessel moved across the water. It was low and crowded, its crew trying to turn against the current. For a few moments it hid the watch boat from me.
 
