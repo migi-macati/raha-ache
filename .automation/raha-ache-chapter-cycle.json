@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-5",
-  "nextChapterId": "book-2-chapter-6",
+  "lastCompleted": "book-2-chapter-6",
+  "nextChapterId": "book-2-chapter-7",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "5e29c306c95cf101867b1e652a667a10a6f290db",
-  "completedChapterPasses": 15,
+  "lastMergeSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
+  "completedChapterPasses": 16,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "5e29c306c95cf101867b1e652a667a10a6f290db",
+    "sourceSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~12:11 PHT: Book II Chapter 5 The Price of Passage public PR #51 merged 5e29c306c95cf101867b1e652a667a10a6f290db after exact PR head b1faa77b93a0c1536258d1e3b5672951c99a512a passed Validate PR run 40448081907 (job 122004014943). GitHub Pages run 40448166735 built and deployed merge SHA successfully (build 122004298878; deploy 122004509328). Downloaded artifact 12709182050 inspected: 249 HTML pages, 15,928 internal links, zero broken targets/anchors; Chapter 5 complete with five scene breaks, Read Aloud speechSynthesis markup, and six linked character pages including five new Universe records. Rendered live-page and actual audio playback remain unverified.",
-    "runId": 40448166735,
-    "buildJobId": 122004298878,
-    "deployJobId": 122004509328
+    "verificationLimit": "27 Oct 2026 ~14:11 PHT: Book II Chapter 6 The Other King's Shore public PR #54 merged 8da652de5c663731365535a059b79d2e6a14f5c5 after exact-head Validate PR run 40459274280 (job 122039769126) passed for b062c92a641c516300d9469b632f26d55b8e8bac. GitHub Pages run 40459386968 succeeded (build job 122040133719; deploy job 122040419233). Artifact 12712739593 inspected: 253 HTML pages, 16,242 internal links, 0 missing links/anchors; all six scenes, chapter navigation, four new Universe records, and Read Aloud markup present. Rendered live-page and actual audio playback remain unverified.",
+    "runId": 40459386968,
+    "buildJobId": 122040133719,
+    "deployJobId": 122040419233
   },
   "operatingLessons": [
     {
@@ -91,13 +91,17 @@
     {
       "lesson": "When researching early-sixteenth-century Sulu or Mindanao, separate period-specific evidence from later eighteenth–nineteenth-century raiding institutions; never transfer later vessel types, captive labor systems or the label 'pirate' into the novel without dated support.",
       "evidence": "27 Oct 2026: Rodriguez et al., Journal of Maritime Archaeology (2025), distinguishes c.1400–1500 Sulu polity formation from 1760–1848 Iranun-Balangingi raiding; Book II Chapter 5 outline currently titled Pirate Life."
+    },
+    {
+      "lesson": "Track who has already testified and which messages have been delivered across scenes; repair causal contradictions in both Studio and release branches before merging.",
+      "evidence": "27 Oct 2026: Book II Chapter 6 follow-up embassy wrongly sought an already-heard boatman; corrected Studio Scene 5 commit 1f02769d and public chapter commit b062c92a before exact-head CI and PR #54 merge."
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-6",
-    "branch": "research/book2-ch6-loue-campaign-gates-20261027",
-    "state": "research_plan",
-    "progress": "Book II Chapter 5 The Price of Passage published through public PR #51 and successful Pages run 40448166735. Six Studio scenes preserved in draft PR #50, research and architecture in draft PR #49. Next Chapter 6 Tactics and Conquest/Loue campaign: preliminary source and six-scene architecture on draft research PR #52, commit 935cdb74. Chapter 5 ends with Ache stranded ashore without return provisions, Jamil's command not restored, Nasir missing, and Jalal's crews unpledged. Chapter 6 must earn passage back, renewed trust, and eventual campaign command; Pigafetta's Loue report is secondhand and location uncertain. No Chapter 6 prose or public release yet.",
+    "chapterId": "book-2-chapter-7",
+    "branch": null,
+    "state": "not_started",
+    "progress": "Book II Chapter 6 The Other King's Shore released via PR #54 merge 8da652de and successful Pages run 40459386968. Six Studio scenes preserved in draft PR #53 and source/architecture in draft PR #52. Chapter 7 The Whale Ships is next: the July 1521 Brunei encounter must be researched from Pigafetta and other voyage accounts, including the expedition's changing command structure; Elcano's later captaincy must not be projected back into July without verified evidence. Chapter 6 leaves Ache with bounded responsibility for vessels toward Luzon, Laoe's sack and unresolved losses, Nasir missing, and Dima's mother's fate unknown.",
     "blockers": []
   },
   "researchWork": {
@@ -118,8 +122,11 @@
       "branch": "research/book2-ch6-loue-campaign-gates-20261027",
       "pr": 52,
       "commit": "935cdb74de4b31a2ee90006524a9b25aad59cee5",
-      "state": "research_plan",
-      "next": "Inspect Pigafetta July 1521 entry and source variants; validate chronology and Loue location uncertainty; draft six Studio scenes after material and continuity research."
+      "state": "published_with_source_limits",
+      "next": "Pigafetta's 29 July encounter is later than the reported Loue sack; original-language manuscript collation and Loue location remain unverified. Keep scene-specific tactics, settlements and casualties labeled fictional.",
+      "publicPr": 54,
+      "mergeSha": "8da652de5c663731365535a059b79d2e6a14f5c5",
+      "deployRunId": 40459386968
     }
   }
 }
