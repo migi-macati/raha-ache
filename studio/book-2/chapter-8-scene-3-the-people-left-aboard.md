@@ -238,6 +238,4 @@ The foreigner with the writing board drew a line beneath the last mark and turne
 
 I looked once more at the injured sailor. The boy had knelt again and was holding the cup. The older woman sat beside him, looking not at the ship but at the water between it and the land.
 
-I had asked for a message to be carried. The strangers had heard an exchange.
-
-I did not yet know who would be counted on either side of it.
+The boy lifted the cup to the injured man's mouth again. The writing board had gone with the guard.
