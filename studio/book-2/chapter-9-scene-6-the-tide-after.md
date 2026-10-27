@@ -46,7 +46,7 @@ The boy agreed.
 
 The owner came forward and asked for the packet of food. He opened it and divided the fish into two portions, one for each rower. Nasir's sister told him the smaller packet was for the witness. He wrapped it again and set it beneath the seat.
 
-I had brought a second board. On it I had written, with Hasan's clerk helping me, the names of people whose families still sought an answer from the outer banks. The older woman's son was among them. I had asked her whether she wanted the question carried on this journey. She had said she wanted to know first whether the boat would pass the place where he had entered the water.
+I had brought a second board. On it Hasan's clerk had marked, at my request, the names of people whose families still sought an answer from the outer banks. The older woman's son was among them. I had asked her whether she wanted the question carried on this journey. She had said she wanted to know first whether the boat would pass the place where he had entered the water.
 
 It would not.
 
@@ -118,7 +118,7 @@ Jamil read the headings. He did not ask why I had made them.
 
 "I won't."
 
-He turned the board over. On the back I had copied the two owners' terms for journeys they might make later, leaving blank the places they had not agreed to visit. One was willing to carry messages upriver. Another might go to the outer settlements after his cargo had been delivered. Neither would cross to the foreign ships. I had not written Ruma's name beside either offer.
+He turned the board over. On the back Hasan's clerk had marked the two owners' terms for journeys they might make later, leaving blank the places they had not agreed to visit. One was willing to carry messages upriver. Another might go to the outer settlements after his cargo had been delivered. Neither would cross to the foreign ships. I had not written Ruma's name beside either offer.
 
 "Who pays?" Jamil asked.
 
