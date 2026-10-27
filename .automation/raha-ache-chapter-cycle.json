@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-1",
-  "nextChapterId": "book-3-chapter-2",
+  "lastCompleted": "book-3-chapter-2",
+  "nextChapterId": "book-3-chapter-3",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
-  "completedChapterPasses": 21,
+  "lastMergeSha": "4f1c1aba2c49ea906e11c2d883f1632a7bd88eac",
+  "completedChapterPasses": 22,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "3d94c6fecbc8808c4205305f783fe381e08af8a4",
+    "sourceSha": "4f1c1aba2c49ea906e11c2d883f1632a7bd88eac",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~22:11 PHT: Book III Chapter 1 The Bay That Forgot Him PR #71 merged 3d94c6fecbc8808c4205305f783fe381e08af8a4 after exact-head Validate PR run 40518292746 passed for 6386f964d0afa2fb07fff40e9f874e8f4b35b210. GitHub Pages run 40518495415 completed success, build job 122238559454 and deploy job 122239206593 passed. Pages artifact 12739329529 present; not independently inspected in this run. Rendered-live and actual Read Aloud playback unverified.",
-    "runId": 40518495415,
-    "buildJobId": 122238559454,
-    "deployJobId": 122239206593
+    "verificationLimit": "28 Oct 2026 ~02:04 PHT: Book III Chapter 2 The Door They Left Open public PR #74 merged 4f1c1aba2c49ea906e11c2d883f1632a7bd88eac after exact-head Validate PR run 40536974661 passed for a6df46ff0dbe2781b64d7f5dd0c0f9371544891a. GitHub Pages run 40547271342 completed success, build job 122341121579 and deploy job 122341597113 passed. Artifact 12751634703 available but not independently inspected. Rendered-live and actual Read Aloud playback unverified.",
+    "runId": 40547271342,
+    "buildJobId": 122341121579,
+    "deployJobId": 122341597113
   },
   "operatingLessons": [
     {
@@ -110,10 +110,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-2",
-    "branch": "research/book3-ch1-arrival-and-local-power-20261027",
-    "state": "research_pending",
-    "progress": "Book III Chapter 1 The Bay That Forgot Him released via PR #71 merge 3d94c6fe and successful Pages run 40518495415. Chapter 2 handoff plan is saved in draft research PR #69 at studio/book-3/chapter-2-handoff-causal-gates.md. Start from published Chapter 1's three nights paid lodging, Harun's private vessel, Banu's limited hearing, and mother's instructions; no armed fleet or marriage. Chapter 2 must earn local alliances, time passage, resources and concrete restoration without unverified historical claims. Rendered-live and audio unverified.",
+    "chapterId": "book-3-chapter-3",
+    "branch": "editorial/book3-ch3-two-crowns-continuity-20261028",
+    "state": "outline_review",
+    "progress": "Book III Chapter 2 The Door They Left Open released PR #74 merge 4f1c1aba2c49ea906e11c2d883f1632a7bd88eac; Pages run 40547271342 build/deploy passed. Chapter 3 continuity outline correction PR #75 draft, head e5a7f1292323dfd0f89118567346fb5437b2d859, exact-head Validate PR run 40547355260 passed. Establish bounded Maynila/Tondo crossing agreement without invented Lakandula battle or armed Bruneian fleet. Chapter 3 prose not yet drafted. Rendered-live and audio unverified.",
     "blockers": []
   },
   "researchWork": {
