@@ -130,7 +130,7 @@ He answered, but the wind carried the words away.
 
 I pointed toward the cover. Safi shook his head and pointed back to shore. He made a cutting motion with his hand. I could not tell whether he meant we should cut a line or that his boat could not cross the water between us.
 
-The owner of his boat turned its bow away from the foreign hull. He had said he would turn back if the strangers came between him and shore. The strangers were doing exactly that.
+The owner of his boat turned its bow away from the foreign hull. He had promised to withdraw if the foreign hull closed the passage to land. It had.
 
 Safi stayed standing until the boat had begun to move away. He raised his arm once. I raised mine.
 
