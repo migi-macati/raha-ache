@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-2-chapter-4",
-  "nextChapterId": "book-2-chapter-5",
+  "lastCompleted": "book-2-chapter-5",
+  "nextChapterId": "book-2-chapter-6",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "25880de1269064f44b46ecec825cbc7d1ed70d20",
-  "completedChapterPasses": 14,
+  "lastMergeSha": "5e29c306c95cf101867b1e652a667a10a6f290db",
+  "completedChapterPasses": 15,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "25880de1269064f44b46ecec825cbc7d1ed70d20",
+    "sourceSha": "5e29c306c95cf101867b1e652a667a10a6f290db",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "27 Oct 2026 ~10:12 PHT: Book II Chapter 4 public PR #48 merged 25880de1269064f44b46ecec825cbc7d1ed70d20. Exact PR head 8dbe9b66396d153cffc27e5a759dff8c1abc4f06 passed Validate PR run 40436781269 (build job 121967232661). Pages run 40436892011 built and deployed merge SHA successfully (build 121967599771; deploy 121967870919). Downloaded artifact 12703823627 inspected: 244 HTML pages, 15,010 internal links checked, zero missing targets/anchors; Chapter 4 manuscript, five scene breaks, four new Universe pages and speechSynthesis controls present. Rendered live page and actual audio playback remain unverified.",
-    "runId": 40436892011,
-    "buildJobId": 121967599771,
-    "deployJobId": 121967870919
+    "verificationLimit": "27 Oct 2026 ~12:11 PHT: Book II Chapter 5 The Price of Passage public PR #51 merged 5e29c306c95cf101867b1e652a667a10a6f290db after exact PR head b1faa77b93a0c1536258d1e3b5672951c99a512a passed Validate PR run 40448081907 (job 122004014943). GitHub Pages run 40448166735 built and deployed merge SHA successfully (build 122004298878; deploy 122004509328). Downloaded artifact 12709182050 inspected: 249 HTML pages, 15,928 internal links, zero broken targets/anchors; Chapter 5 complete with five scene breaks, Read Aloud speechSynthesis markup, and six linked character pages including five new Universe records. Rendered live-page and actual audio playback remain unverified.",
+    "runId": 40448166735,
+    "buildJobId": 122004298878,
+    "deployJobId": 122004509328
   },
   "operatingLessons": [
     {
@@ -94,10 +94,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-2-chapter-5",
-    "branch": null,
-    "state": "outline",
-    "progress": "Book II Chapter 4 The Empty Mooring released via public PR #48 and Pages run 40436892011. Six-scene Studio PR #47 remains draft and preserved. Book II Chapter 5 Pirate Life remains an outline; first research priority is to establish a credible Brunei-to-Sulu/Mindanao transition and avoid projecting the 1760–1848 Iranun-Balangingi raiding system onto the early 1500s. 2025 Journal of Maritime Archaeology periodization (https://link.springer.com/article/10.1007/s11457-025-09481-3) separates Sulu Sultanate emergence c.1400–1500 from much later large-scale slave raiding. Assess title after research; do not treat 'pirate' as an uncontested contemporary identity.",
+    "chapterId": "book-2-chapter-6",
+    "branch": "research/book2-ch6-loue-campaign-gates-20261027",
+    "state": "research_plan",
+    "progress": "Book II Chapter 5 The Price of Passage published through public PR #51 and successful Pages run 40448166735. Six Studio scenes preserved in draft PR #50, research and architecture in draft PR #49. Next Chapter 6 Tactics and Conquest/Loue campaign: preliminary source and six-scene architecture on draft research PR #52, commit 935cdb74. Chapter 5 ends with Ache stranded ashore without return provisions, Jamil's command not restored, Nasir missing, and Jalal's crews unpledged. Chapter 6 must earn passage back, renewed trust, and eventual campaign command; Pigafetta's Loue report is secondhand and location uncertain. No Chapter 6 prose or public release yet.",
     "blockers": []
   },
   "researchWork": {
@@ -113,6 +113,13 @@
       "source": "Rodriguez et al., Sea Nomads, Sultans, and Raiders, Journal of Maritime Archaeology 20 (2025), 973–1000, https://link.springer.com/article/10.1007/s11457-025-09481-3",
       "finding": "The review separates Sulu Sultanate emergence c.1400–1500 from 1760–1848 Iranun-Balangingi raiding; do not import later vessel types, captive labor markets or European colonial categories into Ache's early-16th-century chapter without period-specific evidence.",
       "next": "Locate early-sixteenth-century sources and trace Brunei-Sulu-Mindanao links, crew obligations and political legitimacy before Chapter 5 prose."
+    },
+    "loueCampaign": {
+      "branch": "research/book2-ch6-loue-campaign-gates-20261027",
+      "pr": 52,
+      "commit": "935cdb74de4b31a2ee90006524a9b25aad59cee5",
+      "state": "research_plan",
+      "next": "Inspect Pigafetta July 1521 entry and source variants; validate chronology and Loue location uncertainty; draft six Studio scenes after material and continuity research."
     }
   }
 }
