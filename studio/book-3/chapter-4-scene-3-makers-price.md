@@ -366,7 +366,7 @@ Outside, Madan's men carried the two short lengths back along the path. The wood
 
 Raya had promised to return at high water to look at the line of the bank. Dala had promised only to show her where the boats turned. The steerswoman had promised nothing beyond a conversation. I had no post, no timber for one, and no right to spend the hall's food.
 
-I went to the lower steps before the water covered them. I put my hand against the sounding stake and felt the current pass around it. It stood where the witnesses had placed it. There was no line tied to it.
+I went to the lower steps before the water covered them. Out in the channel, the sounding stake stood where the witnesses had placed it. The current parted around its narrow sides. There was no line tied to it.
 
 * * *
 
