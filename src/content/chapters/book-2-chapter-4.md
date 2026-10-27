@@ -4,13 +4,13 @@ name: "Book II, Chapter 4: The Empty Mooring"
 aliases: ["The Empty Mooring", "Losing"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, jamil, hasan-al-fansuri, raden-muda-safi, brunei, ache-brunei-command, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, jamil, hasan-al-fansuri, raden-muda-safi, hamzah, nasir, bakar, tuma, brunei, ache-brunei-command, story-architecture-standard]
 sources: [pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
 chapterNumber: 4
 draftStatus: draft
-characters: [ache, jamil, hasan-al-fansuri, raden-muda-safi]
+characters: [ache, jamil, hasan-al-fansuri, raden-muda-safi, hamzah, nasir, bakar, tuma]
 places: [brunei]
 events: [ache-brunei-command]
 pov: [ache]
