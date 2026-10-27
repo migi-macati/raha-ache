@@ -1,0 +1,59 @@
+# Book II, Chapter 4 — The Empty Mooring (working architecture)
+
+**Packet:** RA-B2C4-STUDIO-01  
+**State:** research and causal outline; no prose scenes yet.  
+**Main reader-facing outline:** `src/content/chapters/book-2-chapter-4.md`, *Losing*.  
+**Proposed reader title:** *The Empty Mooring*; review after six scenes. The absence at the landing must acquire its meaning through the chapter, not be explained in the title.  
+**Narrator:** Ache, first person. **Setting:** Brunei river settlement, its approaches and a fictional coastal passage. **Scope:** Book II Chapter 4 only; no change to the 30 core chapters plus Book III bonus 11–12.
+
+## Narrative contract inherited from Chapter 3
+
+*When the Water Turns* ends with Jamil explicitly **refusing** Ache a boat command. The next morning's duty is to accompany Hasan, record what each owner has actually accepted (load, crew, route, return time), and bring the account to Jamil **before anyone departs**. Ache may not promise passage or change a route. Safi has earned a separate work offer from the timber crew. Ruma lost a private paying load and a pole, and negotiated her own compensation. Sulad's testimony for the Maynila message remains unspoken; no carrier is secured. Ache's last thought, that he might someday tell many boats where to go before their crews need ask, is an *error waiting for an opportunity*, not evidence of command.
+
+Do not begin with Ache suddenly commanding a war fleet. Allow an observable interval of repeated, modest duties before Jamil entrusts him with carrying an agreed convoy instruction. If the interval is weeks, show the marks and relationships that changed; do not merely announce he has trained. Jamil retains the overall decision, owners retain their vessels, and Safi retains his own obligations.
+
+## Core conflict and chosen loss
+
+A small group of working boats is carrying provisions and trade goods to an outlying landing. The movement is fictional; no specific historical Bruneian campaign, named enemy, or formal naval school is claimed. Two reports disagree about unfamiliar armed boats seen near the approach. Jamil accepts the less alarming report and allows a lightly protected passage. **That judgment is wrong.** Ache separately tries to prove that he can save time by relaying an altered spacing/route instruction to one boat, although Jamil authorized him only to carry the original agreement. His family standing makes the alteration sound official to a crew that has reason to hesitate.
+
+The convoy becomes separated when an unidentified armed vessel approaches. The exposed boat loses its cargo and at least one worker is injured; **Nasir**, a fictional crewman introduced before departure, is missing after the encounter. Do not establish that he is dead without evidence within the story. Safi chooses to preserve survivors rather than pursue the attackers. Ache cannot undo the loss with a dramatic counterattack. The injured worker, absent Nasir, owner, and waiting household have independent claims on the truth.
+
+The chapter's defeat must be larger and qualitatively different from Chapter 3's broken pole and lost fee: a person is missing, people are hurt, property is seized, political confidence in Jamil is damaged, and Ache loses a real privilege. It must not repeat another lesson about a mooring line, a raised pole or waiting for the tide.
+
+## Six-scene progression
+
+1. **The Marks That Added Up.** Begin with Ache doing the assigned count accurately after a brief, concrete passage of time: marked offcuts checked against the people who made the agreements, not a montage of vague improvement. Introduce the convoy's owner and Nasir as a working person with an obligation outside the voyage. Two contradictory reports reach Jamil; Hasan says precisely what each witness saw and what was merely repeated. Jamil chooses the less alarming account and orders the vessels to stay together. Ache is authorized to repeat the agreed instruction, not revise it. Safi has a separate escorting or supply responsibility and can object.
+2. **A Shorter Separation.** The boats depart. Ache sees a tempting faster passage or opportunity to let one cargo boat draw ahead. He relays a modified spacing instruction, believing the vessels can regroup beyond a point. The receiving crew's consent is compromised by their assumption that he speaks for Jamil. One worker warns that the escort cannot cover both courses; Ache hears and minimizes it. The deviation is his choice, not Jamil's.
+3. **The Boat Without a Name.** An armed craft appears where Jamil's accepted report said none should be. Its allegiance and intentions are not immediately legible. Hasan cannot certify a shouted challenge. Ache hesitates to report the separation, then attempts to recover it by signaling across the widening distance. Let the physical scene make the costs of divided attention clear. No convenient modern command language or standardized semaphore.
+4. **What the Water Took.** The exposed boat is boarded, seized or driven away. Choose exact mechanics only after further seamanship/source review. One worker is hurt; Nasir disappears from view. Safi makes a defensible rescue choice that costs cargo and perhaps a chance to pursue. Ache cannot turn the outcome into a near-victory. If weapons are used, research them specifically and keep the numbers and technology conservative.
+5. **The Names of Those Who Returned.** At the landing, people count survivors before goods. An owner and someone expecting Nasir demand a precise account; do not reduce them to a chorus teaching Ache humility. Hasan separates direct observation from rumor. Jamil states his mistaken assessment openly. Ache must state the distinct unauthorized order he carried; Safi's testimony prevents him from blaming only the bad report. The political cost of Jamil's error and Ache's action should be visible.
+6. **The Empty Mooring.** Jamil withdraws Ache's limited right to relay passage instructions and gives him work beneath those who bear the loss. A restitution offer cannot settle Nasir's fate or buy forgiveness. Safi has gained standing on merit but need not become cruel. Sulad, if present, speaks only for himself and does not resolve the Maynila message on Ache's behalf. End with Ache facing the vacant place where Nasir's boat should have returned, while privately still tempted to think a quicker order would have saved them. This flaw carries into Chapter 5's irregular conditions.
+
+## Character agency and consequence gates
+
+- **Ache:** can do competent preparatory work, then commits a *specific* unauthorized alteration. He admits his action but struggles to give up the belief that speed could have saved the day. Do not excuse him by making Jamil wholly responsible.
+- **Jamil:** genuinely wrong about the report; also culpable for how his delegated authority was understood. He neither scapegoats Ache nor absorbs Ache's separate decision. No invented formal naval rank is asserted as documented fact.
+- **Safi:** has his own boat/crew or agreed escort role, does not exist solely to humiliate Ache, and chooses rescue over pursuit with a visible cost.
+- **Hasan:** can interpret only what he actually hears. His testimony distinguishes sight, hearing and inference; do not use an imagined language misunderstanding as a convenient sole cause of defeat.
+- **Nasir:** introduce before the encounter with specific labor, pay and ties, then preserve uncertainty about his fate. No retroactive claim that he volunteered for a royal mission.
+- **Owner and dependents:** name or individualize them in prose before asking readers to mourn the loss. Their compensation and grief cannot be settled by a royal favor.
+- **Sulad:** no unearned agreement to join a Bruneian expedition or to send his words to Maynila.
+- **Ruma/Tahir:** may reappear if the plot needs them, but do not make Chapter 4 a reprise of their Chapter 3 loss.
+
+## Research and uncertainty ledger
+
+**Attested environmental context:** Antonio Pigafetta's 1521 Brunei account describes a settlement of houses on piles and boats moving through it at high tide. It is contextual evidence for the water-settlement environment, not for this fictional convoy or attack. Existing repository source: `src/content/sources/pigafetta.md`.
+
+**Seamanship bibliography, passages unverified:** William Henry Scott, “Boat-Building and Seamanship in Classic Philippine Society,” *Philippine Studies* 30(3), 1982, pp. 335–376, DOI 10.13185/2244-1638.1670 (publisher: https://archium.ateneo.edu/phstudies/vol30/iss3/3/ ; journal contents: https://archium.ateneo.edu/phstudies/vol30/iss3/ ). A separate 1981 National Museum monograph under the same title exists (Anthropological Papers 9, 38 pp.); do **not** assume its pagination or text is identical to the 1982 journal article. Neither item establishes a Bruneian convoy drill, particular hull maneuver, or armed encounter until relevant passages are examined.
+
+**Broader Brunei governance, not a battle source:** Dg. Junaidah Awang Jambol et al., “The Administration of the Brunei Sultanate's [territories] in North Borneo in the 16th to 19th centuries,” *Jurnal Borneo Arkhailogia* 7(1), DOI 10.51200/jba.v7i1.4138 (https://jurcon.ums.edu.my/ojums/index.php/JBA/article/view/4138). The abstract concerns political administration across centuries. It is not evidence of this fictional encounter, precise command titles, or any specific crew procedure.
+
+**Retrospective Ache career:** Rodrigo de Aganduru Móriz's original Spanish chapter and proposed CODOIN 78 pp. 59–60 remain uninspected. His later report of Ache's command cannot be used to invent an early defeat as a historical event. No real-world named raiding party, casualty list, vessel count or battle location is asserted here.
+
+**Fictional reconstruction:** Jamil, Safi, Hasan, Nasir, the convoy, contradictory reports, armed encounter, injuries, cargo loss and consequences are novel events. Before prose settles exact weapons, boarding choreography, vessel handling, tides, geography or who survives, research the relevant material and retain uncertainty where sources cannot resolve it.
+
+## Prose and release gates
+
+Write six separate first-person scenes with physically legible boat positions, limited visibility, named labor and genuine choices. Avoid consecutive speeches explaining the lesson. Keep the defeat irreversible within this chapter. Recheck Chapter 3's final Jamil instruction and Chapter 5's irregular-conditions handoff. Verify scene-specific source claims rather than citing Scott or Pigafetta as general authority for fictional maneuvers. Review title after integrated prose QA.
+
+Keep this Studio packet separate from the public chapter. Only after six scenes and QA, assemble a clean main-based reader-facing branch, validate the exact PR head, and release through GitHub Pages. Never advance the forward checkpoint for Studio work.
