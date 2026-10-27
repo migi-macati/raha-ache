@@ -250,4 +250,4 @@ Then Safi said, "You still put your weight on the wrong side."
 
 "Good. Move your foot."
 
-I moved it. Above us the messenger was already gone, carrying two claims that had not yet become a war.
+I moved it. The man in the boat shifted the jar into its bed of matting. Above us the messenger was gone. I kept looking toward the upper houses until Safi told me there was another jar to lift.
