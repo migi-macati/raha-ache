@@ -40,7 +40,7 @@ Jamil was quiet. Outside the room someone was splitting wood. The blows came at 
 
 "I thought I could get them there first," I said. "Then Safi and Bakar would come round the point, and we would be together again."
 
-"You thought of the place where the lines met. You did not ask what would happen while they were apart."
+"You told Hamzah where the boats would meet. Where was Safi supposed to find him before then?"
 
 "I did ask Tuma about the water."
 
@@ -62,9 +62,9 @@ Jamil answered before Hasan could. "I did. That is my error. It will be answered
 
 He drew one of the short pieces of wood toward him. It was the strip for Hamzah's boat.
 
-"Your error does not become smaller because mine is beside it."
+"I will tell the owners what I judged. You will tell them what you said."
 
-I could feel my face warming. I had wanted him to say that we were both wrong, as if two mistakes placed together might weigh less than one. Instead he had given each a place where it could be seen.
+I could feel my face warming. I had wanted him to say we were both wrong. He had said it, but not in the way I wanted.
 
 "What happens to Hamzah?" I asked.
 
