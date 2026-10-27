@@ -2,9 +2,9 @@
 
 By the time I learned which jar held the crew's drinking water, the man at the mast had stopped telling me to move my feet. He still moved them for me when I stood in the wrong place.
 
-His name was Datu. I had mistaken it for something Yusuf called him in respect, until Samad shouted it while the man was asleep and needed to take the sail. Datu woke, cursed Samad, and came forward without looking at me.
+His name was Tarin. I had mistaken it for something Yusuf called him in respect, until Samad shouted it while the man was asleep and needed to take the sail. Tarin woke, cursed Samad, and came forward without looking at me.
 
-The boat had been away from Burné long enough for my rice to taste of the sack. On the first evening I had counted the jars twice and written the same number both times. By the next morning one had been opened, and a man had drunk from it without telling me. I made a mark for what remained. Datu took the wood from my hand and asked whether I meant to follow every man's mouth with a tally.
+The boat had been away from Burné long enough for my rice to taste of the sack. On the first evening I had counted the jars twice and written the same number both times. By the next morning one had been opened, and a man had drunk from it without telling me. I made a mark for what remained. Tarin took the wood from my hand and asked whether I meant to follow every man's mouth with a tally.
 
 "Samad told me to keep an account."
 
@@ -62,9 +62,9 @@ Yusuf told her he would pay for the carrying. Saliha asked how much. He named an
 
 I had heard him say much the same thing about the boat. I was beginning to dislike the ease with which he found another owner whenever I wanted something done.
 
-We waited while the sun moved above the roofs. Datu made me help lift the smaller goods out of the way so the men could reach the water jars. Yusuf complained that the cloth would be late for its buyer. Datu told him the buyer could come aboard and carry it himself. Yusuf did not repeat the complaint.
+We waited while the sun moved above the roofs. Tarin made me help lift the smaller goods out of the way so the men could reach the water jars. Yusuf complained that the cloth would be late for its buyer. Tarin told him the buyer could come aboard and carry it himself. Yusuf did not repeat the complaint.
 
-When the water returned, Saliha brought two men in her craft. They took a line and showed Samad where it could be made fast. I tried to help Datu pass the line. It caught beneath a bundle and pulled it toward the side. Datu seized the bundle with his foot and shouted for me to let go. I let go so quickly that the line struck my palm.
+When the water returned, Saliha brought two men in her craft. They took a line and showed Samad where it could be made fast. I tried to help Tarin pass the line. It caught beneath a bundle and pulled it toward the side. Tarin seized the bundle with his foot and shouted for me to let go. I let go so quickly that the line struck my palm.
 
 Saliha watched us from her boat.
 
@@ -72,7 +72,7 @@ Saliha watched us from her boat.
 
 "He is the man who writes down what I lose," Samad said.
 
-I wanted to say I had not lost anything. The bundle was still aboard. Datu showed me the mark the line had made across its covering. I wrote that down.
+I wanted to say I had not lost anything. The bundle was still aboard. Tarin showed me the mark the line had made across its covering. I wrote that down.
 
 The first baskets went ashore under Saliha's eye. She named the carriers and told Yusuf who would receive their payment. He said he had an arrangement with a man named Karim.
 
