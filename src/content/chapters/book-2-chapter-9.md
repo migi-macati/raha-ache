@@ -754,6 +754,38 @@ The yard emptied slowly. The boat owner took his oil jar to market. The rower wh
 
 I had survived the foreign ship. The merchant had survived the loss of his gold. Neither of us knew the full bargain, but he could keep his goods from me and I could not give him an answer. Men who had never been aboard the foreign vessel were already deciding what my release would cost them.
 
+On the way to Nasir's sister's stall I passed the receiving house. Laila stood beside a cook and two men from the returned junk. A measure of rice sat between them. The cook was holding a board with more marks on it than I could read.
+
+"The wounded man needs food he can swallow," one of the boatmen said. "His master has nothing left to sell until the cargo is counted."
+
+"Then do not put it against the cook's evening rice," Laila said. "Take it from my store. Write who receives it, and ask the master for his account when he can stand here."
+
+"Will he pay?" the cook asked.
+
+"I don't know. I will still know where the rice went."
+
+She saw me waiting by the passage. I had not spoken to her since the day I had asked her to find a boat for my message to Maynila.
+
+"They said you were taken," she said.
+
+"I was."
+
+"I sent someone to ask which ship held you. He came back with three different answers. I stopped asking him to guess."
+
+"I did not know you had asked."
+
+"You were not here."
+
+The cook lifted the measure. Laila checked that the board named the injured man rather than the man collecting his food. Only then did she tell them to go.
+
+"I hear you may leave again," she said.
+
+"I have asked about passage. No owner has agreed."
+
+"Then I hope you have learned to wait for an answer."
+
+She went inside with the board. I had come past her store with no provisions and no right to ask her to supply my journey. The wounded sailor would eat that evening. I did not know whether his master could repay her.
+
 At the stall, Nasir's sister took the clean board and turned it over.
 
 "Nothing written?" she asked.
