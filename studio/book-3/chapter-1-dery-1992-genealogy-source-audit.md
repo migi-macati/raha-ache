@@ -1,0 +1,27 @@
+# Book III Chapter 1 — Dery 1992 genealogy source audit
+
+**Packet:** RA-B3C1-SOURCE-02. **Status:** secondary scholarly paper directly inspected, underlying archival and early-sixteenth-century testimony still uncollated. **Read:** 27 October 2026. **Source:** Luis C. Dery, “Sina Raha Katunao, Lakandula, Tupas, at Matanda: Isang Pag-aaral sa Kanilang Kasaysayang Pampamilya at ang Papel na Ginampanan Nila sa Kasaysayan ng Pilipinas Noong Panahon ng Kastila,” *Transactions of the National Academy of Science and Technology*, vol. 14 (1992), pp. 615–640, 26-page NAST PDF: https://www.nast.dost.gov.ph/images/pdf%20files/Publications/NAST%20Transactions/NAST%201992%20Transactions%20Volume%2014/SS-3%20.%20Sina%20Raha%20Katunao%2C%20Lakandula%2C%20Tupas%2C%20at%20Matanda.%20Isang%20Pag-aaral%20sa%20Kanilang%20Kasaysayang%20Pampamilya%201992.pdf
+
+## What the paper actually argues
+
+At printed **p. 617** (PDF page 3), Dery describes as **highly probable**, rather than certain, a genealogy in which Raha Matanda, Lakandula and Sulayman's father were brothers, and sons of the “king of Luzon” encountered in Pigafetta's 1521 narrative. Dery then places that king in a Bruneian line descending from Siripada/Bulkeiah. These are genealogical reconstructions, not contemporary 1520s birth or office records. A 1520s adult Lakandula is therefore **possible under this hypothesis**, but the paper does not demonstrate his precise age, tenure in Tondo or participation in Ache's homecoming.
+
+The same page describes Matanda's 1521 presence in Borneo as related to a prospective cousin-princess marriage. It does not provide an eyewitness marriage certificate or evidence that the marriage had already occurred. It must not be converted into a wedding, an identified wife or a known marriage date in Book III. In particular, it does not establish Laila as the woman.
+
+Dery's reconstruction has **material friction with the trilogy's published family premise**: Book I establishes Ache's mother as the working ruler of Maynila during his youth and his father as deceased. The paper's proposed king-of-Luzon genealogy cannot simply be substituted into published canon, nor should it be dismissed without comparison to the accounts behind the competing regency tradition. The paper's English phrasing also moves between political titles and kinship without fixing every generational date. Maintain a specific research question: whose father, grandfather and ruler do the respective sixteenth-century and later sources actually identify?
+
+At printed **pp. 618–619**, Dery treats Sulayman as a nephew of Matanda and Lakandula in the 1571 generation and notes family relationships preserved in later colonial records. This is relevant to the Book III succession arc but does not place an adult Sulayman onstage in the early 1520s. Later chapters must allow generational time to pass or introduce an earlier, differently identified relative.
+
+At printed **pp. 634–636**, the article uses sixteenth-century Spanish descriptions and later colonial family petitions to discuss Matanda and Lakandula's status and descendants. Those records are valuable for the later historical coda, but their 1571 descriptions cannot establish identical titles, customs, tariff amounts or offices fifty years earlier. The 1571 account of Lakandula's anchorage dues does not license the precise invented fee in Scene 2; the scene must remain fictional local bargaining.
+
+## Underlying source trail
+
+Dery's reference **6** is Luciano P. R. Santiago, “The Houses of Lakandula, Matanda, and Soliman (1571–1898): Genealogy and Group Identity,” *Philippine Quarterly of Culture and Society* 18 (March 1990), pp. 39–73. Reference **7** is Robert Nicholl, “An Age of Vicissitude: Brunei, 1225–1425,” *Brunei Museum Journal* 7(1) (1989), p. 21. These references appear at printed p. 639 (PDF page 25). Both need direct inspection before Dery's genealogical and Brunei claims are treated as established. The article also draws on colonial *Cedulario* records for descendants' privileges; those are later retrospective lineage claims, not automatic proof of every earlier relationship.
+
+**Evidence labels:** Directly read secondary source = verified as Dery's argument. The proposed brotherhood, grandfather and marriage = Dery's historical inference. The names, payments, dialogue, landing officials and harbor procedure in the current Studio manuscript = novel fiction. Original 1521 testimony, Santiago 1990, Nicholl 1989 and Aganduru's Spanish pp. 59–60 = not yet directly collated.
+
+## Narrative decision for this run
+
+Keep the Chapter 1 and Chapter 2 1520s Tondo office-holder **unnamed** until a primary-source comparison can distinguish what is documented from the novel's reconstruction. Do not assert that Lakandula was impossible at that date, or that he certainly ruled then. Keep the Book II limited trading passage intact; local allies and resources must be acquired in Book III on page. Maintain Ache's mother's published regency as canon pending an explicit, separately reviewed retrospective historical correction, if any. Preserve the Book III 10-core-plus-2-bonus architecture.
+
+**Next research:** inspect Santiago 1990 and Nicholl 1989, then primary Spanish accounts and Aganduru's cited edition. Record the specific passages and disagreements before assigning a historically named antagonist, wedding, or firm homecoming date.
