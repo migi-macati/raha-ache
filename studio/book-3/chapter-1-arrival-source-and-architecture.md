@@ -38,3 +38,12 @@ Ache's first-person voice should remain immediate, observant and fallible. He ma
 **Open blockers:** primary-language source collation; Lakandula age/identity at proposed return date; wife identity/chronology; reader feedback and rendered-live/audio checks. These are research and verification gates, not reasons to fabricate a 1520s political chronology.
 
 **Next independent work:** Verify period-specific Tondo/Maynila evidence and cast chronology, then draft Scene 1 aboard Harun's vessel. Review the published Book III book-level and Chapter 2 outlines for a separate scoped continuity repair before they control prose.
+
+
+## Counterevidence to an automatic Lakandula age objection
+
+A 1992 genealogical study published in the *National Academy of Science and Technology Transactions* proposes that Raha Matanda, Raha Lakandula and Sulayman's father were probably brothers, with a link to the "king of Luzon" mentioned in 1521. This is a **scholarly hypothesis**, not a verified birth year or a primary eyewitness identification. If correct, it could make Lakandula an adult contemporary of Ache during an early return, so **do not rule him out as anachronistic merely because his best-attested political activity is in 1571**. Conversely, do not treat the proposed genealogy as established fact or infer his office, location or actions in the early 1520s. Read and verify the paper and its underlying sources before deciding whether to use him as the named Chapter 1 antagonist.
+
+Research lead: National Academy of Science and Technology, 1992 Transactions, study titled *Sina Raha Katunao, Lakandula, Tupas, at Matanda: Isang Pag-aaral sa Kanilang Kasaysayang Pampamilya*, https://www.nast.dost.gov.ph/images/pdf%20files/Publications/NAST%20Transactions/NAST%201992%20Transactions%20Volume%2014/SS-3%20.%20Sina%20Raha%20Katunao%2C%20Lakandula%2C%20Tupas%2C%20at%20Matanda.%20Isang%20Pag-aaral%20sa%20Kanilang%20Kasaysayang%20Pampamilya%201992.pdf . This locator was identified from a search excerpt; the PDF text and cited documents have **not** been independently collated.
+
+**Revised gate:** age and genealogy remain uncertain; avoid both premature identification and premature exclusion.
