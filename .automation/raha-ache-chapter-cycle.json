@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-11",
-  "nextChapterId": "book-3-chapter-12",
+  "lastCompleted": "book-3-chapter-12",
+  "nextChapterId": null,
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "7682de4752b5200f47f4e4ca5ab390efc4774382",
-  "completedChapterPasses": 31,
+  "lastMergeSha": "4d51ffcc0bfcfe535ee5f4591829fee9703b7e59",
+  "completedChapterPasses": 32,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "7682de4752b5200f47f4e4ca5ab390efc4774382",
+    "sourceSha": "4d51ffcc0bfcfe535ee5f4591829fee9703b7e59",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 ~22:03 PHT: Bonus Chapter 11 six-scene Studio PR #109 merged f6a10cf3eb89bb5eff44aad39e50a80b302cf7d1 after exact-head CI 40701571877 passed. Public PR #111 merged 7682de4752b5200f47f4e4ca5ab390efc4774382 after exact-head CI 40701805831 passed. GitHub Pages run 40701994472 build and deploy jobs succeeded; artifact 12821523878 exists but was not downloaded/audited. Public file 70,650 characters with four Historical Notes paragraphs and no Studio headings, read back from GitHub branch. Rendered live page and actual Read Aloud playback unverified.",
-    "runId": 40701994472,
-    "buildJobId": 122864031017,
-    "deployJobId": 122864489268,
-    "artifactId": 12821523878
+    "verificationLimit": "29 Oct 2026 ~00:08 PHT: Final bonus Chapter 12 Studio PR #114 merged 4122689488292a56ba33b978211924f852bd4b35 after exact-head CI 40722098916 success. Public PR #115 merged 4d51ffcc0bfcfe535ee5f4591829fee9703b7e59 after exact-head CI 40722506322 success. Pages run 40722691462 build 122937551202 and deploy 122938045539 succeeded. Artifact 12831970940 independently inspected: 258 HTML pages, 17,747 internal links/assets, zero missing targets/anchors; final chapter and Awi Universe page, previous link, four collapsed Historical Notes paragraphs, Read Aloud controls and speechSynthesis markup present. Browser-rendered live page and actual audio playback remain unverified (direct live fetch unavailable). Original Spanish 1572 passage remains uncollated.",
+    "runId": 40722691462,
+    "buildJobId": 122937551202,
+    "deployJobId": 122938045539,
+    "artifactId": 12831970940
   },
   "operatingLessons": [
     {
@@ -129,8 +129,8 @@
   "studioWork": {
     "chapterId": "book-3-chapter-12",
     "branch": null,
-    "state": "research_ready",
-    "progress": "Core 30/30 plus Book III bonus Chapter 11 published (31/32 total). Chapter 11 Studio PR #109 merged f6a10cf3eb89bb5eff44aad39e50a80b302cf7d1; public PR #111 merged 7682de4752b5200f47f4e4ca5ab390efc4774382; CI 40701805831 passed; Pages 40701994472 build/deploy success. Six scenes 12,717 Studio words, 0 duplicate 12-word sequences across scene pairs. Four Historical Notes paragraphs in public chapter; artifact exists but not independently audited; rendered live/audio remain unverified. Next: research original-language 1572 succession and baptism evidence, revise bonus Chapter 12 six-scene architecture, then draft. Do not assert a named legitimate nephew without collation.",
+    "state": "complete_deployed",
+    "progress": "All 30 core chapters and Book III bonus Chapters 11–12 published (32/32). Final chapter The Roof After Rain: six Studio scenes ~12,400 words, zero identical 12-word passages across 15 scene pairs or against Bonus 11; explicit Awi POV transfer after Ache's death. Studio PR #114 merged 412268948; public PR #115 merged 4d51ffcc; exact-head CI 40722506322 passed; Pages 40722691462 deployed; artifact QA 258 HTML pages/17,747 internal references/0 missing. Four Historical Notes paragraphs distinguish Laya, Ache inference and fictional testimony. Original Spanish collation, rendered live browser and actual Read Aloud playback remain open QA, not publication blockers.",
     "blockers": []
   },
   "researchWork": {
