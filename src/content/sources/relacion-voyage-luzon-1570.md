@@ -25,6 +25,7 @@ A Spanish expedition narrative written from the conquest party's perspective. Th
 - **Four Chinese ships** were anchored near Maynila's houses; their crews brought food and gifts to the Spanish, and accused local rulers of taking **rudders/helms and goods**. Their testimony is a claim in the source, not independent adjudication (p. 75).
 - After burning Maynila, the writer says **forty married Chinese and twenty Japanese** lived there (p. 82). One Japanese man called **Pablo**, who professed Christianity, may also have fought for Maynila; the latter is explicitly hearsay.
 - Captured **Chinese wives of Chinese men settled in Maynila** were handed to arriving Chinese seamen by the expedition party. The narrator claims they could have been enslaved, exposing conquerors' view of captives and gendered vulnerability (p. 82).
+- The narrator describes an older Maynila ruler as the **uncle** of the younger Soliman and calls Soliman his **nephew** (English edition pp. 75–76); later, captives' alleged explanation again identifies Soliman as opposing his uncle (pp. 82–83). The 1570 passage does **not name that older uncle as Ache**. Connecting him to Ache the Old named in Riquel's 1571 record is a cross-document inference, and the captives' alleged blame is interested testimony, not a proved account of who fired first.
 - Reports of Sulayman's large house describe money, copper, iron, porcelain, blankets, wax, cotton and stored **brandy** (p. 82). **Next-door storehouse** reportedly held copper, iron, existing and unfinished cannon and **clay/wax molds**; the described large mold is evidence reported by observers, not exact workshop production numbers (pp. 82–83).
 - Extensive trade and the destruction of property are acknowledged by the Spanish writer, who nonetheless justifies the raid.
 
@@ -32,6 +33,6 @@ A Spanish expedition narrative written from the conquest party's perspective. Th
 
 The numbers are an attributed snapshot, **not a census**. The Chinese ships, settled Chinese wives and Japanese residents are strong **1570** evidence, but not assurance of identical levels of foreign residence around **1500**. Nor was Pablo necessarily a Portuguese, a priest, or a locally raised convert.
 
-A Spaniard's allegation that local rulers forcibly took ships' rudders may reflect actual coercion, a port-power tactic, a trade quarrel, or partisan framing. Without other evidence, dramatize as an allegation with multiple interested parties.
+A Spaniard's allegation that local rulers forcibly took ships' rudders may reflect actual coercion, a port-power tactic, a trade quarrel, or partisan framing. Without other evidence, dramatize as an allegation with multiple interested parties. Do not replace the source's reported uncle-nephew relationship with an invented father-son relationship; distinguish the unnamed 1570 older ruler from the separately named Ache the Old in the 1571 record.
 
 See [Maynila's living port dossier](/raha-ache/research/maynila-living-port-1500/) and [broader foreign-contact dossier](/raha-ache/research/foreign-contacts-ache-era/).
