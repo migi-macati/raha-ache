@@ -54,6 +54,8 @@ I put them down where she pointed. She checked the bent rim, wet it with a littl
 
 "Then you know I cannot make hers before I finish these."
 
+I set Dala's frayed sample beside the water bowl.
+
 "I could carry the baskets."
 
 "To where?"
