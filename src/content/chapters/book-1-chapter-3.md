@@ -64,7 +64,7 @@ I called it exile within exile.
 
 The morning after the hearing, Sulad and I carried replacement bamboo stakes to the fishing bank. The fisherman and his brother put us to work in the shallows. We planted what we could before the rising tide drove us out; more stakes and the torn net remained. The fisherman told us to come back when the bank could be worked again.
 
-For three days I had studied the landing tallies between those visits, and found more collections made by men who claimed authority from Tondo, Maynila, or both. Some names repeated. Some did not. Some payments had no clear collector at all.
+Over the next three days I studied the landing tallies, and found more collections made by men who claimed authority from Tondo, Maynila, or both. Some names repeated. Some did not. Some payments had no clear collector at all.
 
 I wanted to follow the money.
 
