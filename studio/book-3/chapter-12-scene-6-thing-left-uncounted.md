@@ -206,9 +206,9 @@ The child came in rubbing her eyes.
 
 “The two that were in the chest.”
 
-“One is mine. One belongs with the things we still have to ask about.”
+“Both are mine now. One was given to me long ago. The other was his mother's, and he gave it to me before he died.”
 
-She considered this. “Can we use yours for the rice?”
+She considered this. “Can we use the one with the dent for the rice?”
 
 “Yes. Wash it first.”
 
