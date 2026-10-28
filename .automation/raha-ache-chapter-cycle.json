@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-9",
-  "nextChapterId": "book-3-chapter-10",
+  "lastCompleted": "book-3-chapter-10",
+  "nextChapterId": "book-3-chapter-11",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "d7c0c6f00de33771e73b5d7b4de0d95bed5698c5",
-  "completedChapterPasses": 29,
+  "lastMergeSha": "735447bddb1daece5fa5271278b98b147ced3f29",
+  "completedChapterPasses": 30,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "d7c0c6f00de33771e73b5d7b4de0d95bed5698c5",
+    "sourceSha": "735447bddb1daece5fa5271278b98b147ced3f29",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 ~19:13 PHT: Book III Chapter 9 Three Knots Studio PR #101 merged 2d79bceed23fa2c0d7214fbdcb206b62644eaf5b after exact-head Validate PR 40677656803 passed; public PR #102 merged d7c0c6f00de33771e73b5d7b4de0d95bed5698c5 after exact-head Validate PR 40677775919 passed. GitHub Pages 40677934448 build 122780985931 and deploy 122781247496 succeeded. Artifact 12811282835 independently downloaded and audited: 257 HTML pages, 17,619 internal links/assets, zero missing targets or anchors; Chapter 9 has correct title, previous/next navigation, four Historical Notes paragraphs and Read Aloud markup. Six-scene 13,513 normalized prose words; zero identical 12-word sequences with published Chapter 8. Rendered-live browser and actual Read Aloud playback NOT verified.",
-    "runId": 40677934448,
-    "buildJobId": 122780985931,
-    "deployJobId": 122781247496,
-    "artifactId": 12811282835
+    "verificationLimit": "28 Oct 2026 ~20:07 PHT: Book III Chapter 10 Before the Water Turned Studio PR #105 merged 07f674d1da4fc070334fe7816c57535c2e0973ba after exact-head Validate PR 40684496824 passed; public PR #106 merged 735447bddb1daece5fa5271278b98b147ced3f29 after exact-head Validate PR 40684703749 passed. GitHub Pages 40684800520 build job 122804310107 and deploy job 122804692713 both succeeded. Artifact 12814865708 downloaded and independently audited: 257 HTML pages, 17,599 internal links/assets checked, zero missing targets or anchors; Chapter 10 correct title, previous chapter navigation, bonus chapters in selector, four Historical Notes paragraphs, and Read Aloud controls/markup. Six-scene 11,034 prose words; zero identical 12-word sequences across 15 scene pairs and with published Chapter 9. Browser-rendered live page and actual audio playback NOT verified.",
+    "runId": 40684800520,
+    "buildJobId": 122804310107,
+    "deployJobId": 122804692713,
+    "artifactId": 12814865708
   },
   "operatingLessons": [
     {
@@ -123,10 +123,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-10",
-    "branch": null,
+    "chapterId": "book-3-chapter-11",
+    "branch": "editorial/book3-bonus11-1570-evidence-gates-20261028",
     "state": "editorial_pr_open",
-    "progress": "Book III Chapter 9 Three Knots published via public PR #102 merge d7c0c6f00de33771e73b5d7b4de0d95bed5698c5; Pages 40677934448 build and deploy passed; artifact 12811282835 audited (257 HTML, 17,619 internal links/assets, zero missing), 29/30 core. Chapter 10 obsolete fleet/kingdom outline replaced with bounded six-scene landing-crisis resolution in draft editorial PR #103 head b0caaf4cc689267dfbea22b6d01f8f7d3cb7ec80; validate exact-head CI and merge before Studio Scene 1. Keep Spanish arrival as Book III bonus Ch11, preserve bonus Ch12. Rendered-live/audio still unverified.",
+    "progress": "Core trilogy complete 30/30; Chapter 10 Studio #105 and public #106 merged, Pages 40684800520 build/deploy passed, artifact 12814865708 audited 257 HTML/17,599 references/0 missing. Bonus Chapter 11 The Foreigners Return (1570–71) and bonus Chapter 12 The Last Raha (1572) remain unpublished. Editorial PR #107 updates bonus Chapter 11 six-scene plan to match the published core and primary-source limitations: no retrospective kingdom/fleet/assumed Ache-Sulayman kinship; 1570 expedition Relation is partisan, Riquel 1571 names Ache the Old and Solimane the Young, 1572 succession original text uncollated. Verify #107 exact-head CI and merge when legitimately clear, then begin bonus Ch11 research/prose. Browser-rendered live and actual Read Aloud playback remain unverified.",
     "blockers": []
   },
   "researchWork": {
