@@ -9,7 +9,7 @@ sources: [pigafetta]
 timeline: []
 book: book-2
 chapterNumber: 5
-draftStatus: draft
+draftStatus: final
 characters: [ache, jalal, jamil, nasir, bakar, tuma, samad, saliha, yusuf, rafiq, karim]
 places: [brunei, sulu]
 events: []

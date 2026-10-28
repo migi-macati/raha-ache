@@ -9,7 +9,7 @@ sources: [pigafetta]
 timeline: [loue-campaign, ache-brunei-command]
 book: book-2
 chapterNumber: 6
-draftStatus: draft
+draftStatus: final
 characters: [ache, jamil, raden-muda-safi, hasan-al-fansuri, ruma, tahir, nasir, jalal, saliha, mara, dima, awan, banu]
 places: [brunei, loue]
 events: [loue-campaign, ache-brunei-command]

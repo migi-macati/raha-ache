@@ -9,7 +9,7 @@ sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 6
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, bulkan, ula, ache-mother]
 places: [maynila, tondo]
 events: [ache-leaves-for-brunei]

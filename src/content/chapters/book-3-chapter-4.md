@@ -9,7 +9,7 @@ sources: [blair-robertson]
 timeline: []
 book: book-3
 chapterNumber: 4
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad]
 places: [maynila, pasig-river, manila-bay]
 events: []

@@ -9,7 +9,7 @@ sources: [tome-pires-suma-oriental]
 timeline: []
 book: book-3
 chapterNumber: 5
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad]
 places: [maynila, pasig-river]
 events: []

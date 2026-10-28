@@ -10,7 +10,7 @@ timeline: [ache-baptism-death-1572]
 book: book-3
 chapterNumber: 12
 bonus: true
-draftStatus: draft
+draftStatus: final
 characters: [ache, awi, sulayman]
 places: [maynila]
 events: [ache-baptism-death-1572]

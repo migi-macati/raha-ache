@@ -9,7 +9,7 @@ sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1
 chapterNumber: 5
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, bulkan, ula, ache-mother]
 places: [maynila, tondo, brunei]
 events: [tondo-encroachment]

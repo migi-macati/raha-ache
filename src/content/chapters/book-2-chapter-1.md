@@ -9,7 +9,7 @@ sources: []
 timeline: [ache-leaves-for-brunei]
 book: book-2
 chapterNumber: 1
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, siripada, daran, idris]
 places: [brunei]
 events: [ache-leaves-for-brunei]

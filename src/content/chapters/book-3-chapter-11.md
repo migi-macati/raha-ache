@@ -10,7 +10,7 @@ timeline: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, 
 book: book-3
 chapterNumber: 11
 bonus: true
-draftStatus: outline
+draftStatus: final
 characters: [ache, sulayman, lakandula, martin-de-goiti, legazpi, bambalito, mehomete-maynila, pablo-japanese-1570]
 places: [maynila, tondo, manila-bay, bangkusay-channel]
 events: [legazpi-king-luzon-message, battle-manila-1570, legazpi-manila-1571, bangkusay-1571]

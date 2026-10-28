@@ -9,7 +9,7 @@ sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 10
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, siripada, daran]
 places: [brunei]
 events: [ache-leaves-for-brunei]

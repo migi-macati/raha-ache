@@ -9,7 +9,7 @@ sources: []
 timeline: []
 book: book-1
 chapterNumber: 3
-draftStatus: draft
+draftStatus: final
 characters: [tondo-harbor-clerk, ache, sulad, ula]
 places: [maynila, namayan, brunei]
 events: []
