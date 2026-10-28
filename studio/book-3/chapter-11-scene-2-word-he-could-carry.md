@@ -2,15 +2,15 @@
 
 *Mehomete*
 
-The men in the small boat had kept their distance. I was grateful for that until I saw one of them turn his head toward the voice calling from our deck.
+At first light I was still thinking about the two men who had come in a small boat the evening before.
 
-He had understood the call. I could tell by the way he looked up, though he did not answer. The sailor beside me was asking whether they meant to come alongside. I told him they had come to see how many vessels lay at anchor and whether the water would bear them closer to the river. He asked how I knew.
+They had kept their distance, but one had turned his head toward a voice calling from our deck. He had understood the call. I could tell by the way he looked up, though he had not answered. A sailor beside me had asked whether they meant to come alongside. I told him they had come to see how many vessels lay at anchor and whether the water would bear them closer to the river. He asked how I knew.
 
 "Because I would have done the same."
 
 He wanted a number, not a reason. He asked again how many men had been in the boat. I said two. He took that answer away to the officer who was waiting near the stern.
 
-The boat was already turning toward the shore. Its pole rose wet and shining, then dipped out of sight beyond the larger hull. I could no longer see the men's faces. I had left this coast before I knew whether anyone here would want to see mine again. Now I was aboard a ship whose officers expected me to make them welcome.
+The boat had turned toward the shore. Its pole rose wet and shining, then dipped out of sight beyond the larger hull. I could no longer see the men's faces. I had left this coast before I knew whether anyone here would want to see mine again. Now I was aboard a ship whose officers expected me to make them welcome.
 
 My brother was sitting beside a basket of rice. He had lifted its lid twice and found the same amount each time.
 
