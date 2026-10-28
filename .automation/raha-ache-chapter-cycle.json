@@ -116,6 +116,10 @@
     {
       "lesson": "When a scene turns on an earlier spoken agreement, extract the exact published dialogue and physical staging before drafting; do not rely on an outline paraphrase, and carry forward any explicit warning even when a witness plausibly misheard it.",
       "evidence": "28 Oct 2026: published Book III Chapter 5 expressly said 'Nothing here promises another journey' at the landing. Initial Chapter 6 Scene 2 omitted that warning and moved the exchange to a hall table; corrected Studio commit c2291ba2218e5fb1143c8d2e63acd34f4459f6af and editorial source/outline PR #90."
+    },
+    {
+      "lesson": "When narrowing chapter or outline related-entity metadata, run the semantic-orphan audit and preserve or deliberately rehome existing Universe backlinks; an entity can become orphaned even when no broken link remains.",
+      "evidence": "28 Oct 2026: Book III Chapter 7 PR #92 removed ifugao and panay from related metadata while narrowing fictional settings; exact-head CI 40630076364 reported 2 semantic orphans despite 0 broken references. Restored research-only backlinks on branch in commit 7cef9e34314c94e635f4daea794abe53fdf55901; subsequent CI must pass before merge."
     }
   ],
   "studioWork": {
