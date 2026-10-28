@@ -148,7 +148,7 @@ I thanked them and stepped away. I had learned the shape of the missing wood. I 
 
 ***
 
-Amaya was waiting at the market path with the old cloth folded beneath her arm. I knew the dark patch before I saw her face.
+Amaya was waiting at the market path. The old cloth she had left with me was still tied beneath my arm. Its patched corner rubbed against my ribs when I stopped.
 
 "Tesa's bundles came this morning," she said.
 
@@ -188,7 +188,7 @@ I started to tell her about the step and the merchants, about the wood Madan mig
 
 "Then I do not know why you are standing here explaining the landing to me."
 
-She shifted the cloth against her hip. Her thumb rested on the old patch.
+She rubbed one palm with the other. I felt the folded measure beneath my arm.
 
 "I have work at home," she said. "The cloth I lent you is still missing from that work. When I need to wrap the jars, I use a smaller piece and make two journeys. When rain comes, I have to bring them in sooner. You may be able to ask a boat to wait while you mend its step. I cannot ask the weather to wait while you find another way to pay."
 
@@ -196,7 +196,7 @@ She shifted the cloth against her hip. Her thumb rested on the old patch.
 
 "Where would you carry them? They are at my house. I need cloth to cover them, not another man to move them without asking."
 
-I held out my hand for the measure, then stopped. It belonged to her. She had placed it in my hands once so I could show Tesa what I owed. I had not earned the right to keep it while I failed to act.
+I reached under my arm for the measure, then stopped. It belonged to her. She had placed it in my hands so I could show Tesa what I owed. I had no right to sell it, and keeping it tied against my body had brought her no nearer to a replacement.
 
 "May I take it to Tesa again?" I asked.
 
