@@ -124,9 +124,9 @@
   ],
   "studioWork": {
     "chapterId": "book-3-chapter-9",
-    "branch": "editorial/book3-ch9-commercial-coalition-20261028",
-    "state": "editorial_pr_open",
-    "progress": "Book III Chapter 8 Studio PR #98 and public PR #99 merged; Pages run 40660824681 deployed. Six scenes, 12,809 prose words, Historical Notes present in source; rendered-live/audio and downloaded-artifact audit outstanding. Book III Chapter 9 previous kingdom/fleet/Sulayman-heir assumptions contradicted published canon; scoped six-scene commercial coalition outline drafted in PR #100, awaiting CI/review/merge. No Chapter 9 prose or public release yet.",
+    "branch": null,
+    "state": "research_ready",
+    "progress": "Book III Chapter 8 The Words She Would Not Carry published via PR #99 merge f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7; Pages 40660824681 passed build and deploy, 28/30 core. Six scenes and four Historical Notes paragraphs read back from main; artifact link audit, rendered-live and actual audio remain unverified. Book III Chapter 9 grounded commercial-coalition six-scene outline PR #100 merged 228909989532055118bdf7fcc1948322cd722f9f after exact-head Validate PR 40660955970 passed; old fleet/kingdom/Sulayman-heir assumptions rejected. Next: research concrete merchant logistics and write Scene 1 with exact Ch8 ending continuity, while respecting pending Pages runs.",
     "blockers": []
   },
   "researchWork": {
