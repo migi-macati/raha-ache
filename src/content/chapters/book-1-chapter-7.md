@@ -9,7 +9,7 @@ sources: []
 timeline: []
 book: book-1
 chapterNumber: 7
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, lakanmulaw, nima]
 places: []
 events: []

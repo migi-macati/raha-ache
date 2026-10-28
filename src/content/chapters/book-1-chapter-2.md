@@ -9,7 +9,7 @@ sources: []
 timeline: [ache-father-dies]
 book: book-1
 chapterNumber: 2
-draftStatus: draft
+draftStatus: final
 characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother]
 places: [maynila, tondo]
 events: [ache-father-dies]

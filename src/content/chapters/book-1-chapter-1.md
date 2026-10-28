@@ -9,7 +9,7 @@ sources: []
 timeline: []
 book: book-1
 chapterNumber: 1
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad]
 places: [maynila, pasig-river]
 events: []
