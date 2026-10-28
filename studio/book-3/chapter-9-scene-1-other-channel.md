@@ -190,6 +190,6 @@ The keeper looked toward the path.
 
 "You can. Will you be willing to hear what that costs them?"
 
-I had heard Marun say a shorter river was not always a shorter journey. I had heard the man with the clay weight say three traders could ask the same question without owning the same goods. I had not yet asked Dala whether the step could be moved, or Amaya whether the carrying work I had promised her would be there tomorrow.
+I had heard Marun say a shorter river was not always a shorter journey. I had heard the man with the clay weight say three traders could ask the same question without owning the same goods. I had not yet asked Dala whether the step could be moved, or Tesa whether the carrying work she had offered would still be there tomorrow. Amaya was still waiting for her cloth.
 
 Outside, the smaller of the two boats came back past the bend. It was riding higher, its empty baskets stacked beneath a cloth. It did not turn toward our landing. The man at the stern kept his eyes on the water ahead. He had made the journey he was paid to make, and our closed step had not been part of it.
