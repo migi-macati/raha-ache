@@ -9,7 +9,7 @@ sources: [tome-pires-suma-oriental]
 timeline: [bay-coalition-crisis]
 book: book-3
 chapterNumber: 10
-draftStatus: outline
+draftStatus: final
 characters: [ache]
 places: [maynila, pasig-river, tondo]
 events: [bay-coalition-crisis]

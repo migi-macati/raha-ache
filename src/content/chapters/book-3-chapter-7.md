@@ -9,7 +9,7 @@ sources: [tome-pires-suma-oriental]
 timeline: []
 book: book-3
 chapterNumber: 7
-draftStatus: draft
+draftStatus: final
 characters: [ache]
 places: [maynila, pasig-river, tondo]
 events: []

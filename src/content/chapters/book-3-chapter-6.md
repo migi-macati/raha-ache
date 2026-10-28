@@ -9,7 +9,7 @@ sources: [tome-pires-suma-oriental, blair-robertson]
 timeline: []
 book: book-3
 chapterNumber: 6
-draftStatus: draft
+draftStatus: final
 characters: [ache]
 places: [maynila, pasig-river]
 events: []
