@@ -310,7 +310,7 @@ Her perspective should be developed independently rather than used only as symbo
 
 **Handoff:** accommodation creates the final questions of identity, succession, and legacy.
 
-### Bonus 12. The Last Raha
+### Bonus 12. The Roof After Rain
 
 **Plot:** Ache's final years under transformed sovereignty, baptism, succession, and death.
 
