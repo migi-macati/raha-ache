@@ -10,7 +10,7 @@ timeline: [battle-manila-1570]
 author: Anonymous Spanish expedition reporter; translated in Blair and Robertson
 year: "1570 (document); 1903 (English edition)"
 sourceType: primary
-citation: "Anonymous, 'Relation of the Voyage to Luzon,' in Emma Helen Blair and James Alexander Robertson, eds., The Philippine Islands, 1493–1803, vol. 3 (1903), pp. 49–84; manuscript housed among the Archivo General de Indias materials."
+citation: "Anonymous, 'Relation of the Voyage to Luzon,' in Emma Helen Blair and James Alexander Robertson, eds., The Philippine Islands, 1493–1803, vol. 3 (1903), esp. printed pp. 72–83; manuscript housed among the Archivo General de Indias materials."
 ---
 ## Witness, not transparent truth
 
