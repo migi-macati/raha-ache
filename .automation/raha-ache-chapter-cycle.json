@@ -124,6 +124,10 @@
     {
       "lesson": "Before assigning a historical claim to a named person or printed source page, inspect the actual document's section boundaries and wording; preserve cross-document name matches as explicit inferences and do not mistake table-of-contents pagination for in-text page markers.",
       "evidence": "28 Oct 2026 bonus Chapter 12 source gate: Blair–Robertson vol. 3 English translation of the 1572 'Conquest of the Island of Luzon' names deceased Christian chief Laya (printed pp. 128, 145) and an unnamed legitimate nephew, not Ache or Sulayman in those passages. Initial citation range based on contents was corrected by inspecting in-text printed page markers; research/editorial PR #112 merged 9e12cc85801edb08f216101324f205bc18831fa8 after exact-head CI 40702541663 passed. Original Spanish remains uncollated."
+    },
+    {
+      "lesson": "When a chapter is publicly released, reconcile its canonical draftStatus metadata with the actual publication state; a successful deployment alone does not update reader-facing Novel and book-directory labels, which can continue to show draft or outline. Keep superseded development files unchanged.",
+      "evidence": "29 Oct 2026: all 32 current published chapters still had draftStatus draft/outline despite successful Pages deployment; Novel and book pages displayed these labels. PR #116 changed exactly one frontmatter line in each of 32 current chapters, preserving superseded outlines; exact-head CI 40731216464 succeeded and PR merged as c98404179a60a7257d82a90dc9074532ad63c228."
     }
   ],
   "studioWork": {
