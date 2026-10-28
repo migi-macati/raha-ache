@@ -58,7 +58,7 @@ timeline: []
 
 ## Source work still required
 
-- Attach the exact Spanish text and full citation for the 1572 succession passage.
+- Visually collate Retana's Spanish printed pp. 11 and 30 with the scanned pages and, if available, the manuscript. The accessible Spanish text transcription and Blair–Robertson English passages have been compared; page-image fidelity and OCR-sensitive spellings remain unverified.
 - Attach exact edition and page references for the Aganduru passages central to Ache's biography.
 - Attach underlying document/date/volume/page references for Legazpi materials currently reached through documentary collections.
 - Attach page references for specific propositions drawn from Scott, Majul, and Dery.

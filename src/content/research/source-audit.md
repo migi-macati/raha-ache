@@ -24,7 +24,7 @@ Blair and Robertson is treated as a reference/documentary collection. Where poss
 
 ## Outstanding citation work
 
-- Attach the exact Spanish text and full documentary citation for the 1572 succession passage.
+- Visually verify Retana's Spanish printed pp. 11 and 30 against the page images and, if available, the manuscript. The Spanish text transcription has been compared with Blair–Robertson vol. III printed pp. 128 and 145; page-image fidelity and OCR-sensitive spellings remain unverified.
 - Attach exact edition/page references for Aganduru Moriz passages used for Ache's youth, Brunei journey, return, and marriage.
 - Attach exact document/date/volume/page references for the Legazpi relations currently accessed through documentary collections.
 - Attach page references for specific propositions drawn from Scott, Majul, and Dery.
