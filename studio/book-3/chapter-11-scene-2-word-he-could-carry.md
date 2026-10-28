@@ -136,7 +136,7 @@ He climbed down into the boat. The boatman pushed away from the ship with his po
 
 When the boat was halfway to the river, a sailor brought me a small cup of water and asked whether the town had a ruler who could answer for all the guns.
 
-I said there were men whose words carried weight at different gates and among different households. He wanted one name. I gave him none.
+I said there were men whose words carried weight at different gates and among different households. He wanted one name. I told him the younger ruler was called Soliman, and that a man could send a message to him without having all the town's answers.
 
 "Someone must decide," he said.
 
@@ -154,56 +154,10 @@ I remembered the first time I had brought rice to the foreigners. I had named a 
 
 Now the hands were on guns.
 
-My brother's boat turned at last and came back along the edge of the channel. It had not reached the town.
+The small boat moved again. It disappeared beyond the river's turn.
 
-He climbed aboard without speaking. The boatman took his payment and left immediately, before the tide changed again.
+By evening my brother had not returned. The officer asked why his message had not come back with an answer. I told him that my brother had asked to speak with his wife's people before he spoke to any ruler, and that he had not promised to return by sunset. The officer said the messenger must not take longer than the tide required. I could not tell him how long a household needed to decide whether it would receive a stranger's words.
 
-"Who stopped you?" I asked.
+The next morning there was still no boat. The officer sent another man to sound the entrance, but he did not send a second offer. He told me to wait until the first came back.
 
-"No one. The landing was crowded. A watchman called from the bank and asked whose boat it was. I gave my name. He said he would carry it to the gate."
-
-"Did you see the man who would answer?"
-
-"No."
-
-"Did the watchman hear the offer?"
-
-"I did not give it to him."
-
-I felt a flash of anger. We had been given until the next high water. My brother had gone ashore and returned without the words.
-
-"Then what did you do?"
-
-"I told him that my wife should be told I had come. I told him there was a message for those willing to hear it. I asked where I might come back without bringing a foreign boat beneath the guns."
-
-"And?"
-
-"He said someone would answer when they knew who had sent me."
-
-The officer was already coming toward us. He had watched the boat return and wanted to know what the rulers had said.
-
-I told him we had not yet spoken to them. He asked why his message had not been delivered.
-
-"My brother was stopped short of the gate," I said. "A watchman has gone to ask whether a messenger may land."
-
-"Did he tell them we come in friendship?"
-
-"He told them there was a message."
-
-The officer's face changed. He looked from me to my brother and back.
-
-"You were to give them my words."
-
-"They have not yet agreed to receive them."
-
-He said the difference did not matter. I looked toward the river. The men at the gate had guns, the strangers had guns, and my brother's wife lived behind the houses that might lie between them.
-
-"It matters to the man who must stand there when your boat comes in," I said.
-
-The officer told me that next time I would go myself.
-
-I did not refuse. I asked him to say again, in front of my brother, what he wanted me to tell the gatekeepers about their guns. He gave the same answer about peace.
-
-My brother listened. When the officer left, he said, "If you carry that word, make them ask what it costs."
-
-I watched the river until the light changed. I could carry the offer. I could not make the two shores mean the same thing by hearing it.
+I watched the shore whenever I was free of work. I could carry the offer. I could not make the two shores mean the same thing by hearing it.
