@@ -66,7 +66,7 @@ I looked at Iya. She had not brought Nali to surrender the path on her behalf.
 
 "She has heard what I am willing to say," Nali answered. "She has not agreed to it."
 
-The man who had brought them pulled the canoe farther up. Iya paid him from a small wrapped parcel. He counted the pieces of dried fish before putting them away. He had not come to wait for our discussion; he turned the canoe and left.
+The man who had brought them pulled the canoe farther up. Iya paid him part of his hire from a small wrapped parcel. He counted the pieces of dried fish before putting them away. He had agreed to carry the sisters home as well, but would not wait below the busy stones. He took the canoe upstream to the quieter landing and said he would be there until the sun stood above the trees.
 
 We walked to the lower stones. Raya was sitting on her heels beside the lowest one. She did not rise when Nali came.
 
@@ -182,7 +182,7 @@ Nali bent to pick up her rack slats.
 
 The keeper made one mark for the proposed journey, with the witnesses' names spoken aloud. She kept the strip apart from the older ones. Nothing had crossed. No payment had been made. Ranu and Ilan still had to return to Nali's bank, and the pole-handler still had to decide whether the water would let him work.
 
-I had wanted the keeper to carry the terms back to the hall, where people could see them and speak of the crossing as ours. Nali was already turning toward her yard. The agreement had begun on both shores, but it could fail on either one.
+I had wanted the keeper to carry the terms back to the hall, where people could see them and speak of the crossing as ours. Nali was already turning toward the canoe waiting upstream to carry her home. The agreement had begun on both shores, but it could fail on either one.
 
 The basket maker's boy came down the higher path with an empty jar on his shoulder.
 
