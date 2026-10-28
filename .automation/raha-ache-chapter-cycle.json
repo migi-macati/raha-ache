@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-4",
-  "nextChapterId": "book-3-chapter-5",
+  "lastCompleted": "book-3-chapter-5",
+  "nextChapterId": "book-3-chapter-6",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "f4e5be69e503fb410e5224115e12f64935ad9e06",
-  "completedChapterPasses": 24,
+  "lastMergeSha": "eea761771946d7c7ee2bb87d4c79a69549b00c47",
+  "completedChapterPasses": 25,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "f4e5be69e503fb410e5224115e12f64935ad9e06",
+    "sourceSha": "eea761771946d7c7ee2bb87d4c79a69549b00c47",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 4 What the Bank Could Keep PR #82 merged f4e5be69e503fb410e5224115e12f64935ad9e06 after exact-head Validate PR 40599907533 passed. GitHub Pages run 40600075690 build 122525702556 and deploy 122526032321 succeeded. Artifact 12778905263 independently inspected: 257 HTML pages, 17,638 internal links, 0 missing files/anchors; Chapter 4 title, opening, ending, Chapter 3/5 navigation, collapsed historical notes and Read Aloud speechSynthesis markup present. Rendered-live browser page and actual audio playback NOT verified; direct live HTTP fetch failed DNS.",
-    "runId": 40600075690,
-    "buildJobId": 122525702556,
-    "deployJobId": 122526032321,
-    "artifactId": 12778905263
+    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 5 Two Short Cuts public PR #86 merged eea761771946d7c7ee2bb87d4c79a69549b00c47 after exact-head Validate PR run 40618603597 build 122586856696 passed. GitHub Pages run 40618759325 build 122587370104 and deploy 122587577214 succeeded. Artifact 12786446151 independently downloaded and audited: 257 HTML pages, 17,676 internal links/assets checked, 0 missing targets or anchors; Chapter 5 title, opening, ending, Chapter 4/6 navigation, collapsed historical notes and Read Aloud speechSynthesis markup present. Rendered-live browser and actual audio playback NOT verified; direct HTTP fetch failed DNS.",
+    "runId": 40618759325,
+    "buildJobId": 122587370104,
+    "deployJobId": 122587577214,
+    "artifactId": 12786446151
   },
   "operatingLessons": [
     {
@@ -115,10 +115,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-5",
+    "chapterId": "book-3-chapter-6",
     "branch": null,
     "state": "research_ready",
-    "progress": "Book III Chapter 4 complete six-scene Studio PR #81 merged d891ed102b75bed588d7001d0d22732f7932da7a after exact-head Validate PR 40599773278 passed; public Chapter 4 PR #82 merged f4e5be69e503fb410e5224115e12f64935ad9e06, Pages 40600075690 deployed and artifact 12778905263 audited. Research PR #80 merged eb7a52b0b0a8ab69f3429b413a38d18d0da24e5f. Book III Chapter 5 continuity outline PR #83 merged 7833d51f0a0d45bfb90505854b89026faa13f431, correcting Mulaw's unpromised alliance. No Chapter 5 Studio prose yet. Start research and first scene only after checking current main and reader feedback.",
+    "progress": "Book III Chapter 5 six-scene Studio PR #85 merged 959d80a02c8a495753bf5a782de5d49d221e533c after exact-head CI 40618423687 passed; 14,644 prose words, zero repeated 12-word sequences across 15 pairs. Public Chapter 5 PR #86 merged eea761771946d7c7ee2bb87d4c79a69549b00c47, Pages 40618759325 deployed and artifact 12786446151 audited. Chapter 6 continuity outline correction prepared in editorial PR #87; verify its actual merge/CI state and then research the record/witness conflict before prose.",
     "blockers": []
   },
   "researchWork": {
@@ -211,11 +211,14 @@
       "next": "Keep chronology and construction technique qualified; verify later source passages before retroactively naming makers or specifying technical terms."
     },
     "chapter5Alliances": {
-      "state": "outline_merged",
+      "state": "published_with_source_limits",
       "editorialPr": 83,
-      "mergeSha": "7833d51f0a0d45bfb90505854b89026faa13f431",
-      "sourceLimit": "Book I Chapter 7 Mulaw gave Ache a name and advice only; no passage, alliance, return, lakan title or geographical first-landing location was established. Nima's absent sister owns her cloth. Harun/Tamin/Isan offer no guaranteed political or military backing.",
-      "next": "Develop Chapter 5 first scene from Chapter 4's unpaid Dala/Raya/Amaya claims and limited upper-step repair; treat Mulaw contact as contingent and verify trade/route evidence before assigning old alliances."
+      "studioPr": 85,
+      "publicPr": 86,
+      "mergeSha": "eea761771946d7c7ee2bb87d4c79a69549b00c47",
+      "deployRunId": 40618759325,
+      "sourceLimit": "Mulaw gave only a name and advice in Book I Chapter 7; Chapter 5 establishes no delivered message, return, alliance, title or foreign force. The six-scene landing trades, maker exchange, bamboo cuts and appeal are fictional. Pires's original Portuguese and Aganduru's Spanish passages remain uncollated; no fixed early-sixteenth-century custom or documented Ache bargain is asserted.",
+      "next": "For Book III Chapter 6, begin with the disputed one-journey/two-basket tally and absent boat owner; verify the editorial PR #87 outline and preserve Dala/Raya/Amaya unpaid claims."
     }
   }
 }
