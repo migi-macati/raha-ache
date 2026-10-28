@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-6",
-  "nextChapterId": "book-3-chapter-7",
+  "lastCompleted": "book-3-chapter-7",
+  "nextChapterId": "book-3-chapter-8",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "5f1c849579cbc7856328609b788d7a801f7ea72f",
-  "completedChapterPasses": 26,
+  "lastMergeSha": "da4d847a359c0cda0315971a0755e3c9a29a1db9",
+  "completedChapterPasses": 27,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "5f1c849579cbc7856328609b788d7a801f7ea72f",
+    "sourceSha": "da4d847a359c0cda0315971a0755e3c9a29a1db9",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 6 The Third Strip public PR #91 merged 5f1c849579cbc7856328609b788d7a801f7ea72f after exact-head Validate PR run 40629796057 job 122623277227 passed. GitHub Pages run 40629896515 build 122623586338 and deploy 122623833717 succeeded. Artifact 12790324107 downloaded and independently audited: 257 HTML pages, 17,650 internal links/assets checked, zero missing targets/anchors; Chapter 6 opening/ending, Chapter 5/7 navigation, collapsed Historical Notes and speechSynthesis markup present. Rendered-live browser and actual Read Aloud playback NOT verified; direct public-page fetch unavailable.",
-    "runId": 40629896515,
-    "buildJobId": 122623586338,
-    "deployJobId": 122623833717,
-    "artifactId": 12790324107
+    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 7 The Bank at Low Water Studio PR #94 merged a86b20e83de8f7c8c2e7f174dd8427f3674225a7 after Validate PR 40647943732 passed; public PR #95 merged da4d847a359c0cda0315971a0755e3c9a29a1db9 after exact-head Validate PR 40648060227 passed. GitHub Pages run 40648172220 build 122681796875 and deploy 122682662942 succeeded. Artifact 12798820419 independently audited: 257 HTML pages, 17,641 internal links/assets checked, zero missing targets/anchors; chapter text, navigation and speechSynthesis markup present. Release QA found Historical Notes absent in this artifact; scoped notes correction PR #97 must merge/deploy before notes can be verified. Rendered-live browser and actual Read Aloud playback NOT verified.",
+    "runId": 40648172220,
+    "buildJobId": 122681796875,
+    "deployJobId": 122682662942,
+    "artifactId": 12798820419
   },
   "operatingLessons": [
     {
@@ -123,10 +123,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-7",
+    "chapterId": "book-3-chapter-8",
     "branch": null,
     "state": "research_ready",
-    "progress": "Book III Chapter 6 complete six-scene Studio PR #89 merged f28892caa21f6ae5b516da91d88f83beb95dce20 after exact-head CI 40629666061; 12,853 prose words, no 12-word overlaps with published Chapter 5. Public Chapter 6 PR #91 merged 5f1c849579cbc7856328609b788d7a801f7ea72f; Pages 40629896515 deployed, artifact 12790324107 audited (257 HTML, 17,650 internal links/assets, zero missing). Chapter 7 six-scene continuity outline prepared in editorial PR #92, pending CI and merge. Next: research cross-bank permissions and Amaya's unpaid cloth before prose.",
+    "progress": "Book III Chapter 7 six-scene Studio PR #94 merged a86b20e83de8f7c8c2e7f174dd8427f3674225a7; public Chapter 7 PR #95 merged da4d847a359c0cda0315971a0755e3c9a29a1db9 and Pages 40648172220 deployed. Artifact QA found missing Historical Notes; release QA PR #97 includes correction and checkpoint advance, awaiting CI/merge/deploy. Chapter 8 delegated-witness six-scene outline and Pasay legend source gate saved in draft editorial PR #96; do not assume a southern-shore grant, office, wife or son. Next: finish Chapter 7 release QA, then Chapter 8 research/prose. Rendered-live/audio remain unverified.",
     "blockers": []
   },
   "researchWork": {
