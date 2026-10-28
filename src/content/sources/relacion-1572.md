@@ -19,6 +19,12 @@ On printed p. 128 of this relation, the writer identifies a recently deceased Ch
 
 **Identification gate:** The document says **Laya**, not **Ache** or **Matanda**, in these passages. Connecting Laya to the **Raha Ache the Old** named in the separate Riquel record is a historical identification requiring explicit explanation and cross-document support. Do not present the Laya passage as if it literally names Ache, or assume the unnamed nephew is Sulayman. The Spanish author's earlier account of negotiations with Laya and Raxa Solimán supplies contextual evidence for identification, but does not eliminate all uncertainty.
 
+## Chronology and original-edition locator
+
+**Conditional terminus ante quem:** The English edition dates this relation **20 April 1572** (Blair and Robertson, vol. 3, contents and document heading) and describes **Laya as already deceased** (printed p. 128; reiterated on p. 145). If the document's date and retrospective account are accurate, Laya died **no later than 20 April 1572**. This is a constraint on the source's **Laya**, not independent proof of the death date of **Ache**: the Laya–Ache identification remains a separate inference. Avoid repeating a later exact death month as documented without reconciling this contemporary account.
+
+A digitized copy of Retana's Spanish *Archivo del Bibliófilo filipino*, **tomo 4** (1898), is catalogued by the [Biblioteca Virtual Miguel de Cervantes](https://www.letrasmexicanas.mx/portales/fernandez_lizardi/obra/archivo-del-bibliofilo-filipino--recopilacion-de-documentos-historicos-cientificos-literarios-y-politicos-y-estudios-bibliograficos--por-we-retana--tomo-4/) with a linked [PDF scan](https://www.letrasmexicanas.mx/descargaPdf/archivo-del-bibliofilo-filipino--recopilacion-de-documentos-historicos-cientificos-literarios-y-politicos-y-estudios-bibliograficos--por-we-retana--tomo-4/). The catalogue and PDF destination were located, **but the Spanish passage has not been visually inspected or transcribed**. Retana's printed page/folio and exact Spanish wording must remain unverified until collation.
+
 ## Fiction and historical QA
 
 - Documented in this English translation: a Christian chief called Laya is described as deceased by the 1572 writing, and the author claims a legitimate nephew inherited property.
