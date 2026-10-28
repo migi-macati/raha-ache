@@ -4,7 +4,7 @@ name: "Book III, Chapter 7: Neighbors"
 aliases: ["Neighbors"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, tondo, pasig-river, dynastic-politics, port-centered-rule, story-architecture-standard]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, maynila, tondo, pasig-river, ifugao, panay, dynastic-politics, port-centered-rule, story-architecture-standard]
 sources: [tome-pires-suma-oriental]
 timeline: []
 book: book-3
@@ -64,6 +64,6 @@ pov: [ache]
 
 Tomé Pires's `Suma Oriental` (composed 1512–1515) provides contemporary regional commercial context, not an attested Maynila reciprocal compact or these named transactions. Later Tagalog testimony in Plasencia (1589) cannot establish a uniform early-1520s labor law or permit the forced service of any household. Dery's twentieth-century genealogical hypotheses do not establish the precise ages, titles, offices or early-1520s actions of Lakandula, Sulayman or Mehomete. The Aganduru Spanish passage on Ache's marriage remains uncollated. Do not borrow modern concepts of state sovereignty, a standardized treaty, military deterrence or a professional interpreter without period-specific evidence and earned narrative development.
 
-Before prose, research cross-river landings, shore-holder obligations, tide and boat logistics, multilingual commerce and the limits of contemporaneous testimony. Separate source, inference and fiction. Keep Ache's first-person partial knowledge, bodily work and distinct character voices. Each scene must change a physical permission, material debt, route, or relationship. Avoid six consecutive negotiations or a sermon about institutions. Retain *Neighbors* as a working title; review for a concrete, indirect reader-facing title after drafting.
+The Ifugao and Panay Universe pages remain related background research leads to avoid orphaning those records; neither is a Chapter 7 setting, visited community or implied political relationship.\n\nBefore prose, research cross-river landings, shore-holder obligations, tide and boat logistics, multilingual commerce and the limits of contemporaneous testimony. Separate source, inference and fiction. Keep Ache's first-person partial knowledge, bodily work and distinct character voices. Each scene must change a physical permission, material debt, route, or relationship. Avoid six consecutive negotiations or a sermon about institutions. Retain *Neighbors* as a working title; review for a concrete, indirect reader-facing title after drafting.
 
 **Handoff:** Chapter 8 tests whether an independently consenting person can carry a limited decision beyond Ache's sight, and whether the originating household will honor it. Preserve 30 core chapters plus Book III bonus Chapters 11–12.
