@@ -16,7 +16,7 @@ events: [tondo-encroachment]
 pov: [ache]
 ---
 
-At first light Sulad went to help mend the fishing stakes. I went looking for the Tondo clerk.
+At first light Sulad went back to set the fishing stakes we still owed. I went looking for the Tondo clerk.
 
 The night before, I had found crew marks beside cargo on the Tondo clerk's board. I wanted to know who might use those marks to demand a man's labor. The clerk had no answer ready when an empty cargo boat approached the landing, riding high at the bow, its crew arguing over which line to throw. Our steward rose to help. The Tondo clerk kept his thumb over the marks he had cut beside yesterday's cargo.
 
