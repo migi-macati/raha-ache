@@ -1,8 +1,8 @@
 # Scene 6 — Different Boats
 
-Sela brought the fish she had failed to sell to the next meeting.
+Sela brought the stained leaf wrapping from the fish she had sold for less.
 
-There was only a little of it, wrapped in a leaf. She laid it on the mat in front of the keeper and said what she had been paid for the rest.
+She laid it on the mat in front of the keeper and said what she had been paid for each part of the load.
 
 "The boat took half a basket," she said. "The buyer paid for that half. The other half went by land and arrived too late. I paid the carrier for going. I sold the fish afterward for less. Those are the amounts."
 
@@ -128,11 +128,11 @@ On the way home Amaya carried the measure. I carried the empty basket. At the tu
 
 "Good. You have work with Tesa tomorrow if she asks for you."
 
-"I will ask her when I have finished carrying these jars home."
+"I will ask her after I have brought this basket home."
 
-She looked at the basket. "There are no jars in it."
+She looked at the basket. "It is empty."
 
-"Then I will bring it home empty."
+"Then I should be able to keep my word."
 
 She went on. I followed.
 
