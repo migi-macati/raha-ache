@@ -58,9 +58,7 @@ const allChapters = collection === 'chapters'
 const chapterTrack = collection === 'chapters'
   ? data.developmentStatus === 'superseded'
     ? allChapters.filter((chapter) => chapter.data.developmentStatus === 'superseded')
-    : data.bonus
-      ? allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && chapter.data.bonus)
-      : allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && !chapter.data.bonus && chapter.data.book !== 'zz-bonus')
+    : allChapters.filter((chapter) => chapter.data.developmentStatus !== 'superseded' && chapter.data.book !== 'zz-bonus')
   : [];
 
 const chapterIndex = collection === 'chapters'
