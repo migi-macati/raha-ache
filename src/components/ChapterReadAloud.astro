@@ -64,7 +64,7 @@ function initializeChapterReadAloud() {
     u.rate=Number(rate.value);u.lang='en-US';const found=synth.getVoices().find(v=>v.voiceURI===voiceSelect.value);if(found){u.voice=found;u.lang=found.lang;}
     const token=session;
     u.onend=()=>{if(!active||token!==session)return;index++;speak();};
-    u.onerror=(event)=>{if(token!==session||!active)return;if(event.error==='interrupted'||event.error==='canceled')return;reset();setStatus('Playback error. Try again.');};
+    u.onerror=(event)=>{if(token!==session||!active)return;reset();setStatus(event.error==='interrupted'||event.error==='canceled'?'Playback interrupted. Press Play to restart.':'Playback error. Try again.');};
     setStatus('Reading paragraph '+(index+1)+' of '+blocks.length);
     try{synth.speak(u);}catch{reset();setStatus('Unable to start narration');}
   };
