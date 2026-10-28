@@ -182,17 +182,17 @@ When I reached the buyer's house, the sun had touched the lower leaves of the pa
 
 "I will take this," she said. "Only this. I have already bought the rest."
 
-She measured out Sela's price, then counted a smaller amount into a separate leaf for my carrying. I told her Sela had said she would pay me after the sale.
+She measured out Sela's price into a leaf and tied it carefully.
 
-"Then take this to Sela," the buyer said, pointing to the larger measure. "She will decide your wage. I am paying for fish."
+"Take this to Sela," the buyer said. "She will decide your wage. I am paying for fish."
 
-I took both measures back without mixing them. The smaller leaf was not mine yet.
+I took the measure back without opening it. The rice inside belonged to Sela until she counted what she had earned and decided what to pay me.
 
 ***
 
 The boat had gone when I returned. Sela was waiting beside the wet patch where the baskets had stood. Raya was farther down the bank, examining the lower stone again. The cord owner had arrived and was speaking with her. She had put the short timber between them as though it were the only answer she wished to give.
 
-Sela counted the buyer's payment twice. She took out the carrying amount she had promised me and gave it back in the smaller leaf.
+Sela counted the buyer's payment twice. She took out the carrying amount she had promised me and gave it to me in a fresh leaf.
 
 "You did what you said," she told me. "One basket reached the buyer. Two did not. The woman who owned the third will ask why. I will tell her."
 
