@@ -112,6 +112,10 @@
     {
       "lesson": "Audit reverse-linked Universe event metadata against published chapter prose; a `chapters` backlink can falsely imply that an event happened in the novel, and its evidence certainty may be overstated.",
       "evidence": "28 Oct 2026: Book III Chapter 2 GitHub Pages artifact 12751634703 exposed `Ache marries his Bruneian cousin` under Referenced by, despite no wedding in published Chapter 2. Source pages had uncollated Aganduru wording and `certainty: documented`; scoped correction PR #77 opened head f29d6970."
+    },
+    {
+      "lesson": "When a scene turns on an earlier spoken agreement, extract the exact published dialogue and physical staging before drafting; do not rely on an outline paraphrase, and carry forward any explicit warning even when a witness plausibly misheard it.",
+      "evidence": "28 Oct 2026: published Book III Chapter 5 expressly said 'Nothing here promises another journey' at the landing. Initial Chapter 6 Scene 2 omitted that warning and moved the exchange to a hall table; corrected Studio commit c2291ba2218e5fb1143c8d2e63acd34f4459f6af and editorial source/outline PR #90."
     }
   ],
   "studioWork": {
