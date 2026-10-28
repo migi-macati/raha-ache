@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-8",
-  "nextChapterId": "book-3-chapter-9",
+  "lastCompleted": "book-3-chapter-9",
+  "nextChapterId": "book-3-chapter-10",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7",
-  "completedChapterPasses": 28,
+  "lastMergeSha": "d7c0c6f00de33771e73b5d7b4de0d95bed5698c5",
+  "completedChapterPasses": 29,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7",
+    "sourceSha": "d7c0c6f00de33771e73b5d7b4de0d95bed5698c5",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 17:01 PHT: Book III Chapter 8 The Words She Would Not Carry Studio PR #98 merged cce4a50de28309e1b3faecd1f62552df64ec8d92 after exact-head Validate PR 40660527594 passed; public PR #99 merged f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7 after exact-head Validate PR 40660684834 passed. GitHub Pages run 40660824681 build 122723200070 and deploy 122723528081 succeeded. Public manuscript independently read back from main (68,871 characters; six scenes, four Historical Notes paragraphs; no cross-scene or prior-Chapter-7 12-word prose overlaps); GitHub Pages artifact 12803229688 uploaded but not independently downloaded/audited. Rendered-live browser and actual Read Aloud playback NOT verified.",
-    "runId": 40660824681,
-    "buildJobId": 122723200070,
-    "deployJobId": 122723528081,
-    "artifactId": 12803229688
+    "verificationLimit": "28 Oct 2026 ~19:13 PHT: Book III Chapter 9 Three Knots Studio PR #101 merged 2d79bceed23fa2c0d7214fbdcb206b62644eaf5b after exact-head Validate PR 40677656803 passed; public PR #102 merged d7c0c6f00de33771e73b5d7b4de0d95bed5698c5 after exact-head Validate PR 40677775919 passed. GitHub Pages 40677934448 build 122780985931 and deploy 122781247496 succeeded. Artifact 12811282835 independently downloaded and audited: 257 HTML pages, 17,619 internal links/assets, zero missing targets or anchors; Chapter 9 has correct title, previous/next navigation, four Historical Notes paragraphs and Read Aloud markup. Six-scene 13,513 normalized prose words; zero identical 12-word sequences with published Chapter 8. Rendered-live browser and actual Read Aloud playback NOT verified.",
+    "runId": 40677934448,
+    "buildJobId": 122780985931,
+    "deployJobId": 122781247496,
+    "artifactId": 12811282835
   },
   "operatingLessons": [
     {
@@ -123,10 +123,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-9",
+    "chapterId": "book-3-chapter-10",
     "branch": null,
-    "state": "research_ready",
-    "progress": "Book III Chapter 8 The Words She Would Not Carry published via PR #99 merge f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7; Pages 40660824681 passed build and deploy, 28/30 core. Six scenes and four Historical Notes paragraphs read back from main; artifact link audit, rendered-live and actual audio remain unverified. Book III Chapter 9 grounded commercial-coalition six-scene outline PR #100 merged 228909989532055118bdf7fcc1948322cd722f9f after exact-head Validate PR 40660955970 passed; old fleet/kingdom/Sulayman-heir assumptions rejected. Next: research concrete merchant logistics and write Scene 1 with exact Ch8 ending continuity, while respecting pending Pages runs.",
+    "state": "editorial_pr_open",
+    "progress": "Book III Chapter 9 Three Knots published via public PR #102 merge d7c0c6f00de33771e73b5d7b4de0d95bed5698c5; Pages 40677934448 build and deploy passed; artifact 12811282835 audited (257 HTML, 17,619 internal links/assets, zero missing), 29/30 core. Chapter 10 obsolete fleet/kingdom outline replaced with bounded six-scene landing-crisis resolution in draft editorial PR #103 head b0caaf4cc689267dfbea22b6d01f8f7d3cb7ec80; validate exact-head CI and merge before Studio Scene 1. Keep Spanish arrival as Book III bonus Ch11, preserve bonus Ch12. Rendered-live/audio still unverified.",
     "blockers": []
   },
   "researchWork": {
