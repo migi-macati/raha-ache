@@ -216,14 +216,14 @@ A child ran past with a basket of fish. He called for his mother, who was waitin
 
 There were people who could still settle the price of a day's work. There were others who had spent the day trying to recover the means to leave.
 
-From the lower gate came a shout. A small boat had entered the sheltered water and was waiting beyond the landing steps. A man stood in it with his hands visible. Another man sat beside him.
+From the lower gate came a shout. A small boat had come downriver from the houses above the bend and was waiting beyond the landing steps. A man stood in it with his hands visible. The boatman sat beside him.
 
 Soliman went down to meet them. I followed more slowly.
 
-The watchman called that the standing man had come to carry the strangers' words. He had asked for a place to land, and the men at the gate had agreed to hear him there. No one had yet agreed to what he would say.
+The watchman called that the standing man was the one who had arrived from the foreign anchorage the day before. He had spent the night among his wife's people. Now he wanted to know whether a message from the strangers would be heard. He had asked for a place to land, and the men at the gate had agreed to hear him there. No one had yet agreed to what he would say.
 
 I saw the standing man's face as the boat came closer. He looked at the houses before he looked at the gun. The boy who had counted fish that morning could have been his son, if years and voyages had taken him far enough away.
 
-He called out in our language that he had come to speak.
+He called out in our language that he had come to ask who would receive the message.
 
 The river carried his voice plainly. It could not tell us whose promise would follow it.
