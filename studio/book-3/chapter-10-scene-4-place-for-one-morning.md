@@ -36,7 +36,7 @@ Laman offered to pay one carrier from his next hire. The carrier who had warned 
 
 "I will take a promise from the man who hires me," he said. "I will not take one from a boat owner who may be hired by someone else tomorrow."
 
-Laman considered that, then gave him grain from the measure he had kept for his own food. Sela offered a share for the other carrier and the third hand. They agreed on food before lifting, payment for the journey even if Raya rejected the wood, and a route past the cooking sheds. Ache's name was not among the wages. I could help lift when free; I would not be paid unless someone hired me separately.
+Laman considered that, then gave him grain from the measure he had kept for his own food. Sela offered a share for the other carrier and the third hand. They agreed on food before lifting, payment for the journey even if Raya rejected the wood, and a route past the cooking sheds. My name was not among the wages. I could help lift when free; I would not be paid unless someone hired me separately.
 
 The clay-weight trader came by while the terms were being named. He heard them, asked whether paying now would reserve a place for his jars at every market, and left when Sela said no. He did not try to stop the work. He kept his oil and his choice of landing.
 
