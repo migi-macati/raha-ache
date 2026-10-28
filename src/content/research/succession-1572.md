@@ -11,7 +11,7 @@ timeline: [ache-baptism-death-1572]
 
 The anonymous *Conquest of the Island of Luzon*, dated 20 April 1572, calls a Manila chief **Laya**, describes him as recently deceased and Christian (Blair and Robertson, vol. III, printed p. 128), and says he had no inheriting children by the woman whom the Spanish writer calls his "legitimate wife." The writer nevertheless says Laya had children by other wives and that his property passed to an **unnamed legitimate nephew** (printed p. 145). These are claims in a conquest-side account, filtered through its author's categories of marriage, legitimacy and property.
 
-Read the [English translation](https://www.gutenberg.org/cache/epub/13616/pg13616-images.html) and the [source dossier](/raha-ache/sources/relacion-1572/). The Spanish original printed by Retana, *Archivo del Bibliófilo filipino*, vol. IV (1898), has **not** been collated.
+Read the [English translation](https://www.gutenberg.org/cache/epub/13616/pg13616-images.html) and the [source dossier](/raha-ache/sources/relacion-1572/). Retana’s published Spanish text transcription, vol. IV (1898), printed **pp. 11 and 30**, has now been compared with the English passages: it names Laya and Raxa Solimán separately and calls the inheriting nephew **unnamed**. The digitized text may contain transcription errors; **visual page-image and manuscript collation remain outstanding**.
 
 ## Identity and chronology gates
 
