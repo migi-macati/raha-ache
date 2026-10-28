@@ -272,21 +272,15 @@ The owner went back to his work. Sulad bent to check the knot securing the line 
 
 "I could. You had not asked where."
 
-"Do you think he would have sold me some?"
+"Do you think the basket maker has anything that will serve?"
 
-"The basket maker?"
+"You can take Dala's old cord and find out."
 
-"Mulaw."
-
-Sulad straightened.
-
-"How would I know what he has to sell now?"
-
-I laughed once, more from embarrassment than amusement. Sulad did not join me.
+I looked back at the boat. I had been asking other people to tell me what a man I had not seen in years might do. Sulad was standing beside me, and I had nearly done it again.
 
 "You were with me at that first landing," I said. "I remembered him differently."
 
-"You remembered what you wanted from him."
+"You keep telling me he saw the silver. You leave out what happened to the cloth."
 
 "Perhaps."
 
@@ -318,7 +312,7 @@ When he came back, I showed him the fish I had earned from Sera.
 
 "No."
 
-"Then ask what she needs."
+"You have seen the broken corner."
 
 "She needs cord."
 
@@ -356,7 +350,7 @@ Sulad ate without asking for any. When he finished, he stood and wiped his finge
 
 "If the work brings me back."
 
-I recognized the words, though Mulaw had said them years earlier about his own boat. Sulad had not been there when I first heard them spoken that way. He was saying what was true of his work now.
+I recognized the words, though Mulaw had said them years earlier about his own boat. Sulad had been filling our jar when Mulaw spoke. I could not say whether he had heard. The words belonged to his own work now.
 
 "Then I will ask when you return," I said.
 
@@ -376,11 +370,11 @@ Dala held out the frayed end she had cut away.
 
 "Will you come to choose?"
 
-"When I have finished the other side. Do not choose for me."
+"When this side holds. Bring the sample back first."
 
 I took the cord. It was damp and rough, with the knot still holding a splinter from the broken frame. I carried it between two fingers so the fibers would not catch on my cloth.
 
-At the top of the path the keeper was hanging another strip beneath the roof. I could hear the sound of wood striking wood as she worked. I did not ask her to mark Mulaw's name. I had no word from him to put there.
+When I reached the basket maker's trough, she was still splitting bamboo. She saw the wet cord in my hand, set down her blade, and held out her palm.
 
 * * *
 
