@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastCompleted": "book-3-chapter-7",
-  "nextChapterId": "book-3-chapter-8",
+  "lastCompleted": "book-3-chapter-8",
+  "nextChapterId": "book-3-chapter-9",
   "pendingChapterId": null,
   "pendingBranch": null,
   "publicationState": "deployed",
-  "lastMergeSha": "da4d847a359c0cda0315971a0755e3c9a29a1db9",
-  "completedChapterPasses": 27,
+  "lastMergeSha": "f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7",
+  "completedChapterPasses": 28,
   "cycleNumber": 1,
   "blocker": null,
   "deployment": {
     "provider": "GitHub Pages",
-    "sourceSha": "da4d847a359c0cda0315971a0755e3c9a29a1db9",
+    "sourceSha": "f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7",
     "conclusion": "success",
     "liveVerified": false,
-    "verificationLimit": "28 Oct 2026 PHT: Book III Chapter 7 The Bank at Low Water Studio PR #94 merged a86b20e83de8f7c8c2e7f174dd8427f3674225a7 after Validate PR 40647943732 passed; public PR #95 merged da4d847a359c0cda0315971a0755e3c9a29a1db9 after exact-head Validate PR 40648060227 passed. GitHub Pages run 40648172220 build 122681796875 and deploy 122682662942 succeeded. Artifact 12798820419 independently audited: 257 HTML pages, 17,641 internal links/assets checked, zero missing targets/anchors; chapter text, navigation and speechSynthesis markup present. Release QA found Historical Notes absent in this artifact; scoped notes correction PR #97 must merge/deploy before notes can be verified. Rendered-live browser and actual Read Aloud playback NOT verified.",
-    "runId": 40648172220,
-    "buildJobId": 122681796875,
-    "deployJobId": 122682662942,
-    "artifactId": 12798820419
+    "verificationLimit": "28 Oct 2026 17:01 PHT: Book III Chapter 8 The Words She Would Not Carry Studio PR #98 merged cce4a50de28309e1b3faecd1f62552df64ec8d92 after exact-head Validate PR 40660527594 passed; public PR #99 merged f60c5f9bb57eeca91e1c8288ed4fc10dd0b282b7 after exact-head Validate PR 40660684834 passed. GitHub Pages run 40660824681 build 122723200070 and deploy 122723528081 succeeded. Public manuscript independently read back from main (68,871 characters; six scenes, four Historical Notes paragraphs; no cross-scene or prior-Chapter-7 12-word prose overlaps); GitHub Pages artifact 12803229688 uploaded but not independently downloaded/audited. Rendered-live browser and actual Read Aloud playback NOT verified.",
+    "runId": 40660824681,
+    "buildJobId": 122723200070,
+    "deployJobId": 122723528081,
+    "artifactId": 12803229688
   },
   "operatingLessons": [
     {
@@ -123,10 +123,10 @@
     }
   ],
   "studioWork": {
-    "chapterId": "book-3-chapter-8",
-    "branch": null,
-    "state": "research_ready",
-    "progress": "Book III Chapter 7 six-scene Studio PR #94 merged a86b20e83de8f7c8c2e7f174dd8427f3674225a7; public Chapter 7 PR #95 merged da4d847a359c0cda0315971a0755e3c9a29a1db9 and Pages 40648172220 deployed. Artifact QA found missing Historical Notes; release QA PR #97 includes correction and checkpoint advance, awaiting CI/merge/deploy. Chapter 8 delegated-witness six-scene outline and Pasay legend source gate saved in draft editorial PR #96; do not assume a southern-shore grant, office, wife or son. Next: finish Chapter 7 release QA, then Chapter 8 research/prose. Rendered-live/audio remain unverified.",
+    "chapterId": "book-3-chapter-9",
+    "branch": "editorial/book3-ch9-commercial-coalition-20261028",
+    "state": "editorial_pr_open",
+    "progress": "Book III Chapter 8 Studio PR #98 and public PR #99 merged; Pages run 40660824681 deployed. Six scenes, 12,809 prose words, Historical Notes present in source; rendered-live/audio and downloaded-artifact audit outstanding. Book III Chapter 9 previous kingdom/fleet/Sulayman-heir assumptions contradicted published canon; scoped six-scene commercial coalition outline drafted in PR #100, awaiting CI/review/merge. No Chapter 9 prose or public release yet.",
     "blockers": []
   },
   "researchWork": {
