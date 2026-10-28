@@ -70,7 +70,7 @@ The keeper was sitting on a low stool near the doorway. She rose when he said th
 
 Tawan looked at her with the patience of a man who had already decided that patience would be required.
 
-"You said two. I put my hand on the two cuts. You nodded."
+"You said two. I put my hand on the two short cuts. You held the strip where I could see it."
 
 "Those cuts were for the baskets."
 
@@ -88,21 +88,17 @@ He turned to me.
 
 "Yes."
 
-"Did she nod?"
+"Did she say there was no second journey?"
 
-"Yes."
+"She said, 'Nothing here promises another journey.' I heard her."
 
-"Did anyone tell me there would be no second journey?"
+He looked down at his broken sandal. The keeper had spoken at the landing with the strip against her knee, after Raya and Dala had given their conditions. The boat had begun to draw against its line. I had stood close enough to hear every word. I had seen him touch the short cuts and had assumed he heard them too.
 
-I remembered the cargo owner speaking beside the table. I remembered her saying she wanted both baskets carried together. I had stood close enough to hear her, and I had assumed the owner had heard her too. The door had been open. Boats were passing outside. The keeper had turned the strip so the marks faced the light.
+"I did not hear that last part," he said. "The line was moving. I thought the two cuts were for the two turns I had asked about."
 
-"I heard one journey," I said.
+"You should have asked again," I said.
 
-"That is not what I asked."
-
-"No one said to me that you had been promised a second."
-
-"That is still not what I asked."
+"So should you. You saw me touch them."
 
 He took the sandal from the floor and worked a finger through its broken thong. It had been mended once with dark fiber. The new break was beside the old knot.
 
@@ -258,19 +254,19 @@ The woman whose two baskets had gone upriver was at the hall when we returned. S
 
 "You spoke of two."
 
-"Two baskets. I held them both up. One had wax. The other had cord. You put them beside each other in your boat."
+"Two baskets. I held them both up. You put them beside each other in your boat."
 
 Tawan set his cord bag down.
 
-"I was at the doorway when you said two. The boy was pulling the line. I came to the table when the keeper called me. I saw two cuts. I asked whether those were mine."
+"I was beside the boat when you said two. The boy was pulling the line. I came closer when the keeper held up the strip. I saw two cuts. I thought they answered the question I had asked."
 
 The keeper looked at him.
 
-"You asked whether they were the two. I said yes. I meant the baskets."
+"I said one boat, two baskets, after Raya and Dala gave leave. I said nothing there promised another journey."
 
-"Then you did not hear what I asked."
+"I heard the first part. I did not hear the last."
 
-"Nor you what I answered."
+"You touched the marks without asking me to repeat it."
 
 The cargo owner stopped smoothing the mat.
 
