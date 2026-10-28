@@ -35,7 +35,11 @@ function initializeChapterReadAloud() {
   const supported=('speechSynthesis' in window)&&('SpeechSynthesisUtterance' in window);
   if(!supported){play.disabled=true;stop.disabled=true;rate.disabled=true;voiceSelect.disabled=true;status.textContent='Read aloud is unavailable in this browser';return;}
   const synth=window.speechSynthesis;
-  const blocks=[...prose.querySelectorAll('p,blockquote,li,h2,h3')].filter(el=>el.textContent.trim());
+  // Read only narrative blocks: collapsed Historical Notes are reference material,
+  // and container blocks with nested paragraphs would otherwise be spoken twice.
+  const blocks=[...prose.querySelectorAll('p,blockquote,li,h2,h3')].filter(el=>
+    !el.closest('details') && !el.querySelector('p,blockquote,li,h2,h3') && el.textContent.trim()
+  );
   let index=0,active=false,session=0,utterance=null;
   const clearHighlight=()=>prose.querySelectorAll('.speech-active').forEach(el=>el.classList.remove('speech-active'));
   const setStatus=(value)=>{status.textContent=value;};
