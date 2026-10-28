@@ -28,7 +28,7 @@ I could hear the river beyond the houses. Someone was calling for a pole. Amaya 
 
 "Then go. If you promise her your hands, keep them there."
 
-I went by the market path. The calls grew louder as I descended. At the landing a boat lay a short distance from the stones, held against the current by a pole at its stern. Its bow rose and fell where the water met the lower bank. Three baskets sat on the mud above the water, each covered with damp leaves. Sela stood beside them, arguing with a man in a short wet garment. Hiran held the pole in the boat. I recognized her from the meeting at the hall.
+I went by the market path. The calls grew louder as I descended. At the landing a boat lay a short distance from the stones, held against the current by a pole at its stern. Its bow rose and fell where the water met the lower bank. Three baskets sat on the firm ground above the mud, each covered with damp leaves. Two carriers had brought them from the lower fish stalls and gone back for their next loads. Sela stood beside them, arguing with a man in a short wet garment. Hiran held the pole in the boat. I recognized her from the meeting at the hall.
 
 "The buyer is waiting," Sela said.
 
@@ -62,19 +62,19 @@ Sela lifted the covering on one basket. Inside were fish packed with leaves, sti
 
 The man in the wet garment looked at the baskets, then at the water.
 
-"My name is Laman," he said. "Sela hired my boat to bring them from the lower bend to this bank. I said I would take them if there was a safe place to land and a man to lift them. I have brought the boat. There is no safe place. I will not put my bow against those stones."
+"My name is Laman," he said. "Sela hired my boat to take them upriver to the market landing. I said I would load them here if there was a safe place for the boat and the baskets. I have brought the boat. There is no safe place to load. I will not put my bow against those stones."
 
-"Could you take them farther up?" I asked.
+"Could you load them farther up?" I asked.
 
 "Where?"
 
 I pointed to a narrow strip beyond the bend. He looked at it for a long moment.
 
-"I have not sounded it. I will not bring a loaded boat into mud I do not know because you can see a patch of ground from here."
+"I have not sounded it. I will not bring my boat into mud I do not know because you can see a patch of ground from here."
 
 Hiran shifted her pole. The boat moved an arm's length downstream before she steadied it.
 
-"I was hired to hold and pole this boat to the agreed landing," she said. "I have done that. If Laman wants another channel, he must ask whether I will work the farther journey. He cannot promise my hands because he owns the hull."
+"I was hired to pole this boat to the agreed loading place," she said. "I have done that. If Laman wants another loading place, he must ask whether I will work the farther journey. He cannot promise my hands because he owns the hull."
 
 "I have not promised them," Laman said.
 
@@ -90,9 +90,9 @@ Sela looked toward the upper path. A boy was coming down with an empty tray, sen
 
 Sela covered the basket again.
 
-"Can the fish go by the other channel?" she asked Laman.
+"Can the fish go by another loading place?" she asked Laman.
 
-"They can. It is farther from her house. I will need another payment for the time and water."
+"They can, if you pay carriers to take the baskets there first. The farther place is away from your buyer's house. I will need another payment for the time and water."
 
 Hiran planted the pole in the mud and held it still.
 
@@ -164,17 +164,17 @@ Laman looked at the basket.
 
 "Have you been paid for this part of the journey?" Sela asked.
 
-"I have been paid to bring it here."
+"I have been paid to bring my boat here."
 
-"Then it is here. I am choosing how it goes the rest of the way."
+"Then your boat is here. I am choosing whether the fish go aboard."
 
 He looked at Hiran. She was still holding the pole. Neither of them spoke for a moment.
 
-"I will take the other baskets back to the lower bend," Laman said at last. "That return is within what I agreed with Sela. After that, she must find another boat or another buyer."
+"I will take my boat back to the lower bend," Laman said at last. "That return is within what I agreed with Sela. She must find carriers for the other baskets or another buyer."
 
-Hiran nodded. "I will pole the return to the lower bend. I will not go to the other channel for the same pay."
+Hiran nodded. "I will pole the return to the lower bend. I will not go to another loading place for the same pay."
 
-Sela accepted the return. The third basket's owner would have to hear that her fish had not reached the upper market. Sela would tell her herself.
+Sela accepted the return. The third basket's owner would have to hear that her fish had not reached the upper market. Sela paid a waiting carrier to take the two remaining baskets back to the fish stalls and said she would tell their owners herself.
 
 I lifted the chosen basket. Its weight settled against my shoulder, and the binding pulled across my palm. The boy went ahead to warn the buyer. I climbed the path with the leaves brushing my cheek. Twice I stopped where the ground was firm, keeping the basket above the mud while I changed hands.
 
@@ -222,4 +222,4 @@ Raya called to the cord owner.
 
 He gathered his line and went to her. Sela took her empty basket up the market path. I was left with a small leaf of grain in my hand and the knowledge that the buyer had accepted only one of three baskets.
 
-I had earned that grain by carrying. The landing had earned nothing. Tomorrow the woman who owned the third basket would have a question for Sela, and Sela would have an answer that included my name. I could not make it a better answer by telling her the truth had been preserved in the hall.
+I had earned that grain by carrying. The boat had carried nothing. Tomorrow the woman who owned the third basket would have a question for Sela, and Sela would have an answer that included my name. I could not make it a better answer by telling her the truth had been preserved in the hall.
