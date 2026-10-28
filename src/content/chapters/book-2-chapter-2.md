@@ -9,7 +9,7 @@ sources: []
 timeline: []
 book: book-2
 chapterNumber: 2
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur]
 places: [brunei]
 events: []

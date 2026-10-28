@@ -9,7 +9,7 @@ sources: [pigafetta]
 timeline: [encounter-1521]
 book: book-2
 chapterNumber: 8
-draftStatus: draft
+draftStatus: final
 characters: [ache, jamil, raden-muda-safi, ruma, tahir]
 places: [brunei]
 events: [encounter-1521]

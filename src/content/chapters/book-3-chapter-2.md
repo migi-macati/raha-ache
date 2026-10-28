@@ -9,7 +9,7 @@ sources: []
 timeline: [return-to-maynila]
 book: book-3
 chapterNumber: 2
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, isan, harun]
 places: [maynila, tondo, manila-bay]
 events: [return-to-maynila]

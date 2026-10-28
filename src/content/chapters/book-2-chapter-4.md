@@ -9,7 +9,7 @@ sources: [pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
 chapterNumber: 4
-draftStatus: draft
+draftStatus: final
 characters: [ache, jamil, hasan-al-fansuri, raden-muda-safi, hamzah, nasir, bakar, tuma]
 places: [brunei]
 events: [ache-brunei-command]

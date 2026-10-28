@@ -9,7 +9,7 @@ sources: [pigafetta]
 timeline: [ache-brunei-command]
 book: book-2
 chapterNumber: 10
-draftStatus: draft
+draftStatus: final
 characters: [ache, sulad, siripada, putri-laila-nur, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri, harun, tamin, isan, naim]
 places: [brunei, maynila]
 events: [ache-brunei-command]
