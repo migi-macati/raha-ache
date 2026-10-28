@@ -124,9 +124,9 @@
   ],
   "studioWork": {
     "chapterId": "book-3-chapter-11",
-    "branch": "editorial/book3-bonus11-1570-evidence-gates-20261028",
-    "state": "editorial_pr_open",
-    "progress": "Core trilogy complete 30/30; Chapter 10 Studio #105 and public #106 merged, Pages 40684800520 build/deploy passed, artifact 12814865708 audited 257 HTML/17,599 references/0 missing. Bonus Chapter 11 The Foreigners Return (1570–71) and bonus Chapter 12 The Last Raha (1572) remain unpublished. Editorial PR #107 updates bonus Chapter 11 six-scene plan to match the published core and primary-source limitations: no retrospective kingdom/fleet/assumed Ache-Sulayman kinship; 1570 expedition Relation is partisan, Riquel 1571 names Ache the Old and Solimane the Young, 1572 succession original text uncollated. Verify #107 exact-head CI and merge when legitimately clear, then begin bonus Ch11 research/prose. Browser-rendered live and actual Read Aloud playback remain unverified.",
+    "branch": null,
+    "state": "research_ready",
+    "progress": "Core 30/30 chapters published. Book III Chapter 10 public PR #106 merge 735447bddb1daece5fa5271278b98b147ced3f29, Pages 40684800520 build/deploy success; artifact 12814865708 audited 257 HTML, 17,599 local references, zero missing, four Historical Notes paragraphs and Read Aloud markup. Bonus Chapter 11 (1570–71) outline corrected in editorial PR #107 merged aa3bcf2defa9d9762aca78c05fcb269e4deefe33 after CI 40685017574 passed. Source cross-check found the 1570 anonymous Relation calls young Soliman nephew of an unnamed older ruler; mapping to Ache the Old in separate 1571 Riquel record is an inference, not an explicit 1570 naming. Corrected both outline and 1570 source dossier via PR #108 merged b822696eefde1eeefd33c2992cee36932a54cdbb after exact-head CI 40685366885 passed. Next: research and draft bonus Chapter 11 Scene 1 with fifty-year gap, 1570 tide-aware approach, source-attributed witnesses, no invented father-son relationship, no retrospective kingdom/fleet, and keep 1572 baptism/death for bonus Chapter 12. Browser-rendered live and actual audio remain unverified.",
     "blockers": []
   },
   "researchWork": {
