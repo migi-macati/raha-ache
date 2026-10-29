@@ -284,6 +284,8 @@ Iya held the split peg up so that the pale broken wood caught the light.
 
 The boat remained in the water.
 
+---
+
 The man at the stern drove his pole down again. It went deeper than he expected. His hands slid along the wet wood, and the boat turned broadside before he could free it.
 
 "Keep the bow out," I called.
@@ -580,6 +582,8 @@ Dala pulled the needle free. She looked toward the water, then at the groove my 
 
 She put the needle back through the mesh. The boat waited beyond the post. I could hear the pole-handler counting his breaths as he held it against the current.
 
+---
+
 I knelt beside the groove and put my fingers into the mud.
 
 Dala had cut it to let water run away from the place where she mended her net. My heel had broken one edge. The water no longer followed the narrow channel. It spread beneath the nearest stake and left the cord hanging over a shallow pool.
@@ -854,6 +858,8 @@ Raya lifted the end of the step a finger's breadth with her staff. Water ran fro
 
 I set my hands where she showed me. The wood was heavier than I remembered. Behind us Iya began walking toward the bend, keeping to the higher path and carrying the broken peg herself.
 
+---
+
 Raya told me to keep my hands beneath the sound end of the step.
 
 She had lifted the loose brace out of its hollow. A strip of mud hung from it and fell in pieces against my forearm. The girl who carried Raya's basket stood farther up the path, holding the cord out of the wet. Dala watched the water running toward her channel. Each time Raya moved the wood, Dala moved the net another little distance from it.
@@ -1110,6 +1116,8 @@ Salin turned his head.
 
 He pushed away. The canoe crossed toward the upper bank without touching the marker. I stayed beside the owner, watching the three pots travel in the other direction. The hall had kept its word. The landing had earned nothing that morning, and the loose brace still lay above the water where Raya had put it.
 
+---
+
 The next morning the old stones showed their tops.
 
 I could see three of them from the hall, a dark line below the place where Raya had barred the upper step. The water had gone down in the night. A strip of mud lay between the stones and Dala's path, narrow enough that a man with a basket would have put his foot in her drainage groove. I went down before anyone came to tell me that the landing was open.
@@ -1305,6 +1313,8 @@ I looked at the boat. Ranu had heard him.
 I told the boy I would come for the jars. When I reached the potter's yard, I would miss the chance to watch the first boat approach. I could still carry what I had promised. The keeper could stand at the stones without pretending that she owned either bank.
 
 Ranu told Ilan to turn the boat. The pole-handler planted his pole and brought the bow around. They went toward Nali's path to make the payment before beginning the journey we had only spoken about.
+
+---
 
 The first jar was heavier than the boy had said.
 
