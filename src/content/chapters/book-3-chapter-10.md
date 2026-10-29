@@ -1,7 +1,7 @@
 ---
 id: book-3-chapter-10
 name: "Book III, Chapter 10: Before the Water Turned"
-aliases: ["Before the Water Turned", "The Kingdom Holds"]
+aliases: ["Before the Water Turned"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, lakandula, sulad, maynila, tondo, manila-bay, part-3-institutions, book-3-final-crisis, bay-coalition-crisis, book-3-chapter-11, story-architecture-standard]
