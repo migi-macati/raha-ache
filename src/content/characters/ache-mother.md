@@ -8,8 +8,8 @@ relations:
     type: reported son
     certainty: possible
   - target: salalila
-    type: husband
-    certainty: strong-inference
+    type: proposed husband (later reconstruction)
+    certainty: possible
   - target: siripada
     type: reported father
     certainty: possible

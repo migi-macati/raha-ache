@@ -6,10 +6,10 @@ status: historical
 relations:
   - target: ache
     type: identified as father in later reconstruction
-    certainty: strong-inference
+    certainty: possible
   - target: ache-mother
     type: identified as husband in later reconstruction
-    certainty: strong-inference
+    certainty: possible
 related: [ache, ache-mother, maynila, dynastic-network]
 sources: [aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies]
