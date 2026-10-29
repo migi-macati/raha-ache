@@ -254,6 +254,8 @@ She meant Nasir. I knew she meant Nasir. I had been thinking about Sulad, about 
 
 I took her board and read the three headings again. There was still an empty space after her brother's name. She listened while I left it empty.
 
+* * *
+
 The rain began while I was carrying a message from the returned junk's master to the receiving house. By the time I reached the yard, water was running off the roof in thick ropes and gathering in the hollow where the jars stood.
 
 Laila had ordered the largest jars moved onto planks. Four women were working under the eaves. One held the mouth of a jar steady while the others lifted its base. They set it down, rolled their shoulders, and went back for the next. A boy stood beside the door with a tally. He was making marks faster than the women could move the jars.
@@ -458,6 +460,8 @@ I had been offered work I could do. There was food to be counted, a store that c
 
 I walked back through the wet yard with the master's board under my arm. I had no answer for Laila. I had not promised to return after the market. For once I knew she would not count me until I did.
 
+* * *
+
 Jamil sent for me when the water was low enough to walk beneath the houses on the eastern bank.
 
 The messenger said the ruler would be there. I had expected to be called into the hall where men stood according to their place and waited for a name to be spoken. Instead I found Siripada in the shade beneath a raised house inside the palace enclosure, watching two carpenters remove a rotten crosspiece from the platform above him.
@@ -652,6 +656,8 @@ I had been offered two places. One had a roof, work I knew how to do, and people
 
 I went toward the landing to find the owner Ruma had mentioned. I did not know whether he had arrived. I knew I would have to let him answer before I counted his boat.
 
+* * *
+
 The owner came after the market, when the boats that had brought vegetables were already leaving with their baskets empty.
 
 Ruma pointed him out from the landing. He was kneeling beside a low cargo vessel, drawing a cord beneath its bow while two men held the other end on the bank. The hull had been dragged high enough to show a pale scrape where the bottom had touched stone. A boy with a pot of resin stood behind him.
@@ -839,6 +845,8 @@ Jamil set the boards beside his own. He did not say I had earned a ship.
 "Go back and finish the count," he said. "Then I can tell Siripada what is real."
 
 I went back to the landing. Harun's men were lifting the repaired sail into the late light. They had sewn a new strip where the stitches failed. The cloth held when the wind caught it, but the mast was still bare. I could see the shape of a voyage now. I could also see every space where someone had yet to say yes.
+
+* * *
 
 The next morning Harun had drawn a line down the middle of his board.
 
@@ -1085,6 +1093,8 @@ I left the palace with no letter in my hand. At the landing Harun's crew had tak
 The space where my name belonged on Harun's board was still empty. I knew now what I would give to fill it.
 
 The letter was shorter than I expected.
+
+* * *
 
 Siripada had it read to me beneath the same raised house where I had first asked for ships. The rotten crosspiece was gone. A new one held the platform above us, and the carpenters had taken their tools away. Jamil stood beside the ruler with the boards Harun and Tamin had marked.
 
