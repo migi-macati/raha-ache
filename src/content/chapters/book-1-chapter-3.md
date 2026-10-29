@@ -66,6 +66,8 @@ The morning after the hearing, Sulad and I carried replacement bamboo stakes to 
 
 Over the next three days I studied the landing tallies, and found more collections made by men who claimed authority from Tondo, Maynila, or both. Some names repeated. Some did not. Some payments had no clear collector at all.
 
+On the first two afternoons I brought food from my own share to the injured rower, as I had promised. His sister took both bundles. The paddle she had set against the hearing-room wall now leaned beside their doorway, still unused.
+
 I wanted to follow the money.
 
 My mother wanted me to accompany Ula.
