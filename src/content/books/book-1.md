@@ -8,323 +8,66 @@ related: [ache-attraction-romance-chemistry, psychologically-credible-characters
 sources: [relacion-voyage-luzon-1570, plasencia-customs-tagalogs-1589, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
 ---
-## Story promise
+## The published book
 
-A young-prince survival and flight story. Ache begins with status, home, family, and inherited expectations, loses the security beneath them, and is forced onto a maritime journey where inherited rank matters less than judgment, trust, and endurance.
+Ache begins as Maynila's young heir, sure that knowing the river means knowing the people who work on it. A reckless outing leaves a rower injured and a fisherman's net damaged. The ensuing claims draw him into disputes over labor, passage and the power to record another person's obligations. His mother tries to preserve a fragile arrangement with Tondo while Ache searches for a route out.
 
-The reading experience should move from **river and household → political pressure → irreversible departure → survival voyage → arrival in a much larger world**.
+The book follows his departure with Sulad and their difficult passage through working landings to Brunei. They survive through paid labor, borrowed shelter, negotiation and the decisions of people who owe them nothing. In Brunei, Ache's claim to kinship earns him a hearing, not an army. The final scene finds him learning to count cargo at a receiving platform.
 
-## Central dramatic question
+The published ten chapters resolve the immediate question of whether Ache and Sulad can leave Maynila and reach Brunei. They do not resolve Tondo's claims, repay every debt, secure a captain in advance or restore Ache's rule. The title *The King of Luzon* names an aspiration and later historical identification, not a kingship established by these scenes.
 
-**Can Ache survive losing Maynila without surrendering his claim, his companions, or the person he might still become?**
+## Chapter-by-chapter reading guide
 
-## Starting state
+### 1. [The Boy Prince](/raha-ache/chapters/book-1-chapter-1/)
 
-Ache is a talented but responsibility-avoidant heir who assumes Maynila will remain available to him when he is finally ready.
+Ache's river confidence and Sulad's caution collide with the lives of other boat users. A rescue leaves a rower hurt, a fisherman's net damaged and Ache responsible for work he cannot dismiss as a prince's inconvenience.
 
-## Ending state
+### 2. [The Paddle Against the Wall](/raha-ache/chapters/book-1-chapter-2/)
 
-Ache reaches Brunei as an exile who has chosen responsibility for his own claim. He has not regained power, but he has stopped expecting inheritance to protect him.
+A hearing makes the costs of the river incident concrete. Ache confronts his mother's governing choices and the contested recording of crew and cargo. He and Sulad promise to help set the fisherman's stakes at first light.
 
-## Primary plot
+### 3. [A Grandson Is Not a Fleet](/raha-ache/chapters/book-1-chapter-3/)
 
-Tondo's encroachment turns Ache's uncertain succession into an immediate threat. His mother's accommodation keeps Maynila alive but leaves Ache convinced that his inheritance is being surrendered piece by piece. Unable to win a direct confrontation, Ache chooses flight.
+Ula accompanies Ache upriver. A clerk's marks can help find missing rowers or expose them to demands for service. Bruneian kinship and a Malay-speaking trader offer possible connections, without guaranteeing transport or command.
 
-The second half of the book converts political loss into a survival plot. Ache and Sulad move through the Mindoro–Palawan corridor while pursuit, scarcity, unfamiliar communities, and the sea strip Ache of the privileges of home. He reaches Brunei only after learning to negotiate, rely on others, and make decisions whose consequences fall on more than himself.
+### 4. [The Second Crossing](/raha-ache/chapters/book-1-chapter-4/)
 
-## Main conflicts
+Ache follows the disputed crew marks and sees what Tondo's reach costs workers and households. Sima's work and consent matter more than a ruler's tidy tally. Ache's mother refuses to treat his impatience as sufficient grounds for breaking an arrangement.
 
-### Ache versus responsibility
+### 5. [The Boat That Stayed](/raha-ache/chapters/book-1-chapter-5/)
 
-Ache wants freedom without the full burden of being heir.
+A merchant's baskets, unpaid first-voyage rowers and uncertain messages expose the gap between deciding to leave and finding passage. Ache's mother grants only conditional permission; Ula has not secured a captain; Sulad has not committed to travel. No boat departs with Ache in this chapter.
 
-**Progression:** avoidance → forced choice → responsibility for companions → acceptance that reclaiming Maynila requires transformation.
+### 6. [No Boat Owed Us](/raha-ache/chapters/book-1-chapter-6/)
 
-### Ache versus Tondo's encroachment
+The terms of passage are worked out through repeated requests, wages, household obligations and reluctant consent. Ache and Sulad finally leave Maynila, but their first stop offers neither guaranteed onward travel nor protection. They must ask a stranger for shelter.
 
-Tondo's pressure is the external force that makes delay impossible.
+### 7. [The Length of a Rope](/raha-ache/chapters/book-1-chapter-7/)
 
-**Progression:** distant political pressure → visible loss → impossible choice → pursuit → temporary escape rather than final defeat.
+A host household, a buyer and a brief encounter with Mulaw reveal the limits of a name offered as an introduction. Mulaw does not promise a boat or alliance. Ache and Sulad return to finding work and food.
 
-### Ache versus his mother's strategy
+### 8. [The Unfinished Edge](/raha-ache/chapters/book-1-chapter-8/)
 
-His mother prioritizes survival and continuity; Ache experiences accommodation as surrender.
+Carrying baskets and learning a mat-mender's craft become ways to earn a place aboard. The offer is bounded by the owner's goods, timetable and conditions. Sulad learns alongside Ache without becoming his servant.
 
-**Progression:** generational disagreement → political rupture → departure. The book does not prove either worldview wholly correct.
+### 9. [Seven on the Board](/raha-ache/chapters/book-1-chapter-9/)
 
-### Ache versus the journey
+Water, cargo, missing places on a board and the labor needed to keep a boat moving test what the two companions can promise. The chapter ends with another request for passage, not a naval battle, final pursuit or great storm.
 
-The sea turns rank into a weak currency.
+### 10. [Before the First Load](/raha-ache/chapters/book-1-chapter-10/)
 
-**Progression:** confidence in sailing → exposure to danger and scarcity → dependence on strangers → leadership under pressure → arrival.
+The companions reach Brunei by working their way through the port's obligations and witnesses. Ache seeks recognition from Siripada and must learn how the receiving household actually functions. He finishes by making his first tally as cargo comes ashore. Arrival is earned; military backing remains unpromised.
 
-## Subplot architecture
+## People and unresolved obligations
 
-### Ache and Sulad
+[Ache](/raha-ache/characters/ache/) narrates the book in first person. He is capable, impatient and repeatedly tempted to mistake an intention for an agreement. [Sulad](/raha-ache/characters/sulad/) helps him, refuses easy promises and makes choices about his own labor and travel. [Ache's mother](/raha-ache/characters/ache-mother/) has obligations to Maynila's households that Ache only partly understands. [Ula](/raha-ache/characters/ula/) and [Bulkan](/raha-ache/characters/bulkan/) have responsibilities beyond helping the heir depart. [Sima](/raha-ache/characters/sima/) and the rowers are affected by decisions made in their names.
 
-**Function:** friendship becomes tested partnership.
+The first-voyage rowers' wages and other claims are not erased by Ache's departure. His relationship with his mother remains unsettled. The court's willingness to receive his words does not make those words true without witnesses. Book II begins with Ache and Sulad learning their place in Brunei's working port.
 
-Chapters 1–3 establish familiarity and contrast. Chapters 4–6 force Sulad to choose Ache over safety. Chapters 7–9 test whether Ache treats Sulad as a follower, protector, or partner. By Chapter 10, their relationship has been forged by shared exile.
+## Historical limits and research
 
-### Ache and his mother
+Ache's youth, the named conversations, the tally disputes, labor arrangements, routes taken by these fictional crews and the details of his mother's decisions are novel construction. Later accounts associated with [Aganduru Móriz](/raha-ache/sources/aganduru-moriz/) inform the broad story of an Ache–Brunei connection but do not document these scenes. In particular, the exact original Spanish passage remains uncollated. Historical names and family relationships are qualified separately in their Universe entries.
 
-**Function:** love and political disagreement become inseparable.
+The [living-port dossier](/raha-ache/research/maynila-living-port-1500/) and [language and social-order research](/raha-ache/research/maynila-language-arts-social-order/) provide context for work, trade and contested status; they are not evidence that this particular clerk or tally system existed. [Foreign contacts](/raha-ache/research/foreign-contacts-ache-era/), [Brunei evidence](/raha-ache/research/brunei-relationship/) and [the historical-suspense contract](/raha-ache/research/historical-suspense-contract/) distinguish plausible background, documented testimony and fictional invention.
 
-Chapters 2–5 carry this subplot. It resolves for the book through separation, not reconciliation.
-
-### Religion and identity
-
-**Function:** Ache's Muslim formation exists inside a plural local world and becomes one connection to Brunei.
-
-Chapter 3 foregrounds it; later chapters test whether identity gives belonging, practical advantage, or neither.
-
-### The widening world
-
-**Function:** Maynila ceases to be the whole map.
-
-Chapters 6–10 progressively introduce routes, peoples, customs, and political worlds that will matter later in the trilogy.
-
-## Themes and subthemes
-
-### Theme: inheritance versus earned worth
-
-Ache inherits a name and claim but discovers that neither can keep him safe.
-
-**Subthemes:** privilege, responsibility, legitimacy, usefulness, survival.
-
-### Theme: home and identity
-
-The farther Ache travels from Maynila, the more consciously he must decide what part of Maynila he is carrying with him.
-
-**Subthemes:** exile, belonging, memory, cultural plurality.
-
-### Theme: leadership begins with dependence
-
-Ache cannot become a leader until he experiences needing other people.
-
-**Subthemes:** trust, friendship, humility, reciprocity.
-
-## Character arcs
-
-### Ache
-
-**Begins:** talented, curious, adventurous, politically impatient, resistant to obligation.
-
-**Pressure:** father's absence, mother's regency, Tondo encroachment, flight, scarcity, danger.
-
-**Ends:** still proud and ambitious, but now accepts responsibility for choices and followers. He has learned that wanting Maynila is not the same as being capable of ruling it.
-
-### Sulad
-
-**Begins:** close companion and practical counterweight to Ache.
-
-**Progression:** becomes the person who shares the cost of Ache's decisions, not merely the person who helps him execute them.
-
-**Ends:** tested companion whose loyalty has become chosen rather than assumed.
-
-### Ache's mother
-
-**Begins:** regent trying to preserve Maynila through accommodation.
-
-**Progression:** increasingly conflicts with Ache because each believes the other is risking the polity in a different way.
-
-**Ends:** separated from Ache by his departure; her political choice remains one of the unresolved meanings of "survival."
-
-### Lakandula
-
-**Function:** personalizes Tondo's pressure through kinship.
-
-He should remain more than a flat villain: his interests, obligations, and interpretation of legitimate power should become increasingly intelligible even as Ache opposes him.
-
-## Escalation structure
-
-**Chapters 1–2:** Ache's ordinary world and inheritance.
-
-**Chapters 3–4:** identity and Tondo pressure make the political problem unavoidable.
-
-**Chapters 5–6:** Ache commits to flight and loses the protection of home.
-
-**Chapters 7–8:** the journey forces cooperation and negotiation.
-
-**Chapter 9:** final pursuit and storm create the book's survival crisis.
-
-**Chapter 10:** arrival in Brunei resolves the flight and opens the next stage of Ache's life.
-
-## Chapter progression map
-
-### 1. The Boy Prince
-
-**Plot:** establish Ache's freedom, skill, and unearned security.
-
-**Subplots:** Ache–Sulad friendship; Ache versus responsibility.
-
-**Theme:** inheritance versus earned worth.
-
-**Character:** Ache is capable but not yet accountable.
-
-**Handoff:** the next chapter reveals the household and political structure supporting that carefree life.
-
-### 2. Family and Community
-
-**Plot:** father's death and regency clarify the succession problem.
-
-**Subplots:** mother–son relationship; Lakandula enters the political field.
-
-**Theme:** duty to family versus duty to polity.
-
-**Character:** Ache starts seeing his private life as political.
-
-**Handoff:** identity and religious formation widen the question of where Ache belongs.
-
-### 3. The Muslim Way
-
-**Plot:** Bruneian influence and religious formation establish a possible outside connection.
-
-**Subplots:** Ula and older ritual traditions; Ache's identity.
-
-**Theme:** belonging in a plural world.
-
-**Character:** Ache understands that his identity connects him to more than one political and cultural sphere.
-
-**Handoff:** Tondo pressure turns identity into a material political problem.
-
-### 4. Encroachment
-
-**Plot:** Ache discovers that Tondo's gains are real.
-
-**Subplots:** mother–son political conflict; kinship with Lakandula.
-
-**Theme:** survival versus surrender.
-
-**Character:** Ache's impatience hardens into a decision that he cannot accept passive loss.
-
-**Handoff:** he must choose what action that conviction actually demands.
-
-### 5. Fight or Flight
-
-**Plot:** direct resistance is judged unwinnable; Ache prepares to leave.
-
-**Subplots:** rupture with his mother; Sulad chooses whether to follow.
-
-**Theme:** courage versus recklessness.
-
-**Character:** Ache makes his first genuinely costly strategic choice.
-
-**Handoff:** departure becomes irreversible.
-
-### 6. Flight
-
-**Plot:** Ache leaves Maynila and enters the southward route under pursuit.
-
-**Subplots:** Ache–Sulad dependence; loss of household protection.
-
-**Theme:** freedom and its cost.
-
-**Character:** Ache becomes responsible for survival rather than status.
-
-**Handoff:** unfamiliar people now determine whether the fugitives can continue.
-
-### 7. The Visayan
-
-**Plot:** confrontation with Lakanmulaw or another Visayan force becomes cooperation under shared danger.
-
-**Subplots:** widening alliance network; prejudice and mistrust.
-
-**Theme:** enemy, stranger, ally.
-
-**Character:** Ache begins learning that useful alliances cannot be commanded into existence.
-
-**Handoff:** cooperation must now solve practical scarcity.
-
-### 8. Diplomacy and Supplies
-
-**Plot:** food, passage, protection, and boats depend on bargaining.
-
-**Subplots:** Ache–Sulad disagreement over risk; reputation beyond Maynila.
-
-**Theme:** authority versus persuasion.
-
-**Character:** Ache learns to negotiate from weakness.
-
-**Handoff:** the final pursuit will test whether those lessons hold under violence.
-
-### 9. The Last Storm
-
-**Plot:** pursuit and weather converge into the final survival crisis.
-
-**Subplots:** Ache–Sulad trust; consequences of earlier alliances.
-
-**Theme:** leadership under fear.
-
-**Character:** Ache stops acting like someone being carried to safety and takes responsibility for the group's survival.
-
-**Handoff:** the survivors reach the threshold of Brunei.
-
-### 10. The Sultan
-
-**Plot:** Ache reaches Siripada's court and completes the flight.
-
-**Subplots:** Ache–Sulad partnership; kinship with Brunei.
-
-**Theme:** birthright versus usefulness.
-
-**Character:** Ache accepts that being received as kin is not the same as being restored as ruler.
-
-**Resolution:** the Book I question is answered. Ache survives exile and chooses the harder path of becoming capable of return.
-
-## Carry-forward into Book II
-
-Ache still lacks command, military credibility, and the force needed to reclaim Maynila. Brunei can provide opportunity, but Book II must determine whether Ache can earn what he needs rather than simply inherit it.
-
-## Historiographical throughline: inherited power and negotiated belonging
-
-[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) is a **critical interpretive lens**, not a new source of historical facts about Ache. Its argument about how societies change is useful; its “heritage of smallness” thesis should be tested, not affirmed.
-
-- **Chapters 1–4:** Show the Pasig communities as competent, commercially connected, internally diverse political actors. Ache's mother and Lakandula must have materially intelligible reasons for their choices; small-scale governance must not be narrated as collective inferiority.
-- **Chapters 5–9:** As Ache loses status, pilots, dependents, hosts and companions reveal forms of knowledge and authority that inheritance had kept him from seeing. The sea enlarges Ache's political imagination without implying that Maynila lacked one.
-- **Chapter 10:** Brunei exposes Ache to different forms of scale and court practice but is neither an automatic civilizational upgrade nor a guaranteed sovereign over Maynila.
-
-**Character test:** Ache's error is assuming his claim gives him command over a people; his growth comes from recognizing the obligations and consent on which command depends. Distinguish the later Aganduru Moriz story from attested 1521 testimony in the [Brunei evidence audit](/raha-ache/research/brunei-relationship/).
-
-## Maritime-world research integration
-
-[Foreign Presence and Influences in Raha Ache's Maritime World](/raha-ache/research/foreign-contacts-ache-era/) expands the setting without altering the book's flight-to-Brunei plot.
-
-**Background already familiar to Ache:** Chinese ceramics and trade intermediaries; goods ultimately from India, Southeast Asia, and southern China; Muslim Bruneian connections and older local ritual traditions. These should appear as everyday objects, relationships and occasional disputes in Chapters 1–4, not as exhibits explaining the history of civilization.
-
-**Conflict mechanism:** control of merchants and cargo can make Tondo's pressure on Maynila concrete. The mother's decision to maintain a fragile trade arrangement may save households Ache has not considered. The journey through Mindoro and Palawan progressively reveals markets in which Luzon people have already been trading for generations.
-
-**Chapter 10:** Brunei should contain interpreters, merchants who have been to Malacca, Indian-made cloth transshipped through regional ports, traders bringing Chinese wares, and Luzon people living abroad. Ache has traveled far but has not discovered the wider world for the first time.
-
-**Evidence guardrail:** do not import Majapahit or Srivijaya as living colonizing empires of sixteenth-century Luzon; do not invent a large Japanese community in Ache's youth. [Pires's contemporary account](/raha-ache/sources/tome-pires-suma-oriental/) is much more useful for the active c.1512–15 trade network.
-
-
-## Everyday Maynila: research integration
-
-[Living Maynila](/raha-ache/research/maynila-living-port-1500/) grounds the current first three chapters in a working harbor: fishing rights, contested landings, merchant credit, kin obligations and uneven language skills. Preserve the existing rescue and compensation scenes. The shared Tondo–Maynila tally clerks in Chapter 2 remain invented political institutions, not a documented sixteenth-century bureaucracy. Book I should not backdate the specifically reported Chinese and Japanese resident counts from **1570** to Ache's youth circa **1500**. Santa Ana finds are earlier still. Chapter 3's Malay-speaking trader remains plausible as a fictional encounter within older Luzon–Brunei–Malacca routes.
-
-## Language, art and status research for Book I
-
-Use [Maynila language, arts and social order](/raha-ache/research/maynila-language-arts-social-order/) to refine Chapters 1–3: Ache's first choices affect a fisherman's property and a porter's labor, imported jars and garments have owners and makers, and his fluency in Malay can fail when trade vocabulary outruns court greetings. Local Tagalog social labels **maharlika**, **aliping namamahay** and **aliping sa gigilid** have precise differences in later evidence, but individual c.1500 household membership is **novel reconstruction**.
-
-Avoid treating the **900 CE Kawi-related** inscription as Ache's baybayin record, or the **1593** printing as proof of a uniform court archive. Artistic craftsmanship should surface through action, not showpiece exposition.
-
-## Narrative escalation revision: danger within ordinary life
-
-The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contract/) and [character stakes and reversals matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/) supersede a simple *young prince learns a lesson each chapter* reading. The first three **prose chapters have been revised**: the Chapter 1 rescue now injures a rower's hand; Chapter 2 refuses to declare the injury settled and foregrounds the contested counting of crew members; Chapter 3 shows the clerk using those counts to help search for missing sailors, while revealing their possible coercive use. The specific events and people are **fiction**, not historical discoveries.
-
-**Book I reader's unresolved questions:** Is the mother's accommodation protection or a concession that endangers dependents? Is Ache right about the danger, yet wrong about how to respond? Who chooses to stay behind when he leaves? Can Sulad say no to him without destroying their friendship? Avoid an evil-mastermind solution; conflicting rights and human motivations suffice.
-
-**Chapter 4:** follow an actual disputed crew/landing or service claim to its cost, rather than restart the Tondo threat. **Chapter 5:** make flight a wound in the Ache–mother and Ache–Sulad relationships, not a painless strategic pivot. **Chapters 6–9:** each alliance and survival solution requires a concrete concession or loss. **Chapter 10:** Siripada's hospitality does not automatically grant an army. Achieve the **flight-to-Brunei resolution** at Chapter 10.
-
-**Pacing:** preserve humor, ordinary pleasures and the riverside intimacy readers might mourn. Threat without a loved place becomes anonymous spectacle.
-
-## Flawed human beings
-
-[Human-character standard](/raha-ache/research/psychologically-credible-characters/): Ache's first rescue mixes generosity and entitlement; Sulad's fear complicates his sarcasm; the regent can regret words and choices without becoming weak. The invented injured rower's family and Tondo clerk retain independent motives and remain active through Chapter 4.
-
-## Romantic and emotional development
-
-[The attraction and chemistry guide](/raha-ache/research/ache-attraction-romance-chemistry/) establishes a **fictional bisexual Ache**, beginning with age-appropriate adolescence. At **16–17** in Book I, show crushes, poorly understood attention, friendships, embarrassment, jealousy, and optional **nonsexual** gestures between willing peers. His existing friendship with Sulad can carry a quiet question rather than a promised romance. Chapter 3's current draft now hints that Sulad's silence troubles Ache for reasons he cannot name.
-
-Do not make the opening chapters a cascade of love interests or a retrofitted love triangle, and do not use the young rescued girl as an attraction. If a girl of comparable age becomes important later, she needs her own agency and story purpose. Give emotional intimacy room without delaying the flight-to-Brunei chapter ten resolution.
+For comparison, [the superseded Book I development outline](https://github.com/migi-macati/raha-ache/blob/7c8c36b6b5be53190a6acbcd604b962a46f8b6f2/src/content/books/book-1.md) remains available in Git history. Its planned pursuit, storm, direct confrontation and royal command should not be read as events in the published chapters.
