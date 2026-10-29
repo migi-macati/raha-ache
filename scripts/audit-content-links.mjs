@@ -70,6 +70,19 @@ for (const collection of collections) {
       if (!data.draftStatus) {
         metadataIssues.push({ path: entity.path, issue: 'chapter missing draftStatus' });
       }
+      if (data.developmentStatus === 'current') {
+        for (const key of referenceKeys) {
+          if (!Array.isArray(data[key])) continue;
+          const seen = new Set();
+          for (const value of data[key]) {
+            const ref = String(value);
+            if (seen.has(ref)) {
+              metadataIssues.push({ path: entity.path, issue: `duplicate ${key} reference: ${ref}` });
+            }
+            seen.add(ref);
+          }
+        }
+      }
     }
 
     if (byId.has(entity.id)) {
