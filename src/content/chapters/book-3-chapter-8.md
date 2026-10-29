@@ -10,7 +10,7 @@ timeline: []
 book: book-3
 chapterNumber: 8
 draftStatus: final
-characters: [ache]
+characters: [ache, amaya, raya, dala]
 places: [maynila, pasig-river]
 events: []
 pov: [ache]
