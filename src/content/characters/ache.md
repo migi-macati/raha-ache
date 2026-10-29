@@ -1,7 +1,7 @@
 ---
 id: ache
 name: Ache
-aliases: [Raha Ache, Raja Ache, Rajah Ache, Raja Matanda, Rajah Matanda, Ladyang Matanda, Raha Ache el Viejo, Laya]
+aliases: [Raha Ache, Raja Ache, Rajah Ache, Raja Matanda, Rajah Matanda, Ladyang Matanda, Raha Ache el Viejo]
 status: historical
 developmentStatus: current
 relations:
