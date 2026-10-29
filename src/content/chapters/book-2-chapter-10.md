@@ -1,7 +1,7 @@
 ---
 id: book-2-chapter-10
 name: "Book II, Chapter 10: Where the River Lets Go"
-aliases: ["Where the River Lets Go", "Luzon on the Horizon", "Admirable Admiral"]
+aliases: ["Where the River Lets Go", "Luzon on the Horizon"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, maynila, brunei, sulad, siripada, putri-laila-nur, book-3-chapter-1, story-architecture-standard, jamil, raden-muda-safi, ruma, tahir, nasir, hasan-al-fansuri, ache-brunei-command, harun, tamin, isan, naim]
