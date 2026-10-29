@@ -150,6 +150,8 @@ Outside, someone shouted for another basket. Ula returned to her shells. I staye
 
 I wanted to ask how long that would take. I had learned enough that morning not to ask her to know what no one had promised.
 
+* * *
+
 On the fourth morning, Ula sent a child to find me.
 
 The child did not know why. He had been told to say that a man had come home and that I should bring my question, not my temper. I gave him a piece of fruit for the errand. He bit it before he was out of sight.
@@ -364,6 +366,8 @@ He left me there. I watched him disappear into the traffic of baskets and jars, 
 
 The silver I had left would not buy even one place beside the baskets. I counted it again anyway, then put it away and took the path home. Behind me the trader called for another jar. His men carried it aboard without looking up.
 
+* * *
+
 My mother was counting jars.
 
 The steward brought them into the shade one by one. He took off each cover, waited while she inspected the grain, then put it back. One jar had a dark line down its side. When he tilted it, a few grains caught in the crack.
@@ -494,6 +498,8 @@ She put the box away.
 
 Outside, the rower and steward lifted together. They took two short steps, stopped to change their grip, and continued. I waited until they had cleared the doorway before leaving. I still had no gold and no place on a boat. I had a list of questions I could no longer pretend someone else had answered.
 
+* * *
+
 Sulad was bringing in the net when I found him. His uncle stood on the bank with one end wrapped around his wrist, taking the weight a little at a time. The wet mesh dragged over the stones.
 
 I caught the loose edge and pulled. Mud came up with it.
@@ -579,6 +585,8 @@ His fingers brushed mine when he took the basket. He might have meant it. He mig
 “I'll come.”
 
 I meant it when I said it. By the time I reached the path, I was already calculating how early I could see the trader first.
+
+* * *
 
 I went to the trader before I went to the fishing bank. I knew what that meant for the fish I had promised Sulad I would help catch.
 
@@ -667,6 +675,8 @@ On the walk back, I asked if he thought the trader fair.
 “I have money of my own. You don't know the difference yet.”
 
 At the fishing bank his uncle was waiting beside the net. Sulad went to him, not to me. I stayed long enough to pull one knot tight, then left for my mother's house with a landing name, a price I could not pay, and no right to tell her Sulad was coming.
+
+* * *
 
 Bulkan was at the door when I returned.
 
@@ -806,6 +816,8 @@ He resumed working the loops, pulling one through another until they held. I tho
 
 I left with a piece of my mother's gold and no claim on anyone else's hands. I had imagined that receiving it would make me ready. Outside, the landing was still full of people whose work could not be hurried because I wanted to leave.
 
+* * *
+
 The next morning, Sulad's uncle had the repaired net laid out on the bank. A cousin was helping him check the weights. Sulad stood apart with a cloth bundle in his hand.
 
 “You came back,” he said.
@@ -911,6 +923,8 @@ I reached toward the gold my mother had given me. Sulad caught the movement.
 “Then we find another boat.”
 
 I left him beside the baskets, holding his own money and his own decision. On the path home I passed the fishing bank. Sulad's uncle and cousin were pushing the boat out together. They did not look toward me.
+
+* * *
 
 My mother had put away the counting board.
 
@@ -1042,6 +1056,8 @@ Sulad nodded. I nodded a moment later.
 
 We had paid for two places. I had imagined I would feel taller. Instead I felt the space where the gold had been, and heard my mother's needle pulling through the cloth long after I could no longer see her.
 
+* * *
+
 Before dawn I could hear the landing from the path.
 
 Someone was dragging a basket across planks. A man called for a light, then cursed because the light had been put where he could not reach it. The boat was still tied to shore. I was relieved to see it and ashamed of the relief.
@@ -1138,6 +1154,8 @@ The trader looked over his cargo, then at us.
 
 Sulad took up his jar. I took up mine. We stepped toward the boat together, though he reached the planks first.
 
+* * *
+
 The plank bent beneath Sulad's foot. I waited for him to move before I followed, carrying the jar away from my hip so it would not strike the side. A crewman reached for it. I held on too long.
 
 “Do you want it aboard or in the water?” he asked.
@@ -1173,6 +1191,8 @@ When the trader finally pointed out the landing where his buyer waited, I did no
 “That's where our fare ends,” Sulad said.
 
 I had known it yesterday. I knew it again now, and the second knowing cost more.
+
+* * *
 
 The first thing I recognized at the new landing was the basket with the pale binding I had watched them load in Maynila.
 
@@ -1275,6 +1295,8 @@ He nodded toward the woman with the tray, who had stopped to speak to someone ne
 We picked up our bundles. Behind us the trader was still bargaining, and the basket with the new binding stood open to the air. I had been counting the journey by how far we had come from Maynila. Sulad was counting how much water remained.
 
 I went with him to ask.
+
+* * *
 
 The woman with the tray was selling cooked fish.
 
