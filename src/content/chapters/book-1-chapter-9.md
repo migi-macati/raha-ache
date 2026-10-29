@@ -1,7 +1,7 @@
 ---
 id: book-1-chapter-9
 name: "Book I, Chapter 9: Seven on the Board"
-aliases: ["Seven on the Board", "The Last Storm"]
+aliases: ["Seven on the Board"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, story-architecture-standard]
