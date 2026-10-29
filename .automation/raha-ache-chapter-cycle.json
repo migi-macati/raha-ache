@@ -136,6 +136,10 @@
     {
       "lesson": "When implementing Read Aloud, exclude collapsed historical/reference notes and prevent parent-and-child block duplication; validate the generated narrative queue, not just the presence of speech controls.",
       "evidence": "29 Oct 2026: PR #123 merged 93894fd5e203de492117999d3a4cbf50d1f27369 after CI 40768960050; Pages 40769185921 deployed; final chapter synthetic narration queue dropped four notes paragraphs (620 to 616) and reached Finished."
+    },
+    {
+      "lesson": "After publication, compare character Universe profiles against actual chapter appearances; remove superseded outline assumptions and distinguish named on-page characters from merely mentioned people before wiring backlinks.",
+      "evidence": "29 Oct 2026: Book I Chapters 3–6 show Ula's conditional inquiry and Bulkan remaining in Maynila, while their Universe profiles still claimed unresolved Ache–Pasay roles; Book I Chapter 4 named Sima without a Universe entry. Scoped canon QA PR #127 reconciles profiles and links without changing chapter prose."
     }
   ],
   "studioWork": {
