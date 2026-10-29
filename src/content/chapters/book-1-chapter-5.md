@@ -4,7 +4,7 @@ name: "Book I, Chapter 5: The Boat That Stayed"
 aliases: ["The Boat That Stayed", "Fight or Flight"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, ula, ache-mother, maynila, tondo, brunei, story-architecture-standard]
+related: [sima, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, ula, ache-mother, maynila, tondo, brunei, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1
