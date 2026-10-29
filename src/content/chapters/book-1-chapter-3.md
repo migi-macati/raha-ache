@@ -10,7 +10,7 @@ timeline: []
 book: book-1
 chapterNumber: 3
 draftStatus: final
-characters: [tondo-harbor-clerk, ache, sulad, ula]
+characters: [tondo-harbor-clerk, rowers-sister, ache, sulad, ula]
 places: [maynila, namayan, brunei]
 events: []
 pov: [ache]
