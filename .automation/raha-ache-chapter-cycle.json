@@ -140,6 +140,14 @@
     {
       "lesson": "After publication, compare character Universe profiles against actual chapter appearances; remove superseded outline assumptions and distinguish named on-page characters from merely mentioned people before wiring backlinks.",
       "evidence": "29 Oct 2026: Book I Chapters 3–6 show Ula's conditional inquiry and Bulkan remaining in Maynila, while their Universe profiles still claimed unresolved Ache–Pasay roles; Book I Chapter 4 named Sima without a Universe entry. Scoped canon QA PR #127 reconciles profiles and links without changing chapter prose."
+    },
+    {
+      "lesson": "Treat browser speech-synthesis cancellation and interruption as explicit playback-state transitions; recover to a restartable state without confusing deliberate Stop or voice-change events with unexpected failure.",
+      "evidence": "29 Oct 2026: Read Aloud recovery PR #124 merged a5cacfc642df1ccbdbf2923a8fb3674c902ee8cf after exact-head CI 40776252150; Pages 40776402073 deployed. Actual device audio still unverified."
+    },
+    {
+      "lesson": "When a chapter makes a time-bound promise, trace it through subsequent published scenes and account for completion, partial completion or an acknowledged delay before calling the continuity resolved.",
+      "evidence": "29 Oct 2026: Book I Chapter 2 promised fisherman's stakes at first light; Chapter 3/4 lacked a clear return sequence. PR #125 corrected next-morning partial work and later return; exact-head CI 40784909806 and Pages 40785058756 succeeded."
     }
   ],
   "studioWork": {
