@@ -24,7 +24,7 @@ Ache reaches Maynila in a trader's boat. The shore recognizes neither his expect
 
 ### 2. [The Door They Left Open](/raha-ache/chapters/book-3-chapter-2/)
 
-A dangerous boat passage, damaged fishing work, witnesses and a disputed marker give Ache an immediate task. He earns a place in the work by answering claims and helping reopen a channel. The older working title *Taking Back Maynila* survives as an alias; there is no military capture or Bruneian marriage in the published chapter.
+A dangerous boat passage, damaged fishing work, witnesses and a disputed marker give Ache an immediate task. He earns a place in the work by answering claims and helping reopen a channel. There is no military capture or Bruneian marriage in the published chapter.
 
 ### 3. [Where the Wood Stood](/raha-ache/chapters/book-3-chapter-3/)
 
