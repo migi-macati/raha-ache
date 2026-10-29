@@ -16,10 +16,10 @@ relations:
     certainty: documented
   - target: sulayman
     type: nephew
-    certainty: documented
+    certainty: strong-inference
   - target: ache-wife
-    type: wife
-    certainty: documented
+    type: reported wife
+    certainty: possible
   - target: sulad
     type: companion
     certainty: novel-canon
@@ -38,11 +38,11 @@ A later account attributed to Aganduru Móriz describes Ache's early Tondo rival
 
 Aganduru says Siripada received him at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers. In 1521 Ache was a Bruneian naval commander. Pigafetta describes the captured commander as the son of the king of Luzon and captain-general of the king of Brunei.
 
-After his release from the European expedition, Aganduru says Ache returned to Maynila, recovered his lands, forced Tondo back, and married a first cousin sent by his grandfather.
+Aganduru's later account says Ache returned to Maynila, recovered his lands, forced Tondo back, and married a cousin sent by his grandfather. The original Spanish passage for the marriage has not been collated, and its date and kinship details remain uncertain.
 
-By 1570 the Spanish encountered him as the senior ruler of Maynila, alongside his nephew Sulayman. Riquel records "Raja Ache the Old" and "Raja Soliman the Young."
+Riquel's 1571 account names "Raja Ache the Old" and "Raja Soliman the Young" among Maynila's rulers. Their commonly reconstructed uncle–nephew relationship is not established by that naming alone.
 
-Ache died in 1572 after baptism. The 1572 succession account says he had no inheriting children by his principal wife and that his property descended to a legitimate nephew.
+A Spanish relation dated 20 April 1572 calls a recently deceased Christian Manila chief **Laya** and says his property passed to an **unnamed nephew**. Identifying Laya with Ache the Old requires comparison with other records; the relation does not name Ache, identify the nephew as Sulayman, or establish an exact baptism or death date. Its statements about wives, children and inheritance reflect the Spanish writer's categories.
 
 ## Current novel canon
 
@@ -56,7 +56,7 @@ An earlier outline used Pasay as Ache's same-age companion. That version is pres
 
 ## Uncertainty
 
-The alleged early Tondo cousin is not securely identified with Lakandula; the Aganduru passage and its source chain require verification. The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The exact chronology of Ache's marriage is reconstructed. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.
+The alleged early Tondo cousin is not securely identified with Lakandula; the Aganduru passage and its source chain require verification. The exact birth year is unresolved. The identity of Siripada with Sultan Bolkiah is a secondary identification. The marriage account is retrospective and its original Spanish passage uncollated; the woman's kinship and the wedding date remain unverified. The Laya–Ache identification, the unnamed 1572 inheriting nephew, and Ache's exact death month remain separate evidence questions. The relationship between Rajah Sulayman and the leader killed at Bangkusay remains unresolved.
 
 ## Novel character flaw and long-range suspense
 
