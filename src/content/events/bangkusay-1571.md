@@ -9,7 +9,7 @@ timeline: []
 date: "3 June 1571"
 dateSort: 15710603
 certainty: documented
-characters: [martin-de-goiti]
+characters: [bambalito, martin-de-goiti]
 places: [bangkusay-channel, macabebe, hagonoy, manila-bay]
 chapters: [book-3-chapter-11]
 ---
@@ -21,4 +21,4 @@ A resistance fleet drawn from communities around Manila Bay and Pampanga fought 
 
 The [NHCP's Bangkusay marker](https://philhistoricsites.nhcp.gov.ph/registry_database/memorare-bangkusay/) records the battle and the death of the Macabebe leader without naming him. Its 2016 [Macabebe marker](https://commons.wikimedia.org/wiki/File:Ang_Kabataang_Pinuno_ng_Macabebe_NHCP_Historical_Marker.png) likewise honors an unnamed young leader. Bambalito and Tarik Sulayman are later attributed names, not verified personal identifications. Rajah Sulayman of Maynila is a distinct documented ruler and is not established as the fallen Macabebe commander.
 
-Only the securely identified Spanish commander is included in the structured `characters` field. The `related` links retain the disputed names as research associations, not verified battle participants. The battle's occurrence is documented; the commander's personal name remains unverified.
+The structured `characters` field includes the unnamed Macabebe commander under the stable legacy ID `bambalito` and the named Spanish commander Martín de Goiti. It does not identify the Macabebe leader as Tarik Sulayman or treat Rajah Sulayman of Maynila as a verified battle participant. The `related` links preserve those disputed name associations for research. The battle's occurrence is documented; the commander's personal name remains unverified.
