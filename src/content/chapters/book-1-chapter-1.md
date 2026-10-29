@@ -4,13 +4,13 @@ name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
+related: [ache-mother, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
 sources: []
 timeline: []
 book: book-1
 chapterNumber: 1
 draftStatus: final
-characters: [ache, sulad]
+characters: [ache, sulad, ache-mother]
 places: [maynila, pasig-river]
 events: []
 pov: [ache]

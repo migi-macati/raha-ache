@@ -43,7 +43,6 @@ timeline: []
 
 - What role, if any, should historical Pasay retain after Sulad became Ache's principal young companion?
 - Who receives the southern-shore land grant in Book III?
-- How should Bulkan and Ula be integrated into the current Ache–Sulad version?
 - Is Lakanmulaw from Panay, Cebu, another Visayan polity, or left deliberately less specific?
 - Does Putri Laila Nur eventually become Ache's historically attested Bruneian cousin-wife, or remain a separate fictional figure?
 - Which Part II supporting characters move from working development into fixed canon?
@@ -70,5 +69,6 @@ timeline: []
 - Narration is first-person multi-POV, with secondary POVs used sparingly.
 - Sulad is the current principal young companion in Book I.
 - Pasay is not the current Book I companion.
+- In published Book I, Ula leads the upriver gathering and makes only a conditional messenger inquiry; Bulkan advises Ache but remains in Maynila when Ache and Sulad depart. Earlier Ache–Pasay travel plans for these characters are superseded.
 - Direct Spanish contact from 1570 through Ache's death belongs to the separate bonus treatment rather than the current Book III core.
 - Historical evidence, strong inference, possible identification, novel canon, and fiction remain visibly distinct.

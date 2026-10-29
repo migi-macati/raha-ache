@@ -4,7 +4,7 @@ name: "Book I, Chapter 6: No Boat Owed Us"
 aliases: ["No Boat Owed Us", "Flight"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, ula, ache-mother, maynila, tondo, brunei, story-architecture-standard]
+related: [sima, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, ula, ache-mother, maynila, tondo, brunei, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [ache-leaves-for-brunei]
 book: book-1
