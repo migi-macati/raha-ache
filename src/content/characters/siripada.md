@@ -5,11 +5,11 @@ aliases: [Ladya Siripada]
 status: historical
 relations:
   - target: ache
-    type: grandson
-    certainty: documented
+    type: reported grandson
+    certainty: possible
   - target: ache-mother
-    type: daughter
-    certainty: documented
+    type: reported daughter
+    certainty: possible
   - target: sultan-bolkiah
     type: possible same ruler
     certainty: possible
@@ -19,7 +19,7 @@ timeline: [ache-leaves-for-brunei, ache-brunei-command]
 ---
 Ruler of Brunei and maternal grandfather of Ache in Aganduru Moriz's account.
 
-Aganduru calls him Ladya Siripada. Secondary works commonly connect Ache's Bruneian grandfather with Sultan Bolkiah/Bulkeiah, but the archive keeps the identification explicit rather than merging the names automatically.
+Aganduru calls him Ladya Siripada. His reported descent through Ache's mother is attested here only through that retrospective narrative, not an independently verified contemporary genealogy. Secondary works commonly connect Ache's Bruneian grandfather with Sultan Bolkiah/Bulkeiah, but the archive keeps the identification explicit rather than merging the names automatically.
 
 ## Flaws and human behavior (fictional)
 
