@@ -8,387 +8,78 @@ related: [ache-attraction-romance-chemistry, psychologically-credible-characters
 sources: [relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-tradeware-philippines, ubaldo-iaccarino-japanese-luzon, nick-joaquin, laura-lee-junker, resil-mojares, aganduru-moriz, william-henry-scott, riquel-1571, relacion-1572]
 timeline: [return-to-maynila, ache-marriage, bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571, bangkusay-1571, ache-baptism-death-1572]
 ---
-## Story promise
+## The published book
 
-A restoration and state-building political saga.
+Ache returns to Maynila aboard Harun's privately owned trading vessel, with Isan and Sulad beside him. He has no invading fleet, no guaranteed captain, and no authority over the people who kept the landing working while he was away. His mother's household is remembered, but that memory does not give him other people's boats, paths, tools or labor.
 
-Ache finally reaches the home he spent two books trying to recover. The book refuses to make retaking Maynila the endpoint. Victory creates new problems: settlement with Tondo, infrastructure, administration, allies with their own interests, delegated power, succession, and resistance to centralization.
+The ten core chapters follow a modest, difficult restoration of relationships and responsibilities at a river landing. Ache helps open a passage, confronts disputed losses, negotiates the use of wood and shore space, and learns that an account written down can protect a claimant or become a weapon against someone who never agreed to it. The final conflict concerns a proposed charge, witnesses, damaged work and access to a landing. Its resolution is local and conditional. **No kingdom-wide levy, army, royal fleet, appointed port office, territorial grant or marriage is established in the published core.**
 
-The ten-chapter core moves through **return → retaking → settlement → building → governing → regional order → internal crisis → institutional survival**.
+The book's title, *The Kingdom United*, names the political ambition and its limits. It should not be read as a factual claim that Ache has unified the bay. The earlier plan for a military reconquest and centralized state remains part of the project's development history, not the story readers now encounter.
 
-Bonus Chapters 11–12 then follow the documented Spanish crisis and Ache's death as historical coda rather than as the climax of the invented state-building plot.
+## Chapter-by-chapter reading guide
 
-## Central dramatic question
+### 1. [The Bay That Forgot Him](/raha-ache/chapters/book-3-chapter-1/)
 
-**Can Ache turn recovered power into a political order strong enough to survive a serious challenge without depending entirely on his personal command?**
+Ache reaches Maynila in a trader's boat. The shore recognizes neither his expectations nor a simple right of return. The keeper, Amaya, and the people still using his mother's old workspaces make room for him on terms he cannot dictate. Harun's vessel remains Harun's.
 
-## Starting state
+### 2. [The Door They Left Open](/raha-ache/chapters/book-3-chapter-2/)
 
-Ache returns with force, experience, and a claim, but not yet with secure local authority or durable institutions.
+A dangerous boat passage, damaged fishing work, witnesses and a disputed marker give Ache an immediate task. He earns a place in the work by answering claims and helping reopen a channel. The older working title *Taking Back Maynila* survives as an alias; there is no military capture or Bruneian marriage in the published chapter.
 
-## Ending state
+### 3. [Where the Wood Stood](/raha-ache/chapters/book-3-chapter-3/)
 
-By Chapter 10, Maynila's order survives a major fictional coalition crisis through Sulayman, institutions, allies, and a functioning command system. Ache remains important, but no longer has to be the sole mechanism of rule.
+The placement of a stake becomes a dispute between particular owners, carriers and witnesses from the two banks. Ache cannot settle the matter by speaking for all Maynila or Tondo. Lakandula is a historical and political reference, not a participant in the on-page negotiation.
 
-## Primary plot
+### 4. [What the Bank Could Keep](/raha-ache/chapters/book-3-chapter-4/)
 
-Ache returns and retakes Maynila. He then converts military restoration into a settlement with Tondo and begins building the practical machinery of rule.
+Raya tests the landing's timber and the ground beneath it. Dala's nets and working path, Madan's wood, and the cost of carrying and repair determine what can actually be built. The upper step is repaired; the larger berth and imagined fortifications are not completed.
 
-Chapters 4–8 develop the kingdom: fortification and fleet, old alliances, port administration, neighboring relations, and delegated authority.
+### 5. [Two Short Cuts](/raha-ache/chapters/book-3-chapter-5/)
 
-Those successes generate the final conflict. Captains and local power-holders resist the taxes, obligations, appointments, records, and permanent structures that reduce their older autonomy. The Book III climax asks whether Ache's system can survive opposition without collapsing back into purely personal rule.
+Baskets, jars, cord and competing claims on the repaired step turn trade into a test of reciprocity. Sera, Lana, Raya and Dala pursue their own work. Mulaw's earlier name and advice do not amount to a promised alliance, and he does not return on-page.
 
-## Main conflicts
+### 6. [The Third Strip](/raha-ache/chapters/book-3-chapter-6/)
 
-### Ache versus the political order that replaced him
+The keeper's marks, an absent buyer and disputed journeys expose the difference between a record, a witness and a right to another person's service. Ache learns to leave claims open where the evidence or consent is incomplete.
 
-**Progression:** return → military restoration → settlement with Tondo.
+### 7. [The Bank at Low Water](/raha-ache/chapters/book-3-chapter-7/)
 
-**Resolved:** Chapter 3.
+Raya's repair and Dala's water channel meet competing needs across the banks. Salin speaks for the fictional Naru household, not for Lakandula or all Tondo. A path and its use must be negotiated with the people who depend on it.
 
-### Borrowed force versus durable local power
+### 8. [The Words She Would Not Carry](/raha-ache/chapters/book-3-chapter-8/)
 
-**Progression:** Bruneian expedition → Maynila fleet and kota → institutions → autonomous operating capacity.
+Iya, Bina and other women choose what testimony or cargo they will carry. Refusal has practical costs but remains their decision. No southern-shore land grant, hereditary appointment or dynastic settlement occurs.
 
-**Resolved:** demonstrated in Chapter 10.
+### 9. [Three Knots](/raha-ache/chapters/book-3-chapter-9/)
 
-### Central authority versus local autonomy
+A proposed watcher charge, a disputed account, Dala's working space and the claims of traders and carriers converge. Salin's authority stays limited to his own household. The conflict is serious for the people at the landing; it is not a general uprising by all bay polities.
 
-**Progression:** reforms seem useful → costs become visible → resentment organizes → coalition crisis → negotiated survival.
+### 10. [Before the Water Turned](/raha-ache/chapters/book-3-chapter-10/)
 
-**Resolved:** Chapters 9–10.
+The landing's owners, makers, fishers and carriers work toward a bounded settlement over access, repairs, payment and who may speak for whom. Ache cannot impose a universal solution. The fictional core conflict closes here without inventing a royal fleet, kingdom-wide administration or Sulayman's off-page command.
 
-### Ache versus succession and time
+### Bonus 11. [The Foreigners Return](/raha-ache/chapters/book-3-chapter-11/)
 
-**Progression:** Sulayman as younger relative/ruler → delegated responsibility → disagreement → real command in crisis.
+The narrative moves to the Spanish encounters of 1570–1571 and changes scale. Mehomete, Pablo, Sulayman and Lakandula enter a documented but contested historical setting. Specific household conversations, missing rowers and private motives are fictional; names and identifications in the records are qualified in the chapter's Historical Notes.
 
-**Resolved for the core:** Sulayman proves capable of carrying authority beyond Ache's direct control.
+### Bonus 12. [The Roof After Rain](/raha-ache/chapters/book-3-chapter-12/)
 
-### Unity versus diversity
+Ache's final illness and death belong to the 1572 historical coda. The account eventually transfers to Awi's first-person voice. Her household testimony, inheritance questions and roof repairs are fiction. The original Spanish testimony and Ache's private beliefs have not been fully verified.
 
-Ache wants a stronger political order, but the bay is not one homogeneous polity.
+## The people who keep the river working
 
-**Progression:** Tondo settlement → alliance network → neighbors → delegated authority → coalition proves the cost of over-centralization.
+[Ache](/raha-ache/characters/ache/) is the principal first-person narrator of the core. His wish to recover home repeatedly exceeds what others have authorized him to do. [Sulad](/raha-ache/characters/sulad/) is present early and later mostly off-page; an older outline's promise of a southern-shore governorship is **not** published canon. [Harun](/raha-ache/characters/harun/) owns the trading vessel that brings Ache home; his transport is not a Bruneian war expedition.
 
-## Subplot architecture
+[Amaya](/raha-ache/characters/amaya/) maintains household obligations and memories that Ache does not fully know. [Raya](/raha-ache/characters/raya/) judges whether timber and ground will hold; Ache cannot simply order her to certify unsafe work. [Dala](/raha-ache/characters/dala/) insists that fishers' nets, racks and paths are property and livelihood, not empty space for a grand project. The keeper, carriers, traders, witnesses and boat owners have independent claims. Salin's fictional Naru household provides a limited contact with the other bank.
 
-### Ache and Lakandula
+[Sulayman](/raha-ache/characters/sulayman/) and [Lakandula](/raha-ache/characters/lakandula/) matter to the broader historical world and bonus chapters, but the core does not depict their proposed joint administration or a succession handover. Ache's supposed early Bruneian marriage is an uncertain retrospective genealogical tradition, not an on-page event in these ten chapters.
 
-Begins as restoration rivalry, becomes negotiated coexistence, and later tests whether the settlement holds under broader political pressure.
+## Dramatic resolution and historical limits
 
-### Ache and Sulayman
+The core's recurring questions are concrete: who owns a landing, who may mark a passage, who pays for a damaged net, who can refuse a journey, and whose account is believed? Each improvement makes another obligation visible. Chapter 10 resolves the immediate fictional dispute through limited agreements and accountable work. It does not settle every political question about Maynila, Tondo or the wider bay.
 
-Begins as succession and generational tension, then becomes the crucial question of whether Ache can trust another political actor with real authority.
+The bonus chapters change the historical scale and narrative perspective. They draw on sixteenth-century accounts of Spanish contact and the reported death of Ache, while keeping disputed identifications and later retellings distinct from contemporary testimony. The source record cannot establish the private dialogue, romance, motives or household arrangements invented for the novel. The original-language Spanish passages cited in the project's research have not all been collated.
 
-This subplot peaks in Chapters 9–10.
+The historical and interpretive dossiers remain available: [the living port](/raha-ache/research/maynila-living-port-1500/), [language and social order](/raha-ache/research/maynila-language-arts-social-order/), [foreign contacts](/raha-ache/research/foreign-contacts-ache-era/), [Nick Joaquin and Philippine becoming](/raha-ache/research/joaquin-philippine-becoming/), [historical suspense](/raha-ache/research/historical-suspense-contract/), [character stakes](/raha-ache/research/trilogy-character-stakes-and-reversals/), and [merchant and status conflict](/raha-ache/research/book-3-merchant-and-status-conflict/). Those pages contain research questions and earlier design proposals; they are not proof that every proposed event was written into the published chapters.
 
-### Ache and Sulad / delegated loyalty
-
-The southern-shore grant strand tests how personal loyalty becomes office, territory, and political structure.
-
-The exact beneficiary remains development work.
-
-### Ache's Bruneian marriage and dynastic network
-
-The marriage belongs to the early restoration period and ties personal life to wider regional legitimacy.
-
-### Institutions
-
-The Harbour Council, Naval Order, scribal system, religious settlement, and other working institutions function as a continuing subplot: each is introduced as a solution and later becomes part of the resistance that produces the final crisis.
-
-## Themes and subthemes
-
-### Theme: winning power versus making it durable
-
-**Subthemes:** institutions, succession, legitimacy, enforcement, continuity.
-
-### Theme: unity versus autonomy
-
-**Subthemes:** centralization, local custom, negotiated authority, federation, coercion.
-
-### Theme: leadership means letting others lead
-
-**Subthemes:** trust, delegation, succession, control.
-
-### Theme: systems create consequences
-
-Every reform solves one problem while redistributing power and creating another.
-
-**Subthemes:** taxation, bureaucracy, recordkeeping, military obligation, unintended effects.
-
-## Character arcs
-
-### Ache
-
-**Begins:** triumphant returning commander.
-
-**Early progression:** discovers restoration requires political compromise.
-
-**Middle:** learns to think in systems, offices, and durable relationships rather than campaigns alone.
-
-**Crisis:** his own reforms produce organized resistance.
-
-**Ends:** accepts that durable rule requires institutions, correction, compromise, and trusted people acting without his direct control.
-
-### Sulayman
-
-**Begins:** younger political figure living in Ache's shadow.
-
-**Progression:** receives responsibility, disagrees with Ache, demonstrates independent judgment.
-
-**Climax:** exercises meaningful command during the coalition crisis.
-
-**Ends:** credible bearer of authority rather than merely a succession problem.
-
-### Lakandula
-
-**Begins:** rival center of power.
-
-**Progression:** becomes partner, competitor, or balancing figure inside a negotiated bay order.
-
-**Function in final crisis:** his response should demonstrate whether the Tondo settlement is real.
-
-### Sulad
-
-**Begins Book III:** old companion whose loyalty predates Ache's institutions.
-
-**Progression:** the land/delegation subplot should test whether personal friendship survives conversion into formal political authority.
-
-### Ache's wife
-
-**Function:** ties domestic life, Bruneian kinship, dynastic legitimacy, and future succession questions together.
-
-Her perspective should be developed independently rather than used only as symbolic alliance.
-
-## Escalation structure
-
-**Chapters 1–3:** return, retaking, settlement.
-
-**Chapters 4–5:** physical and diplomatic consolidation.
-
-**Chapters 6–7:** governing systems and wider regional relationships.
-
-**Chapter 8:** delegation pushes central authority outward.
-
-**Chapter 9:** accumulated resistance becomes open crisis.
-
-**Chapter 10:** the system is tested and survives.
-
-**Bonus 11–12:** a new historical crisis transforms the political world after the core arc is complete.
-
-## Chapter progression map
-
-### 1. The Bay That Forgot Him
-
-**Plot:** Ache returns but discovers arrival is not restoration.
-
-**Subplots:** old loyalties; Brunei versus home; changed relationship to Tondo.
-
-**Theme:** you cannot return to the past.
-
-**Character:** Ache must stop imagining restoration as reversal of time.
-
-**Handoff:** he must take concrete control of Maynila.
-
-### 2. Taking Back Maynila
-
-**Plot:** Ache recovers his lands and pushes Tondo back.
-
-**Subplots:** marriage enters the restoration phase; Bruneian backing versus local support.
-
-**Theme:** military victory versus political legitimacy.
-
-**Character:** Ache proves he can win home but sees that winning cannot be the whole solution.
-
-**Handoff:** peace with Tondo becomes unavoidable.
-
-### 3. The Two Crowns of the Bay
-
-**Plot:** Ache and Lakandula negotiate a settlement.
-
-**Subplots:** kinship rivalry; trade; mutual dependence.
-
-**Theme:** coexistence after conflict.
-
-**Character:** Ache accepts a more complicated victory than total domination.
-
-**Handoff:** secure enough to begin building.
-
-### 4. The Making of the Kota
-
-**Plot:** fortifications, fleet, workshops, stores, and command systems make restoration tangible.
-
-**Subplots:** Panday Pira; technology; labor and resources.
-
-**Theme:** power becomes material and institutional.
-
-**Character:** Ache shifts from campaign thinking to infrastructure thinking.
-
-**Handoff:** resources and allies needed for construction reopen old obligations.
-
-### 5. Old Alliances, New Debts
-
-**Plot:** Palawan and Visayan relationships return as diplomatic obligations.
-
-**Subplots:** Lakanmulaw and other old companions; reciprocity.
-
-**Theme:** favors become politics.
-
-**Character:** Ache learns that allies are not extensions of his will.
-
-**Handoff:** a larger network increases the need for rules and administration.
-
-### 6. The Work of Rule
-
-**Plot:** port rules, records, disputes, naval order, and religious settlement are institutionalized.
-
-**Subplots:** scribes, traders, religious communities.
-
-**Theme:** order always distributes advantage and burden.
-
-**Character:** Ache becomes a governor of systems rather than only people.
-
-**Handoff:** neighbors react to a stronger, more organized Maynila.
-
-### 7. Neighbors
-
-**Plot:** Ache manages relations beyond Maynila and Tondo.
-
-**Subplots:** diplomacy, marriage, trade, force, literacy, reputation.
-
-**Theme:** strength does not erase plurality.
-
-**Character:** Ache learns to distinguish influence from direct control.
-
-**Handoff:** he tries delegated authority as a way to extend order without direct rule.
-
-### 8. The Gift of the Southern Shore
-
-**Plot:** land and authority are delegated to a trusted subordinate.
-
-**Subplots:** Ache–Sulad/Pasay loyalty question; local autonomy.
-
-**Theme:** trust becomes dangerous when formalized as power.
-
-**Character:** Ache chooses to share authority while struggling with the loss of control.
-
-**Handoff:** reforms and delegation reveal who feels threatened by the emerging system.
-
-### 9. The Broken Oath
-
-**Plot:** captains and local power-holders form a coalition against parts of Ache's new order.
-
-**Subplots:** Sulayman's impatience; Lakandula's choice; loyalty of delegated rulers; institutional stress.
-
-**Theme:** reform creates losers; unity cannot mean obedience without limit.
-
-**Character:** Ache must decide whether to answer political resistance with the habits of a conqueror.
-
-**Handoff:** the kingdom faces a test that Ache cannot solve alone without disproving his own project.
-
-### 10. The Kingdom Holds
-
-**Plot:** institutions, allies, fleet, negotiations, and Sulayman's command break the coalition as a unified threat.
-
-**Subplots:** Ache–Sulayman transfer of trust; Tondo settlement payoff; institutional payoff.
-
-**Theme:** durable power is shared, bounded, and adaptable.
-
-**Character:** Ache accepts that successful rule includes letting others act and correcting his own system.
-
-**Resolution:** Book III's main dramatic question is answered.
-
-### Bonus 11. The Foreigners Return
-
-**Plot:** the documented Spanish crisis overtakes the political order.
-
-**Subplots:** Ache versus Sulayman strategy; Lakandula; Bangkusay identities.
-
-**Theme:** institutions meet an external power operating by different rules.
-
-**Character:** Ache confronts a crisis that cannot be solved by repeating his earlier victories.
-
-**Handoff:** accommodation creates the final questions of identity, succession, and legacy.
-
-### Bonus 12. The Roof After Rain
-
-**Plot:** Ache's final years under transformed sovereignty, baptism, succession, and death.
-
-**Subplots:** nephew/succession uncertainty; family and property; Sulayman's position.
-
-**Theme:** what remains when political victory cannot be preserved intact.
-
-**Character:** Ache's arc closes on legacy rather than conquest.
-
-**Resolution:** closes the historical life while leaving the core Book III climax in Chapter 10.
-
-## Carry-forward
-
-There is no Book IV required to complete Book III's invented dramatic promise.
-
-Bonus Chapters 11–12 show history imposing a new order after Ache's own state-building arc has already reached resolution.
-
-## Historiographical throughline: the politics of “becoming”
-
-[The Nick Joaquin and Philippine Becoming dossier](/raha-ache/research/joaquin-philippine-becoming/) supplies Book III's central intellectual tension. Ache's institutional reforms offer real benefits, but Joaquin's “heritage of smallness” is **not** the narrative's verdict on those who resist them.
-
-- **Chapters 1–3:** Restoration is a new political settlement, not recovery of an untouched past. Lakandula's parallel authority and Tondo's claims are credible political alternatives, not proof of fragmentation-as-failure.
-- **Chapters 4–8:** Artillery, a fortified port, ledgers, councils and delegated authority require labor, money, skills and compliance. Show who gains from each system and who loses control; carefully distinguish attested technologies from fictional institutions.
-- **Chapters 9–10:** The fictional coalition crisis must expose specific grievances. Ache succeeds because he corrects and shares authority, not because everyone submits to a prophetic united nation. Sulayman's and Lakandula's decisions must matter independently.
-- **Bonus Chapter 11:** Treat the Spanish expeditions and 1570–71 upheaval as encounters with an existing, historically active world. Do not frame conquest as a civilizational rescue.
-- **Bonus Chapter 12:** Baptism, accommodation, succession and death unfold under unequal choices and incomplete evidence. The future “Filipino” is a category of retrospective historical interpretation, not Ache's stated destination.
-
-**Character test:** Ache must decide what parts of his own creation he will surrender so others can preserve and adapt it. The core book resolves at Chapter 10; the historically grounded coda remains Chapters 11–12.
-
-## Maritime-world research integration
-
-[Foreign Presence and Influences in Raha Ache's Maritime World](/raha-ache/research/foreign-contacts-ache-era/) is the factual framework for Maynila's trade world and the late Spanish encounter.
-
-**Chapters 1–3:** Ache must renegotiate control of overseas trade, Chinese-linked intermediaries, duties, debts and local market access with Tondo and returning merchants. Local authority is partly the power to mediate transactions.
-
-**Chapters 4–8:** vessels, ceramics, cloth, metals, fortifications and arms connect the city to overseas supply chains. Each new harbor rule creates beneficiaries and opponents. Introduce Indian-made goods through Malacca–Brunei intermediaries rather than an undocumented resident Indian quarter. Maintain local technical expertise and workshop agency.
-
-**Chapters 9–10:** trade and customs grievances contribute to the fictional coalition crisis, but do not convert it into a modern unified national market. Ache's settlement preserves plural arrangements where necessary.
-
-**Bonus Chapter 11:** Japanese traders were reportedly present at Maynila when Goiti arrived in May 1570, including a Christian named Pablo (Paulo); this is an evidence-backed possibility for scene design from [Iaccarino's cited archival record](/raha-ache/sources/ubaldo-iaccarino-japanese-luzon/). Put Chinese and other regional interests into the broader port landscape where independently warranted. None should be invented as an eyewitness to Ache's private decisions.
-
-**Bonus Chapter 12:** the new Spanish order reorders an old Asian cosmopolitan port. Conversion, legal status and diplomacy change amid unequal claims, with all three forms of historical evidence, inference and novel invention separated.
-
-
-## Bonus 11: resident foreigners and the 1570 civil population
-
-The [1570 voyage relation](/raha-ache/sources/relacion-voyage-luzon-1570/) reports four Chinese ships, **forty married Chinese and twenty Japanese residents** of Maynila, and families affected by the town's burning. It also describes the Maynila-born interpreter [Mehomete](/raha-ache/characters/mehomete-maynila/), whose trade and family connections ran through Cebu, and the Japanese Christian [Pablo](/raha-ache/characters/pablo-japanese-1570/). Their existence complicates any simple local-versus-European binary. Their motives and private thoughts are unknown. The figures are an attributed **1570 snapshot**, not an earlier census. Read the [Living Maynila dossier](/raha-ache/research/maynila-living-port-1500/) before bonus-chapter revisions.
-
-## New continuing subplot: the Broken Compact
-
-[The Book III merchant, translation, and social-rank subplot](/raha-ache/research/book-3-merchant-and-status-conflict/) now threads Chapters **4–10**. Harbor records and translated agreements make trade predictable but can also turn old negotiations into coercive claims over fishing places, cargo, military service, homes or children. Plasencia's **1589** Tagalog account distinguishes maharlika and aliping namamahay/sa gigilid obligations; particular lawsuits in Ache's time are **fictional**, not documented.
-
-**Arc:** Chapters 4–5 impose manufacturing and reciprocal trade costs; 6 establishes rules and a wrong-status record; 7 tests treaty autonomy; 8 forces Sulad/delegated authority to defend local people; 9 unites commercial and status grievances with the existing coalition resistance; 10 resolves the coalition through Sulayman, council adjudication, corrected registers and negotiated freedoms. The main climax and outcome remain intact.
-
-**Character casting:** [Mehomete](/raha-ache/characters/mehomete-maynila/) is now a **proposed major broker** in late core Book III **only if** Chapters 6–10 are dated to plausible years before his recorded 1570 work; this earlier employment is invented. He can replace the unnamed interpreter/broker role, **not Sulad, Sulayman, Lakandula or Ache's wife**. If the core runs too early, use an original fictional broker there. [Pablo](/raha-ache/characters/pablo-japanese-1570/) becomes a **major supporting figure in Bonus 11**, not a retroactively invented youthful companion. His alleged artillery work remains hearsay.
-
-**Bonus 11:** the documented 1570 interpreter and Japanese Christian resident force readers to reassess the language of peace, allegiance and protection after the town is burned. Both may have strong fictional inner lives but cannot be given invented historical motives. Bonus 12 follows known evidence and their unresolved fates conservatively.
-
-The research basis is [Maynila languages, scripts, art and strata](/raha-ache/research/maynila-language-arts-social-order/) and the prior [living-port dossier](/raha-ache/research/maynila-living-port-1500/).
-
-## Narrative escalation revision: recovery creates a more dangerous flaw
-
-The [Historical Suspense Contract](/raha-ache/research/historical-suspense-contract/) and [character stakes matrix](/raha-ache/research/trilogy-character-stakes-and-reversals/) make the apparent mid-book pause in conflict impossible. **Maynila is still recaptured in Chapter 2**. The victory must be costly, especially to someone Ache thought he was rescuing. **Chapter 3's Tondo settlement** requires relinquishing a power he expected his victory to confer.
-
-**Chapters 4–8 are not five demonstrations of competent management:** a contested building requisition, incompatible debts, a wrong labor-status register, a mistranslated treaty and a delegated officer's refusal each damages a personal relationship and advances the existing [Broken Compact](/raha-ache/research/book-3-merchant-and-status-conflict/) crisis. Ordinary people and independent regional actors remain protagonists of their own lives.
-
-**Chapters 9–10:** some reform critics are correct, others opportunistic; Sulayman makes an irreversible decision without Ache's approval. The final fictional coalition crisis resolves **by Chapter 10** through correction, meaningful concession and delegated command, **not everyone's gratitude**.
-
-**Bonus Chapters 11–12:** 1570–72 documented public events supply dramatic irony but do not predetermine private loyalties. Mehomete's documented role as interpreter and Pablo's reported residence and Christianity can reframe the earlier fictional question of who gets to define peace and protection, without projecting their private motives as history. The ending must be personally moving, not a roll call of source dates. Avoid telling the reader these events were inevitable from the characters' viewpoint.
-
-**Historical irony:** a more secure harbor, reliable records and a powerful fleet are genuine achievements that can still become vulnerable under a new external order. This is tragedy with earned triumphs, not a message that Ache's achievements were pointless.
-
-## Flawed human beings
-
-See [the character standard](/raha-ache/research/psychologically-credible-characters/). Ache's need for order becomes intrusion; Sulad's protection becomes control; Sulayman's decisiveness becomes impatience. Mehomete and Pablo's private personalities are imagined around limited 1570 evidence. Each should have habits, offstage obligations, embarrassing faults and choices that do not revolve around Ache. Avoid a perfect reconciliation at the Chapter 10 crisis.
-
-## Mature intimacy within the political story
-
-[Romance and chemistry guidance](/raha-ache/research/ache-attraction-romance-chemistry/) continues Ache's **fictionally developed bisexual attraction** into his mature and older life. His historical marriage needs real affection or loneliness, daily habits, and private disagreement with a spouse who is a full character. A remembered adult male attachment or lost possibility can deepen the stakes, but marriage does not erase bisexuality and bisexuality does not require infidelity.
-
-Do not force Sulad into a romance because of Book I's possible youth crush, or make the wife an obstacle to be removed. Across the 1570–72 historical coda, keep Ache's intimate choices specific and human, with no invented certainty about historical records of sexuality or motives.
+For editorial comparison, [the earlier Book III development outline](https://github.com/migi-macati/raha-ache/blob/b7c45b0eaff958380bed51df0473e670bccd356c/src/content/books/book-3.md) remains preserved in Git history. Its planned recapture, fortress, fleet, marriage, council and succession arcs were superseded by the published text.
