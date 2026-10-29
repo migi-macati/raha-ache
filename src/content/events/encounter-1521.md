@@ -1,14 +1,14 @@
 ---
 id: encounter-1521
 name: 1521 Encounter
-aliases: [Encounter of 1521, Capture of Ache]
+aliases: [Encounter of 1521, Capture of the Luzon prince]
 status: historical
 related: [ache, elcano, pazeculan, brunei, loue, moluccas]
 sources: [pigafetta, aganduru-moriz]
 timeline: []
 date: "29 July 1521"
 dateSort: 15210729
-certainty: documented
+certainty: strong-inference
 characters: [ache, elcano, pazeculan]
 places: [brunei]
 chapters: [book-2-chapter-8]
@@ -16,6 +16,10 @@ chapters: [book-2-chapter-8]
 Pigafetta records the expedition capturing a junk whose commander was the son of the king of Luzon and captain-general of the king of Brunei. The commander had come from Loue after attacking that city.
 
 Aganduru Moriz identifies the prince with the future Ladyang Matanda and gives a fuller story of his purpose, capture, release, and return.
+
+## Evidence boundary
+
+The encounter and capture are documented in Pigafetta, but his account does not name the Luzon prince Ache. The identification with Ache is a cross-source inference, reflected in this page's certainty field. The detailed Ache sequence below comes from Aganduru's later narrative, not an independent contemporary identification.
 
 ## Aganduru sequence
 
