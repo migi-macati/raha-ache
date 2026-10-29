@@ -24,7 +24,7 @@ I had thought about the injured rower too. Mostly I had hoped his hand would be 
 
 By midday, I was beginning to suspect my mother had arranged the hearing to punish me.
 
-The fisherman brought his brother, who had woven the net. The porter brought a witness who swore that the cargo boat had delayed him before I arrived. The cargo boat's owner brought his daughter, the girl I had helped pull ashore, though he insisted she had come only because there was no one to watch her.
+The fisherman brought his brother, who had woven the net. The porter brought a witness who swore that the cargo boat had delayed him before I arrived. The cargo boat's owner brought his daughter, the girl from the cargo boat, though he insisted she had come only because there was no one to watch her.
 
 She watched me from behind his knee.
 
