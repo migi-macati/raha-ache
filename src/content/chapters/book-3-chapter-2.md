@@ -1,7 +1,7 @@
 ---
 id: book-3-chapter-2
 name: "Book III, Chapter 2: The Door They Left Open"
-aliases: ["The Door They Left Open", "Taking Back Maynila", "Retaking Maynila"]
+aliases: ["The Door They Left Open"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, book-3, ache, sulad, isan, harun, maynila, tondo, manila-bay, return-to-maynila, port-centered-rule, story-architecture-standard]
