@@ -1,7 +1,7 @@
 ---
 id: book-1-chapter-2
-name: "Book I, Chapter 2: Family and Community"
-aliases: ["Family and Community"]
+name: "Book I, Chapter 2: The Paddle Against the Wall"
+aliases: ["The Paddle Against the Wall", "Family and Community"]
 status: fictional
 developmentStatus: current
 related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
