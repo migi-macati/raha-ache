@@ -8,7 +8,7 @@ sources: [aganduru-moriz, pigafetta]
 timeline: []
 date: "Before July 1521"
 dateSort: 15200500
-certainty: documented
+certainty: strong-inference
 characters: [ache, siripada]
 places: [brunei]
 chapters: [book-2-chapter-3, book-2-chapter-10]
