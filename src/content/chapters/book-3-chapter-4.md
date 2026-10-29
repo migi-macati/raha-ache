@@ -1,7 +1,7 @@
 ---
 id: book-3-chapter-4
 name: "Book III, Chapter 4: What the Bank Could Keep"
-aliases: ["What the Bank Could Keep", "The Making of the Kota"]
+aliases: ["What the Bank Could Keep"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, book-3, ache, sulad, maynila, pasig-river, manila-bay, port-centered-rule, story-architecture-standard]
