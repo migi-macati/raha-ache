@@ -9,7 +9,7 @@ timeline: []
 date: "c. 1565"
 dateSort: 15650000
 certainty: documented
-characters: [legazpi, ache]
+characters: [legazpi]
 places: [cebu, butuan, mindoro]
 chapters: [book-3-chapter-11]
 ---
@@ -19,4 +19,4 @@ Legazpi's expedition learned from regional traders that Luzon was a large northe
 
 ## Historical identification
 
-Modern historical reconstruction identifies this ruler with Ache. The primary wording currently preserved in the project does not itself name Ache.
+Modern historical reconstruction identifies this ruler with Ache. The primary wording currently preserved in the project does not itself name Ache. Ache remains a related historical identification for research and navigation, but is not listed as a directly named participant in this event's character metadata.
