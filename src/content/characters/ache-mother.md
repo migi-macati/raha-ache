@@ -5,14 +5,14 @@ aliases: [Queen Mother of Maynila, Maynila regent]
 status: historical
 relations:
   - target: ache
-    type: son
-    certainty: documented
+    type: reported son
+    certainty: possible
   - target: salalila
     type: husband
     certainty: strong-inference
   - target: siripada
-    type: father
-    certainty: documented
+    type: reported father
+    certainty: possible
 related: [psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, salalila, siripada, maynila, tondo]
 sources: [aganduru-moriz]
 timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei]
@@ -21,7 +21,7 @@ Unnamed mother of Ache.
 
 Aganduru Moriz says the government of Maynila remained with her after Ache's father died. He describes the ruler of Tondo as taking advantage of her position while Ache was still young.
 
-Her personal name remains unresolved.
+Her personal name remains unresolved. The maternal link to Ache and the daughter-of-Siripada relationship are reported in Aganduru's seventeenth-century reconstruction; the project has not established independent contemporary genealogical confirmation. These relationships anchor the novel's family fiction but should not appear as verified contemporary genealogy.
 
 ## Novel regent: competence with a price
 
