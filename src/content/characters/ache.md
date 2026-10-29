@@ -9,11 +9,11 @@ relations:
     type: father
     certainty: strong-inference
   - target: ache-mother
-    type: mother
-    certainty: documented
+    type: mother (Aganduru's retrospective account)
+    certainty: possible
   - target: siripada
-    type: maternal grandfather
-    certainty: documented
+    type: reported maternal grandfather
+    certainty: possible
   - target: sulayman
     type: nephew
     certainty: strong-inference
@@ -36,7 +36,7 @@ Son of the previous ruler of Maynila, usually identified in secondary literature
 
 A later account attributed to Aganduru Móriz describes Ache's early Tondo rival as a cousin, but the original passage and its provenance remain unverified. The ruler's identity is uncertain; identifying him as the Lakandula documented in 1571 would overstate the evidence. In the novel's reconstruction, Tondo pressures Maynila during Ache's mother's regency, contributing to Ache's eventual departure for Brunei.
 
-Aganduru's seventeenth-century account says Siripada received Ache at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers; that numerical muster is not independently verified. Pigafetta's contemporary 1521 account describes a captured Luzon prince as captain-general of the king of Brunei but does not name him Ache in that passage. Identifying the commander with Ache requires comparison with later accounts.
+The identification of Siripada as Ache's maternal grandfather and of the unnamed regent as Siripada's daughter rests on Aganduru's later narrative; contemporary genealogical corroboration has not been established. Aganduru's seventeenth-century account says Siripada received Ache at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers; that numerical muster is not independently verified. Pigafetta's contemporary 1521 account describes a captured Luzon prince as captain-general of the king of Brunei but does not name him Ache in that passage. Identifying the commander with Ache requires comparison with later accounts.
 
 Aganduru's later account says Ache returned to Maynila, recovered his lands, forced Tondo back, and married a cousin sent by his grandfather. The original Spanish passage for the marriage has not been collated, and its date and kinship details remain uncertain.
 
