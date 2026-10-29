@@ -1,7 +1,7 @@
 ---
 id: book-2-chapter-9
 name: "Book II, Chapter 9: The List at Low Water"
-aliases: ["The List at Low Water", "After the Iron Ships", "Triumphant Return and Wedding"]
+aliases: ["The List at Low Water", "After the Iron Ships"]
 status: fictional
 developmentStatus: current
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, brunei, loue, encounter-1521, story-architecture-standard, jamil, raden-muda-safi, hasan-al-fansuri, ruma, tahir, nasir, ache-brunei-command]

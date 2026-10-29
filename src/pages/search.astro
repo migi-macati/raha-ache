@@ -34,7 +34,7 @@ const all = (await getEverything())
       <a class="search-result" href={item.url} data-search={`${item.name} ${item.aliases.join(' ')} ${item.collection} ${item.status}`.toLowerCase()}>
         <span class="result-type">{item.collection}</span>
         <strong>{item.name}</strong>
-        {item.aliases.length > 0 && <small>{item.aliases.slice(0,3).join(' · ')}</small>}
+        {item.collection !== 'chapters' && item.aliases.length > 0 && <small>{item.aliases.slice(0,3).join(' · ')}</small>}
       </a>
     ))}
   </div>

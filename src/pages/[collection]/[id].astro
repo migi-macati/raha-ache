@@ -177,7 +177,7 @@ const bookBonusChapters = collection === 'books'
       </nav>
     )}
 
-    {data.aliases?.length > 0 && <p class="meta aliases"><strong>Also known as</strong> {data.aliases.join(' · ')}</p>}
+    {collection !== 'chapters' && data.aliases?.length > 0 && <p class="meta aliases"><strong>Also known as</strong> {data.aliases.join(' · ')}</p>}
 
     {collection === 'chapters' && <ChapterReadAloud />}
     <div class="prose" data-chapter-prose={collection === 'chapters' ? '' : undefined}><Content /></div>
