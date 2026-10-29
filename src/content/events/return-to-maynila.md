@@ -15,10 +15,10 @@ chapters: [book-3-chapter-1, book-3-chapter-2, book-3-chapter-3]
 ---
 ## Retrospective account
 
-Aganduru Moriz says Ache's force reached Maynila successfully, recovered his lands, forced the king of Tondo back, and plundered Tondo settlements. He then negotiated peace. Aganduru says the Tondo rulers submitted as they had before and Ache became a feared king and lord.
+Later secondary summaries attribute to Aganduru Móriz a story in which Ache's force reached Maynila, recovered his lands, attacked Tondo settlements and negotiated a peace that made him a feared ruler. The original Spanish passage (CODOIN 78, printed pp. 59–60) has not been directly collated, so these details remain provisional attributions rather than verified quotations from Aganduru.
 
-This military reconquest and submission are reported in a seventeenth-century narrative, not independently verified by the contemporary evidence currently cited. The Tondo ruler in this episode is unnamed and must not be identified with the Lakandula recorded in 1571 without separate evidence. The later documented presence of an Ache among Maynila's rulers does not by itself establish this particular campaign, its scale, or its terms.
+This claimed military reconquest and submission are not independently established by the contemporary evidence currently cited. The Tondo ruler in the reported episode is unnamed and must not be identified with the Lakandula recorded in 1571 without separate evidence. Ache's later documented presence among Maynila's rulers does not establish this particular campaign, its scale or its terms.
 
-The current novel structure begins the return in Chapter 1, retakes Maynila in Chapter 2, and resolves the immediate Tondo settlement in Chapter 3.
+In the published novel, Book III Chapter 1 brings Ache home aboard Harun's privately owned trading vessel. Chapter 2 establishes a limited, revocable role hearing claims at the Maynila working hall; Chapter 3 negotiates a particular channel-marker dispute with far-bank witnesses. No conquest of Tondo, submission of its ruler, royal fleet or territorial settlement occurs in these chapters.
 
 The scale and constitutional meaning of this claimed submission should not be projected into modern territorial sovereignty without further evidence.
