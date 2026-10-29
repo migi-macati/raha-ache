@@ -4,13 +4,13 @@ name: "Book I, Chapter 4: The Second Crossing"
 aliases: ["The Second Crossing", "Encroachment"]
 status: fictional
 developmentStatus: current
-related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ache-mother, maynila, tondo, story-architecture-standard]
+related: [sima, rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, ache-mother, maynila, tondo, story-architecture-standard]
 sources: [aganduru-moriz]
 timeline: [tondo-encroachment]
 book: book-1
 chapterNumber: 4
 draftStatus: final
-characters: [ache, sulad, ache-mother]
+characters: [ache, sulad, ache-mother, tondo-harbor-clerk, sima]
 places: [maynila, tondo]
 events: [tondo-encroachment]
 pov: [ache]
