@@ -9,7 +9,7 @@ timeline: [ache-father-dies, tondo-encroachment, ache-leaves-for-brunei, ache-br
 author: Rodrigo de Aganduru Moriz
 year: "17th century"
 sourceType: near-primary
-citation: "Historia General de las Islas Occidentales á la Asia Adyacentes, Chapter XIII"
+citation: "Historia general de las Islas Occidentales á la Asia adyacentes, llamadas Philipinas, vol. I (Madrid: Miguel Ginesta, 1882), CODOIN vol. LXXVIII; cited pp. 59–60, Spanish text not yet collated"
 ---
 ## Ache's departure
 
@@ -47,4 +47,12 @@ This account was written in the **seventeenth century**, approximately a century
 
 Its release story differs materially from Pigafetta: Aganduru says **del Cano** declined the gold offered by Ache, whereas Pigafetta says **Carvalho** accepted gold. Preserve both as conflicting accounts. The claimed force of nearly 200 vessels and 6,000 soldiers must be attributed to Aganduru, not asserted as a verified muster.
 
-Research task: locate the original Spanish passage, exact edition, chapter and folio/page; check whether Aganduru identifies his informants or earlier sources. Avoid quoting a secondary paraphrase as Aganduru's exact words.
+Research task: inspect the original Spanish passage and surrounding chapter in the identified 1882 edition, then check Aganduru's informants or earlier sources. Avoid quoting a secondary paraphrase as Aganduru's exact words.
+
+## Edition and page locator (29 October 2026)
+
+The cited printed edition is Rodrigo de Aganduru Móriz, *Historia general de las Islas Occidentales á la Asia adyacentes, llamadas Philipinas*, volume I (Madrid: Miguel Ginesta, **1882**), issued as volume **LXXVIII** of *Colección de documentos inéditos para la historia de España* (CODOIN). Google Books catalogs a [University of Zurich copy](https://books.google.com/books/about/Historia_general_de_la_Islas_Occidentale.html?id=jiViHQAACAAJ) and a [full-view alternate scan](https://books.google.com/books?id=isgPwLEoHxIC&printsec=frontcover). The catalog identifies the edition, but its page-59–60 Spanish text was **not** accessible for inspection in this run. A [Ghent University scan of CODOIN 78](https://www.heuristiek.ugent.be/wp-content/uploads/2018/08/codoin.78.pdf) is also cataloged; its 36.5 MB file exceeds the available browser's retrieval limit. These are edition locators, not completed source collation.
+
+## Secondary citation checked against the printed page (29 October 2026)
+
+Cesar Adib Majul, “Islam's Advent and Expansion in the Philippines,” in *Proceedings of the International Seminar on Islamic Civilisation in the Malay World* (1989 seminar; Istanbul: IRCICA, **1999**), printed **pp. 34–35**, recounts the Ache/Brunei and Maynila–Tondo story. Its **footnote 21 on printed p. 35** cites Aganduru's 1882 edition and **pp. 59–60**, alongside Pigafetta. The [scanned paper](https://isamveri.org/pdfdrg/D302265/1999/1999_MAJULCA.pdf) was inspected at the printed page. The volume number in Majul's footnote appears as **“8”** rather than the edition's cataloged **“78”**; preserve that discrepancy pending bibliographic collation instead of silently correcting the footnote. Majul's identification of the prince with Raja Matanda and his account of Bruneian settlements are a later historian's reconstruction, not independent contemporary eyewitness confirmation of Aganduru's narrative. The source's exact Spanish words, marriage chronology, kinship, and informant chain remain **UNVERIFIED**.
