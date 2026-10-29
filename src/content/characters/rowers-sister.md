@@ -4,11 +4,11 @@ name: "The Injured Rower's Sister"
 aliases: [Rower's sister, Sister of the injured rower]
 status: fictional
 developmentStatus: current
-related: [ache, sulad, ache-mother, maynila, book-1-chapter-1, book-1-chapter-2, book-1-chapter-3, psychologically-credible-characters]
+related: [ache, sulad, ache-mother, maynila, book-1-chapter-2, book-1-chapter-3, psychologically-credible-characters]
 sources: []
 timeline: []
 ---
-A recurring ordinary person from Book I's revised harbor rescue. **A fictional role, unnamed in the published text.** Do not present her as a representative of all dependent households.
+A recurring ordinary person first appearing in Book I Chapter 2's hearing, following the harbor rescue in Chapter 1. **A fictional role, unnamed in the published text.** Do not present her as a representative of all dependent households.
 
 **What she wants:** food and work for her household without becoming a lifetime supplicant at the prince's door. She came to the hearing with her brother's paddle because no other object made the loss plain enough to the court.
 
