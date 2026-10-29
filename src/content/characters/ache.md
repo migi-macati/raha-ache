@@ -6,8 +6,8 @@ status: historical
 developmentStatus: current
 relations:
   - target: salalila
-    type: father
-    certainty: strong-inference
+    type: proposed father (later reconstruction)
+    certainty: possible
   - target: ache-mother
     type: mother (Aganduru's retrospective account)
     certainty: possible
