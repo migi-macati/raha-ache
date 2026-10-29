@@ -206,6 +206,8 @@ I wiped my hands. The wrapped letter lay where I had left it. I could fetch it b
 
 Instead I went to the side and waited for their first question.
 
+* * *
+
 The larger boat did not come close enough to touch ours. It held against the current while a man in the bow measured the distance between the hulls with his eyes. The pole in his hands had a flat end worn smooth from pushing against mud. He lowered it into the water once, felt the bottom, and said something to the people beneath the shade.
 
 A woman came forward. She wore a dark cloth folded at the shoulder and carried a small wooden box beneath one arm. The man with the pole shifted aside without being told.
@@ -443,6 +445,8 @@ I tried to laugh. I could not.
 The tide had begun to turn. The water along the bank drew a new line of foam around the posts. A boat pushed off from the landing shelter and headed toward us, its paddlers working slowly against the current.
 
 I watched it come without reaching for the letter.
+
+* * *
 
 The boat that came for us had room for four passengers if nobody brought a bundle. Its paddlers made me sit low between the thwarts. Isan sat behind me, holding his knees together so the older paddler could work. Sulad had taken his place in the bow.
 
@@ -728,6 +732,8 @@ I had expected him to comfort me. He had given me the same sort of answer he gav
 
 We walked on toward the shelter. I had come to ask who had taken my mother's house. I would have to learn the names of the people who had kept it standing.
 
+* * *
+
 At the shelter the keeper had laid a strip of matting in the shade for people waiting to be taken upriver. She asked whether we had found the house.
 
 "We found it," Isan said.
@@ -976,6 +982,8 @@ The sun had moved across the shelter roof. Beyond the steps, a boat carried the 
 
 I had spent the morning asking who spoke for the shore. Now I needed to learn who would agree to speak beside me, and what I would be willing to promise them.
 
+* * *
+
 Harun sent for me when the afternoon tide began to fall.
 
 His messenger was a boy from the landing boat. The boy had been paid to carry one sentence and repeated it three times while I walked beside him: the owner wanted to know whether I meant to return before dark.
@@ -1151,6 +1159,8 @@ The landing woman came to the steps.
 I handed the line back to the boat's crew. At the top of the steps, Isan was waiting with the rest of my bundle. The shelter roof cast a long shadow over the path toward the house.
 
 For three nights I had a place on the river. It belonged to someone else, and they had agreed to let me use it. That was the first promise I had received on my own shore.
+
+* * *
 
 On the first morning I woke in the tool room to the sound of a man trying to open the door.
 
