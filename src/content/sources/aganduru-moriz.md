@@ -11,31 +11,34 @@ year: "17th century"
 sourceType: near-primary
 citation: "Historia general de las Islas Occidentales á la Asia adyacentes, llamadas Philipinas, vol. I (Madrid: Miguel Ginesta, 1882), CODOIN vol. LXXVIII; cited pp. 59–60, Spanish text not yet collated"
 ---
+
+## Attribution boundary
+
+The episode summaries below are **later accounts of claims attributed to Aganduru**, principally traced through secondary scholarship, including Majul's citation of CODOIN volume 78, printed pages 59–60. The project's researchers have **not inspected those Spanish pages**. The summaries are therefore provisional attributions, not quotations or independently checked transcriptions of Aganduru's wording.
+
 ## Ache's departure
 
-Aganduru says Ache was left without his father while newly born, his mother governed Maynila, and the ruler of Tondo—Ache's cousin—gradually entered Maynila's lands.
+Later summaries attribute to Aganduru a story in which Ache's father died shortly after his birth, his mother governed Maynila, and the ruler of Tondo—identified as Ache's cousin—gradually entered Maynila's lands.
 
-Ache decided to go to Brunei to ask his grandfather for support. His mother tried to dissuade him, then gave him permission and gold.
+In that reported account, Ache decided to go to Brunei to ask his grandfather for support. His mother tried to dissuade him, then gave him permission and gold.
 
 ## Brunei
 
-Siripada received Ache at court.
-
-Aganduru gives the force placed with Ache as nearly two hundred vessels and up to six thousand Bruneian soldiers.
+The reported account has Siripada receive Ache at court and place nearly two hundred vessels and up to six thousand Bruneian soldiers with him. These figures remain unverified.
 
 ## 1521
 
-Aganduru says Ache's force encountered the surviving European expedition; Ache was captured and identified as Siripada's grandson.
+The narrative attributed to Aganduru has Ache's force encounter the surviving European expedition; Ache was captured and identified as Siripada's grandson.
 
-Unlike Pigafetta, Aganduru says del Cano released Ache without accepting the gold he offered, returned his vessel and property, and asked him to remember the courtesy if Spaniards later reached his lands.
+Secondary summaries attribute to Aganduru a release account in which del Cano refused Ache's offered gold, returned his vessel and property, and asked him to remember the courtesy if Spaniards later reached his lands. This differs from Pigafetta's report of Carvalho accepting gold.
 
-Ache gave the expedition a Makassarese pilot in his service, freed him, and sent him to guide them toward the Moluccas.
+The same reported account says Ache provided a Makassarese pilot in his service, freed him, and sent him to guide the expedition toward the Moluccas.
 
 ## Return to Maynila
 
-Aganduru says Ache returned successfully, recovered his lands, forced Tondo back, and negotiated a peace after attacks on Tondo settlements.
+Later summaries attribute to Aganduru a successful return, recovery of lands, attacks on Tondo settlements and a negotiated peace.
 
-Siripada later sent a granddaughter to Ache. Aganduru says the marriage had already been arranged and identifies her as Ache's first cousin.
+They also report Siripada sending a granddaughter to Ache for a marriage said to have been arranged earlier, identifying her as Ache's first cousin. The Spanish wording and exact kinship remain unverified.
 
 ## Source status
 
@@ -43,9 +46,9 @@ Aganduru wrote later than the 1521 expedition. His narrative contains informatio
 
 ## Source-critical qualification
 
-This account was written in the **seventeenth century**, approximately a century after the 1521 episode. Aganduru Moriz did not witness the encounter. His unusually detailed account of Ache's childhood, maternal regency, the Tondo cousin, Brunei's fleet, return campaign, and marriage is valuable **retrospective testimony**, not independently corroborated biography.
+This account was written in the **seventeenth century**, approximately a century after the 1521 episode. Aganduru Moriz did not witness the encounter. The unusually detailed narrative attributed to him about Ache's childhood, maternal regency, the Tondo cousin, Brunei's fleet, return campaign, and marriage is **retrospective testimony as reported in later scholarship**, not independently corroborated biography.
 
-Its release story differs materially from Pigafetta: Aganduru says **del Cano** declined the gold offered by Ache, whereas Pigafetta says **Carvalho** accepted gold. Preserve both as conflicting accounts. The claimed force of nearly 200 vessels and 6,000 soldiers must be attributed to Aganduru, not asserted as a verified muster.
+The release story attributed to Aganduru differs materially from Pigafetta: in the former, **del Cano** is said to decline Ache's offered gold, whereas Pigafetta reports **Carvalho** accepting gold. Preserve both as conflicting accounts. The claimed force of nearly 200 vessels and 6,000 soldiers must be attributed to Aganduru, not asserted as a verified muster.
 
 Research task: inspect the original Spanish passage and surrounding chapter in the identified 1882 edition, then check Aganduru's informants or earlier sources. Avoid quoting a secondary paraphrase as Aganduru's exact words.
 
