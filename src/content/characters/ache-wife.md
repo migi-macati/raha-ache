@@ -1,7 +1,7 @@
 ---
 id: ache-wife
 name: Ache's Bruneian wife
-aliases: [Ache's first cousin]
+aliases: []
 status: historical
 relations:
   - target: ache
