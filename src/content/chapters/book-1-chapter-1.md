@@ -4,7 +4,7 @@ name: "Book I, Chapter 1: The Boy Prince"
 aliases: ["The Boy Prince"]
 status: fictional
 developmentStatus: current
-related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
+related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, maynila, pasig-river, story-architecture-standard, book-1-chapter-1-outline]
 sources: []
 timeline: []
 book: book-1
