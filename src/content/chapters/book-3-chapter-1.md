@@ -10,7 +10,7 @@ timeline: [return-to-maynila]
 book: book-3
 chapterNumber: 1
 draftStatus: final
-characters: [ache, sulad, harun, isan]
+characters: [ache, sulad, harun, isan, amaya]
 places: [maynila, tondo, manila-bay]
 events: [return-to-maynila]
 pov: [ache]

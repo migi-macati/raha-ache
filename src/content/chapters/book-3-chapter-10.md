@@ -10,7 +10,7 @@ timeline: [bay-coalition-crisis]
 book: book-3
 chapterNumber: 10
 draftStatus: final
-characters: [ache]
+characters: [ache, amaya, raya, dala]
 places: [maynila, pasig-river, tondo]
 events: [bay-coalition-crisis]
 pov: [ache]
