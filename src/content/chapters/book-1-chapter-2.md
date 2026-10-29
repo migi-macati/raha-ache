@@ -4,13 +4,13 @@ name: "Book I, Chapter 2: The Paddle Against the Wall"
 aliases: ["The Paddle Against the Wall", "Family and Community"]
 status: fictional
 developmentStatus: current
-related: [rowers-sister, tondo-harbor-clerk, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
+related: [rowers-sister, psychologically-credible-characters, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, salalila, ache-mother, maynila, tondo, story-architecture-standard, book-1-chapter-2-outline]
 sources: []
 timeline: [ache-father-dies]
 book: book-1
 chapterNumber: 2
 draftStatus: final
-characters: [rowers-sister, tondo-harbor-clerk, ache, sulad, salalila, ache-mother]
+characters: [rowers-sister, ache, sulad, ache-mother]
 places: [maynila, tondo]
 events: [ache-father-dies]
 pov: [ache]
