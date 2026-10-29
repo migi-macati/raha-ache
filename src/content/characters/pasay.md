@@ -6,11 +6,11 @@ status: historical
 developmentStatus: working
 relations:
   - target: lakan-tagkan
-    type: father
-    certainty: documented
+    type: reported father
+    certainty: possible
   - target: pasay-mother
-    type: mother
-    certainty: documented
+    type: reported mother
+    certainty: possible
   - target: ache
     type: earlier-draft companion
     certainty: development
@@ -18,9 +18,9 @@ related: [ache, sulad, lakan-tagkan, maynila, namayan, book-3-chapter-16]
 sources: [huerta, william-henry-scott]
 timeline: []
 ---
-## Historical record
+## Later historical account
 
-Fray Félix de Huerta describes Pasay as the illegitimate son of Lakan Tagkan of Namayan and a slave woman of Bornean lineage. Huerta associates him with the settlement later known by his name.
+Fray Félix de Huerta describes Pasay as the illegitimate son of Lakan Tagkan of Namayan and a slave woman of Bornean lineage. Huerta associates him with the settlement later known by his name. This genealogy comes from a nineteenth-century account written long after the people and events it describes. The project has not independently corroborated the parentage or the individuals' dates in contemporary sixteenth-century evidence. The relationships above are therefore **reported possibilities**, not established genealogical facts.
 
 ## Novel development
 
