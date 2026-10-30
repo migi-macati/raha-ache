@@ -328,7 +328,7 @@ He spoke of water crowded with boats. Of traders arriving from places I knew onl
 
 He did not describe a paradise.
 
-He complained about prices.
+He complained about prices. A household upriver had promised him goods in exchange for cloth; the goods had not arrived. His men ate every day they waited, and he would not name his next port until the exchange was settled.
 
 That made it real.
 
