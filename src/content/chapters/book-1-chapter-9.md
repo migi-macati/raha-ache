@@ -114,6 +114,8 @@ I could feel the cuts in my palms when I reached for our jar. The cloth had tigh
 
 The carrier had paid me for carrying the night before. She owed me nothing now. I watched her brother shave a splinter from his pole and wondered whether to ask where they were going next. He was busy, and I had no reason to think their next journey included us.
 
+* * *
+
 At the far end of the landing, men were unloading another boat. One passed a pot ashore. Another lifted a bundle, stopped, and sat down hard against the side. He held a cloth to his ribs. No blood showed, but he was breathing through his mouth.
 
 “Is he hurt?” I asked.
@@ -444,6 +446,8 @@ Sulad asked whether she would take us back if we found no other passage.
 
 He thanked her. He had asked about a possibility, not mistaken it for an offer.
 
+* * *
+
 Beyond the landing, a larger vessel lay in deeper water. People passed goods to it in smaller loads. A woman kept count beside a bundle too wide to fit between the others. She told its carrier to take it back and divide it.
 
 I approached. She looked up before I spoke.
@@ -698,6 +702,8 @@ I did not know whether the wind would grow stronger. I knew only that the fold h
 
 The landing had grown too small for me to pick out Daya. I watched the edge of the covering until the wind eased.
 
+* * *
+
 The banks drew close enough that I could hear wood being split beyond the trees. A man at the bow lowered his pole into the brown water and found the bottom. Another did the same on our right. The master let the sail fall and brought us toward a platform raised above the mud.
 
 I had watched Daya's covering until the backs of my knees ached. Twice the wind lifted a corner, and twice I called the man responsible for it. Now he raised the whole cloth. The receiving man waited on the platform with a board across his knees. Beside him a boy held a cord of knots.
@@ -739,6 +745,8 @@ The receiver knew of a carrier who sometimes brought wax and dried fish to an an
 “Beneath the boards,” the receiver said. “Keep away from the goods. Leave when the carriers begin.”
 
 We lay with our jar between us. Above our heads Daya's parcels scraped over the planks as the receiver moved them farther from the edge. One sounded heavier than the other. I listened until the creek grew quiet.
+
+* * *
 
 By morning the mud had hardened around our footprints. A woman stood on the path with two baskets and a sack that smelled of dried fish. The receiver pointed to her when I asked about the man he had mentioned.
 
@@ -829,6 +837,8 @@ Her brother looked at the young man. “We got his hand free.”
 “And then I told him to move. I know what I told him.”
 
 She wrapped the seven again. The board at the anchorage would record what she delivered. Nothing we said now would put an eighth piece back among them.
+
+* * *
 
 The rain eased. A strip of coast emerged through it, broken by trees. Another boat lay farther out with its sail dark against the clearing sky. We approached shallow water slowly enough for the older crewman to use a pole. The younger man tried to rise, but the brother told him to remain seated.
 
