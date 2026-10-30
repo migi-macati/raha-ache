@@ -1,0 +1,53 @@
+---
+import { withBase } from '../lib/base';
+import type { ChapterNote } from '../lib/chapterNotes';
+
+const { notes } = Astro.props as { notes: ChapterNote[] };
+const labels: Record<ChapterNote['kind'], string> = {
+  documented: 'Documented account',
+  retrospective: 'Retrospective account · wording unverified',
+  reconstruction: 'Scholarly reconstruction',
+  fiction: 'Invented for the novel'
+};
+---
+{notes.length > 0 && (
+  <section class="chapter-historical-notes" aria-label="Historical notes and sources">
+    <details>
+      <summary>Historical Notes &amp; Sources</summary>
+      <ol>
+        {notes.map((note) => (
+          <li>
+            {note.spoiler ? (
+              <details class="chapter-note-spoiler">
+                <summary>Possible spoiler: {note.title}</summary>
+                <p class="chapter-note-kind">{labels[note.kind]}</p>
+                <p>{note.body}</p>
+                {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
+              </details>
+            ) : (
+              <>
+                <strong>{note.title}</strong>
+                <p class="chapter-note-kind">{labels[note.kind]}</p>
+                <p>{note.body}</p>
+                {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
+              </>
+            )}
+          </li>
+        ))}
+      </ol>
+    </details>
+  </section>
+)}
+<style>
+  .chapter-historical-notes{margin:2.5rem 0 1.5rem;max-width:72ch;border-top:1px solid var(--line);padding-top:1rem}
+  .chapter-historical-notes>details{border:1px solid var(--line);border-radius:10px;background:var(--surface);padding:.85rem 1rem}
+  .chapter-historical-notes summary{cursor:pointer;font-weight:700}
+  .chapter-historical-notes ol{padding-left:1.45rem;margin:1rem 0 .25rem}
+  .chapter-historical-notes li{margin:0 0 1.25rem;overflow-wrap:anywhere}
+  .chapter-historical-notes li:last-child{margin-bottom:0}
+  .chapter-historical-notes li p{margin:.35rem 0 .65rem}
+  .chapter-note-kind{font:600 .78rem ui-sans-serif,system-ui,sans-serif;color:var(--muted)}
+  .chapter-historical-notes a{color:#755016;text-underline-offset:3px}
+  .chapter-note-spoiler{margin:.35rem 0}
+  .chapter-note-spoiler summary{font-weight:650}
+</style>
