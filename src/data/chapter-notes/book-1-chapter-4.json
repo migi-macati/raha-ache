@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-1-chapter-4",
+  "notes": [
+    {
+      "title": "Maynila and Tondo",
+      "kind": "retrospective",
+      "body": "Later scholarship attributes to Rodrigo de Aganduru Móriz a story of Tondo's ruler extending his influence into Maynila during Ache's youth. Aganduru wrote in the seventeenth century. The cited 1882 Spanish edition, CODOIN volume 78, pages 59–60, has not been collated for this passage. The particular tally board, clerk, boats and dispute here are fictional.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "The regent's authority",
+      "kind": "retrospective",
+      "body": "The same later summaries say Ache's mother governed Maynila after his father's death. Her intervention, the steward's terms and the resolution of Sima's complaint are invented. They should not be read as a transcript of a historical ruling.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "Wages and consent",
+      "kind": "fiction",
+      "body": "Sima pays the crew organizer for the first transfer, but the first-voyage rowers have not received their wages. The disputed second voyage was never contracted. These particular labor obligations, family relationships and spoken agreements are novel inventions, not documented incidents."
+    }
+  ]
+}
