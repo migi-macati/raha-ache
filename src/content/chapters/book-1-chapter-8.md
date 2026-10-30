@@ -114,6 +114,8 @@ Sulad wiped his fingers on a leaf. “You haven't asked them.”
 
 The buyer was already walking toward the water. I folded the empty packet and put it beside the jar so that it would not blow across his baskets. Then I followed him.
 
+* * *
+
 The buyer reached the water before I did. He stopped beside a man holding a pole and waited while the boat came close enough for its passengers to step ashore.
 
 It was wider than it had looked from behind the screen. Jars stood in two rows beneath the mat, each wedged against its neighbors with coils of leaf and old cloth. The man at the stern lifted one corner of the covering and told the buyer to look without coming aboard.
@@ -231,6 +233,8 @@ I watched the buyer argue with him from the shade. Each time the buyer pointed t
 “Was it him?”
 
 “He has hands. He needs his jars returned.”
+
+* * *
 
 The buyer led me behind the screen to a woman seated beside four empty jars. One lay on its side. She was drawing a thin cord through the carrying sling of another, replacing a loop that had frayed through. A shallow bowl stood near her knee, dark with water and grit.
 
@@ -415,6 +419,8 @@ I looked at the jar in her arms.
 “This one isn't mine to carry,” she said. “Don't make it yours.”
 
 I went up alone.
+
+* * *
 
 Under the screen lay a leaf packet weighted with a smooth stone. Inside was a handful of rice and a piece of fish smaller than the two the buyer had given me that morning. I had worked through the hottest part of the day for it. The rice was still warm enough to cling together when I pressed it.
 
