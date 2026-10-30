@@ -152,6 +152,10 @@
     {
       "lesson": "Before flagging missing scene breaks, recognize `---`, `* * *`, and `***` Markdown conventions; restore transitions only at unique scene openings verified against Studio source files, and ensure removal of added separators reproduces the original prose exactly.",
       "evidence": "29 Oct 2026: initial audit falsely flagged Book II Chapters 3–9 because it counted only `* * *` while those chapters use `---`. Book I Chapter 6 PR #141 restored 11 breaks; Book II Chapter 10 PR #142 compared six Studio scene openings and added five unique separators without altering prose. 29 Oct 2026: Book III Chapters 8–12 already use `***` separators; Chapter 7 had none, and its six unique Studio openings support five restored separators in PR #144."
+    },
+    {
+      "lesson": "Before renaming a character, compare exact and near-homophone names against the complete published cast and especially the same scene; verify surviving old/new-name counts after the change.",
+      "evidence": "30 Oct 2026: PR #158 replaced duplicate Harun with Imran in Book II Chapter 4 but introduced confusion with Iman; PR #159 corrected eight steersman references to Latif while preserving five Iman references. Both merged and deployed."
     }
   ],
   "studioWork": {
