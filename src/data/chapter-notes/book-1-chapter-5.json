@@ -1,0 +1,27 @@
+{
+  "chapterId": "book-1-chapter-5",
+  "notes": [
+    {
+      "title": "Ache's proposed appeal to Brunei",
+      "kind": "retrospective",
+      "body": "Later summaries attribute to Rodrigo de Aganduru Móriz a story in which Ache sought help from his maternal grandfather in Brunei and his mother first opposed, then permitted, the journey. Aganduru wrote in the seventeenth century. The relevant Spanish passage in the cited 1882 CODOIN volume 78 has not been independently collated; pages 59–60 are a provisional locator, not verification of these details. The conversations and conditions of permission in this chapter are fictional.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "Luzon and Borneo trade",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental, composed in 1512–1515 and cited here through Cortesão's 1944 edition (vol. I, pp. 133–134), describes commercial links involving Luzon, Borneo and Malacca. Pires drew on traders' information; the cited passage is not a passenger list, a Maynila household account or evidence that Ache had secured a captain. The original-language passage has not been newly collated for this chapter.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Who has been paid",
+      "kind": "fiction",
+      "body": "Sima's earlier payment went to a crew organizer, while the first-voyage rowers still await their wages. The steward's new negotiations concern a different crossing. The particular debts, tally boards, merchant choices and the regent's conditional terms are invented incidents, not recorded early-sixteenth-century agreements."
+    },
+    {
+      "title": "The boat that has not arrived",
+      "kind": "fiction",
+      "body": "Ula offers only to ask about a possible messenger; neither that messenger nor a captain has agreed to carry Ache. Sulad has not committed to travel. Ache's decision to seek Brunei is distinct from a secured passage: physical departure occurs in Chapter 6. These personal decisions and scenes are novel inventions."
+    }
+  ]
+}
