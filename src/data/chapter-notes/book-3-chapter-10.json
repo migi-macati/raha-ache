@@ -1,0 +1,43 @@
+{
+  "chapterId": "book-3-chapter-10",
+  "notes": [
+    {
+      "title": "Fictional landing and labor arrangements",
+      "kind": "fiction",
+      "body": "Raya, Dala, Madan and his niece, Amaya, Tesa, Sela, Laman, Hiran, Marun, the cord owner and the keeper are characters in a reconstructed early-sixteenth-century Maynila. The repaired timber step, stone-bearing tests, individual carrying wages, fish sale, competing landings and the refusal of a common watcher charge are invented incidents. The keeper's bamboo strips are fictional memory aids, not an attested port registry, contract office or written tariff."
+    },
+    {
+      "title": "Regional commerce",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed c.1512–1515) supplies broad evidence of Luzon, Borneo and Malacca trade connections, not this market dispute, these merchants or these terms. See the Asian Studies discussion of Pires. The Pasig waterway is real, but the specific bends, landing stones, roots, tide marks, cargo routes and travel times in this chapter are narrative reconstructions, not documented measurements from Ache's lifetime.",
+      "sourceId": "tome-pires-suma-oriental",
+      "links": [
+        {
+          "label": "Asian Studies discussion of Pires",
+          "url": "https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Debt and historical limits",
+      "kind": "reconstruction",
+      "body": "The Laguna Copperplate Inscription (900 CE; Clavé and Griffiths, 2022) provides evidence of a much earlier written debt transaction; it cannot verify Amaya's cloth, Tesa's payment, or the keeper's marks. Juan de Plasencia's Customs of the Tagalogs (1589) is later testimony in a colonial setting and does not establish the exact early-1520s practices dramatized here. Original-language source passages have not been newly collated for this chapter.",
+      "links": [
+        {
+          "label": "Laguna Copperplate Inscription",
+          "url": "https://archium.ateneo.edu/phstudies/vol70/iss2/2/"
+        },
+        {
+          "label": "Customs of the Tagalogs",
+          "url": "https://en.wikisource.org/wiki/The_Philippine_Islands%2C_1493%E2%80%931898/Volume_7/Documents_of_1589"
+        }
+      ]
+    },
+    {
+      "title": "Political and narrative boundary",
+      "kind": "fiction",
+      "body": "The conclusion is a fictional resolution among particular owners, makers, fishers and carriers. It establishes no kingdom-wide levy, army, royal fleet, hereditary command, appointed port office, territorial grant or general right to another household's path. The Spaniards' arrival belongs to the published Book III bonus Chapter 11, not to the core Chapter 10 resolution.",
+      "spoiler": true
+    }
+  ]
+}
