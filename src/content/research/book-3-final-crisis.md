@@ -3,11 +3,13 @@ id: book-3-final-crisis
 name: Book III final crisis
 aliases: [Bay coalition crisis, Final kingdom test]
 status: fictional
-developmentStatus: working
+developmentStatus: superseded
 related: [maynila-language-arts-social-order, book-3-merchant-and-status-conflict, book-3, ache, sulayman, maynila, tondo, part-3-institutions, bay-coalition-crisis, book-3-chapter-9, book-3-chapter-10]
 sources: []
 timeline: [bay-coalition-crisis]
 ---
+> **Superseded crisis design.** The fleet, standardized dues, centralized council, and kingdom-wide rebellion below were proposals, not events in the published book. Book III Chapters 9–10 resolve a narrower dispute over a landing, damaged work, witnesses, and a proposed charge; the settlement is local and conditional. See the [published Book III guide](/raha-ache/books/book-3/) and [Chapter 10](/raha-ache/chapters/book-3-chapter-10/). This plan remains available for editorial history.
+
 ## Purpose
 
 Book III needs a climax that belongs to Ache's own kingdom-building story rather than using the Spanish arrival as its final conflict.

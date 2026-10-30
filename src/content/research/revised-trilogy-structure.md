@@ -3,11 +3,13 @@ id: revised-trilogy-structure
 name: Revised trilogy structure
 aliases: []
 status: fictional
-developmentStatus: current
+developmentStatus: superseded
 related: [historical-suspense-contract, trilogy-character-stakes-and-reversals, maynila-language-arts-social-order, book-3-merchant-and-status-conflict, ache, sulad, pasay, brunei, maynila, tondo, legazpi, martin-de-goiti, book-1, book-2, book-3, genre-and-story-model, open-questions, original-trilogy-outline, book-3-final-crisis, book-3-sequence-history, book-3-chapter-1, book-3-chapter-2, book-3-chapter-3, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12]
 sources: []
 timeline: []
 ---
+> **Archived development outline.** This proposed plot and its chapter titles were superseded during publication. The published trilogy retains 30 core chapters and Book III bonus Chapters 11–12, but it does **not** depict the invasion fleet, military reconquest, permanent institutions, or kingdom-wide coalition settlement planned below. Consult the published [Book I](/raha-ache/books/book-1/), [Book II](/raha-ache/books/book-2/), and [Book III](/raha-ache/books/book-3/) reading guides for canon. The earlier plan is retained here as development history.
+
 ## Trilogy plot spine
 
 ### Book I — lose and escape

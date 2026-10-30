@@ -3,12 +3,14 @@ id: part-1-development
 name: Part I development
 aliases: [Flight to Brunei, Heir of the River]
 status: fictional
-developmentStatus: current
+developmentStatus: superseded
 related: [ache, sulad, pasay, bulkan, ula, lakanmulaw, maynila, tondo, cavite, mindoro, palawan, brunei]
 sources: []
 timeline: [tondo-encroachment, ache-leaves-for-brunei]
 ---
-## Current
+> **Archived early Book I conception.** This page records earlier age, companion, vessel, pursuit, and route proposals. It is not a summary of the published ten chapters. See the [Book I reading guide](/raha-ache/books/book-1/) for the canonical story; historical and fictional claims must still be assessed independently.
+
+## June 2026 working conception
 
 Ache and Sulad are about sixteen to seventeen during the flight to Brunei.
 
