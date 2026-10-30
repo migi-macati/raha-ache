@@ -5,7 +5,7 @@ aliases: ["No Boat Owed Us", "Flight"]
 status: fictional
 developmentStatus: current
 related: [sima, historical-suspense-contract, trilogy-character-stakes-and-reversals, ache, sulad, bulkan, ula, ache-mother, maynila, tondo, brunei, story-architecture-standard]
-sources: [aganduru-moriz]
+sources: [aganduru-moriz, scott-boat-building-seamanship-1982]
 timeline: [ache-leaves-for-brunei]
 book: book-1
 chapterNumber: 6
