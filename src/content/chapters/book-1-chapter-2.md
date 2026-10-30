@@ -164,7 +164,9 @@ The boat owner protested that his steering oar had broken before I came alongsid
 
 That was the first answer I had given her that seemed to satisfy her. She took the paddle and moved toward the door. She had not thanked me.
 
-The steward began dividing the silver's likely value among the claims. The porter objected to his share. The boat owner argued that a painted jar was worth more than an unpainted one. By the time they agreed, the sun had crossed the center of the courtyard.
+The steward began dividing the silver's likely value among the claims. The porter objected to his share. The boat owner argued that a painted jar was worth more than an unpainted one. By the time they agreed how to divide whatever the silver fetched, the sun had crossed the center of the courtyard.
+
+The steward wrapped the ornament in cloth and put it with his tallies. “You will tell me when it sells,” the porter said. The steward nodded.
 
 My mother gave the steward permission to record what had been settled and to leave the rower's claim open. The men left, still talking over one another.
 
