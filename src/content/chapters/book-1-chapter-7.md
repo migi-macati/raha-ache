@@ -752,9 +752,6 @@ He watched his men settle the poles.
 
 Sulad had gone to fetch our jar. I went back to the baskets and carried them from the hard ground to the place the buyer had chosen for them. He moved the last one half a pace and nodded. By then the fisherman had spread his net again. I waited until Sulad returned before we started uphill. Behind us the rope was coiled inside the visiting boat. The post stood bare.
 
-The cloth had not come ashore. No one had given us a place on a boat. I had spent my last silver before we began.
-
-But the baskets were where their owner wanted them, and the fisherman had not lost his ground. For that evening, it was enough that the rope had been removed when they said it would be.
 
 * * *
 
