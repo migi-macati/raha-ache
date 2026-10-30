@@ -3,11 +3,14 @@ id: trilogy-character-stakes-and-reversals
 name: "Trilogy Character Stakes, Independent Desires, and Reversals"
 aliases: [Character agency matrix, Trilogy emotional stakes, Character conflict design]
 status: fictional
-developmentStatus: current
+developmentStatus: superseded
 related: [historical-suspense-contract, book-1, book-2, book-3, ache, sulad, ache-mother, lakandula, ula, siripada, jamil, hasan-al-fansuri, raden-muda-safi, putri-laila-nur, sulayman, mehomete-maynila, pablo-japanese-1570, book-3-merchant-and-status-conflict, book-3-final-crisis]
 sources: []
 timeline: []
 ---
+
+**Archive notice (superseded in part by publication).** This is a planning matrix of possible character decisions and reversals, not a record of what each published chapter depicts. The published Book III has no military recapture, permanent royal institutions, southern-shore grant, wedding or kingdom-wide crisis; its core resolves limited, contested landing arrangements. Mehomete and Pablo appear in the 1570 bonus narrative, not as established earlier companions. Consult the [Book I](/raha-ache/books/book-1/), [Book II](/raha-ache/books/book-2/) and [Book III](/raha-ache/books/book-3/) reading guides for canon; retain the proposals below as development history.
+
 
 *Editorial development outline: contains planned plot developments and spoilers across Books I–III.*
 ## Central psychological risk
