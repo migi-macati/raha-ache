@@ -715,6 +715,4 @@ I went inside and counted what remained. I counted it again, this time setting a
 
 Outside, someone dragged a boat farther up the bank. The wood scraped against the stones and stopped. I thought of Sulad's uncle turning his fish over the fire, and of the young rower lifting his paddle without his wages.
 
-I could not buy their consent with a promise. I could not make the captain answer a message that had not yet left Maynila. But I could keep the silver ready, and ask again when there was someone to ask.
-
 I would seek a passage to Brunei. Tonight there was no boat to take me.
