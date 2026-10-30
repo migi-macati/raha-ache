@@ -39,15 +39,19 @@ timeline: []
 - Which later dynastic genealogies can be supported by contemporaneous evidence?
 - What did Tondo's submission or accommodation after Ache's return actually mean politically?
 
-## Current novel decisions still open
+## Published novel decisions and remaining editorial questions
 
-- What role, if any, should historical Pasay retain after Sulad became Ache's principal young companion?
-- Who receives the southern-shore land grant in Book III?
-- Is Lakanmulaw from Panay, Cebu, another Visayan polity, or left deliberately less specific?
-- Does Putri Laila Nur eventually become Ache's historically attested Bruneian cousin-wife, or remain a separate fictional figure?
-- Which Part II supporting characters move from working development into fixed canon?
-- Which proposed Part III institutions become final novel canon?
-- Which non-Ache characters receive first-person POV sections, and where?
+The trilogy's **30 core chapters and Book III bonus Chapters 11–12 are published**. Older outlines remain available as development records, but their proposed events must not be presented as published canon.
+
+- **Pasay:** Sulad is Ache's Book I companion. Pasay's earlier companion role is superseded; whether to give Pasay a distinct role in any future revision remains open.
+- **Southern-shore grant:** no such grant is awarded in the published Book III core. The old question of its recipient is obsolete unless a future revision deliberately introduces a grant.
+- **Mulaw/Lakanmulaw:** the published Book I encounter names Mulaw at an unnamed landing, without establishing a Visayan origin, title, later alliance or promised passage. His geographical origin remains unspecified.
+- **Laila and the reported wife:** Laila is a fictional Brunei character in Book II. The published story does not establish a marriage or identify her with Ache's historically reported cousin-wife. A later identification would require a deliberate canon and chronology revision, not an assumption.
+- **Book II cast:** published chapters determine on-page roles and absences; working character dossiers should be reconciled against those chapters before any promotion to canon.
+- **Book III institutions:** the published core depicts local landing records, repair and negotiated permissions. It does not establish the earlier outlines' permanent royal navy, Court of Scribes, kingdom-wide levy, dynastic wedding or military reconquest.
+- **Point of view:** Ache is the dominant first-person narrator; Bonus Chapter 12 includes Awi's viewpoint. Any other proposed transfer must be checked against published chapter POV metadata before it is described as canon.
+
+**Remaining editorial work:** reconcile character and research pages that still present superseded future-tense plots as if they happened; verify the exact historical sources before introducing names, kinship or events into retrospective prose.
 
 ## Geography and campaigns
 
@@ -64,6 +68,7 @@ timeline: []
 
 ## Decisions already settled for v1
 
+- The 30 core chapters and two Book III historical bonus chapters are published; chapter-level canon takes precedence over superseded outlines.
 - The project spelling is **Raha Ache**.
 - Ache is the dominant narrator.
 - Narration is first-person multi-POV, with secondary POVs used sparingly.
