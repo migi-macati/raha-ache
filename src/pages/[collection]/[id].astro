@@ -2,6 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import FeedbackPanel from '../../components/FeedbackPanel.astro';
 import ChapterReadAloud from '../../components/ChapterReadAloud.astro';
+import ChapterHistoricalNotes from '../../components/ChapterHistoricalNotes.astro';
+import { chapterNotesFor } from '../../lib/chapterNotes';
 import { render } from 'astro:content';
 import { entityIndex, getEverything, referencedIds } from '../../lib/entities';
 import { withBase } from '../../lib/base';
@@ -18,6 +20,12 @@ const { collection, item, all } = Astro.props;
 const { Content } = await render(item);
 const data = item.data;
 const index = await entityIndex();
+const historicalNotes = collection === 'chapters' ? chapterNotesFor(data.id) : [];
+for (const note of historicalNotes) {
+  if (note.sourceId && index.get(note.sourceId)?.collection !== 'sources') {
+    throw new Error(`Missing historical-notes source ${note.sourceId} for ${data.id}`);
+  }
+}
 
 const outgoing = referencedIds(data).map((id)=>index.get(id)).filter(Boolean);
 const relations = Array.isArray(data.relations)
@@ -181,6 +189,7 @@ const bookBonusChapters = collection === 'books'
 
     {collection === 'chapters' && <ChapterReadAloud />}
     <div class="prose" data-chapter-prose={collection === 'chapters' ? '' : undefined}><Content /></div>
+    {collection === 'chapters' && <ChapterHistoricalNotes notes={historicalNotes} />}
 
     {collection === 'books' && bookChapters.length > 0 && (
       <section class="connections">
