@@ -240,6 +240,8 @@ Ula nodded once.
 
 It bothered me how much I wanted her approval.
 
+Before the first boat pushed away, Ula called its crew back. A water jar still stood beneath the house, forgotten beside the baskets. She waited while they brought it aboard, then asked the woman who had packed the food to check its cover. Only when the woman nodded did Ula step aside. No one called that part of the ceremony.
+
 * * *
 
 After the boats left, we ate beneath the house with the families who remained.
