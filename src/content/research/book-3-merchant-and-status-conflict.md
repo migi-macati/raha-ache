@@ -3,11 +3,14 @@ id: book-3-merchant-and-status-conflict
 name: "Book III Subplot: Trade, Translation, Social Rank, and the Broken Compact"
 aliases: [Merchants and dependents subplot, Commercial conflict subplot, The Broken Compact]
 status: fictional
-developmentStatus: current
+developmentStatus: superseded
 related: [book-3, book-3-final-crisis, book-3-chapter-4, book-3-chapter-5, book-3-chapter-6, book-3-chapter-7, book-3-chapter-8, book-3-chapter-9, book-3-chapter-10, book-3-chapter-11, book-3-chapter-12, ache, sulayman, lakandula, sulad, ache-wife, panday-pira, mehomete-maynila, pablo-japanese-1570, maynila, tondo, port-centered-rule, part-3-institutions, maynila-language-arts-social-order, maynila-living-port-1500, relacion-voyage-luzon-1570]
 sources: [william-henry-scott, plasencia-customs-tagalogs-1589, relacion-voyage-luzon-1570, tome-pires-suma-oriental, nmp-ornaments-textiles-boats]
 timeline: [bay-coalition-crisis, battle-manila-1570, legazpi-manila-1571]
 ---
+
+**Archive notice (superseded development plan).** This page preserves a proposed Book III subplot, not the published narrative. The ten core chapters instead follow a local river landing, unpaid labor and material claims, witness disagreements and conditional access; they establish no Harbour Council, royal navy, southern-shore grant, kingdom-wide rebellion or settlement. Mehomete and Pablo appear in the 1570 bonus narrative, not as established advisers in the earlier core. Read the [published Book III guide](/raha-ache/books/book-3/) and chapters for canon. Historical references below remain research leads, not evidence that these proposed fictional events occurred.
+
 ## Series function
 
 **New continuing subplot for Book III, Chapters 4–10, with payoff and reversal in bonus Chapters 11–12.** Foreign trade, writing/translation, the status of dependents, and the rights of local communities are woven into Ache's **existing** institution-building plot. They do not replace the main story, the Book III final coalition crisis, or the two historical bonus chapters.
