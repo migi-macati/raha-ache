@@ -36,9 +36,9 @@ Later secondary accounts identify Ache as the son of Maynila's previous ruler, o
 
 A later account attributed to Aganduru Móriz describes Ache's early Tondo rival as a cousin, but the original passage and its provenance remain unverified. The ruler's identity is uncertain; identifying him as the Lakandula documented in 1571 would overstate the evidence. In the novel's reconstruction, Tondo pressures Maynila during Ache's mother's regency, contributing to Ache's eventual departure for Brunei.
 
-The identification of Siripada as Ache's maternal grandfather and of the unnamed regent as Siripada's daughter rests on Aganduru's later narrative; contemporary genealogical corroboration has not been established. Aganduru's seventeenth-century account says Siripada received Ache at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers; that numerical muster is not independently verified. Pigafetta's contemporary 1521 account describes a captured Luzon prince as captain-general of the king of Brunei but does not name him Ache in that passage. Identifying the commander with Ache requires comparison with later accounts.
+The identification of Siripada as Ache's maternal grandfather and of the unnamed regent as Siripada's daughter rests on Aganduru's later narrative; contemporary genealogical corroboration has not been established. A seventeenth-century account attributed to Aganduru says Siripada received Ache at court and later sent him with nearly two hundred vessels and about six thousand Bruneian soldiers; its original Spanish passage and numerical muster remain unverified. Pigafetta's contemporary 1521 account describes a captured Luzon prince as captain-general of the king of Brunei but does not name him Ache in that passage. Identifying the commander with Ache requires comparison with later accounts.
 
-Aganduru's later account says Ache returned to Maynila, recovered his lands, forced Tondo back, and married a cousin sent by his grandfather. The original Spanish passage for the marriage has not been collated, and its date and kinship details remain uncertain.
+A later account attributed to Aganduru says Ache returned to Maynila, recovered his lands, forced Tondo back, and married a cousin sent by his grandfather. The original Spanish passage for the marriage has not been collated, and its date and kinship details remain uncertain.
 
 Riquel's 1571 account names "Raja Ache the Old" and "Raja Soliman the Young" among Maynila's rulers. Their commonly reconstructed uncle–nephew relationship is not established by that naming alone.
 
@@ -74,7 +74,7 @@ The [psychological development framework](/raha-ache/research/trilogy-character-
 
 **Scene stress test:** have Ache apologize without giving an explanation of why he was right. When the apology fails, make him tempted to command forgiveness. His final progress is accepting a refusal without treating it as insubordination. [Human-character guide](/raha-ache/research/psychologically-credible-characters/).
 
-## Attraction and intimate life (fictional canon)
+## Attraction and intimate life (fictional development and published limits)
 
 The development framework allows Ache romantic and sexual attraction **toward women and men**. This is **literary invention**, not a claim that the historical Raja Ache's sexuality is documented. Do not mistake an intended character dimension for a relationship already established on-page, or give his circa-1500 narration a modern identity declaration.
 
