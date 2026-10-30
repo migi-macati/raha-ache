@@ -190,6 +190,8 @@ The cargo boat's owner arrived, dripping water, and pointed at his broken jars.
 
 “You saved my daughter,” he said. He looked toward the rower, still sitting by the piling. “I thank you for that. But who pays for these? And what happens if he cannot row?”
 
+The fisherman pulled a strip of wet net across his knees. Where the stakes had been dragged aside, the knots had opened into a gap I could have put my head through. At the piling, the rower tried to shift his paddle out of the mud. He used his unhurt hand. When the shaft slipped, he left it where it fell.
+
 I had three men demanding answers, an injured rower who had said nothing, and only one answer: the child was alive.
 
 It seemed enough to me. No one else seemed willing to call it enough.
