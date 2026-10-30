@@ -980,13 +980,13 @@ I looked toward the two carriers. The one with the cut forehead was sitting on t
 
 "I know the others by their work," I said. "Not their names."
 
-Hamzah called them to him. The first was Iman, the man who had come along the bank and taken Bakar's rope. The second was Dali, the one Safi had found farther among the roots. The steersman's name was Imran. Hamzah said each name once, as if he were putting the men in their places aboard the boat that was no longer there.
+Hamzah called them to him. The first was Iman, the man who had come along the bank and taken Bakar's rope. The second was Dali, the one Safi had found farther among the roots. The steersman's name was Latif. Hamzah said each name once, as if he were putting the men in their places aboard the boat that was no longer there.
 
 "Four," he said. "And Nasir."
 
 I made no mark.
 
-A man from the landing came with a fresh strip of cloth for Imran's leg. One of the women told him to bring water that had been heated, not the cup everyone had been passing around. The man went back up the steps.
+A man from the landing came with a fresh strip of cloth for Latif's leg. One of the women told him to bring water that had been heated, not the cup everyone had been passing around. The man went back up the steps.
 
 Jamil arrived with Hasan behind him. He took in the board, the women, the two boats, and the space where Hamzah's vessel should have been.
 
@@ -1022,7 +1022,7 @@ He held my gaze for a moment. "Then we will hear the whole account. Not here, wh
 
 Hamzah would not go inside. "My boat is gone. My goods are gone. Nasir is gone. You may hear it here."
 
-Jamil glanced toward Imran. The women were moving him onto the board. He waited until they had lifted it and carried him up the steps. Then he turned back.
+Jamil glanced toward Latif. The women were moving him onto the board. He waited until they had lifted it and carried him up the steps. Then he turned back.
 
 "Tell me what you saw," he said to Hamzah.
 
@@ -1034,7 +1034,7 @@ He raised his arm a little and winced.
 
 "What did they use?" Hasan asked.
 
-"Hands, first. One struck Imran when he tried to move the stern away. I saw something in the man's hand, but I cannot tell you what it was. We were against the trees."
+"Hands, first. One struck Latif when he tried to move the stern away. I saw something in the man's hand, but I cannot tell you what it was. We were against the trees."
 
 "Did you see Nasir leave the boat?"
 
@@ -1048,7 +1048,7 @@ Hasan repeated the last two answers quietly, so that the people standing farther
 
 Dali said he had jumped toward the bank when the strangers came aboard. He had heard a splash behind him. He did not know who had made it. Iman had climbed into the roots before he could see what happened at the stern. Neither had seen Nasir reach land.
 
-Safi told Jamil where his own boat had been when he saw the strangers. He described the man in the water, Imran's leg, Hamzah clinging to the bank, and the choice to retrieve them while the other craft hauled the cargo boat away.
+Safi told Jamil where his own boat had been when he saw the strangers. He described the man in the water, Latif's leg, Hamzah clinging to the bank, and the choice to retrieve them while the other craft hauled the cargo boat away.
 
 "Could you have followed?" Jamil asked.
 
@@ -1262,7 +1262,7 @@ I thought of the small amount I had kept from my own allowance. It would not rep
 
 I looked down at the mat. Hasan moved one of the witness strips nearer to me.
 
-"These are the men who returned," he said. "Imran is being tended. Iman and Dali can speak. Hamzah has given his account. Nasir's place remains open. I need you to write down which of them you heard yourself, and which words came to you through someone else."
+"These are the men who returned," he said. "Latif is being tended. Iman and Dali can speak. Hamzah has given his account. Nasir's place remains open. I need you to write down which of them you heard yourself, and which words came to you through someone else."
 
 "Will I go with the search?"
 
@@ -1296,7 +1296,7 @@ I thought of Bakar's hand on my wrist. I had asked him to turn his boat toward t
 
 "He could have tried. Then I might be hearing how many more men did not return."
 
-I remembered Safi turning toward Imran in the water while Hamzah's boat was still being hauled away. I had called out no, as if the rescue were the mistake.
+I remembered Safi turning toward Latif in the water while Hamzah's boat was still being hauled away. I had called out no, as if the rescue were the mistake.
 
 "Does he get another command?"
 
@@ -1304,7 +1304,7 @@ I remembered Safi turning toward Imran in the water while Hamzah's boat was stil
 
 The answer did not satisfy me. I wanted to know whether he had risen while I had fallen. I could see the difference without anyone saying it.
 
-Hasan gave me a clean piece of wood. I made a mark for Hamzah, then for Imran, Iman and Dali. I left a space for Nasir. Hasan did not tell me to fill it.
+Hasan gave me a clean piece of wood. I made a mark for Hamzah, then for Latif, Iman and Dali. I left a space for Nasir. Hasan did not tell me to fill it.
 
 We worked until the light in the doorway changed. One of the merchants whose cloth had been on Hamzah's boat came to ask how much had been taken. Hasan told him which bundles had been seen leaving the hull and which had only been listed at departure. The merchant was angry that we could not give him an exact count. He was angrier when he learned that the boat itself had been taken.
 
