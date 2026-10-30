@@ -752,7 +752,6 @@ He watched his men settle the poles.
 
 Sulad had gone to fetch our jar. I went back to the baskets and carried them from the hard ground to the place the buyer had chosen for them. He moved the last one half a pace and nodded. By then the fisherman had spread his net again. I waited until Sulad returned before we started uphill. Behind us the rope was coiled inside the visiting boat. The post stood bare.
 
-
 * * *
 
 The woman had brought the basket inside by the time we returned. The child slept with his face against her knee. She was drawing a strip through the same broken place in the basket, and I wondered how many times she had already repaired it.
