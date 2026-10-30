@@ -23,6 +23,11 @@ const labels: Record<ChapterNote['kind'], string> = {
                 <p class="chapter-note-kind">{labels[note.kind]}</p>
                 <p>{note.body}</p>
                 {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
+                {note.links && note.links.length > 0 && (
+                  <p class="chapter-note-references">References: {note.links.map((link, i) => (
+                    <><a href={link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
+                  ))}</p>
+                )}
               </details>
             ) : (
               <>
@@ -30,6 +35,11 @@ const labels: Record<ChapterNote['kind'], string> = {
                 <p class="chapter-note-kind">{labels[note.kind]}</p>
                 <p>{note.body}</p>
                 {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
+                {note.links && note.links.length > 0 && (
+                  <p class="chapter-note-references">References: {note.links.map((link, i) => (
+                    <><a href={link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
+                  ))}</p>
+                )}
               </>
             )}
           </li>
@@ -46,6 +56,7 @@ const labels: Record<ChapterNote['kind'], string> = {
   .chapter-historical-notes li{margin:0 0 1.25rem;overflow-wrap:anywhere}
   .chapter-historical-notes li:last-child{margin-bottom:0}
   .chapter-historical-notes li p{margin:.35rem 0 .65rem}
+  .chapter-note-references{font-size:.9rem}
   .chapter-note-kind{font:600 .78rem ui-sans-serif,system-ui,sans-serif;color:var(--muted)}
   .chapter-historical-notes a{color:#755016;text-underline-offset:3px}
   .chapter-note-spoiler{margin:.35rem 0}
