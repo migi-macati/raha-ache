@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-1-chapter-6",
+  "notes": [
+    {
+      "title": "Boat-building and paid passage",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's Boat-Building and Seamanship in Classic Philippine Society (Philippine Studies 30, no. 3, 1982, pp. 335–376) surveys Philippine boat construction and maritime exchange. The text was inspected through a SPAFA Digest reprint, not the original journal PDF. Scott discusses the Visayan term hinakay for freight, boat hire or passage; that regional term does not establish what Tagalog-speaking travelers in Maynila said, the design of Ache's unnamed merchant vessel or his specific fare.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "A later story of departure",
+      "kind": "retrospective",
+      "body": "The account attributed to Aganduru Móriz describes Ache seeking Bruneian support, but it was written about a century after the events and survives in this project's research chiefly through later summaries. The cited original Spanish pages have not been collated. This chapter's first leg, landing and negotiated work cannot be inferred from that retrospective story.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "A first leg, not an assured route",
+      "kind": "fiction",
+      "body": "Ache and Sulad's paid places aboard a working vessel, cargo handling, jar, food, first landing, uncertain shelter and possibility of returning are fictional scenes. Neither a guaranteed onward boat to Brunei nor the particular wages, passenger terms and household permissions are documented. Sulad's continued participation is his own decision, not a permanent obligation to Ache."
+    }
+  ]
+}
