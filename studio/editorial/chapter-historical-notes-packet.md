@@ -1,6 +1,6 @@
 # Raha Ache — chapter historical notes editorial packet
 
-**Status:** Studio-only proposal and source audit; not published. **Scope:** Books I–III (30 core chapters) and Book III bonus chapters 11–12. **Release rule:** do not delay the already-prepared Chapter 5 manuscript for this enhancement.
+**Status:** Retrospective Studio source-audit queue, not a publication-status record. All 30 core chapters and Book III bonus Chapters 11–12 are published; individual historical notes and rendered-live/audio QA require separate verification. **Scope:** 32 canonical chapters. Do not reopen completed chapter-publication steps.
 
 ## Reader experience and editorial contract
 
@@ -36,11 +36,11 @@ Use three to seven meaningful notes where warranted, fewer when evidence is thin
 
 **Chapter 7 — The Length of a Rope.** William Henry Scott's *Barangay* (1994), Visayas discussions of trade, textile work, property and social organization, is a source for comparative context, subject to checking the printed edition before page-specific notes. Nima's absent sister retaining control of her cloth, the local fisherman's refusal of landing space, and Ache's paid pole-handler are fictional applications, not reported incidents. Mulaw is an invented personal name: the current manuscript does not assign him a datu/lakan title, and the older Universe alias must not be mistaken for an attested historical chief. Scott's 1982 vessel article has not yet been checked for the specific mooring and repair actions; withhold such an attribution.
 
-**Chapter 8 — Diplomacy and Supplies.** Regional exchange and maritime labor can be placed alongside Tomé Pires's *Suma Oriental* (Cortesão 1944 edition, vol. I, pp. 133–134, subject to source-file locator check), but Pires does not document Ache's supplies, mat-mending work or one-leg bargain. The mat carrier's consent and the division of earned food are fictional continuity facts; do not call them period records. Wait for the assembled public prose before selecting chapter-specific notes.
+**Chapter 8 — The Unfinished Edge.** Regional exchange and maritime labor can be placed alongside Tomé Pires's *Suma Oriental* (Cortesão 1944 edition, vol. I, pp. 133–134, subject to source-file locator check), but Pires does not document Ache's supplies, mat-mending work or one-leg bargain. The mat carrier's consent and the division of earned food are fictional continuity facts; do not call them period records. The chapter prose is published; review its actual mat-mending, basket-moving and passage-negotiation scenes before selecting notes.
 
-**Chapter 9 — The Last Storm.** Roderich Ptak, “The Northern Trade Route to the Spice Islands,” *Archipel* 43 (1992), pp. 27–56, DOI 10.3406/arch.1992.2804, reconstructs overlapping trade corridors. The opening p. 27 has been inspected, while the later pp. 39–41 and 46–48 discussion has so far been checked through uncorrected searchable text rather than original page images. Cite the article as network-level scholarship only; it does not establish Ache's intermediate landing, a single through-voyage, a named captain or a specific storm. Modern monsoon climatology may inform a plausibility check after season and geography are fixed, but cannot attest weather on this fictional crossing. No public Chapter 9 prose or historical notes are release-ready.
+**Chapter 9 — Seven on the Board.** Roderich Ptak, “The Northern Trade Route to the Spice Islands,” *Archipel* 43 (1992), pp. 27–56, DOI 10.3406/arch.1992.2804, reconstructs overlapping trade corridors. The opening p. 27 has been inspected, while the later pp. 39–41 and 46–48 discussion has so far been checked through uncorrected searchable text rather than original page images. Cite the article as network-level scholarship only; it does not establish Ache's intermediate landing, a single through-voyage, a named captain or a specific storm. Modern monsoon climatology may inform a plausibility check after season and geography are fixed, but cannot attest weather on this fictional crossing. Chapter 9 prose is published. Its wax-loss, injured crewman, divided cloth consignment and successive one-leg contracts are fictional incidents; audit any proposed notes against the published chapter and independently inspected source passages. Do not imply Ptak records this storm or these transactions.
 
-## Implementation acceptance criteria (separate technical packet)
+## Historical-notes acceptance criteria (audit current implementation; do not assume absence)
 
 1. Chapter notes are structured data or reusable chapter-linked records, not manually duplicated prose; support zero notes gracefully.
 2. The section is collapsed by default, keyboard accessible, readable without JavaScript, mobile-friendly and clearly separate from narration and Read Aloud.
@@ -48,6 +48,6 @@ Use three to seven meaningful notes where warranted, fewer when evidence is thin
 4. Source links resolve; each claim's attribution and source status are visible. No fabricated locators.
 5. Optional spoilers are hidden by default. Chapter previous/next navigation, chapter list, Universe links and comments remain intact.
 6. Audit generated HTML and internal links after implementation; GitHub Pages deployment is not rendered live verification.
-7. Roll out retrospectively for Chapters 1–5 only after Chapter 5 publication is no longer blocked, then make it part of the 30+2 chapter release checklist.
+7. Audit existing published chapter notes and chapter-specific source links against these criteria across all 32 canonical chapters; do not reset or delay the completed chapter-publication checkpoint.
 
-**Open research:** Verify Aganduru's original Spanish edition and exact passage; check Chapter 1–3 scene-specific claims and source links; test whether the current Astro chapter template can display structured notes without disrupting Read Aloud.
+**Open research and QA:** Verify Aganduru's original Spanish edition and exact passage; check Chapters 1–3 scene-specific claims and source links; inspect the current Astro notes implementation and generated pages for correct collapse, accessibility and Read Aloud boundaries. Actual rendered-live and audible playback remain unverified.
