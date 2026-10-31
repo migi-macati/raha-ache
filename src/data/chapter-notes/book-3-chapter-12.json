@@ -1,0 +1,41 @@
+{
+  "chapterId": "book-3-chapter-12",
+  "notes": [
+    {
+      "title": "The 1572 account",
+      "kind": "documented",
+      "body": "The anonymous Relation of the Conquest of the Island of Luzon, dated 20 April 1572, describes a deceased Christian Manila chief named Laya (Blair and Robertson, The Philippine Islands, vol. 3, printed p. 128) and says his property passed to an unnamed legitimate nephew (p. 145; English edition). The writer belonged to the conquest party. His account of kinship and legitimacy reflects Spanish categories, not a complete record of local households.",
+      "links": [
+        {
+          "label": "Relation of the Conquest of the Island of Luzon",
+          "path": "sources/relacion-1572/"
+        },
+        {
+          "label": "English edition",
+          "url": "https://www.gutenberg.org/cache/epub/13616/pg13616-images.html"
+        }
+      ]
+    },
+    {
+      "title": "Names and identification",
+      "kind": "reconstruction",
+      "body": "The relation calls the deceased chief Laya, not Ache. Connecting him to Ache the Old, named separately in the 1571 Riquel record, is a historical inference. The nephew is not identified in the inspected passage, and this novel does not assert that Sulayman inherited all Ache's property. Retana’s Spanish printed-edition transcription (1898, pp. 11 and 30) has now been compared with the English passages; visual scan and manuscript collation remain outstanding. Neither text establishes an exact baptism or death date for Ache.",
+      "links": [
+        {
+          "label": "1571 Riquel record",
+          "path": "sources/riquel-1571/"
+        }
+      ]
+    },
+    {
+      "title": "Baptism and belief",
+      "kind": "fiction",
+      "body": "A Christian death is reported for Laya. Ache's baptismal conversation, the priest, interpreter, water, prayers and private reflections in this chapter are fictional reconstructions. Neither a particular request for baptism during illness nor Ache's inner conviction is documented by the passages inspected. The novel does not claim that a priest's assurances controlled the conduct of Spanish officers."
+    },
+    {
+      "title": "Household testimony",
+      "kind": "fiction",
+      "body": "Awi, her niece, the canoe-owning woman, the disputed record, the copper bowls, roof repair, wages, illness care and inheritance argument are invented. The transfer to Awi's first-person account after Ache's death is a narrative device, not a surviving witness statement. It preserves the distinction between what the 1572 writer reported and what later readers might wish a family had said."
+    }
+  ]
+}

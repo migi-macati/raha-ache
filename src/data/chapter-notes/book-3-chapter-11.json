@@ -1,0 +1,48 @@
+{
+  "chapterId": "book-3-chapter-11",
+  "notes": [
+    {
+      "title": "The 1570 expedition and the fire",
+      "kind": "documented",
+      "body": "The anonymous Spanish Relation of the Voyage to Luzon (in Blair and Robertson, The Philippine Islands, vol. 3, esp. printed pp. 72–83; accessible English edition) reports a tide-sensitive approach, a three-day wait after Mehomete's brother went ashore, negotiations, fighting and the Spanish burning of Maynila. Its allegations about who initiated violence, Chinese crews' rudders and cargo, and the motives of local leaders are conquest-party testimony, not independent findings. Mehomete's and Ache's private thoughts, the individual families, and the dialogue in this chapter are fictional.",
+      "links": [
+        {
+          "label": "Relation of the Voyage to Luzon",
+          "path": "sources/relacion-voyage-luzon-1570/"
+        },
+        {
+          "label": "accessible English edition",
+          "url": "https://www.gutenberg.org/cache/epub/13616/pg13616-images.html"
+        }
+      ]
+    },
+    {
+      "title": "People and political names",
+      "kind": "reconstruction",
+      "body": "The 1570 account describes an unnamed older ruler as uncle of the younger Soliman; identifying that man with Ache the Old is an inference from the separate 1571 Riquel record naming Raha Ache the Old and Raha Solimane the Young as Manila principales and Sibunao Lacandola as a Tondo principal. No father-son relationship, unified kingdom or command over Tondo is established by these sources. The four Chinese ships, married Chinese households, Japanese residents and the Christian Pablo are reported from the Spanish witness's perspective; the precise numbers and Pablo's alleged fighting are not independently confirmed.",
+      "links": [
+        {
+          "label": "1571 Riquel record",
+          "path": "sources/riquel-1571/"
+        }
+      ]
+    },
+    {
+      "title": "1571 return and fighting",
+      "kind": "reconstruction",
+      "body": "The arrival of Legazpi's forces and resistance at Bangkusay belong to 1571. The reported resistance leader's identification with Bambalito, Tarik Sulayman or the Maynila Sulayman is disputed; this chapter intentionally does not resolve it. Particular missing rowers, household claims, conversations and labor arrangements are fictional constructions. The narrative does not assert that Ache personally witnessed the fighting.",
+      "links": [
+        {
+          "label": "Bangkusay",
+          "path": "events/bangkusay-1571/"
+        }
+      ]
+    },
+    {
+      "title": "Limits of verification",
+      "kind": "retrospective",
+      "body": "These notes rely on the cited English documentary edition and project source dossiers; not all original-language 1570–1572 manuscript passages have been collated. The baptism, succession questions and death associated with Ache in 1572 belong to Bonus Chapter 12 and are not anticipated as settled facts by characters here.",
+      "spoiler": true
+    }
+  ]
+}
