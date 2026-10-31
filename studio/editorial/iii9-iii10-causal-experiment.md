@@ -89,7 +89,7 @@ Parsed at Markdown `***` separators in published `src/content/chapters/book-3-ch
 
 **Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,209 whitespace words** (scene 16 + scene 17). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
 
-### B1 alternative text (first-person Ache; synchronized to branch f8ef811)
+### B1 alternative text (first-person Ache; synchronized to branch b133fff)
 
 Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch had spread through the fold where the fish had rested.
 
@@ -121,7 +121,7 @@ Dala stood at the doorway with her net weights in one hand. She had come to hear
 
 "One basket may wait there after I lift the net," she told Sela. "Ask me on the morning you need it. I may have to set the net again."
 
-Sela touched the stained leaf. "I have a buyer who may take a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
+Sela touched the stained leaf. "The buyer told me he would pay for a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
 
 "Has he agreed?" the keeper asked.
 
@@ -140,6 +140,10 @@ The cord owner arrived with a jar and his line of three loosened knots. He said 
 "You offered a measure from every boat," Laman said. "I never hired your watcher."
 
 "I know."
+
+The cord owner asked Sela whether she would bring fish to the farther landing if Raya closed the step again.
+
+"Some, if the buyer is there and the path is clear," she said. "I can still sell by land."
 
 The clay-weight trader had been listening from the doorway. He asked Dala whether two jars could wait on her path at the next market.
 
@@ -194,3 +198,7 @@ The first branch revision compressed the hearings but removed two explicit agenc
 Direct published-versus-branch comparison found that the compressed hearing omitted **Laman's separate oil hire at the farther channel on the morning of the hearing** and could imply Hiran was paid for that same morning. The source distinguishes Laman's later oil delivery from **Hiran's agreed pole journey and waiting measure at the earlier fish crossing**. Restored the oil-hire fact and changed the narration to name the crossing and agreed wait, without adding a new debt or payment. The updated manuscript is branch commit `f8ef811993b4572c82fbc4c5da45d8f1dba3a491`.
 
 **Current exact-branch comparison:** 1,209 published words across scenes 16–17 versus **723 words** in the replacement scene (**40.2% reduction**); 18 published scenes versus 17 branch scenes. The Studio sample above was synchronized from the actual branch after the earlier sample lagged behind agency fixes. Earlier word counts in the chronological experiment notes describe previous branch states, not this head. All publication gates remain pending: no PR, exact-head CI, merge, deploy, independent reader feedback or rendered-live/audio verification for the compression branch.
+
+### B1 buyer-agreement and route-agency QA (1 November 2026)
+
+Comparing the complete published III.10 scenes 16–17 against the compression branch found two further material omissions: the buyer had **already told Sela** he would pay for a smaller load *if delivered by the stated time*, and Sela herself retained the option to use the farther landing or sell by land. A vague possible buyer and a trader's separate route choice did not preserve either fact. Branch prose commit `b133fff8e1fa77fe22280090fd837ee5cf42a1e0` restores the buyer's bounded offer and Sela's own conditional route decision, without granting a guaranteed sale or obliging the cord owner. This increases the replacement scene to **763 whitespace words** versus **1,209** in the published pair (**36.9% shorter**); 18 published scenes become 17. Other scenes remain unchanged. Independent reader impact and publication gates remain unverified; PR remains **UNSAVED** after the prior safety rejection.
