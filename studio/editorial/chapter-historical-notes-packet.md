@@ -51,3 +51,20 @@ Use three to seven meaningful notes where warranted, fewer when evidence is thin
 7. Audit existing published chapter notes and chapter-specific source links against these criteria across all 32 canonical chapters; do not reset or delay the completed chapter-publication checkpoint.
 
 **Open research and QA:** Verify Aganduru's original Spanish edition and exact passage; check Chapters 1–3 scene-specific claims and source links; inspect the current Astro notes implementation and generated pages for correct collapse, accessibility and Read Aloud boundaries. Actual rendered-live and audible playback remain unverified.
+
+## Book II Chapters 7–10 — 29 July 1521 departure source gate (RA-HIST-01)
+
+**New verified edition check, 31 October 2026:** Pigafetta's Ambrosian Italian text and James Alexander Robertson's facing English translation, reproduced in Blair and Robertson, *The Philippine Islands*, vol. XXXIII (1906), pp. 223–225 and 232–233, were inspected directly in the [bilingual edition](https://www.gutenberg.org/files/42884/42884-h/42884-h.htm). Pigafetta places the war praus, emergency sailing and junk attack on **Monday, 29 July 1521**. His account subsequently reports the gold release, king's message, retained captives and eventual movement to a separate 42-day repair anchorage near Cimbonbon. The [Philippine Diary Project chronology](https://philippinediaryproject.com/2021/03/05/the-magellan-expedition-and-elcanos-circumnavigation-500-years/) identifies 29 July as the Brunei departure date and 15 August as the Cimbonbon repair call. The precise hour the ships finally left sight of the Brunei harbor is **not stated** in the inspected passage; other manuscript witnesses and Albo's log have not yet been collated.
+
+**Relative-day ledger from actual published prose, pending finer source reconciliation:**
+
+| Text | Narrative anchor | Chronology implication |
+| --- | --- | --- |
+| II.7 scenes 4–6 | Foreign ship raises sail, fires on junks, boards Ache's vessel. | Match the documented 29 July encounter; no contradiction by itself. |
+| II.8 scenes 1–5 | Captivity, gold release and return boat. | Duration is not unambiguously timestamped; a same-day release is possible in fiction but requires checking the scene's light and implied waiting. |
+| II.8 scene 6 | After release, Tahir/Jamil hearings; foreign ship remains visible beyond roofs and shoals at dusk. | Potentially the same date or later; cannot mark a confirmed defect without day reconstruction. |
+| II.9 scenes 1–5 | Missing-person and gold inquiries, damaged junk and repairs, a separate merchant dispute, Ruma's sail work. Scene 5 asks about sailing while foreign ships are **still outside**. | Strong candidate for an extended visible presence after 29 July, given multiple independent activities; needs day ledger. |
+| II.9 scene 6 | Explicitly **three mornings pass** before the inquiry boat is ready. | Ships are not expressly described as still visible after this three-morning interval; do not misstate the text. |
+| II.10 scenes 1–6 | Further hearings, Siripada's audience, Harun's commercial arrangements, departure toward Luzon. | References to the foreign ships are generally retrospective; check any remaining present-tense harbor claim before changing anything. |
+
+**Editorial decision gate:** This is a **P0 chronology candidate**, not a proven source conflict. First inspect Albo's log and Robertson's notes, then map the exact order and plausible duration of II.8's release and II.9's five earlier scenes. If the departure date excludes the ships remaining visible, make the smallest prose correction that moves them out of sight while preserving witnesses, surviving captives, gold disputes, unresolved losses and emotional consequences. Do not relocate the documented attack or imply the expedition's prisoners returned without evidence. Update the source entry `pigafetta` and the II.7–10 reader notes only after tested revisions; do not claim rendered-live verification from a successful Pages build.
