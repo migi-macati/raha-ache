@@ -2,7 +2,7 @@
 
 **Status:** Phase 1 underway, 31 October 2026, Asia/Manila. This is the consolidated literary-quality checklist, not a publication checkpoint or a claim of 10/10 quality. All 30 core chapters plus Book III bonus Chapters 11–12 remain published. **The previous 7.0/10 was a provisional opinion from a limited sample, not a validated full-trilogy score.** Do not carry it forward as an audited baseline.
 
-**Evidence scope at creation:** Main `4e1ce0d2bfd5cc09edb3b74d1beb04133a41f5d6`. Read the complete consecutive published text of **Book I Chapters 1–3**, and fetched the published text of all 32 chapters to inspect their frontmatter, approximate length, openings and endings. The other **29 chapters have NOT yet received a complete continuous literary reading**. No beta-reader results, live-browser/audio QA or new source collation were performed. Chapter-level findings below are limited to the three closely read chapters.
+**Evidence scope at creation:** Main `4e1ce0d2bfd5cc09edb3b74d1beb04133a41f5d6`. Read the complete consecutive published text of **Book I Chapters 1–6**, and fetched the published text of all 32 chapters to inspect their frontmatter, approximate length, openings and endings. The other **26 chapters have NOT yet received a complete continuous literary reading**. No beta-reader results, live-browser/audio QA or new source collation were performed. Chapter-level findings below are limited to the three closely read chapters.
 
 ## Goal and release gates
 
@@ -46,7 +46,7 @@ Approximate prose-token counts derived from published chapter bodies after remov
 
 Approximate totals: **Book I 56,038**, **Book II 120,907**, **Book III including bonuses 158,431**, **trilogy 335,376**. Book I Chapters 1–5 total about **14,747**, compared with **41,291** for Chapters 6–10. This is a material change in narrative scale and potential pacing, not proof that the opening needs expansion. The trilogy's total length makes repeated procedural beats and weak macro-level escalation especially costly. Evaluate narrative return per scene before making any cut or addition.
 
-## Completed consecutive close reading: Book I Chapters 1–3 (3/32)
+## Completed consecutive close reading: Book I Chapters 1–6 (6/32)
 
 ### I.1 — *The Boy Prince*
 
@@ -76,11 +76,39 @@ Approximate totals: **Book I 56,038**, **Book II 120,907**, **Book III including
 
 **P2 prose gate RA-LIT-05:** Opening chapters are brisk and voice-driven, with recurring sharp question-answer dialogue. Check the full trilogy for overreliance on short pedagogical exchanges, repeated physical motifs (cords, baskets, knots, tallies, jars), and uniformly modest closing gestures. **Acceptance:** identify actual repetition and show a stronger alternative before changing any sentence; retain meaningful motif recurrence.
 
-**No confirmed P0 defect yet.** These are hypotheses, not verdicts or permission to inflate the opening chapters. A reader should be able to disagree with each proposed revision based on the text.
+**No confirmed P0 defect yet.** The first three findings are hypotheses; the additional close read below identifies a more concrete P1 repetition issue. This is not permission to inflate the opening chapters. A reader should be able to disagree with each proposed revision based on the text.
+
+### I.4 — *The Second Crossing*
+
+**Verified causal arc:** The Tondo clerk answers the access-to-crew-marks question left open in I.3: he says he would ask a claimant why the information was needed, even if the claimant were a raha. Sima disputes a supposed second voyage with a Tondo organizer; Ache prematurely speaks for her and loses her trust. The organizer's sister's son reveals that wages from the *first* voyage remain unpaid even though Sima paid the organizer. Ache's mother limits what the shared boards can prove and sends the steward to investigate crew terms. Sima negotiates another boat without ceding her voice to Ache.
+
+**Strength to protect:** The clerk's response follows the previous chapter's precise question, Sima's rebuke is an earned humiliation, and the organizer has plausible economic grievances. The organizer's young relative exposes an important distinction between payment to an intermediary and payment to workers. The unresolved wages have consequences in I.5–6.
+
+**P1 diagnostic RA-LIT-06 (confirmed across I.4–6):** A succession of authority figures and workers repeatedly explains that Ache cannot promise another person's work, property, wages or consent. The underlying ethic is sound; by I.6 it risks becoming a predictable dramatic engine rather than a changing conflict. **Acceptance:** map each repetition and retain only those that introduce a new cost, choice, relationship or reversal. Protect Sima's explicit rebuke and the unpaid-wage distinction. Do not delete lines solely because they use similar vocabulary.
+
+### I.5 — *The Boat That Stayed*
+
+**Verified causal arc:** A merchant shifts work to Tondo while the organizer's nephew still has no wages. Ache asks Bulkan for guards, Sulad's uncle for a boat, his mother for stores and permission, Ula for a messenger, and Sulad for companionship. Each has independent obligations and offers less than Ache wants. The mother permits inquiry but no guaranteed voyage; Ula has no confirmed carrier or captain; Sulad has not consented; the steward returns with Tondo's proposed crew terms.
+
+**Strength to protect:** The young rower challenges Ache's ability to notice an unpaid worker. Bulkan refuses to become a political guard, Sulad's uncle cannot sacrifice fishing days, Ula will not convert an inquiry into a summons, and Sulad asks whether Ache wants his company or his obedience. The fish shared at the end is a modest emotional turn, and the final boatlessness is causally honest.
+
+**P1 diagnostic RA-LIT-07:** The chapter contains five related request/qualification/refusal sequences. Their accumulation gives each supporting character agency but may flatten suspense because the reader can predict the answer before Ache asks. **Acceptance:** compare the five scenes' unique dramatic information and emotional stakes; consider compression or a more surprising counteraction where the manuscript permits it, without fabricating a guaranteed captain, changing the conditional maternal permission or erasing independent consent.
+
+### I.6 — *No Boat Owed Us*
+
+**Verified causal arc:** Ula returns Ache's unagreed silver; an intermediary cannot locate the unnamed captain but directs him to a different trader. The trader offers only a conditional first-leg fare. Ache's mother separates her own gold from household grain and other people's labor. The unpaid rower obtains separately paid new work without extinguishing his earlier debt. Sulad negotiates directly, obtains his uncle's understanding, chooses to go, and contributes his own silver. The two buy passage, depart, and arrive at a first landing without shelter or onward transport; they earn food moving rejected cargo.
+
+**Strength to protect:** The mother's two gold pieces and crooked stitches give departure a personal cost. Sulad's decision is made to his uncle before Ache hears it; his own money and refusal to be both fare-paying passenger and unpaid crew are meaningful agency. The first landing denies Ache any triumphant arrival; the buyer's damaged basket creates a new economic problem.
+
+**P1 diagnostic RA-LIT-08:** At roughly 10,715 lexical words, I.6 is longer than I.1–5 combined in several pairings and revisits the 'do not promise what you do not own' principle through Ula, the intermediary, the trader, Ache's mother, Sulad, Bulkan and a boatman at the destination. The first-leg booking, departure and arrival all matter; however, the number of separate interrogations may weaken their cumulative emotional force. **Acceptance:** make a scene/beat map and mark each repeated negotiation's *new* information or consequence; trial-compress redundant turns while preserving the mother's gold, Sulad's autonomous choice, actual departure, and first-shore vulnerability. Assess the revised sequence against the unedited version before any public prose PR.
+
+**Continuity checks passed within I.1–6:** The fisherman's damaged stakes receive labor in I.3–4; the injured rower's food and open claim are acknowledged in I.2–3; the Tondo crew-mark question from I.3 is answered in I.4; the first-voyage rower's unpaid wages survive I.4–6 despite his new paid task; the captain from I.3 remains unnamed/unfound; I.5 promises no boat and I.6 purchases only the first leg; Sulad's consent is earned, not assumed. These are local textual checks, not a whole-trilogy continuity certification.
+
+**First confirmed cross-chapter editorial risk:** the same consent/property/authority teaching pattern repeats through I.4–6, even as stakes shift. This warrants a structural experiment after the remaining Book I chapters have been read. Do not immediately rewrite or cut: I.6 also contains the strongest early emotional payoff and the first physical departure.
 
 ## Next execution order
 
-1. [ ] **I.4–I.6 consecutive close read**, resolve I.1–3 promises: injured rower, fishing stakes, Tondo clerk and crew-list access, Ula's messenger, Sulad's independent decision and first passage. Update this single queue with scene-level findings, not an additional run log.
+1. [x] **I.4–I.6 consecutive close read**, resolving the opening continuity promises and identifying the recurring request/refusal teaching engine. Scene-by-scene compression test remains pending.
 2. [ ] **I.7–I.10 close read**, score Book I's central conflict and Chapter 10 resolution, record repeated dramatic patterns.
 3. [ ] **II.1–II.10 close read**, especially Sulad/Laila presence, Hamzah/Nasir consequences, Loue, 1521 capture and return decision. Track historical-source boundary and chapter-length value.
 4. [ ] **III.1–III.10 close read**, verify whether the final core chapter resolves the promised Maynila/Tondo conflict and whether domestic restitution has enough accumulated emotional force. Do not infer failure from its closing paragraph alone.
