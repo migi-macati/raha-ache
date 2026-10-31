@@ -84,3 +84,82 @@ Parsed at Markdown `***` separators in published `src/content/chapters/book-3-ch
 **Most defensible compression candidates, not yet prose edits:** III.9 scenes 3–4 (setup/hearing), 6–7 (measure/sourcing), 9–10 (rumor/correction); III.10 scenes 3–4 (separate complaint and labor), 11–12 (step test/ground conditions), 16–17 (two accounting hearings). These are *candidates*, not automatic deletions: each currently contains information and independent agency. A viable revision must preserve witnesses, owner-specific limits, causality and dates.
 
 **Next controlled Studio draft:** Rewrite only the **III.9 scene 14 → III.10 scenes 15–18** decision chain as a reversible alternative. Carry forward Sela's unpaid loss, Amaya's precise cloth claim, Ache's failed bid for authority and his actual Tesa earnings. State which concrete privilege Ache relinquishes and which person can still refuse. Keep the public manuscript unchanged until the alternative demonstrates a more powerful climax without weakening the existing moral and historical specificity.
+
+## Reversible prose test B1: combine III.10 scenes 16–17
+
+**Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,209 whitespace words** (529 + 680). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
+
+### B1 alternative text (first-person Ache)
+
+Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch had spread through the fold where the fish had rested.
+
+"The boat took half a basket," she said. "The buyer paid for that half. The rest went by the upper path and arrived after he left. I paid the carrier for the walk. I sold the fish later for less."
+
+"Did you see the buyer turn it away?" the keeper asked.
+
+"The carrier told me. I saw him come back with it. I sold it afterward."
+
+The keeper set one strip beneath the leaf and another beside it. She would not put the unseen refusal on the same strip as the money Sela had counted.
+
+I had carried the first half across Raya's new timber. I remembered the pull of the basket as the water rose. The rest of the fish had not crossed. No mark could make the buyer wait.
+
+Laman came in without Hiran. He said she had taken work with another owner.
+
+"She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
+
+Sela nodded. They had each lost something, and neither asked the keeper to charge the bank for it.
+
+Raya put a wet stone beside the two strips.
+
+"This is what came loose under the lower bearing," she said. "I packed larger stones there. Yesterday, at low water, the step held a carried basket. When the water reached the mark, I closed it. I will inspect it when someone asks to use it. If I am away, no one can say I have opened it."
+
+"Could another maker inspect it?" Laman asked.
+
+"If that person knows the work and wishes to answer for it."
+
+Dala stood at the doorway with her net weights in one hand. She had come to hear about the ground above the step.
+
+"One basket may wait there after I lift the net," she told Sela. "Ask me on the morning you need it. I may have to set the net again."
+
+Sela touched the stained leaf. "I have a buyer who may take a smaller load next market. I will ask Marun to bring me word before I hire a boat."
+
+"Has he agreed?" the keeper asked.
+
+"Not yet."
+
+The keeper left space for his answer.
+
+The cord owner came carrying a jar from the farther landing. He had brought it for a buyer above the market. The three knots were still in his line, though he had pulled them apart.
+
+"The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
+
+"Then they know what they have bought," Sela said.
+
+"I could have offered the same service here."
+
+"You offered a measure from every boat," Laman said. "I never hired your watcher."
+
+"I know."
+
+The clay-weight trader had been listening from the doorway. He asked Dala whether two jars could wait on her path at the next market.
+
+"Not on my net ground."
+
+He picked up his jar. "Then I will take them by the other landing. I have already asked for news there."
+
+The cord owner moved aside to let him pass. He had won that trade. He did not ask anyone to call him the winner.
+
+Laman said he might carry Sela's next load if no one had hired him first. He would ask Hiran about the pole work when he knew the journey. Dala went back to her net. Raya took the wet stone away before it marked the keeper's mat.
+
+"Does anyone still ask me to record a charge for every boat?" the keeper said.
+
+No one did.
+
+Sela folded the stained leaf. I wanted to offer her the rice I had earned carrying the first basket, but Amaya had already accepted that rice toward the cloth I owed her. Sela had paid me for work I had done. She had paid others for work that had brought her no sale. I could not make either account disappear by giving the keeper another answer.
+
+### B1 comparison and decision gate
+
+- **Causal retention:** Sela's recorded price loss and reported buyer refusal remain distinct; Laman/Hiran's paid labor remains separate; Raya's low-water inspection, Dala's net path, Marun's unaccepted offer, the clay-weight trader's departure and the rejected universal fee survive.
+- **Deliberate addition:** Ache privately considers giving up rice already accepted by Amaya. This introduces a moral tension **without claiming he did so**. Before adoption, verify the rice sequence across III.9–10 and ensure this is not a repetitive internal lecture.
+- **Deliberate cuts:** Repeated enumeration of every owner's terms and the keeper's secondary summary. Risk: less texture of the keeper's recordkeeping and reduced independent space for Laman and Sela. Restore only if the shortened passage loses clarity or voice.
+- **Provisional result:** A controlled compression sample exists; no proof yet that it improves reader engagement or earns the trilogy ending. The larger climax and maternal payoff remain unresolved.
