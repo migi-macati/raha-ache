@@ -1,0 +1,42 @@
+{
+  "chapterId": "book-3-chapter-9",
+  "notes": [
+    {
+      "title": "Fictional merchants, labor and claims",
+      "kind": "fiction",
+      "body": "Marun, Sela, Hiran, Laman, Salin, Naru's oil inquiry, the cord owner, Raya, Dala, Madan, Amaya, Tesa, the keeper's tally strips and the coalition's three demands are characters and incidents invented for this novel. Their individual wages, fish sales, damaged landing, negotiations and refusal of a universal watcher charge are not attested early-sixteenth-century Maynila transactions or documented public institutions. The bamboo cuts function as fictional memory aids, not a claim that a contemporary port registry survived."
+    },
+    {
+      "title": "Contemporary trade context",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed c.1512–1515) provides regional context for commerce involving Luzon, Borneo and Malacca, but does not document these traders, the three baskets of fish, this rival channel, landing ownership or the coalition. See the Asian Studies discussion of Pires. The Pasig waterway and its connections are real; the particular steps, currents, travel times, ground conditions and market paths in this chapter are fictional reconstructions rather than measured early-1520s geography.",
+      "sourceId": "tome-pires-suma-oriental",
+      "links": [
+        {
+          "label": "Asian Studies discussion of Pires",
+          "url": "https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Debt, work and later testimony",
+      "kind": "reconstruction",
+      "body": "The Laguna Copperplate Inscription (900 CE; see Clavé and Griffiths, 2022) documents an earlier regional written debt record, not Ache's cloth obligation or the keeper's bamboo notches. Juan de Plasencia's Customs of the Tagalogs (1589) is later, colonial-context testimony and cannot establish the precise terms of early-1520s carrier wages, shore access or voluntary watchers. No original-language Pires or Plasencia passage has been newly collated for this chapter.",
+      "links": [
+        {
+          "label": "Laguna Copperplate Inscription",
+          "url": "https://archium.ateneo.edu/phstudies/vol70/iss2/2/"
+        },
+        {
+          "label": "Customs of the Tagalogs",
+          "url": "https://en.wikisource.org/wiki/The_Philippine_Islands%2C_1493%E2%80%931898/Volume_7/Documents_of_1589"
+        }
+      ]
+    },
+    {
+      "title": "Tondo and the limits of representation",
+      "kind": "fiction",
+      "body": "Salin's authority extends only to the fictional Naru household, not to all of Tondo or its rulers. No regional submission, universal levy, military fleet, territorial grant or appointed port office is established by the narrative. The competing accounts of a proposed watcher charge are part of the plot, not a historical assertion about an identifiable Tondo-Maynila legal proceeding."
+    }
+  ]
+}
