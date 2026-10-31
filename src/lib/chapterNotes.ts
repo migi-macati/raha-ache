@@ -3,7 +3,7 @@ export type ChapterNote = {
   kind: 'documented' | 'retrospective' | 'reconstruction' | 'fiction';
   body: string;
   sourceId?: string;
-  links?: { label: string; url: string }[];
+  links?: ({ label: string; url: string; path?: never } | { label: string; path: string; url?: never })[];
   spoiler?: boolean;
 };
 
@@ -30,8 +30,15 @@ export function chapterNotesFor(chapterId: string): ChapterNote[] {
     }
     if (note.links !== undefined) {
       if (!Array.isArray(note.links) || note.links.some((link) => {
-        if (typeof link?.label !== 'string' || !link.label.trim() || typeof link?.url !== 'string') return true;
-        try { return new URL(link.url).protocol !== 'https:'; } catch { return true; }
+        if (typeof link?.label !== 'string' || !link.label.trim()) return true;
+        const hasUrl = typeof link.url === 'string';
+        const hasPath = typeof link.path === 'string';
+        if (hasUrl === hasPath) return true; // Exactly one destination kind.
+        if (hasUrl) {
+          try { return new URL(link.url!).protocol !== 'https:'; } catch { return true; }
+        }
+        // Base-relative Universe routes only; reject traversal, queries and fragments.
+        return !/^(?:sources|events)\/[a-z0-9-]+\/$/.test(link.path!);
       })) {
         throw new Error(`Invalid historical note links ${index + 1} for ${chapterId}`);
       }
