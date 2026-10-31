@@ -1,0 +1,41 @@
+{
+  "chapterId": "book-3-chapter-6",
+  "notes": [
+    {
+      "title": "Fictional marks and hearings",
+      "kind": "fiction",
+      "body": "The keeper, Tawan, Dala, Raya, the bamboo tally, its separate goods and journey marks, and the hearing at the Maynila landing are fictional. No known source establishes this particular early-sixteenth-century system of port records, appeals or wage accounting. The narrative's limited procedure is a reconstruction, not a claim about an attested institution."
+    },
+    {
+      "title": "Writing and records in the wider region",
+      "kind": "reconstruction",
+      "body": "The Laguna Copperplate Inscription, dated 900 CE, records a debt clearance in a Malay-language inscription written in Indic script. It demonstrates that written records of obligation existed in the region long before the period of this novel, but does not document a tally-strip practice in early-1520s Maynila. See Elsa Clavé and Arlo Griffiths, “The Laguna Copperplate Inscription: Tenth-Century Luzon, Java, and the Malay World” (2022), and Antoon Postma's 1992 text and commentary.",
+      "links": [
+        {
+          "label": "“The Laguna Copperplate Inscription: Tenth-Century Luzon, Java, and the Malay World”",
+          "url": "https://archium.ateneo.edu/phstudies/vol70/iss2/2/"
+        },
+        {
+          "label": "1992 text and commentary",
+          "url": "https://archium.ateneo.edu/phstudies/vol40/iss2/3/"
+        }
+      ]
+    },
+    {
+      "title": "Trade and later testimony",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed 1512–1515) describes regional Luzon trade through Borneo and Malacca; it does not attest Ache's individual transactions or a Maynila landing docket. See the Asian Studies discussion of Pires. Juan de Plasencia's Customs of the Tagalogs (1589) describes later differentiated social obligations. It cannot establish the precise labor and property arrangements of this fictional generation. Original Portuguese and Spanish passages have not been collated for this chapter.",
+      "sourceId": "tome-pires-suma-oriental",
+      "links": [
+        {
+          "label": "Asian Studies discussion of Pires",
+          "url": "https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"
+        },
+        {
+          "label": "Customs of the Tagalogs",
+          "url": "https://en.wikisource.org/wiki/The_Philippine_Islands%2C_1493%E2%80%931898/Volume_7/Documents_of_1589"
+        }
+      ]
+    }
+  ]
+}
