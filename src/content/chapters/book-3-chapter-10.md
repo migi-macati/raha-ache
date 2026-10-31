@@ -847,7 +847,7 @@ The keeper set one strip beneath the leaf and another beside it. She would not p
 
 I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
-Laman came in without Hiran. He said she had taken work with another owner.
+Laman came in without Hiran. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
 
 "She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
@@ -859,7 +859,7 @@ Raya put a wet stone beside the two strips.
 
 "Could another maker inspect it?" Laman asked.
 
-"If that person knows the work and wishes to answer for it."
+"If that person knows the work and wishes to answer for it. I will not answer for a test I did not make."
 
 Dala stood at the doorway with her net weights in one hand. She had come to hear about the ground above the step.
 
@@ -873,7 +873,7 @@ Sela touched the stained leaf. "I have a buyer who may take a smaller load next 
 
 The keeper left space for his answer.
 
-The cord owner came carrying a jar from the farther landing. He had brought it for a buyer above the market. The three knots were still in his line, though he had pulled them apart.
+The cord owner arrived with a jar and his line of three loosened knots. He said he had brought the jar from the farther landing for a buyer above the market.
 
 "The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
 
