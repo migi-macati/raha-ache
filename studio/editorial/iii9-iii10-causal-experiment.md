@@ -87,9 +87,9 @@ Parsed at Markdown `***` separators in published `src/content/chapters/book-3-ch
 
 ## Reversible prose test B1: combine III.10 scenes 16–17
 
-**Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,210 whitespace words** (scene 16 + scene 17). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
+**Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,209 whitespace words** (scene 16 + scene 17). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
 
-### B1 alternative text (first-person Ache)
+### B1 alternative text (first-person Ache; synchronized to branch 6a93727)
 
 Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch had spread through the fold where the fish had rested.
 
@@ -103,7 +103,7 @@ The keeper set one strip beneath the leaf and another beside it. She would not p
 
 I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
-Laman came in without Hiran. He said she had taken work with another owner.
+Laman came in without Hiran. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
 
 "She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
@@ -115,7 +115,7 @@ Raya put a wet stone beside the two strips.
 
 "Could another maker inspect it?" Laman asked.
 
-"If that person knows the work and wishes to answer for it."
+"If that person knows the work and wishes to answer for it. I will not answer for a test I did not make."
 
 Dala stood at the doorway with her net weights in one hand. She had come to hear about the ground above the step.
 
@@ -129,7 +129,7 @@ Sela touched the stained leaf. "I have a buyer who may take a smaller load next 
 
 The keeper left space for his answer.
 
-The cord owner came carrying a jar from the farther landing. He had brought it for a buyer above the market. The three knots were still in his line, though he had pulled them apart.
+The cord owner arrived with a jar and his line of three loosened knots. He said he had brought the jar from the farther landing for a buyer above the market.
 
 "The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
 
@@ -167,8 +167,16 @@ Sela folded the stained leaf. The keeper left the place for Marun's answer blank
 
 ### B1 publication candidate: scoped denouement compression (1 November 2026)
 
-**Textual change proposed:** Replace III.10's published scenes 16–17 with the revised B1 passage above, keeping scenes 1–15 and 18 unchanged. This reduces **1,210 to 662 whitespace words** (45.3% reduction) and the chapter from 18 to 17 scenes. The control remains available in Git history; do not count this as a resolved book-level climax defect.
+**Textual change proposed:** Replace III.10's published scenes 16–17 with the revised B1 passage above, keeping scenes 1–15 and 18 unchanged. This reduces **1,209 to 681 whitespace words** (43.7% reduction) and the chapter from 18 to 17 scenes. The control remains available in Git history; do not count this as a resolved book-level climax defect.
 
 **Pre-publication comparison:** Retains the firsthand/secondhand buyer distinction, Laman's payment to absent Hiran, Raya's water-level closure, Dala's conditional net ground, Sela's buyer deadline and unaccepted Marun offer, the rival landing's voluntary watcher, the clay-weight trader's departure, and rejection of a compulsory riverwide charge. Removes the second formal hearing, repeated enumeration of each speaker's refusal and the added Ache wage-summary paragraph. The final Amaya/Tesa cloth negotiation and single-passenger image stay unchanged.
 
 **Risks and acceptance:** Some independent dialogue for Sela and Laman and the keeper's procedural texture are shortened; no proof of superior reader engagement. CI must validate the exact prose head. After merge, confirm Pages deployment separately. In the next editorial pass, check the resulting scene 15→compressed hearing→scene 18 transitions, continuity of the III.9 Sela wage versus Tesa wages, and whether the compression actually reduces didactic repetition without obscuring agency. Do not mark the unresolved maternal payoff or the larger climax fixed.
+
+### B1 exact-branch continuity review (1 November 2026)
+
+The first branch revision compressed the hearings but removed two explicit agency safeguards and presented the cord owner's knowledge as Ache's unqualified narration. The follow-up **branch commit `6a93727ee2542dc6ed1888a30a259a44999d6cc3`** restores Hiran's stated right to speak for her own pole work, Raya's refusal to answer for another maker's test, and an explicit attribution for the cord owner's report about the rival landing. These are substantive character/POV safeguards, not decorative length restoration.
+
+**Measured against published main `f83bdee`:** 18 scenes become 17; the original two scenes contain **1,209 whitespace-delimited words**, and the current replacement contains **681** (**43.7% shorter**). Scenes 1–15 and the final scene are byte-for-byte unchanged. The revision does **not** repair the maternal whereabouts thread or independently establish a more powerful trilogy climax. The scene still revisits fish losses and watcher arrangements already presented; compression reduces time spent on them, but the claim of improved emotional impact remains untested.
+
+**Acceptance gate:** Compare Sela's firsthand sales with the carrier's secondhand buyer report, Hiran's independently accepted pole work, Raya's low-water test, Dala's conditional net access, the voluntary rival watcher, the unaccepted Marun offer, and the separate Sela-versus-Tesa payment histories. Verify the Chapter 9-to-10 causal chain and bonus continuity before publication. No PR exists for this branch because an earlier PR-creation attempt was rejected by a safety check; do not repeat the same rejected operation or claim CI, merge, deployment, or rendered-live verification. Keep this work at **branch_written / UNSAVED PR** pending an allowed publication path.
