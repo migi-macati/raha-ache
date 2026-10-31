@@ -1543,11 +1543,3 @@ She held the strip against her palm.
 "Ask who is willing to go," she said.
 
 I looked at the river again. Ilan's boat was already moving toward other work.
-
-
-<details>
-<summary>Historical Notes &amp; Sources</summary>
-<p><strong>Fictional crossing and witnesses.</strong> Ache's hearing, Amaya's cloth claim, Iya and Nali's broken rack, Dala's net path, Raya's closed step, Ranu's cane sample, Ilan's boat, and the keeper's marked strip are inventions for this novel. No known early-sixteenth-century source documents these named people, the single return crossing, the agreement between the two banks, or a Maynila system of landing permissions. The distinction between each household's consent and a general right to pass is a narrative choice, not an attested legal rule.</p>
-<p><strong>Regional commerce and physical setting.</strong> Tomé Pires's <em>Suma Oriental</em> (composed c.1512–1515) supplies contemporary context for Luzon, Borneo and Malacca commerce, but not the individual goods, payments or dialogue here. See the <a href="https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"><em>Asian Studies</em> discussion of Pires</a>. The Pasig River's connection between Manila Bay and Laguna de Bay makes changing water levels and river traffic plausible; the exact stones, current, tidal hour and early-1520s shoreline in these scenes are fictional. No modern hydrological measurement is used as a historical tide table.</p>
-<p><strong>Records, testimony and later descriptions.</strong> The <a href="https://archium.ateneo.edu/phstudies/vol70/iss2/2/">Laguna Copperplate Inscription</a> (900 CE; see Clavé and Griffiths, 2022) demonstrates written debt obligations in the wider region centuries before the story, but does not attest this keeper's bamboo marks. Juan de Plasencia's <a href="https://en.wikisource.org/wiki/The_Philippine_Islands%2C_1493%E2%80%931898/Volume_7/Documents_of_1589"><em>Customs of the Tagalogs</em></a> (1589) is later, colonial-context testimony; it cannot determine the rights or wages of these fictional early-1520s workers. Original Portuguese and Spanish passages have not been collated for this chapter.</p>
-</details>
