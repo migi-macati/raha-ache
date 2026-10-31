@@ -1,0 +1,48 @@
+{
+  "chapterId": "book-3-chapter-8",
+  "notes": [
+    {
+      "title": "Fictional witnesses, bargains and shore paths",
+      "kind": "fiction",
+      "body": "Ache's keeper, Bina, Kito, Iya, Nali, Amaya, Tesa, Raya, Dala, the pot owners, the two tally strips, and the disputed crossing are invented for this novel. The separate permissions, paid carrying, lost market time and voluntary testimony are fictional events, not documented early-sixteenth-century Maynila institutions or individual transactions. The strips are memory aids within the story; their use is not evidence of an attested port archive."
+    },
+    {
+      "title": "Trade and maritime setting",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed c.1512–1515) provides contemporary regional context for Luzon, Borneo and Malacca exchange, not a record of these pots, boats, tides, market bargains or landing rights. See the Asian Studies discussion of Pires. The precise riverbank, damaged step, current, route choices and crossing times are reconstructed for fiction rather than derived from a period map or tide table.",
+      "sourceId": "tome-pires-suma-oriental",
+      "links": [
+        {
+          "label": "Asian Studies discussion of Pires",
+          "url": "https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Written obligation and later descriptions",
+      "kind": "reconstruction",
+      "body": "The Laguna Copperplate Inscription (900 CE; see Clavé and Griffiths, 2022) demonstrates that formal written debt obligations existed in the wider region centuries earlier; it does not verify these fictional tally strips. Juan de Plasencia's Customs of the Tagalogs (1589) is later colonial-context testimony and cannot establish the particular wages, household permissions or witness arrangements depicted here. Original Portuguese and Spanish passages have not been collated for this chapter.",
+      "links": [
+        {
+          "label": "Laguna Copperplate Inscription",
+          "url": "https://archium.ateneo.edu/phstudies/vol70/iss2/2/"
+        },
+        {
+          "label": "Customs of the Tagalogs",
+          "url": "https://en.wikisource.org/wiki/The_Philippine_Islands%2C_1493%E2%80%931898/Volume_7/Documents_of_1589"
+        }
+      ]
+    },
+    {
+      "title": "Southern-shore traditions",
+      "kind": "reconstruction",
+      "body": "Pasay City's historical publication introduces competing Princess Pasay origin accounts as legends. They do not document an early-1520s grant by Ache. This chapter depicts no territorial grant, dynastic marriage or appointed governor.",
+      "links": [
+        {
+          "label": "historical publication",
+          "url": "https://www.pasay.gov.ph/Resources/FINAL%20PASAY%20FULL%20BOOK_small.pdf"
+        }
+      ]
+    }
+  ]
+}
