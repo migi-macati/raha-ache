@@ -653,3 +653,48 @@ Both published chapters were read in full and in order on 31 October 2026, follo
 **Independent validation gate:** No consenting beta reader or historian has supplied a completed assessment. Ratings remain **UNASSESSED**, including the earlier 7.0/10 hypothesis. A future rubric may be calibrated internally only after the matrix is complete, and any claim of international-level quality must remain separate from actual reader evidence. No paid services are authorized.
 
 **Release and QA boundary:** Published chapter count remains 32; forward checkpoint remains `book-3-chapter-12`, `nextChapterId=null`. Historical Notes remain 22/32 pending separate verification. GitHub Pages build/deploy evidence does not establish browser-rendered live pages, mobile usability or audible Read Aloud; `liveVerified=false` until tested.
+
+
+## Phase 2 design gate: maternal continuity and Book III's causal spine (31 October 2026)
+
+**Status: EDITORIAL PROPOSAL, NOT CANON OR APPROVED PUBLIC PROSE.** This gate follows the completed 32/32 close read. It addresses RA-LIT-57/58 and the repeated local-claims engine without assuming that a royal reconquest, military fleet, marriage or dynastic union happened. Read this alongside the existing Book III book page, III.1–10 and bonus III.12 before implementing. The public release checkpoint and source evidence remain unchanged.
+
+### Mother-thread evidence ledger and actual promise
+
+| Published location | Verified on-page fact | Editorial consequence |
+| --- | --- | --- |
+| I.1–2 | Ache's mother hears the injured rower/fisherman's claims and accepts a one-season Tondo–Maynila shared-tally arrangement. Ache invokes his dead father against her, then sees that he has wounded her. | She is a governing actor with compromises and grief, not simply an absent prize to recover. |
+| I.4–5 | She confronts the crew-mark abuse, still negotiates the cost of keeping work on Maynila's shore and offers only conditional help for Ache's departure. | Her actions produce mixed outcomes. Any later explanation must retain her independent decisions. |
+| I.6 | She is still working on disputed wages and stores; gives Ache a broken paternal gold loop and conditional funds, while Bulkan remains to serve Maynila. Ache departs. | The separation is active and emotionally charged. Neither forgiveness nor a later reunion is promised. |
+| I.7–10 and II.1–10 | Ache continues away from Maynila and ultimately accepts a bounded merchant passage home. No verified on-page reunion with his mother. | Her situation cannot be inferred from his distant plans or later outlines. |
+| III.1 | The red post was taken down on his mother's instructions before she left the house. Amaya refuses to answer publicly where she went; she says she can attest to the household instructions. Ache ends the chapter intending to ask Amaya who else heard those instructions. | **Specific open question:** where did she go, and can Ache learn anything without overriding Amaya's discretion? Do not misstate Amaya's refusal as a promise to search. |
+| III.2 | Amaya and witnesses explain the work and occupancy after Ache's departure. One elder knew his mother. Ache asks about the old household; the chapter does not establish her present location. | This is evidence about stewardship, not proof of her fate. |
+| III.3–10 | The core follows the landing, repair, payment, access and watcher-charge disputes. The complete close read found no explicit payoff to the III.1 whereabouts question. | Before a prose change, make a precise search for any later indirect message and distinguish deliberate uncertainty from a forgotten thread. |
+| Bonus III.11–12 | Later Spanish-contact events and Ache's death; in III.12 he recalls her prayers and gives Awi his mother's dented copper bowl. No historical source establishes the invented household memories. | The bowl is an emotional echo, but cannot by itself answer what happened to her. Do not invent a death, reunion, exile or source citation. |
+
+**Two defensible payoff tests (alternatives, not simultaneous additions):** A. Ache obtains a *bounded* report from someone willing to speak, with explicit limits on what the witness knows; he must act or relinquish something as a result. B. The search demonstrably fails because the remaining witnesses cannot or will not answer; Ache makes a costly choice to preserve another person's safety or autonomy rather than force an answer. Either needs a visible attempt, emotional reaction, and a later echo in III.10 or III.12. An arbitrary messenger conveniently announcing her death fails the test. A mere reminder of her bowl fails the III.1 promise/payoff test.
+
+### Ten-chapter causal spine, current published function and proposed escalation gate
+
+| Chapter | Existing irreversible/limiting event | Required Phase 2 test |
+| --- | --- | --- |
+| III.1 | Ache arrives on Harun's trading boat, finds his old home occupied and receives only a provisional hearing. | Make the mother's whereabouts question and the immediate cost of waiting legible. |
+| III.2 | Ache's channel intervention damages Dala's fishing platform; claimants condition his access on restitution. | Keep Dala's loss concrete and let Ache's intervention have a consequence he cannot undo by apology. |
+| III.3 | Unsafe stake/marker decisions reveal harm and disputed cross-bank testimony. | Distinguish this reversal from III.2's hearing; require a new cost or discovery. |
+| III.4 | Raya's repair test and Madan's timber terms permit only a limited upper step. | A visible trade-off must foreclose one of Ache's larger ambitions. |
+| III.5 | Cargo and passage terms expose claims the repaired step cannot settle. | Replace repeated consent explanation with a decision that changes the next chapter's options. |
+| III.6 | The keeper's record cannot establish an absent buyer's agreement or another journey. | One disputed mark should alter a relationship or cause a measurable loss. |
+| III.7 | Dala's water path and Raya's repair needs compete across the banks; Salin speaks only for Naru. | Escalate the interbank cost without silently promoting Salin into Tondo's ruler. |
+| III.8 | Iya/Bina and others refuse to carry testimony or cargo; the choices cost time and work. | Preserve each woman's independent motive; avoid another general lecture on consent. |
+| III.9 | Watcher charge, contested account and landing use converge. | Identify the decisive antagonist/counterpressure and force an irreversible choice. |
+| III.10 | A bounded local settlement permits a passenger to land under explicit conditions. | Make Ache's climactic choice feel earned, emotionally costly and distinct from previous repairs; do not assert a unified kingdom. |
+
+### Two alternative book-level architectures (choose only after comparison)
+
+**A. Local-scale, character-led restoration (lower continuity risk):** Retain the river landing as the principal arena and all existing historical boundaries. Compress redundant hearings in III.4–9; have the same contested watcher-charge proposal grow in consequence across chapters rather than restart as a new lesson. Strengthen Ache's unresolved maternal search and his relationships with Amaya, Dala and Sulad through specific actions, silence or sacrifice. Let III.9 force a choice between personal recognition and the independent rights of the people keeping the landing open; III.10 must show what he permanently gives up. Test whether *The Kingdom United* is too large a promise even when understood ironically; a title revision remains possible but is not automatically warranted. **Acceptance:** each chapter has a distinct turning point, at least one irreversible cost, no new fictitious military command, and the mother question has an intentional treatment.
+
+**B. Wider political reckoning (higher historical/continuity risk):** Keep Harun's merchant arrival and the small landing's consequences, but add earned pressure from actual Maynila/Tondo interests through witnessed, negotiated encounters. The larger conflict would be whether Ache can assemble a voluntary, limited coalition that survives his relinquishing a claim, not whether he can command an invented fleet or central administration. This requires source scrutiny, new scene causality and independent motives for both banks. It risks repeating consent hearings at greater scale and falsely implying documented political institutions. **Acceptance:** each new counterpart has a reason to appear, a credible power base and the capacity to refuse; the core conflict still resolves by Chapter 10; no source-unsupported historical outcome or sudden army is smuggled into the text.
+
+**Recommendation for experiment only:** Prototype A first in Studio, because it tests the central literary defect with fewer continuity and historical risks. Do not select a final architecture from this memo alone. Compare a III.8/III.9 scene-compression sample against original scene count, word count, causal links, distinct dialogue voices, reader suspense and emotional consequence; preserve original public prose until a clearly better version passes editorial and CI gates. No independent beta reader has yet validated either variant.
+
+**Source/QA boundary:** These are interpretations and proposals derived from the published fictional narrative, not historical facts. Aganduru CODOIN 78 remains uncollated; Pigafetta/Albo chronology requires further reconciliation. No new historical notes, published chapter prose, numeric literary rating, browser-rendered verification or audible Read Aloud claim is authorized by this planning gate.
