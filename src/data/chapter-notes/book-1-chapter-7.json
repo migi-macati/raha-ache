@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-1-chapter-7",
+  "notes": [
+    {
+      "title": "Working boats and contested landings",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's Boat-Building and Seamanship in Classic Philippine Society (Philippine Studies 30, no. 3, 1982, pp. 335–376) provides comparative evidence for Philippine boat construction and maritime work. This project inspected an accessible SPAFA Digest reprint, not the original journal PDF. The article does not verify the visiting vessel's poles, its mooring dispute, the fisherman's net space or any particular rope arrangement in this fictional landing.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "Cloth moving through regional trade",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (written 1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) describes Luzon, Borneo and Malacca commercial connections, including the circulation of cloth. Pires drew on commercial intelligence and did not record Nima, his sister, Mulaw or this boat's damaged covering. The source supports a regional trading context, not ownership or consent in this scene.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Permission belongs to the people affected",
+      "kind": "fiction",
+      "body": "The host's conditions for shelter, the fisherman's refusal to surrender net-drying ground, Nima's insistence that his absent sister controls her cloth, Ache's silver payment and Sulad's decision to carry only three baskets are invented negotiations. Mulaw is an invented personal name here, not an attested historical ruler; he gives Ache advice, not a promised boat or alliance."
+    }
+  ]
+}
