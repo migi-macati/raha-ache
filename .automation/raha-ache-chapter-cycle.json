@@ -160,6 +160,10 @@
     {
       "lesson": "When a consolidated audit reaches a new coverage milestone, reconcile every active next-execution checklist and qualify older progress snapshots; a correct top-line percentage does not prevent stale unchecked tasks from causing repeated work.",
       "evidence": "31 Oct 2026: after the complete 32/32 reading was merged in PR #198, the older embedded Next execution order still listed Book III core and bonuses as unchecked. Scoped correction commit 1ba58748 reconciled the active queue without changing historical snapshots or publication state."
+    },
+    {
+      "lesson": "For retrospective prose experiments, count the actual published Markdown scene separators and trace payment provenance and ownership across chapters before inventing a character sacrifice; a Studio six-scene plan is not evidence of six published scenes, and wages from different employers must not be conflated.",
+      "evidence": "1 Nov 2026, PR #202: published III.9 has 14 Markdown scenes and III.10 has 18, not six each. The first B1 compression sample incorrectly attributed Tesa wages accepted by Amaya to Sela's basket payment; corrected in commit 03763b8 before review. Existing Sela fish losses were also verified rather than adding a fabricated new loss."
     }
   ],
   "studioWork": {
