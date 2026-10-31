@@ -87,7 +87,7 @@ Parsed at Markdown `***` separators in published `src/content/chapters/book-3-ch
 
 ## Reversible prose test B1: combine III.10 scenes 16–17
 
-**Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,209 whitespace words** (529 + 680). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
+**Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,210 whitespace words** (scene 16 + scene 17). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
 
 ### B1 alternative text (first-person Ache)
 
@@ -97,17 +97,17 @@ Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch h
 
 "Did you see the buyer turn it away?" the keeper asked.
 
-"The carrier told me. I saw him come back with it. I sold it afterward."
+"No. The carrier told me. I saw him come back with it. I sold it afterward."
 
 The keeper set one strip beneath the leaf and another beside it. She would not put the unseen refusal on the same strip as the money Sela had counted.
 
-I had carried the first half across Raya's new timber. I remembered the pull of the basket as the water rose. The rest of the fish had not crossed. No mark could make the buyer wait.
+I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
 Laman came in without Hiran. He said she had taken work with another owner.
 
 "She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
-Sela nodded. They had each lost something, and neither asked the keeper to charge the bank for it.
+Sela nodded. Laman had paid Hiran for the morning even though the load had been cut.
 
 Raya put a wet stone beside the two strips.
 
@@ -121,7 +121,7 @@ Dala stood at the doorway with her net weights in one hand. She had come to hear
 
 "One basket may wait there after I lift the net," she told Sela. "Ask me on the morning you need it. I may have to set the net again."
 
-Sela touched the stained leaf. "I have a buyer who may take a smaller load next market. I will ask Marun to bring me word before I hire a boat."
+Sela touched the stained leaf. "I have a buyer who may take a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
 
 "Has he agreed?" the keeper asked.
 
@@ -155,11 +155,20 @@ Laman said he might carry Sela's next load if no one had hired him first. He wou
 
 No one did.
 
-Sela folded the stained leaf. I remembered the grain she had paid me for carrying one basket the market before. I had taken it because I did the work. She had paid others too, and still lost two sales. Amaya had counted grain from Tesa's carrying work toward the cloth I owed her. I could not take that payment back. The keeper could remember what happened. She could not make it cheaper.
+Sela folded the stained leaf. The keeper left the place for Marun's answer blank. The cord owner took his jar toward the market. No one called him back.
 
 ### B1 comparison and decision gate
 
 - **Causal retention:** Sela's recorded price loss and reported buyer refusal remain distinct; Laman/Hiran's paid labor remains separate; Raya's low-water inspection, Dala's net path, Marun's unaccepted offer, the clay-weight trader's departure and the rejected universal fee survive.
-- **Deliberate addition:** Ache explicitly separates the **III.9 wage Sela paid him** from the **Tesa wages Amaya accepted**. These are different payments; the first draft conflated them and was corrected before publication. This remains reflection, not a new irreversible decision; test for repetitive moral explanation.
+- **Payment continuity:** The first B1 draft conflated the **III.9 wage Sela paid Ache** and the **Tesa wages Amaya accepted**; a later draft separated them. The publication candidate cuts that recap entirely because III.9 and III.10 scene 18 already establish the separate payments and Amaya's outstanding cloth claim. Verify both still read distinctly in context.
 - **Deliberate cuts:** Repeated enumeration of every owner's terms and the keeper's secondary summary. Risk: less texture of the keeper's recordkeeping and reduced independent space for Laman and Sela. Restore only if the shortened passage loses clarity or voice.
 - **Provisional result:** A controlled compression sample exists; no proof yet that it improves reader engagement or earns the trilogy ending. The larger climax and maternal payoff remain unresolved.
+
+
+### B1 publication candidate: scoped denouement compression (1 November 2026)
+
+**Textual change proposed:** Replace III.10's published scenes 16–17 with the revised B1 passage above, keeping scenes 1–15 and 18 unchanged. This reduces **1,210 to 662 whitespace words** (45.3% reduction) and the chapter from 18 to 17 scenes. The control remains available in Git history; do not count this as a resolved book-level climax defect.
+
+**Pre-publication comparison:** Retains the firsthand/secondhand buyer distinction, Laman's payment to absent Hiran, Raya's water-level closure, Dala's conditional net ground, Sela's buyer deadline and unaccepted Marun offer, the rival landing's voluntary watcher, the clay-weight trader's departure, and rejection of a compulsory riverwide charge. Removes the second formal hearing, repeated enumeration of each speaker's refusal and the added Ache wage-summary paragraph. The final Amaya/Tesa cloth negotiation and single-passenger image stay unchanged.
+
+**Risks and acceptance:** Some independent dialogue for Sela and Laman and the keeper's procedural texture are shortened; no proof of superior reader engagement. CI must validate the exact prose head. After merge, confirm Pages deployment separately. In the next editorial pass, check the resulting scene 15→compressed hearing→scene 18 transitions, continuity of the III.9 Sela wage versus Tesa wages, and whether the compression actually reduces didactic repetition without obscuring agency. Do not mark the unresolved maternal payoff or the larger climax fixed.
