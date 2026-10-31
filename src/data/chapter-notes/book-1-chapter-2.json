@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-1-chapter-2",
+  "notes": [
+    {
+      "title": "Fishing and marketplace rights in later Tagalog testimony",
+      "kind": "retrospective",
+      "body": "Juan de Plasencia's 'Customs of the Tagalogs' (1589), recorded after the Spanish conquest, reports claims by some chiefs to particular fisheries and stretches of river marketplace. His examples come from multiple Tagalog districts, not a documented Maynila harbor hearing in Ache's youth. They make disputes over nets, landing space and collection rights historically plausible without establishing the exact rules or jurisdiction dramatized here.",
+      "sourceId": "plasencia-customs-tagalogs-1589"
+    },
+    {
+      "title": "Household property, labor and obligations",
+      "kind": "reconstruction",
+      "body": "Plasencia's later account describes differentiated household obligations, service and dependency in Tagalog communities. It does not establish that a Maynila heir could spend a ruling household's cloth, sell an ornament to settle claims or compel unpaid labor. The chapter's distinction between Ache's personal promise and his mother's stores is a fictional political and ethical problem, not a documented court ruling.",
+      "sourceId": "plasencia-customs-tagalogs-1589"
+    },
+    {
+      "title": "A hearing that does not close every claim",
+      "kind": "fiction",
+      "body": "The fisherman's net, porter's lost passage, cargo owner's jars, injured rower's sister and her paddle, silver ornament, hearing and deferred compensation are invented. So are the Tondo messenger's proposed common records, the competing collectors and the two sets of tally marks. Neither a centralized customs office nor an agreed shared register between historical Tondo and Maynila is established by the cited source; the rower's continuing loss of earnings remains unsettled."
+    }
+  ]
+}

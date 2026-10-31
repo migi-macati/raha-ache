@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-1-chapter-1",
+  "notes": [
+    {
+      "title": "Working craft on a busy river",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's 'Boat-Building and Seamanship in Classic Philippine Society' (Philippine Studies 30, no. 3, 1982, pp. 335–376) surveys Philippine watercraft, construction and maritime work using archaeological and early written evidence. This project's reading used an accessible SPAFA Digest reprint rather than the publisher's original journal PDF. The comparison supports a working river setting, but does not identify Ache's outrigger, the cargo boat's steering oar, the bamboo fishing stakes or the mechanics of this rescue.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "Maynila in a regional commercial network",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed 1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) describes Luzon connections with Borneo and Malacca and trade in goods including cloth and provisions. Pires relied heavily on merchants' information and did not witness this particular Maynila quay. His account supports the wider commercial setting, not the chapter's named harbor workers, broken jars or household accounts.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "A rescue with debts left behind",
+      "kind": "fiction",
+      "body": "Ache and Sulad's wager, the broken outrigger, the child on the cargo boat, the injured rower, the fisherman's damaged nets and the mother's hearing order are fictional. No source documents this accident, these claimants or a specific young heir's private control of household stores. The scene deliberately leaves responsibility for the injury and lost work unresolved for the next chapter."
+    }
+  ]
+}
