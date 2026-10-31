@@ -156,6 +156,10 @@
     {
       "lesson": "Before renaming a character, compare exact and near-homophone names against the complete published cast and especially the same scene; verify surviving old/new-name counts after the change.",
       "evidence": "30 Oct 2026: PR #158 replaced duplicate Harun with Imran in Book II Chapter 4 but introduced confusion with Iman; PR #159 corrected eight steersman references to Latif while preserving five Iman references. Both merged and deployed."
+    },
+    {
+      "lesson": "When a consolidated audit reaches a new coverage milestone, reconcile every active next-execution checklist and qualify older progress snapshots; a correct top-line percentage does not prevent stale unchecked tasks from causing repeated work.",
+      "evidence": "31 Oct 2026: after the complete 32/32 reading was merged in PR #198, the older embedded Next execution order still listed Book III core and bonuses as unchecked. Scoped correction commit 1ba58748 reconciled the active queue without changing historical snapshots or publication state."
     }
   ],
   "studioWork": {
