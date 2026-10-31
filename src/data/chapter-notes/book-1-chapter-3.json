@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-1-chapter-3",
+  "notes": [
+    {
+      "title": "Traders and languages across Luzon and Borneo",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) reports commercial connections among Luzon, Borneo and Malacca. That network makes encounters with multilingual merchants plausible. Pires does not identify the Malay-speaking captain in this chapter, document Ache's command of Malay, or attest an offer of passage or help from Brunei.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Religious practice without a single community script",
+      "kind": "retrospective",
+      "body": "Juan de Plasencia's 1589 account describes Tagalog beliefs and customs as reported to a Spanish missionary after conquest. Cesar Adib Majul's Muslims in the Philippines (1973) supplies a secondary framework for Islam's connections with Brunei, but exact pages for this project's specific Ache–Brunei claims remain unverified. Neither source records Ula's river gathering, Sulad's inherited cord or the private beliefs of Ache's household. The scene should not be read as proof that all Maynila residents practiced one religion or that later categories applied unchanged a generation earlier.",
+      "sourceId": "plasencia-customs-tagalogs-1589"
+    },
+    {
+      "title": "An upriver landscape, not an excavated scene",
+      "kind": "reconstruction",
+      "body": "Archaeological finds from Santa Ana on the Pasig, including imported ceramics and local material, establish earlier riverine settlement and exchange. Many excavated graves date to the eleventh–fourteenth centuries, earlier than Ache's fictional journey. They do not identify the precise settlement visited here as historical Namayan, reconstruct Ula's gathering or locate this chapter's landing.",
+      "sourceId": "nmp-santa-ana-archaeology"
+    },
+    {
+      "title": "An unnamed captain and a provisional tally",
+      "kind": "fiction",
+      "body": "Ula, Sulad's protective cord, the river gathering, Ache's embarrassment over Malay, the unnamed captain's conversation and the Tondo clerk's crew list are invented scenes. The captain has no attested personal name and has not promised Ache a vessel, a Brunei audience or military support. The clerk's list may help locate missing workers but may also expose them to coercive claims; the novel leaves that conflict open."
+    }
+  ]
+}
