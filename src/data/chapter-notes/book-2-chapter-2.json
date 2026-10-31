@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-2-chapter-2",
+  "notes": [
+    {
+      "title": "Trade routes do not establish a court register",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) records Luzon–Brunei–Malacca commercial connections. Pires does not document this chapter's receiving lists, repair-yard procedures, wood tallies, labor agreements or a formal route by which a young claimant gained influence at court.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Repair work and commercial boat practice",
+      "kind": "reconstruction",
+      "body": "William Henry Scott, 'Boat-Building and Seamanship in Classic Philippine Society' (Philippine Studies 30, no. 3, 1982, pp. 335–376), compares Philippine hull construction and maritime commerce. This project inspected an accessible SPAFA Digest reprint, not the original journal PDF. The comparative Philippine evidence cannot establish the fastening, damaged peg, covering, owner–worker bargain or exact Bruneian craft shown here.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "Court hierarchy in a later travel account",
+      "kind": "retrospective",
+      "body": "Pigafetta's account of Brunei in 1521 describes a court approached through intermediaries. That later observation is contextual evidence, not a witness to Ache's early access, Siripada's household arrangements, or the positions and personal motives of Jamil, Safi, Hasan and Laila in this novel.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "A list with spaces still empty",
+      "kind": "fiction",
+      "body": "Jamil's work assignments, Safi's accepted loads, Hasan's record-keeping, Laila's interactions and Ache's marked offcut are fictional developments. The empty spaces do not constitute a royal appointment or a standing command. The message to Maynila still has no agreed carrier; Sulad must decide for himself whether to add testimony before the witnesses."
+    }
+  ]
+}
