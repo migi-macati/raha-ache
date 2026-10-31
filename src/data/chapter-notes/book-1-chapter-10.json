@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-1-chapter-10",
+  "notes": [
+    {
+      "title": "Ache's claimed kinship and reception",
+      "kind": "retrospective",
+      "body": "Later scholarship attributes to Rodrigo de Aganduru Móriz an account of Ache seeking help at the Brunei court of his maternal grandfather after a dispute involving Maynila and Tondo. Aganduru wrote about a century after the events; the cited Spanish passage in the 1882 CODOIN volume 78, printed pp. 59–60, remains uncollated in this project. The attributed story does not verify this chapter's reception questions, a household's conditional hospitality, or any promise of military support. The identification of every historical 'Siripada' with a particular named sultan is also unsettled.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "Luzon–Borneo commerce and cloth",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed 1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) describes Luzon, Borneo and Malacca commercial connections and the circulation of cloth. Pires drew on merchants' information, not an eyewitness account of Ache's voyage. His testimony does not identify the fish seller, cloth buyer, boatmaster, cargo bundles, food-for-work agreement or receiving-board counts depicted here.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Brunei's waterside setting and the date of the evidence",
+      "kind": "reconstruction",
+      "body": "Pigafetta's account of Brunei in 1521 describes a settlement built over tidal water and a court approached through ranked intermediaries. Those observations were made after the fictional arrival dramatized in this chapter and cannot establish the precise earlier walkways, houses, receiving platform, rules of entry or spoken court protocol. Pigafetta's separate account of a captured son of the ruler of Luzon does not name him Ache; identifying the person requires comparison with other sources.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "Work, witnesses and an unsent message",
+      "kind": "fiction",
+      "body": "The fish seller's questions, the uncertain carrier, Ache's audience with Siripada, Daran's damaged mat, counting knots, Sulad's independently negotiated work and the message heard by witnesses are invented incidents. The message has not been entrusted to a named carrier or delivered to Maynila. Siripada has offered shelter and a hearing, not an army, a guaranteed command or a timetable for return. These limits are deliberate elements of the novel's plot, not documented Bruneian administrative procedures."
+    }
+  ]
+}
