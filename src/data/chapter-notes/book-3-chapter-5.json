@@ -1,0 +1,37 @@
+{
+  "chapterId": "book-3-chapter-5",
+  "notes": [
+    {
+      "title": "Luzon commerce and maritime connections",
+      "kind": "documented",
+      "body": "Tomé Pires composed the Suma Oriental in 1512–1515, drawing on commercial information from others. It describes Luzon traders and regional links involving Borneo and Malacca. This is evidence of a wider commercial setting, not a record of Ache's dealings or a verified route for Mulaw. The original Portuguese passage has not been collated for this chapter.",
+      "sourceId": "tome-pires-suma-oriental",
+      "links": [
+        {
+          "label": "1977 Asian Studies discussion of Pires",
+          "url": "https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf"
+        },
+        {
+          "label": "Cortesão edition record",
+          "url": "https://books.google.co.uk/books/about/The_Suma_oriental_of_Tome_Pires_books_1.html?hl=en&id=h82D-Y0E3TwC"
+        }
+      ]
+    },
+    {
+      "title": "Exchange and local political relationships",
+      "kind": "reconstruction",
+      "body": "Laura Lee Junker's Raiding, Trading, and Feasting (1999) analyzes the political importance of exchange in Philippine chiefdoms. It supports asking how access, obligations and reputation could interact; it does not document the particular landing arrangements or prices here.",
+      "links": [
+        {
+          "label": "Scholarly study",
+          "url": "https://www.jstor.org/stable/j.ctt6wr1cq"
+        }
+      ]
+    },
+    {
+      "title": "Fictional reconstruction and later testimony",
+      "kind": "fiction",
+      "body": "Sera, Lana, Raya, Dala, the basket maker, the wax shipment, the repaired step, and the disputed bamboo tally are invented. The negotiations are not attested customs or recorded agreements. Later sixteenth-century Spanish accounts of Tagalog obligations cannot establish the precise rules of an earlier Maynila landing. Mulaw is a fictional acquaintance from Book I Chapter 7 who offered a name and advice, never a pledged boat or alliance; no reunion occurs in this chapter."
+    }
+  ]
+}
