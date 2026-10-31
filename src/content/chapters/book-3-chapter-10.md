@@ -847,11 +847,11 @@ The keeper set one strip beneath the leaf and another beside it. She would not p
 
 I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
-Laman came in without Hiran. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
+Laman came in without Hiran. He had delivered oil by the farther channel that morning and returned with an empty boat. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
 
 "She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
-Sela nodded. Laman had paid Hiran for the morning even though the load had been cut.
+Sela nodded. Laman had paid Hiran for the crossing and the agreed wait even though Sela's load had been cut.
 
 Raya put a wet stone beside the two strips.
 
