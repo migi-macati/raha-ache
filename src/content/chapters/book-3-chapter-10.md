@@ -865,7 +865,7 @@ Dala stood at the doorway with her net weights in one hand. She had come to hear
 
 "One basket may wait there after I lift the net," she told Sela. "Ask me on the morning you need it. I may have to set the net again."
 
-Sela touched the stained leaf. "I have a buyer who may take a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
+Sela touched the stained leaf. "The buyer told me he would pay for a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
 
 "Has he agreed?" the keeper asked.
 
@@ -884,6 +884,10 @@ The cord owner arrived with a jar and his line of three loosened knots. He said 
 "You offered a measure from every boat," Laman said. "I never hired your watcher."
 
 "I know."
+
+The cord owner asked Sela whether she would bring fish to the farther landing if Raya closed the step again.
+
+"Some, if the buyer is there and the path is clear," she said. "I can still sell by land."
 
 The clay-weight trader had been listening from the doorway. He asked Dala whether two jars could wait on her path at the next market.
 
