@@ -1941,10 +1941,3 @@ She nodded, then looked at me.
 Outside, a narrow boat approached the upper post. Its steersman waited until the last line had been cleared before bringing his bow alongside. The repaired step was visible from the hall only when someone stood on it. There was no wall around the landing, no new post below it, and no man assigned to watch the passage through the night.
 
 I had wanted the bank to hold every boat that came. It held one, for a time, when the people who owned the wood, food, work and space had agreed to let it. The people who had not agreed kept their boats and their claims. Tomorrow the tide would return, and someone would have to see whether the step still stood.
-
-<details>
-<summary>Historical Notes &amp; Sources</summary>
-<p><strong>Later descriptions of Maynila.</strong> A Spanish account of the 1570 expedition describes waterfront defenses and artillery at Maynila. This is a later, interested eyewitness account of a different period. It does not establish that Ache built a palisade, that Panday Pira worked for him, or that the landing arrangements in this chapter happened. See the <a href="https://www.gutenberg.org/cache/epub/13616/pg13616-images.html">1570 relation in Blair and Robertson, <em>The Philippine Islands</em>, volume III</a>.</p>
-<p><strong>Labor and household obligations.</strong> Juan de Plasencia's 1589 <em>Customs of the Tagalogs</em> describes differentiated obligations, including some service owed by particular ranks to chiefs. It is later testimony, and cannot supply a single rule for every household in Ache's early-sixteenth-century Maynila. See <a href="https://www.gutenberg.org/files/13701/13701-h/13701-h.htm">Plasencia in Blair and Robertson, volume VII</a>.</p>
-<p><strong>Fictional reconstruction.</strong> Raya, Dala's damaged net, the timber sale, the contested passing charge, the tide observation, and the repaired upper step are invented incidents. Their dialogue and precise technical arrangements are not reported by those sources. The chapter deliberately leaves the lower berth and larger defenses unfinished.</p>
-</details>

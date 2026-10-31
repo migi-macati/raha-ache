@@ -1759,11 +1759,3 @@ The woman whose goods had gone upriver returned to her house. Dala took her fram
 I had spent days trying to find a man whose name I remembered from a distant boat. I had found no promise there. Here, beside the landing I could see from the hall, I had watched two people agree to one journey and leave with different accounts of the marks.
 
 The bamboo lay where anyone could look at it. The owner who needed to answer for his reading was already beyond the bend.
-
-
-<details>
-<summary>Historical Notes &amp; Sources</summary>
-<p><strong>Luzon commerce and maritime connections.</strong> Tomé Pires composed the <em>Suma Oriental</em> in 1512–1515, drawing on commercial information from others. It describes Luzon traders and regional links involving Borneo and Malacca. This is evidence of a wider commercial setting, not a record of Ache's dealings or a verified route for Mulaw. The original Portuguese passage has not been collated for this chapter. See the <a href="https://asj.upd.edu.ph/mediabox/archive/Vol15%2CApr-Aug-Dec1977.pdf">1977 <em>Asian Studies</em> discussion of Pires</a> and the <a href="https://books.google.co.uk/books/about/The_Suma_oriental_of_Tome_Pires_books_1.html?hl=en&amp;id=h82D-Y0E3TwC">Cortesão edition record</a>.</p>
-<p><strong>Exchange and local political relationships.</strong> Laura Lee Junker's <em>Raiding, Trading, and Feasting</em> (1999) analyzes the political importance of exchange in Philippine chiefdoms. It supports asking how access, obligations and reputation could interact; it does not document the particular landing arrangements or prices here. See the <a href="https://www.jstor.org/stable/j.ctt6wr1cq">scholarly study</a>.</p>
-<p><strong>Fictional reconstruction and later testimony.</strong> Sera, Lana, Raya, Dala, the basket maker, the wax shipment, the repaired step, and the disputed bamboo tally are invented. The negotiations are not attested customs or recorded agreements. Later sixteenth-century Spanish accounts of Tagalog obligations cannot establish the precise rules of an earlier Maynila landing. Mulaw is a fictional acquaintance from Book I Chapter 7 who offered a name and advice, never a pledged boat or alliance; no reunion occurs in this chapter.</p>
-</details>
