@@ -25,7 +25,7 @@ const labels: Record<ChapterNote['kind'], string> = {
                 {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
                 {note.links && note.links.length > 0 && (
                   <p class="chapter-note-references">References: {note.links.map((link, i) => (
-                    <><a href={link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
+                    <><a href={link.path ? withBase(link.path) : link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
                   ))}</p>
                 )}
               </details>
@@ -37,7 +37,7 @@ const labels: Record<ChapterNote['kind'], string> = {
                 {note.sourceId && <p><a href={withBase(`sources/${note.sourceId}/`)}>Read the source dossier</a></p>}
                 {note.links && note.links.length > 0 && (
                   <p class="chapter-note-references">References: {note.links.map((link, i) => (
-                    <><a href={link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
+                    <><a href={link.path ? withBase(link.path) : link.url}>{link.label}</a>{i < note.links!.length - 1 ? '; ' : ''}</>
                   ))}</p>
                 )}
               </>
