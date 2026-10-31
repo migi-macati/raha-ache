@@ -1,0 +1,29 @@
+{
+  "chapterId": "book-2-chapter-3",
+  "notes": [
+    {
+      "title": "Boat handling as comparative maritime context",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's 1982 study of Philippine boat-building and seamanship discusses regional vessel construction and maritime work, drawing partly on archaeological finds from Butuan and early descriptions. Its comparative evidence does not identify a Bruneian river craft, prove the depth or current at this bend, or establish the pole, broken post and rescue maneuvers depicted here. The original journal PDF was not inspected for this project's reading.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "The reported Luzon commander in 1521",
+      "kind": "documented",
+      "body": "In his 29 July 1521 narrative, Pigafetta reports that the Europeans captured a son of the ruler of Luzon who was serving as captain-general to Brunei's ruler. Pigafetta does not name that man Ache; the identification is a comparison with other sources. His description of the commander's earlier Loue campaign was reported to him, not witnessed. This later account cannot document Ache's training, first assignments or the precise origin of any authority shown in the novel.",
+      "sourceId": "pigafetta",
+      "spoiler": true
+    },
+    {
+      "title": "Brunei's waterborne setting in later testimony",
+      "kind": "retrospective",
+      "body": "Pigafetta visited Brunei in 1521 and described substantial waterborne traffic and the settlement's court. His observations do not establish the specific river bend, boat traffic sequence, pilots' choices, local tolls or work instructions dramatized in an earlier period. The chapter's geography and timing remain narrative reconstruction.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "A broken pole is not a commission",
+      "kind": "fiction",
+      "body": "Ruma, Tahir, Jamil, Safi, Hasan, the timber passage, the lost payment, the broken pole and the two marked offcuts are fictional. Ruma's practical knowledge and the other workers' consent determine the outcome. Ache has learned from a failed assumption and helped account for a delivery, but has not been appointed captain-general, admiral or commander of a Bruneian fleet. Sulad has still not supplied his own testimony for the message to Maynila."
+    }
+  ]
+}
