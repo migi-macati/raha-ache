@@ -171,7 +171,7 @@ Approximate totals: **Book I 56,038**, **Book II 120,907**, **Book III including
 
 **Character gate RA-LIT-16:** Idris is named only after the merchant has departed. Test whether the withheld name deepens Ache's realization or delays the reader's investment unnecessarily. Preserve Idris's right to reject an unfair settlement and leave; he should not exist solely to teach Ache a lesson.
 
-### II.2 — *The Marks Left Apart*
+### II.2 — *A Place on the List*
 
 **Six-scene causal map:** (1) Ache again checks the witnessed but uncarried message and learns that Sulad must give his own words in person. He prematurely assures a food supplier that two baskets have a place aboard an upper-bend boat. (2) Jamil and Safi inspect the boat's already accepted cargo and repair needs; the promised space does not exist without displacing prior loads. (3) Safi devises a feasible load sequence, while Ache proposes unpaid extra hands and invokes Siripada; Jamil adopts Safi's plan. (4) The food owner refuses the baskets for lack of a receiving party at the destination; the woman's delay and spoiling food are real losses, and a separate carrier secures payment before lifting the last accepted sack. (5) The supplier leaves without delivery; Laila personally negotiates extra meals for two workers from her own store, and Hasan refuses to convert Ache's private intention into a publicly witnessed promise. (6) Jamil gives Ache a narrow task recording an unrepaired boat's actual workers and missing peg; Safi receives responsibility for accepted loads. The mother's message remains without a carrier, and Sulad has not spoken his addition before witnesses.
 
