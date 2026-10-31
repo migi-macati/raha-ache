@@ -155,11 +155,11 @@ Laman said he might carry Sela's next load if no one had hired him first. He wou
 
 No one did.
 
-Sela folded the stained leaf. I wanted to offer her the rice I had earned carrying the first basket, but Amaya had already accepted that rice toward the cloth I owed her. Sela had paid me for work I had done. She had paid others for work that had brought her no sale. I could not make either account disappear by giving the keeper another answer.
+Sela folded the stained leaf. I remembered the grain she had paid me for carrying one basket the market before. I had taken it because I did the work. She had paid others too, and still lost two sales. Amaya had counted grain from Tesa's carrying work toward the cloth I owed her. I could not take that payment back. The keeper could remember what happened. She could not make it cheaper.
 
 ### B1 comparison and decision gate
 
 - **Causal retention:** Sela's recorded price loss and reported buyer refusal remain distinct; Laman/Hiran's paid labor remains separate; Raya's low-water inspection, Dala's net path, Marun's unaccepted offer, the clay-weight trader's departure and the rejected universal fee survive.
-- **Deliberate addition:** Ache privately considers giving up rice already accepted by Amaya. This introduces a moral tension **without claiming he did so**. Before adoption, verify the rice sequence across III.9–10 and ensure this is not a repetitive internal lecture.
+- **Deliberate addition:** Ache explicitly separates the **III.9 wage Sela paid him** from the **Tesa wages Amaya accepted**. These are different payments; the first draft conflated them and was corrected before publication. This remains reflection, not a new irreversible decision; test for repetitive moral explanation.
 - **Deliberate cuts:** Repeated enumeration of every owner's terms and the keeper's secondary summary. Risk: less texture of the keeper's recordkeeping and reduced independent space for Laman and Sela. Restore only if the shortened passage loses clarity or voice.
 - **Provisional result:** A controlled compression sample exists; no proof yet that it improves reader engagement or earns the trilogy ending. The larger climax and maternal payoff remain unresolved.
