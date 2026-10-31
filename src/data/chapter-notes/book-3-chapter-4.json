@@ -1,0 +1,32 @@
+{
+  "chapterId": "book-3-chapter-4",
+  "notes": [
+    {
+      "title": "Later descriptions of Maynila",
+      "kind": "documented",
+      "body": "A Spanish account of the 1570 expedition describes waterfront defenses and artillery at Maynila. This is a later, interested eyewitness account of a different period. It does not establish that Ache built a palisade, that Panday Pira worked for him, or that the landing arrangements in this chapter happened.",
+      "links": [
+        {
+          "label": "1570 relation in Blair and Robertson, The Philippine Islands, volume III",
+          "url": "https://www.gutenberg.org/cache/epub/13616/pg13616-images.html"
+        }
+      ]
+    },
+    {
+      "title": "Labor and household obligations",
+      "kind": "documented",
+      "body": "Juan de Plasencia's 1589 Customs of the Tagalogs describes differentiated obligations, including some service owed by particular ranks to chiefs. It is later testimony, and cannot supply a single rule for every household in Ache's early-sixteenth-century Maynila.",
+      "links": [
+        {
+          "label": "Plasencia in Blair and Robertson, volume VII",
+          "url": "https://www.gutenberg.org/files/13701/13701-h/13701-h.htm"
+        }
+      ]
+    },
+    {
+      "title": "Fictional reconstruction",
+      "kind": "fiction",
+      "body": "Raya, Dala's damaged net, the timber sale, the contested passing charge, the tide observation, and the repaired upper step are invented incidents. Their dialogue and precise technical arrangements are not reported by those sources. The chapter deliberately leaves the lower berth and larger defenses unfinished."
+    }
+  ]
+}
