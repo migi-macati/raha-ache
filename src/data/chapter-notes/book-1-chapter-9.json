@@ -1,0 +1,27 @@
+{
+  "chapterId": "book-1-chapter-9",
+  "notes": [
+    {
+      "title": "Trade corridors with successive landfalls",
+      "kind": "reconstruction",
+      "body": "Roderich Ptak, 'The Northern Trade Route to the Spice Islands,' Archipel 43 (1992), pp. 27–56, reconstructs overlapping regional trade corridors. This project's source review inspected the opening p. 27; later discussions were consulted in uncorrected searchable text rather than original page images. The study does not document Ache's sequence of short passages, the receiving creek or a single through-ticket to Brunei.",
+      "links": [
+        {
+          "label": "Ptak, Archipel 43 (1992), DOI 10.3406/arch.1992.2804",
+          "url": "https://doi.org/10.3406/arch.1992.2804"
+        }
+      ]
+    },
+    {
+      "title": "Wax as a traded commodity",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) discusses wax among goods in regional commerce. That context does not attest this woman's eight pieces of wax, the seven accepted at the receiving board, their price or the crew's allocation of responsibility.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Storm, injury and payment",
+      "kind": "fiction",
+      "body": "The damaged covering, injured crewmen, storm, missing wax piece, receiving-board count and exchange of earned food for water are invented. Modern knowledge of monsoons may help test plausibility only after a season and location are established; it cannot verify the weather of a fictional crossing. Ache and Sulad still have to seek their next passage, with no confirmed captain."
+    }
+  ]
+}

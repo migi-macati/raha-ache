@@ -1,0 +1,27 @@
+{
+  "chapterId": "book-1-chapter-8",
+  "notes": [
+    {
+      "title": "Commercial movement, not a passenger manifest",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134) describes commercial links involving Luzon, Borneo and Malacca. Its general account cannot establish the novel's unnamed landing, jar carrier, mat-mender, specific cargo, paid meal or Ache's place on a particular vessel.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Boat work as comparative context",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's Boat-Building and Seamanship in Classic Philippine Society (1982) discusses boat construction and maritime commerce. The accessible SPAFA reprint, rather than the original journal PDF, informed this project's review. Scott does not describe this chapter's mat repair, carrying slings, loading sequence or contractual terms, and Visayan maritime terminology should not be assumed to be Ache's Tagalog vocabulary.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "Food earned for work already done",
+      "kind": "fiction",
+      "body": "Ache's basket and jar carrying, the woman's separate handling of a cracked jar, Sulad's paid mat-mending and their decisions to save portions of food are fictional incidents. The distinction between completed work and future promises is a narrative choice, not a documented wage agreement."
+    },
+    {
+      "title": "One landing, if the boat can leave",
+      "kind": "fiction",
+      "body": "The boat owner offers only a conditional place to the next landing, without provisioning two extra passengers. She must still have room after loading her own goods; Ache and Sulad are paid for completed work even if departure fails. Sulad agrees for one leg and reserves the right to decide again. No source identifies this vessel, captain or route as Ache's historical passage."
+    }
+  ]
+}
