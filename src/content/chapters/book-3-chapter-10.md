@@ -835,101 +835,71 @@ The buyer took the smaller load Laman brought. He did not take the overland bask
 We had carried a real load over the new step. We had also lost a sale while the water rose. I could point to both things without changing either of them.
 
 ***
+Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch had spread through the fold where the fish had rested.
 
-Sela brought the stained leaf wrapping from the fish she had sold for less.
+"The boat took half a basket," she said. "The buyer paid for that half. The rest went by the upper path and arrived after he left. I paid the carrier for the walk. I sold the fish later for less."
 
-She laid it on the mat in front of the keeper and said what she had been paid for each part of the load.
+"Did you see the buyer turn it away?" the keeper asked.
 
-"The boat took half a basket," she said. "The buyer paid for that half. The other half went by land and arrived too late. I paid the carrier for going. I sold the fish afterward for less. Those are the amounts."
+"No. The carrier told me. I saw him come back with it. I sold it afterward."
 
-The keeper asked whether Sela had seen the buyer refuse the second basket.
+The keeper set one strip beneath the leaf and another beside it. She would not put the unseen refusal on the same strip as the money Sela had counted.
 
-"No. The carrier told me. I saw him come back with the fish. I saw what I sold it for afterward."
+I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
-The keeper kept the two kinds of knowledge apart when she made her marks. She had been at the landing for part of the test. She had not been on Laman's boat or at the buyer's house.
+Laman came in without Hiran. He said she had taken work with another owner.
 
-Laman came after Sela. He had been hired to carry oil by the farther channel that morning and had brought his boat back empty. Hiran did not come with him. She was working for another owner and had said she would speak for herself if anyone wanted to ask about her pole work.
+"She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
-"She was paid for the journey," Laman told the keeper. "I paid her the waiting measure as we agreed. She told me the water was rising before Raya closed the step. I saw the fish basket come aboard. I did not see the overland basket reach the buyer."
+Sela nodded. Laman had paid Hiran for the morning even though the load had been cut.
 
-Sela nodded. They had lost money on the same morning for different reasons. Neither asked the keeper to combine their losses into a debt owed by the bank.
+Raya put a wet stone beside the two strips.
 
-The cord owner arrived with his line over his shoulder. The three knots were still in it, but he had drawn them apart. He set a covered jar on the ground and said he had carried it from the other landing for a buyer near the market.
-
-"That man pays for news before his boat leaves," he said. "He knows the dry patch may be full. He still chooses it."
-
-"Did you come to ask for our step?" Raya asked.
-
-"I came because I was told you used it."
-
-"Once," she said. "Then I closed it."
-
-"I heard you had carried fish."
-
-"We did," Sela said. "You have heard what happened to the rest."
-
-The cord owner looked at the wrapped fish. He did not laugh. He had brought owners to a rival landing because he could tell them where they might find space. The rival place had filled on some mornings, but it remained a real choice.
-
-"I can still offer them a watcher there," he said. "A man who tells them when the patch is full. I will ask the owners who want that service to pay for it."
-
-"That is your business with them," the keeper said.
-
-"It was my business here too."
-
-"Here you asked several owners to share a charge they had not all accepted."
-
-"I remember."
-
-He did not offer to cut the knots from his cord. He put the line back over his shoulder and waited to hear what the others would say.
-
-***
-
-Raya had brought a short piece of the gravel she had taken from beneath the lower bearing. It was still damp. She placed it beside the keeper's mat so that anyone who wanted to speak about the step could see what she had found.
-
-"I packed larger stones where the small ones washed away," she said. "I tested the step again at low water yesterday. It held a carried basket. I closed it when the current reached the mark. I will inspect it each morning someone asks me to use it. If I am not there, no one may say I have opened it."
+"This is what came loose under the lower bearing," she said. "I packed larger stones there. Yesterday, at low water, the step held a carried basket. When the water reached the mark, I closed it. I will inspect it when someone asks to use it. If I am away, no one can say I have opened it."
 
 "Could another maker inspect it?" Laman asked.
 
-"If that person knows the work and is willing. I do not own the right to look at wood. I will not answer for a test I did not make."
+"If that person knows the work and wishes to answer for it."
 
-Dala came in from the net path with her hands wet. She heard the last part and told Sela she would consider one basket again when the net was lifted. She would not set aside the patch for all the next market mornings.
+Dala stood at the doorway with her net weights in one hand. She had come to hear about the ground above the step.
 
-"I may need it before the boats arrive," she said. "If you want to ask, come when I know where the net will be."
+"One basket may wait there after I lift the net," she told Sela. "Ask me on the morning you need it. I may have to set the net again."
 
-Sela agreed. She wanted to send one small basket to the same buyer the following market. The buyer had told her he would pay for a smaller load if it reached him before the sun passed the high roof. She had not yet hired a carrier or a boat.
+Sela touched the stained leaf. "I have a buyer who may take a smaller load next market, if it reaches him before the sun passes the high roof. I will ask Marun to bring me word before I hire a boat."
 
-Laman said he could carry that load if he had no earlier hire. He would name the price when he knew the journey. He would ask Hiran whether she wanted the pole work; he would not put her name on the agreement without her.
+"Has he agreed?" the keeper asked.
 
-The clay-weight trader stood at the doorway with his jar. He had come to hear whether he could bring his goods through our bank.
+"Not yet."
 
-"Can you hold a place for two jars?" he asked Dala.
+The keeper left space for his answer.
 
-"Not on my path."
+The cord owner came carrying a jar from the farther landing. He had brought it for a buyer above the market. The three knots were still in his line, though he had pulled them apart.
 
-"Then I will go by the other landing. I have already found a man who will tell me when the ground is free."
+"The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
 
-The cord owner inclined his head to him. He had won that trade without forcing anyone to leave ours. The trader went out with his jar, satisfied with his own answer.
+"Then they know what they have bought," Sela said.
 
-Sela looked at the keeper. "We came together because none of us could get a load down the step. We wanted someone to tell us when it was safe. I will pay Marun for the walk again if he is free. I will not pay for news about every boat on the river."
+"I could have offered the same service here."
 
-The keeper asked whether she wanted that marked. Sela did. Marun was not there, so the keeper wrote only Sela's offer, not an agreement with him.
+"You offered a measure from every boat," Laman said. "I never hired your watcher."
 
-Laman said he would not join a shared watcher charge. He could pay a pole-handler for a journey he had accepted. He could pay someone to look at the water if he chose. He would not be charged for a boat that never came to this bank.
+"I know."
 
-The cord owner listened. Then he asked Sela whether she would still bring her fish to the farther landing if our step closed again.
+The clay-weight trader had been listening from the doorway. He asked Dala whether two jars could wait on her path at the next market.
 
-"Some of it," she said. "If the buyer is there and the path is clear. I have sold fish by land too. You have a place worth using. It is not the only place I can reach."
+"Not on my net ground."
 
-He took the jar he had brought and stood. "Then I will see you when you need my place."
+He picked up his jar. "Then I will take them by the other landing. I have already asked for news there."
 
-No one asked him to stay. No one told him he had lost.
+The cord owner moved aside to let him pass. He had won that trade. He did not ask anyone to call him the winner.
 
-The keeper looked at the old strip for the watcher charge. She had not made it into a rule when the men first argued, and she did not need to declare it ended. She set it beside the newer marks, where the refusals and offers could be read separately.
+Laman said he might carry Sela's next load if no one had hired him first. He would ask Hiran about the pole work when he knew the journey. Dala went back to her net. Raya took the wet stone away before it marked the keeper's mat.
 
-"Does anyone still ask me to record a charge for every boat?" she asked.
+"Does anyone still ask me to record a charge for every boat?" the keeper said.
 
-No one answered yes.
+No one did.
 
+Sela folded the stained leaf. The keeper left the place for Marun's answer blank. The cord owner took his jar toward the market. No one called him back.
 ***
 
 I went with Amaya to Tesa's awning that afternoon.
