@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-2-chapter-1",
+  "notes": [
+    {
+      "title": "Imported bowls and what their presence proves",
+      "kind": "reconstruction",
+      "body": "The National Museum of the Philippines documents Chinese, Vietnamese and Thai imported ceramics from Philippine archaeological contexts, including Santa Ana, Manila. These finds establish long-running circulation of such wares, but their sites and dates cannot identify the origin, age or ownership of the bowls at this fictional Brunei landing. No excavated object documents the cracked bowl, basket count or disputed delivery described here.",
+      "sourceId": "nmp-tradeware-philippines"
+    },
+    {
+      "title": "Luzon–Borneo trade across several ports",
+      "kind": "documented",
+      "body": "Tomé Pires, Suma Oriental (written 1512–1515; Cortesão edition, 1944, vol. I, pp. 133–134), describes commercial connections among Luzon, Brunei and Malacca based substantially on merchants' information. It supports a regional setting for moving cloth and other goods, not this receiving house's staffing, cargo records, owners' demands or the timing of any particular vessel.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "A later witness to Brunei's waterside settlement",
+      "kind": "retrospective",
+      "body": "Antonio Pigafetta's 1521 account describes Brunei as a settlement approached by water and organized around a court. His visit is later than Ache's early experiences as imagined in this book. The account does not reconstruct this precise platform, the woman's authority over unloading, a receiving-cord system or how a disputed basket was handled.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "The cracked bowl and the withheld wage",
+      "kind": "fiction",
+      "body": "Daran, Idris, the woman receiving loads, the bowl owner, the cord-and-knot tally, the withheld carrier payment and the merchant's conditional western contact are fictional. Ache's mother's message has been spoken before witnesses but has not been entrusted to a carrier or delivered to Maynila. Sulad's separately negotiated work and unpaid or contested sums remain distinct; no historical source records these transactions."
+    }
+  ]
+}
