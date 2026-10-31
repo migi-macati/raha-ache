@@ -89,7 +89,7 @@ Parsed at Markdown `***` separators in published `src/content/chapters/book-3-ch
 
 **Purpose:** Test compression of two consecutive post-loss hearings while keeping the established fish loss, limits on witnesses, distinct property rights, rival landing and failed universal charge. **Studio-only alternative; never substitute for the published text without comparative review.** The published control scenes total approximately **1,209 whitespace words** (scene 16 + scene 17). This experiment deliberately leaves III.10 scenes 15 and 18 intact.
 
-### B1 alternative text (first-person Ache; synchronized to branch 6a93727)
+### B1 alternative text (first-person Ache; synchronized to branch f8ef811)
 
 Sela laid the stained leaf wrapping beside the keeper's knife. The brown patch had spread through the fold where the fish had rested.
 
@@ -103,11 +103,11 @@ The keeper set one strip beneath the leaf and another beside it. She would not p
 
 I had carried the first half across Raya's new timber. The rest had stayed above the rising water.
 
-Laman came in without Hiran. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
+Laman came in without Hiran. He had delivered oil by the farther channel that morning and returned with an empty boat. She was working for another owner and had said she would speak for herself if anyone asked about her pole work.
 
 "She warned me the water was rising," he said. "I paid her the waiting measure and the journey we agreed. I saw the first basket come aboard. I did not see the other one reach the buyer."
 
-Sela nodded. Laman had paid Hiran for the morning even though the load had been cut.
+Sela nodded. Laman had paid Hiran for the crossing and the agreed wait even though Sela's load had been cut.
 
 Raya put a wet stone beside the two strips.
 
@@ -133,7 +133,7 @@ The cord owner arrived with a jar and his line of three loosened knots. He said 
 
 "The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
 
-"Then they know what they have bought," Sela said.
+"Then they know what they have bought," Sela said. "I will pay Marun for a walk if he agrees. I will not pay for news about every boat on the river."
 
 "I could have offered the same service here."
 
@@ -156,6 +156,7 @@ Laman said he might carry Sela's next load if no one had hired him first. He wou
 No one did.
 
 Sela folded the stained leaf. The keeper left the place for Marun's answer blank. The cord owner took his jar toward the market. No one called him back.
+
 
 ### B1 comparison and decision gate
 
@@ -187,3 +188,9 @@ The first branch revision compressed the hearings but removed two explicit agenc
 **Branch commit `164c9a1b28bf5dafabee9a0562881d27fe6245a0`:** A direct comparison of the complete published III.10 scenes 16–17 with the 681-word branch draft found that the shortened hearing had lost Sela's explicit refusal of a charge covering boats she did not hire. The keeper's final question and Laman's separate refusal did **not** establish Sela's independent decision. Restore Sela's conditional willingness to pay Marun for a specific walk, and her refusal of universal watcher news, in her own dialogue. This is a meaningful agency/consent safeguard, not a generic moral summary.
 
 **Reverified exact branch after correction:** Published scenes 16–17 = **1,209 whitespace words**; revised single scene = **703** (**41.9% reduction**). The chapter remains **18 → 17 scenes**. Scenes 1–15 and the final scene are byte-for-byte identical to main. The revised scene retains Sela's firsthand loss versus secondhand buyer refusal, Hiran's separate paid work, Raya's inspection limits, Dala's conditional net use, Marun's still-unaccepted offer and the trader's voluntary diversion. This repairs one compression regression; the dramatic-climax and mother-thread P1 issues are still open. PR remains **UNSAVED**, and no CI, merge, deploy or live-browser/audio verification is claimed for this branch.
+
+### B1 oil-hire and payment chronology QA (1 November 2026)
+
+Direct published-versus-branch comparison found that the compressed hearing omitted **Laman's separate oil hire at the farther channel on the morning of the hearing** and could imply Hiran was paid for that same morning. The source distinguishes Laman's later oil delivery from **Hiran's agreed pole journey and waiting measure at the earlier fish crossing**. Restored the oil-hire fact and changed the narration to name the crossing and agreed wait, without adding a new debt or payment. The updated manuscript is branch commit `f8ef811993b4572c82fbc4c5da45d8f1dba3a491`.
+
+**Current exact-branch comparison:** 1,209 published words across scenes 16–17 versus **723 words** in the replacement scene (**40.2% reduction**); 18 published scenes versus 17 branch scenes. The Studio sample above was synchronized from the actual branch after the earlier sample lagged behind agency fixes. Earlier word counts in the chronological experiment notes describe previous branch states, not this head. All publication gates remain pending: no PR, exact-head CI, merge, deploy, independent reader feedback or rendered-live/audio verification for the compression branch.
