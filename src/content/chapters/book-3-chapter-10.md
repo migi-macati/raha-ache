@@ -877,7 +877,7 @@ The cord owner arrived with a jar and his line of three loosened knots. He said 
 
 "The owners there pay a man to tell them when the dry patch is full," he said. "They know he may tell them to turn back. They pay for the news."
 
-"Then they know what they have bought," Sela said.
+"Then they know what they have bought," Sela said. "I will pay Marun for a walk if he agrees. I will not pay for news about every boat on the river."
 
 "I could have offered the same service here."
 
