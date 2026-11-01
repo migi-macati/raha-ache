@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-2-chapter-10",
+  "notes": [
+    {
+      "title": "The captured Luzon commander is a historical point of departure",
+      "kind": "reconstruction",
+      "body": "Pigafetta describes a son of Luzon's ruler serving as captain-general for Brunei's ruler and captured during the 1521 encounter (Robertson's 1906 Ambrosian edition, vol. XXXIII, pp. 223–225). Pigafetta does not give the commander the name Ache, describe his subsequent homeward voyage, or document the letters, cargo terms and companions in this chapter. Identifying him with the novel's Ache is an interpretation beyond the explicit eyewitness wording.",
+      "sourceId": "pigafetta",
+      "spoiler": true
+    },
+    {
+      "title": "The homeward letter and trading passage are invented",
+      "kind": "fiction",
+      "body": "Siripada's bounded letter, Jamil's conditions, Harun's right to turn back, Naim's damaged boat, Tamin's first-leg cargo, Isan's interpreting berth, Sulad's paid work and Ache's replacement water jar are fictional. The chapter resolves Ache's Brunei conflict through a negotiated departure, not through an attested historical treaty, fleet grant or documented passenger list. The distinction matters because the historical voyage narratives concern the Spanish ships, not Ache's return passage."
+    },
+    {
+      "title": "Later accounts do not settle the ransom or return",
+      "kind": "retrospective",
+      "body": "A later tradition attributed to Aganduru Moriz differs from Pigafetta's report that Carvalho accepted gold for the Luzon prince's release. The original Spanish passage cited as CODOIN vol. 78 (1882), pp. 59–60, has not been directly collated in this project. The identity of the ransom payer, the fate of other captives, and the exact terms of Ache's fictional return must not be presented as historical facts.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "The people Ache leaves behind keep their own unfinished claims",
+      "kind": "fiction",
+      "body": "Nasir's sister continues her inquiry, the older woman stays to search for her son, and Laila, Ruma and Safi continue work without following Ache. These are deliberately unresolved narrative obligations, not missing historical evidence that can be filled from Pigafetta or Albo. Sulad's conditional working berth likewise reflects a fictional independent choice, not an attested oath of loyalty."
+    }
+  ]
+}
