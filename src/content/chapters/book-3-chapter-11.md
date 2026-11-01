@@ -939,8 +939,6 @@ When we came outside, the trader's nephew was still counting. He told me one of 
 
 "For the water," he said. "Not for having to ask."
 
-I wanted to tell him the meeting had secured his right to complain. It had secured no such thing. The commander had received our names. The people who lived beneath those names still had to keep their doors, their goods, and their hands.
-
 At the river the tide had begun to fall. Lakandula's boat waited apart from ours. He stepped into it without asking Soliman or me to accompany him. Soliman watched the boat clear the shallows.
 
 "He will make his own answer," he said.
