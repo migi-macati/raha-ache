@@ -1,0 +1,33 @@
+{
+  "chapterId": "book-2-chapter-8",
+  "notes": [
+    {
+      "title": "The captured Luzon commander and disputed gold",
+      "kind": "documented",
+      "body": "Pigafetta reports that the expedition captured a son of Luzon's ruler serving as captain-general of Brunei's ruler and that Giovan Carvalho accepted gold in connection with his release (Robertson's 1906 Ambrosian Italian–English edition, The Philippine Islands, vol. XXXIII, pp. 223–225). The account does not name the prince Ache, identify the payer, or document the novel's dialogue, precise ransom negotiations, list of released people, or the terms of any exchange. Ache's identification is a cross-source historical reconstruction, not Pigafetta's stated name.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "A later, conflicting release tradition",
+      "kind": "retrospective",
+      "body": "Seventeenth-century Aganduru Moriz is credited in later scholarship with a different account: del Cano refuses offered gold and releases the prince. This conflicts with Pigafetta's report of Carvalho accepting gold. The project's cited original Spanish passage in CODOIN vol. 78 (1882), pp. 59–60, has not been collated, so this is an attributed later account rather than a verified quotation or an independently observed 1521 event.",
+      "sourceId": "aganduru-moriz"
+    },
+    {
+      "title": "The captive witnesses and selective release are invented",
+      "kind": "fiction",
+      "body": "The multilingual sailor, woman in blue, injured younger woman, older mother searching for her swimmer son, boy tending a splinted sailor, junk master seeking his brother, and Ache's particular confinement and release conversations are fictional scene constructions. Pigafetta's expedition narrative does not document these individuals, their named messages or the novel's division between people sent ashore and people remaining captive. The woman in blue asks Ache to report that she was alive but not released; the story does not establish her eventual fate."
+    },
+    {
+      "title": "Chronology remains an open source question",
+      "kind": "reconstruction",
+      "body": "Pigafetta's 29 July confrontation, Albo's movement outside the harbor and the Genoese pilot's multi-day Roteiro sequence cannot currently be reduced to a single certain day-by-day itinerary. The novel places Ache's release and return before evening while a foreign hull remains visible. That staging is fictional and remains under historical review, especially against the Roteiro's conflicting sequence. The Portuguese Roteiro is available in a 2025 edited transcription; its archival manuscript variants have not been directly inspected.",
+      "links": [
+        {
+          "label": "NHCP edited Roteiro (2025), Document 13",
+          "url": "https://research.unl.pt/ws/portalfiles/portal/154265093/HistoriaObscura_vol1.pdf"
+        }
+      ]
+    }
+  ]
+}
