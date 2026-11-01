@@ -1,0 +1,15 @@
+# Book III bonus 11: warning-sequence pacing gate
+
+**Status:** scoped prose revision candidate, pending exact-head CI/merge/Pages and independent reader validation. Main control at `b8cc6e3a0d8ac281ead7377d2a8d199c1d2fa691`. This is part of the consolidated literary-quality Phase 2 revision program; no new chapter, source claim, numeric score, or release-checkpoint change.
+
+## RA-LIT-III11-01: evidence and decision
+
+The 32/32 close-reading audit identifies a 14-scene delay before armed conflict in bonus III.11, with repeated witness and payment interrogations. The opening has a three-knot report of unknown ships, then pauses for (a) a boy moving a fish basket and (b) Ache's full memory of a rotten landing step, before a second trader warns of a possible armed rice seizure. Both digressions repeat already established Book III landing material. Neither is referenced later in III.11. The river gate's replaced wood and Ache's aching knees remain in the immediately preceding paragraph, retaining the time jump, physical aging and the cost of the rebuilt settlement.
+
+**Minimal test:** Remove only the two intervening paragraphs, so the trader's warning follows Ache's hand against the changed gate. The first-hand/second-hand distinctions remain intact: the gatekeeper relays the boatman's masts, the trader explicitly names his hearsay about rice, the Chinese captain's man supplies a separate outer-water sighting, Soliman authorizes reconnaissance, and the returning watchmen report what they actually saw. The later Mehomete POV and uncertain first shot remain untouched.
+
+**Acceptance checks:** Exactly one contiguous deletion (750 characters including paragraph separators); no additions or changes to chapter frontmatter, title, chronology, speaker attribution, POV, historical-source boundary, 30+2 architecture, later scenes, or other files except this Studio gate. Read the joined transition aloud for abruptness. Confirm III.10's landing consequence still stands without its explanatory callback in III.11 and III.12's age/illness remains coherent. Verify the gatekeeper's warning is still plausibly preliminary rather than omniscient. Do not claim a reader-impact gain from a word count.
+
+**Trade-off:** Faster escalation toward a second, more urgent report; less local-life texture and one fewer memory of Raya's work. The removed memory is a credible signal of Ache's aging and historical continuity, so revert if an independent reader finds the transition too abrupt or the old Ache insufficiently embodied. Other substantial opening scenes, including the Chinese cargo negotiation and Soliman's consent questions, remain for a separate scene-function audit; no automatic cutting.
+
+**Evidence gates:** Exact-head CI, PR review of diff, safe merge only if ready/mergeable, successful GitHub Pages build/deploy at the merge SHA. Rendered-live Chapter 4, actual audible Read Aloud, and independent literary validation remain separate and unverified. `RA-HIST-01` remains on hold; this edit does not address the 1521 Brunei chronology.
