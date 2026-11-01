@@ -750,3 +750,28 @@ Both published chapters were read in full and in order on 31 October 2026, follo
 **Falsifiable acceptance gates before any public revision:** (1) identify the exact insertion point and measure new words/reading time against the full published scene; (2) check that III.1's conditional promise, III.2's unrelated boat-owner refusal, III.9's unpaid cloth and III.10's Tesa payment remain unaltered; (3) confirm that Amaya's failure is psychologically credible rather than a convenient plot device, and that her agency survives; (4) read III.9 scene 14 → III.10 scene 18 continuously to test whether the new question deepens the relationship or derails the local climax; (5) reread bonus III.12 to ensure Ache's memories and Awi's bowl are still compatible with unresolved maternal whereabouts; (6) require a distinct emotional consequence, not merely a second procedural account; (7) prefer the published control if no clear gain. Independent reader response remains unavailable. No chapter title, public prose, historical notes, publication checkpoint, rendered-live or audio status changes are authorized here.
 
 **Next Studio action:** Perform a strict side-by-side with a shorter, less explanatory A2 alternative (especially remove the closing basket sentence), score *only observable* continuity, scene rhythm, Amaya agency and reader-question clarity, and decide HOLD/REJECT/ADVANCE without an invented maternal death or reunion.
+
+
+### A2 shorter alternative and comparative gate
+
+**A2 alternative (Studio-only; same proposed insertion point, 106 whitespace words):**
+
+> At the turning I asked Amaya whether the person who carried my mother's messages had come.
+>
+> "No."
+>
+> "Did you send word another way?"
+>
+> "No. I should have told you."
+>
+> I had counted the mornings since my return as though each were another morning my mother had chosen not to answer.
+>
+> "You let me think she had heard."
+>
+> Amaya held the old cloth measure between her hands. "Yes."
+>
+> I was angry with her, and relieved that my mother might never have heard my name. I did not know which feeling to show her.
+>
+> She began walking again. I followed.
+
+**Provisional comparison:** A2 removes A1's unseeded claim that Amaya watched for the carrier at the house, avoids the extra basket-as-symbol sentence and leaves more room for Amaya's silence. A1 offers a fuller exchange but repeats the book's explanatory-question rhythm and risks making Amaya a mere information gate. A2's terse admission may be implausibly easy for Amaya: test her established habit of exact, unsentimental answers against this moment before advancing. Neither variant pays off the mother's whereabouts; both only settle the *status of the relay attempt*. The distinction is intentional. **A1 HOLD; A2 HOLD, preferred for the next side-by-side read only.** Do not merge either into the published chapter or claim beta-reader impact.
