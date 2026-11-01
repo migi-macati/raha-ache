@@ -754,7 +754,7 @@ Both published chapters were read in full and in order on 31 October 2026, follo
 
 ### A2 shorter alternative and comparative gate
 
-**A2 alternative (Studio-only; same proposed insertion point, 106 whitespace words):**
+**A2 alternative (Studio-only; same proposed insertion point, 98 whitespace words; A1 is 194):**
 
 > At the turning I asked Amaya whether the person who carried my mother's messages had come.
 >
