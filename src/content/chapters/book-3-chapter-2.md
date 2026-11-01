@@ -686,6 +686,8 @@ There was no ceremony. The first boat came in, the porters used the stones, and 
 
 The work had made me known. That was a different thing from being wanted.
 
+I had not asked Amaya again whether she had reached the person who carried my mother's messages. When she entered the hall, I looked up, then bent over whatever I was doing.
+
 A family living behind the old hall had used a narrow path to carry their catch to the upper market. When the new timber was stored beside the path, they had to go around the cooking place. Their eldest daughter asked Amaya to move it. Amaya asked me.
 
 "The wood is for the steps," I said.
