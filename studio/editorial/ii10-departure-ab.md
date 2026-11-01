@@ -47,3 +47,16 @@ Read II.9's unresolved Nasir inquiry and III.1's opening offshore arrival togeth
 **A/B acceptance:** (1) every contractual scope is accurate to the preceding negotiations; (2) the farewell still has the emotional cost of a credible Burné life left behind; (3) the signing and jar payment remain two different concrete commitments; (4) an uninterrupted read produces a clearer climax without flattening Siripada/Jamil or losing the book's final transformation; (5) a separate reader's preference, if ever obtained, is recorded as actual evidence, never invented. Reject either variant if its gain cannot be demonstrated.
 
 **Next:** Recheck Isan's exact agreed scope and the scene boundaries, compare A and B separately with the published control, and only then consider a scoped manuscript PR with exact-head CI and GitHub Pages verification. Until then the public chapter is unchanged and both variants remain HOLD.
+
+
+## 1 November 2026, 23:00 PHT: control comparison and revised A3
+
+**Textual cross-check:** In the published chapter, Harun privately negotiates with Isan, who wants a fixed return place, will not enter a hostile river, and agrees only to interpretation for the passage and talks he can understand. Sulad separately accepts paid work with Harun, not allegiance to Ache. In the palace, Jamil also checks the ruler's trade goods, Harun's return terms and Tamin's separate cargo. Book III.1 immediately confirms that Harun, not Ache, controls entry into the Maynila river. II.9 ends with a still-unconfirmed owner and unresolved missing-person inquiries. Those facts must remain unchanged.
+
+**Variant A from the original experiment: REJECTED as written.** “Isan can translate what he knows” is looser than the agreed passage-and-talks scope, and having Jamil summarize the crew before Siripada tests the owner decision weakens the ruler's independent challenge. Do not publish original A.
+
+**Variant B: HOLD / preference for published control.** The sentence distinguishing Ache's choice from Harun's order is a concise emotional resolution of Book I's failed assumption that kinship confers command. Removing it saves only 20 words and risks losing a clear character payoff. No reader evidence supports deletion.
+
+**Variant A3: smallest testable replacement for the same final-palace exchange.** Preserve Siripada's questions, Jamil's separate contractual check, Harun's control, Isan's precise scope and Sulad's optional speech. Reduce four consecutive question-and-answer loops to three; replace the abstract refusal to commandeer a vessel with Ache's concrete concession that he returns if Harun turns back. The replacement is intended to preserve the later signature and water-jar expenditure as separate irreversible choices. This is a **single scoped manuscript experiment**; do not also apply B.
+
+**Acceptance:** exact literal substitution once; first-person Ache POV; all crew and owner agreements unchanged; Siripada and Jamil both retain distinct authority; II.9's unresolved missing people and III.1's offshore wait remain coherent; no other manuscript paragraphs/frontmatter changed. Compare diff and run PR CI at exact head before merge. Post-merge Pages deployment is separate from browser/audio QA. Literary improvement remains a provisional editorial judgment without independent beta evidence.
