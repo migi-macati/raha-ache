@@ -669,8 +669,6 @@ When he left, Soliman stayed in the room and looked at the empty cup.
 
 "He answered enough for today."
 
-I wanted to tell him that today was not what troubled me. He had spent two days trying to keep a ship from bringing its guns beneath our wall. I had spent them asking whether the man aboard it would pay for rice. Neither of us had been able to remove the guns.
-
 Outside, the Chinese captain's man was asking again for his steering piece. The lighter's owner had come with witnesses and another account of the charge. Their dispute had survived our compact without changing its shape.
 
 ***
