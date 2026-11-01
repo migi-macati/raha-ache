@@ -1,0 +1,32 @@
+{
+  "chapterId": "book-3-chapter-3",
+  "notes": [
+    {
+      "title": "Later evidence for river and marketplace rights",
+      "kind": "retrospective",
+      "body": "Plasencia's 1589 account reports that some Tagalog chiefs claimed particular fisheries and market stretches and that access could carry obligations. It is evidence for possible local and differentiated claims, not a contemporaneous record of a uniform port authority or the precise early-1520s marker dispute between Maynila and the far bank.",
+      "sourceId": "plasencia-customs-tagalogs-1589"
+    },
+    {
+      "title": "Regional exchange and earlier records",
+      "kind": "reconstruction",
+      "body": "Pires's early-sixteenth-century commercial intelligence supports Luzon's participation in regional trade; the tenth-century Laguna Copperplate Inscription demonstrates much earlier written transactions and debt relations. Neither source documents the wooden stake, the keeper's cord and marks, the boat owners' meeting, a particular ferry tariff, or the way this fictional community recorded consent.",
+      "sourceId": "elsa-clave-arlo-griffiths",
+      "links": [
+        {
+          "label": "Clavé and Griffiths on the Laguna Copperplate Inscription (2022)",
+          "url": "https://archium.ateneo.edu/phstudies/vol70/iss2/2/"
+        },
+        {
+          "label": "Pires source dossier",
+          "url": "https://archive.org/stream/McGillLibrary-136385-182/136385_djvu.txt"
+        }
+      ]
+    },
+    {
+      "title": "Competing households and a bounded repair",
+      "kind": "fiction",
+      "body": "The displaced channel stake, damaged fish basket, keeper's hearing, Dala and Pawi's repaired net frame, the witnessed sounding and the boat owners' competing demands are invented. A messenger associated with Lakandula's household does not bind that house to the proposed arrangement, and the repaired passage creates no kingdom-wide settlement, new tax or hereditary command. The earlier hall agreement remains conditional, and Ache must still negotiate work and payment with people who can refuse."
+    }
+  ]
+}

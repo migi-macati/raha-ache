@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-3-chapter-1",
+  "notes": [
+    {
+      "title": "The bay and a trading shore",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (written 1512–1515, ed. Cortesão 1944, vol. I, pp. 133–134) reports commercial connections involving Luzon, Borneo and Malacca. This supports a maritime setting in which a trader such as the fictional Harun might have business, but does not document his vessel, Ache's arrival, a particular river channel, or the political terms on which anyone could land.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Material traces are not a map of Ache's Maynila",
+      "kind": "reconstruction",
+      "body": "Excavations at Santa Ana, farther upriver, have yielded ceramics and other objects from centuries before this imagined return. These establish a long history of habitation and exchange in the Manila river system, not the location of Ache's mother's house, the number of fishing shelters, or the channel depths and tidal turns described here.",
+      "sourceId": "nmp-santa-ana-archaeology",
+      "links": [
+        {
+          "label": "National Museum archaeological collections",
+          "url": "https://www.nationalmuseum.gov.ph/our-collections/archaeology/stoneware-and-porcelainware/"
+        }
+      ]
+    },
+    {
+      "title": "A return, a household, and two separate messages",
+      "kind": "fiction",
+      "body": "Harun, Isan, the landing keeper, Banu, Amaya's account of the repaired house, the three-night lodging and the hearings are fictional. Ache's inherited claim does not establish that he owns the occupied rooms or their stores. Amaya conditionally offers to contact a carrier of messages to Ache's mother if she can reach that person; she does not confirm that the mother is alive, reachable, or expecting him. Her separate summons for a household hearing has its own messenger and timetable. Neither message is shown delivered to his mother."
+    }
+  ]
+}

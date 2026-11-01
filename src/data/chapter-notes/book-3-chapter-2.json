@@ -1,0 +1,34 @@
+{
+  "chapterId": "book-3-chapter-2",
+  "notes": [
+    {
+      "title": "Social obligations in a later Tagalog account",
+      "kind": "retrospective",
+      "body": "Juan de Plasencia's Customs of the Tagalogs (1589) describes differentiated household, leadership, land and service obligations gathered after Spanish conquest. It is later and geographically variable testimony; it does not verify the terms of Ache's hearing, an early-sixteenth-century right to the hall, or a universal rule requiring the people of Maynila to accept him.",
+      "sourceId": "plasencia-customs-tagalogs-1589",
+      "links": [
+        {
+          "label": "Plasencia in Blair and Robertson, volume VII",
+          "url": "https://www.gutenberg.org/files/13701/13701-h/13701-h.htm"
+        }
+      ]
+    },
+    {
+      "title": "Channels and waterfront defenses are period-sensitive",
+      "kind": "reconstruction",
+      "body": "A Spanish expedition relation of 1570 describes a tide-sensitive approach to Maynila and waterfront defenses, but it was written almost half a century after the novel's return and from a conquest-party perspective. It cannot establish the exact two-stake channel, far-bank crossings, water depths, broken markers, or landing ownership dramatized here.",
+      "sourceId": "relacion-voyage-luzon-1570",
+      "links": [
+        {
+          "label": "1570 Relation of the Voyage to Luzon, Blair and Robertson volume III",
+          "url": "https://www.gutenberg.org/cache/epub/13616/pg13616-images.html"
+        }
+      ]
+    },
+    {
+      "title": "The conditional settlement is invented",
+      "kind": "fiction",
+      "body": "The keeper's wage dispute, Amaya's household witnesses, Dala's family's damaged work, the two channel stakes, the contested far-bank passage and Ache's conditional public duties are fictional. The ending grants Ache a place to answer for claims, not ownership of the workers' rooms or stores, exclusive command of the river, or acceptance by every household. Harun's refusal to carry a separate upriver message does not prove that Amaya reached, or failed to reach, the carrier she had mentioned for Ache's mother; her earlier offer had no stated deadline."
+    }
+  ]
+}
