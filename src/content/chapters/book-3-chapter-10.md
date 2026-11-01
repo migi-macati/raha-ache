@@ -832,7 +832,7 @@ By the time I returned to the landing, Laman's boat had gone. Raya had lifted th
 
 The buyer took the smaller load Laman brought. He did not take the overland basket; the carrier reached him after he had left for another market. Sela paid the carrier for the walk. She sold the remaining fish later at a lower price. When she told me, she did not ask Raya to pay the difference.
 
-We had carried a real load over the new step. We had also lost a sale while the water rose. I could point to both things without changing either of them.
+I remembered how light the empty basket had been on my way back.
 
 ***
 
