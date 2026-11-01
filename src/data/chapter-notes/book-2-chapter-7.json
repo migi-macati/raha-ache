@@ -1,0 +1,28 @@
+{
+  "chapterId": "book-2-chapter-7",
+  "notes": [
+    {
+      "title": "The 29 July 1521 encounter at Brunei",
+      "kind": "documented",
+      "body": "Pigafetta dates the confrontation to Monday, 29 July 1521 and describes more than one hundred praus approaching, European ships raising sail, and attacks on several junks (Robertson's bilingual Ambrosian edition, The Philippine Islands, vol. XXXIII, 1906, pp. 222–225). A son of Luzon's ruler, described as Brunei's captain-general, was among those captured. Pigafetta does not name him Ache or record the particular local harbor workers in this chapter. The number of praus in this encounter is not evidence for the force Ache led earlier at Loue.",
+      "sourceId": "pigafetta",
+      "spoiler": true
+    },
+    {
+      "title": "Different eyewitness sequences of departure",
+      "kind": "reconstruction",
+      "body": "Albo's translated log says the foreign ships sailed outside Brunei's harbor before taking a junk, but does not independently give the precise hour of final departure. The Genoese pilot's Roteiro describes re-anchoring, a night squall, a following-morning junk capture and a further two-day wait (edited Portuguese text in NHCP, Historia Obscura, vol. I, 2025, Document 13, pp. 76–79; English pp. 88–90). Its internal dates conflict with Pigafetta's 29 July dating. These are competing voyage accounts, not one harmonized timeline; neither fixes the exact hour or location of every ship seen from Ache's shore.",
+      "links": [
+        {
+          "label": "Edited Portuguese Roteiro and translation (NHCP, 2025)",
+          "url": "https://research.unl.pt/ws/portalfiles/portal/154265093/HistoriaObscura_vol1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "The shore decisions and wounded workers are fiction",
+      "kind": "fiction",
+      "body": "Ruma's leaking seam and refusal to sail, Tahir's grounded vessel and injured nephew, Safi's warning boat, Banu's cargo, the watchman's reports, the junk master's missing brother after Loue, and Ache's movement among the local boats are fictional incidents. The confrontation and captured junks have historical anchors; the novel's six-scene harbor sequence, gunfire effects, individual rescue attempts and exact timing do not come from Pigafetta or Albo. The master's brother and the swimmer's fate remain unverified within the story."
+    }
+  ]
+}
