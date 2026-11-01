@@ -1116,21 +1116,17 @@ He watched me while the reader rolled the letter. Jamil put Harun's board beside
 
 "I do."
 
-"Who commands Harun's vessel?"
+"And who commands the vessel?"
 
-"Harun and the men he has appointed."
+"Harun and the men he has appointed. If he will not enter Maynila, I will ask where he can land us safely. If he turns home, I turn with him."
 
-"And if he will not enter Maynila?"
+"Who will speak for you ashore?"
 
-"I will ask him where he can land us safely. I will not take his boat from him."
-
-"Who will speak for you when you are ashore?"
-
-"Sulad, if he chooses to speak. Isan where the traders need another tongue. I will speak for my own claim."
+"I will. Sulad may speak if he chooses."
 
 Jamil looked at the board.
 
-"Isan has agreed to interpret for the passage and for talks he can understand," he said. "He has not agreed to fight. Sulad has accepted a working place aboard. Neither has pledged to your cause beyond the terms he heard."
+"Isan has agreed to interpret for the passage and for talks he can understand," he said. "Sulad has accepted a working place aboard. Neither has agreed to fight for you."
 
 "I know."
 
