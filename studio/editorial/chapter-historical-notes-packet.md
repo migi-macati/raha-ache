@@ -1,6 +1,6 @@
 # Raha Ache — chapter historical notes editorial packet
 
-**Status:** Retrospective Studio source-audit queue, not a publication-status record. All 30 core chapters and Book III bonus Chapters 11–12 are published; individual historical notes and rendered-live/audio QA require separate verification. **Scope:** 32 canonical chapters. Do not reopen completed chapter-publication steps.
+**Status (verified 1 November 2026, 21:04 PHT):** All 32 canonical chapters have published historical-note JSON packets on main, following merged PRs #215 and #216 and successful GitHub Pages build/deploy at main `529588457cedf7b678bb31557d4a82824abf6f07` (run `41304644266`, build and deploy successful). This retrospective source-audit queue retains earlier branch-written progress snapshots as historical records; their pending release gates are now satisfied. **Coverage: 32/32 (100%).** All 30 core chapters and Book III bonus Chapters 11–12 remain published. Browser-rendered notes and audible Read Aloud remain unverified. Do not reopen completed publication steps.
 
 ## Reader experience and editorial contract
 
@@ -100,3 +100,12 @@ Two structured, collapsed note packets distinguish the dated Pigafetta confronta
 Three new structured reader-note packets are branch-written for III.1–3 (three notes each). They distinguish Pires's early-sixteenth-century merchant intelligence, earlier Santa Ana archaeological evidence, later Plasencia (1589) and 1570 Spanish testimony from fictional household, landing and river-passage arrangements. III.1 explicitly separates Amaya's conditional maternal-message-carrier offer from her independent household-hearing summons; III.2 does not convert Harun's separate refused message into proof about Amaya's carrier; III.3 does not convert a Lakandula-associated messenger into a pledged political alliance. No maternal reply, royal grant or invented chronology is added. These notes are supplementary to Ache's prose.
 
 **Release gate:** This branch adds the final three canonical note packets, potentially increasing coverage from 29/32 to 32/32. Require exact-head PR CI, merge and Pages build/deploy before marking coverage published. Neither the full 32/32 close-reading audit nor completed historical notes establishes independent literary validation, rendered-live or audible verification. Preserve the forward chapter checkpoint. Next return to the high-impact Book II.10 scene comparison and Book III core-climax/character questions; RA-HIST-01 remains on HOLD pending witness collation.
+
+
+## Publication reconciliation and remaining evidence gates (1 November 2026, 21:04 PHT)
+
+**Verified release:** PR #215 merged at `ed5c98ca6af0d5348a8843bab983c37febe8cd45`, followed by successful GitHub Pages run `41300216372`; PR #216 merged at `529588457cedf7b678bb31557d4a82824abf6f07`, followed by successful GitHub Pages run `41304644266` with both build and deploy jobs successful. A recursive main-tree check confirms **32** `src/data/chapter-notes/book-*-chapter-*.json` files. These satisfy the pending branch-written and CI/deploy gates above; preserve those entries as dated work records, not active instructions.
+
+**Still open:** (1) actual browser rendering of collapsed notes, navigation and mobile presentation; (2) audible Read Aloud; (3) source-level RA-HIST-01 reconciliation among Pigafetta, Albo and the Portuguese `Roteiro` without forcing contradictory dates; (4) original Spanish Aganduru CODOIN 78 pp. 59–60 collation; (5) independent historical-specialist or beta-reader review. No source witness is promoted to certainty, and note coverage does not certify historical accuracy or literary quality.
+
+**Next work:** Resume the consolidated literary audit's Phase 2 Book II.10 scene-comparison and Book III climax/agency gates. Do not create additional note packets simply to increase output, and do not advance the already-complete chapter checkpoint.
