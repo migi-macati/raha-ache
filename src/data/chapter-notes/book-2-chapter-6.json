@@ -1,0 +1,29 @@
+{
+  "chapterId": "book-2-chapter-6",
+  "notes": [
+    {
+      "title": "What Pigafetta reports about Loue",
+      "kind": "documented",
+      "body": "In his narrative of the Brunei encounter of 29 July 1521, Pigafetta says the captured son of the ruler of Luzon, described as Brunei's captain-general, had returned from sacking a place called Loue because it obeyed Java Major rather than Brunei (Robertson's 1906 Italian–English edition in The Philippine Islands, vol. XXXIII, pp. 223–225). Pigafetta did not witness that earlier campaign, did not name the commander Ache, and did not record its negotiations, casualties or precise sequence. Identifying the reported commander with Ache requires comparison with other sources.",
+      "sourceId": "pigafetta",
+      "spoiler": true
+    },
+    {
+      "title": "The place and the rival ruler remain uncertain",
+      "kind": "reconstruction",
+      "body": "Loue's modern location has not been securely established in the project's inspected sources. Pigafetta's Java Major denotes Java in his geographic vocabulary; his report does not prove that the rival was the ruler of a still-unified Majapahit state. The novel's shore, political petitioners, approaches and terrain are reconstructions for fiction, not an identified archaeological site.",
+      "sourceId": "pigafetta"
+    },
+    {
+      "title": "An armed victory with fictional witnesses",
+      "kind": "fiction",
+      "body": "Awan, Dima, Mara, Jamil, Safi, the first embassy, detained boatmen, assault plan, burned houses, rescued child, disputed goods, lost relatives and specific restitution hearings are invented narrative events. The child rescue does not erase Ache's participation in the violence. The ruler's conditional appointment of Ache over consenting owners is likewise a fictional mechanism; Pigafetta's later description of a captain-general does not attest its terms or date."
+    },
+    {
+      "title": "Maritime capacity does not prove a fleet",
+      "kind": "reconstruction",
+      "body": "Scott's Boat-Building and Seamanship in Classic Philippine Society (1982) surveys different vessel forms and maritime work. It cannot establish the size or composition of a Bruneian force at Loue, nor justify replacing the novel's owner-controlled vessels with a uniform royal navy. The later Brunei war-prau counts in Pigafetta concern the July 1521 encounter, not this reported earlier campaign.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    }
+  ]
+}

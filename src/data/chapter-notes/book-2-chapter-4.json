@@ -1,0 +1,29 @@
+{
+  "chapterId": "book-2-chapter-4",
+  "notes": [
+    {
+      "title": "Commercial routes and river traffic",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (written 1512–1515; Armando Cortesão edition, 1944, vol. I, pp. 133–134) reports trade connecting Luzon, Borneo and Malacca, based largely on merchants' information. It supports the broader commercial setting, not the named Bruneian cargo boats, specific jars, payments, steersmen or nine-morning preparation in this chapter.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "The later account of a Luzon commander",
+      "kind": "documented",
+      "body": "Pigafetta's account of the 29 July 1521 confrontation at Brunei describes a captured son of the ruler of Luzon serving as captain-general of Brunei's ruler (Robertson's 1906 edition of the Ambrosian Italian and English, in The Philippine Islands, vol. XXXIII, pp. 223–225). Pigafetta does not call him Ache. The later report cannot establish this earlier fictional convoy assignment, the precise extent of Ache's authority, or the circumstances of Nasir's disappearance.",
+      "sourceId": "pigafetta",
+      "spoiler": true
+    },
+    {
+      "title": "Seamanship and ownership as comparative context",
+      "kind": "reconstruction",
+      "body": "William Henry Scott's Boat-Building and Seamanship in Classic Philippine Society (1982) studies regional construction, navigation and commercial passage through archaeological and historical evidence. It does not document the specific inner cut, water depth, crew agreements, or boat seizure narrated here. Its discussion of war vessels should not be applied automatically to these merchant craft.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "The empty mooring and the unanswered name",
+      "kind": "fiction",
+      "body": "Jamil, Hamzah, Nasir, Safi, Bakar, Tuma, Nasir's sister and their precise exchanges are fictional characters or scene constructions in this chapter. Ache's misleading route advice, the attack on Hamzah's boat, the missing man and his sister's demand for direct news are invented narrative events, not recoverable from Pigafetta or Pires. Nasir's fate remains unknown at the end of the chapter."
+    }
+  ]
+}
