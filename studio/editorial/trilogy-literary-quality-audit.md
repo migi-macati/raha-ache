@@ -704,3 +704,74 @@ Both published chapters were read in full and in order on 31 October 2026, follo
 **Recommendation for experiment only:** Prototype A first in Studio, because it tests the central literary defect with fewer continuity and historical risks. Do not select a final architecture from this memo alone. Compare a III.8/III.9 scene-compression sample against original scene count, word count, causal links, distinct dialogue voices, reader suspense and emotional consequence; preserve original public prose until a clearly better version passes editorial and CI gates. No independent beta reader has yet validated either variant.
 
 **Source/QA boundary:** These are interpretations and proposals derived from the published fictional narrative, not historical facts. Aganduru CODOIN 78 remains uncollated; Pigafetta/Albo chronology requires further reconciliation. No new historical notes, published chapter prose, numeric literary rating, browser-rendered verification or audible Read Aloud claim is authorized by this planning gate.
+
+
+## Phase 2 Studio test: Amaya's uncompleted message relay (1 November 2026)
+
+**State: STUDIO EXPERIMENT / HOLD, not published prose.** Based on a direct reread of III.1 (Amaya's exact conditional offer), III.2–10 (no explicit subsequent delivery of the mother's message), III.9's last scene, III.10's final scene and bonus III.12 (the dented bowl). No new witness or historical source has been verified. The mother's fate and location remain unknown in published canon.
+
+**Actual promise and dramatic debt.** In III.1 Amaya says she will tell Ache's mother he has returned **if she can reach the person who carries her messages**. Ache leaps to the conclusion that his mother is alive; Amaya corrects him. The conditional relay is the unresolved action, not a promise of reunion or even a reply. III.2's boat owner refuses to carry messages into the household dispute, but the text never identifies that owner as the carrier Amaya meant. Do not join these threads by inference. III.9 exposes Ache's public humiliation over his debt to Amaya; III.10 scene 18 brings them together after Tesa rejects an inadequate replacement cloth. That is a plausible place for a private question that the reader can distinguish from another public hearing.
+
+**Four mutually exclusive fictional outcomes to test, none established fact:**
+
+| Variant | New event required | Dramatic gain | Risk / decision |
+| --- | --- | --- | --- |
+| A: no contact | Amaya has watched for the former carrier, who has not appeared; she has sent nothing. | Ache learns he has mistaken an undelivered message for his mother's silence; Amaya owns the failure to tell him sooner. | Lowest new-canon load. Risks merely postponing the search; test the reaction rather than adding an ethical lecture. **Prototype below.** |
+| B: message sent, no reply | Amaya entrusted his name to an identifiable person and can confirm only that handoff. | Ache must live with the possibility that the message was delivered and unanswered. | Requires a credible intermediary, timeline and independent motive; avoid treating silence as proof of rejection. HOLD. |
+| C: carrier declined | An identifiable carrier refused to take the message for a concrete reason. | Makes a refusal consequential and could expose a genuine safety conflict. | Risks another repetitive consent hearing and an invented danger. HOLD. |
+| D: Amaya chose not to send | Amaya consciously withheld the name despite a possible route. | Creates serious interpersonal rupture and autonomous moral ambiguity. | Requires prior motive, credible cost and later fallout; too large for an unseeded last-scene revelation. HOLD. |
+
+**A1 micro-prototype, for insertion in III.10 scene 18 after Tesa's cloth refusal and before the final landing walk; not a replacement of the published passage:**
+
+> Before the path turned, I asked Amaya whether she had found the person who carried my mother's messages.
+>
+> She stopped with the old cloth measure in her hands. "No. I have watched for them at the house. They have not come."
+>
+> "Did you send word another way?"
+>
+> "No."
+>
+> I had counted the mornings since my return. I had imagined my mother hearing my name and finding reasons not to answer. The silence had grown so long that I had begun to call it hers.
+>
+> "I should have told you," Amaya said.
+>
+> I looked at her. She had been able to tell me the exact grain I owed, but she had let me wait for news that had never left her hands.
+>
+> "Yes," I said.
+>
+> She did not excuse herself. I wanted to ask her to leave the house and search. I wanted to demand the name of someone I could pay. Instead I asked, "Do you know if the person still carries messages for her?"
+>
+> "No."
+>
+> The answer left my mother neither nearer nor farther away. I took up the empty basket. It was the only thing between us that I could carry home.
+
+**Comparison against published control:** The published scene currently resolves Ache's cloth debt as a continuing obligation, shows Amaya refusing inferior cloth and closes on a passenger choosing the old stones while Ache answers a call for paid carrying work. A1 adds an unconfirmed attempt history (Amaya *watched*, did not deliver), an admission of failure and Ache's mistaken attribution of silence. It changes neither his mother's fate nor his debt, but may compete with the landing's closing image and repeat the basket motif. The last two sentences are especially vulnerable to over-explaining the theme. A1 is a **hypothesis**, not a recommendation to publish.
+
+**Falsifiable acceptance gates before any public revision:** (1) identify the exact insertion point and measure new words/reading time against the full published scene; (2) check that III.1's conditional promise, III.2's unrelated boat-owner refusal, III.9's unpaid cloth and III.10's Tesa payment remain unaltered; (3) confirm that Amaya's failure is psychologically credible rather than a convenient plot device, and that her agency survives; (4) read III.9 scene 14 → III.10 scene 18 continuously to test whether the new question deepens the relationship or derails the local climax; (5) reread bonus III.12 to ensure Ache's memories and Awi's bowl are still compatible with unresolved maternal whereabouts; (6) require a distinct emotional consequence, not merely a second procedural account; (7) prefer the published control if no clear gain. Independent reader response remains unavailable. No chapter title, public prose, historical notes, publication checkpoint, rendered-live or audio status changes are authorized here.
+
+**Next Studio action:** Perform a strict side-by-side with a shorter, less explanatory A2 alternative (especially remove the closing basket sentence), score *only observable* continuity, scene rhythm, Amaya agency and reader-question clarity, and decide HOLD/REJECT/ADVANCE without an invented maternal death or reunion.
+
+
+### A2 shorter alternative and comparative gate
+
+**A2 alternative (Studio-only; same proposed insertion point, 98 whitespace words; A1 is 194):**
+
+> At the turning I asked Amaya whether the person who carried my mother's messages had come.
+>
+> "No."
+>
+> "Did you send word another way?"
+>
+> "No. I should have told you."
+>
+> I had counted the mornings since my return as though each were another morning my mother had chosen not to answer.
+>
+> "You let me think she had heard."
+>
+> Amaya held the old cloth measure between her hands. "Yes."
+>
+> I was angry with her, and relieved that my mother might never have heard my name. I did not know which feeling to show her.
+>
+> She began walking again. I followed.
+
+**Provisional comparison:** A2 removes A1's unseeded claim that Amaya watched for the carrier at the house, avoids the extra basket-as-symbol sentence and leaves more room for Amaya's silence. A1 offers a fuller exchange but repeats the book's explanatory-question rhythm and risks making Amaya a mere information gate. A2's terse admission may be implausibly easy for Amaya: test her established habit of exact, unsentimental answers against this moment before advancing. Neither variant pays off the mother's whereabouts; both only settle the *status of the relay attempt*. The distinction is intentional. **A1 HOLD; A2 HOLD, preferred for the next side-by-side read only.** Do not merge either into the published chapter or claim beta-reader impact.
