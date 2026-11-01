@@ -407,8 +407,6 @@ The boat owner pointed to a shed beyond the drying racks. "The men left it there
 
 A boat owner beside us muttered that no captain should be allowed to take a cargo out without paying those who had carried it. The captain's man heard the tone, if not the words. He struck the side of a basket with his open palm.
 
-I remembered how much trouble a strip of marked bamboo had once caused at this landing. Two cuts could mean two loads to one man and two journeys to another. The men who made the marks were long gone. I could still hear the keeper asking which mouth had promised the second trip.
-
 "Tell him," I said to the trader, "that I will walk to the shed and see what is there. I cannot tell him who has the right to hold it until the people who made the agreement have spoken."
 
 The captain's man listened. He said something sharp.
