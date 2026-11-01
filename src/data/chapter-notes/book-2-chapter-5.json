@@ -1,0 +1,22 @@
+{
+  "chapterId": "book-2-chapter-5",
+  "notes": [
+    {
+      "title": "Luzon, Borneo and island trade",
+      "kind": "documented",
+      "body": "Tomé Pires's Suma Oriental (composed 1512–1515; Cortesão, 1944, vol. I, pp. 133–134) describes merchants and goods circulating between Luzon, Borneo and Malacca. It does not identify this chapter's southern landing, the six cloth rolls, Yusuf's accounts, Karim's claims or any of Ache's intermediate journeys.",
+      "sourceId": "tome-pires-suma-oriental"
+    },
+    {
+      "title": "Boat passage, freight and regional limits",
+      "kind": "reconstruction",
+      "body": "Scott's 1982 study of Philippine seamanship documents regional boat construction and commercial passage, including comparative terminology for boat hire and freight. This does not prove the type of Samad's vessel, a particular fare, the weather, or a continuous Brunei-to-Sulu route for Ache. The project consulted an accessible SPAFA reprint, not the original journal PDF for page-specific claims.",
+      "sourceId": "scott-boat-building-seamanship-1982"
+    },
+    {
+      "title": "No recorded account of this cloth dispute",
+      "kind": "fiction",
+      "body": "The search for Nasir, Bakar's limited trip to the fish traps, Saliha's household, the unpaid carrying share, the disputed sixth roll, the account boards, Karim's contested payment and Ache's lost return passage are fictional. Witnesses in the story confirm only what they observed or agreed; a mark of a promised payment is not evidence that it was received. No historical chronicle is being cited as a record of these people or transactions."
+    }
+  ]
+}
