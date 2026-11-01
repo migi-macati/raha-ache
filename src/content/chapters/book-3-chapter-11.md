@@ -35,10 +35,6 @@ The gatekeeper lowered his hand. He had known me long enough to let the correcti
 
 I put my palm against the wood of the gate. It was not the same wood that had stood here when I was young. The lower posts had been replaced, then the upper ones, and the earth beneath them had been packed again after a flood. The river kept none of the things men wanted it to keep. My knees had learned that before I had.
 
-Farther down the bank, a boy was calling for a basket to be moved. He had taken it from the path of a woman bringing a net up from the water. The woman shouted that he had put it in the place where she would spread her catch. He moved it again. Neither asked me to decide where it belonged.
-
-I remembered a time when a rotten step had closed the landing for a whole market, and a cord owner had offered another channel. Raya had made us test the new wood before carrying a basket across it. I could still recall the sound the bearing made when the water began to take the small gravel away. The wood was gone now. The place had been mended and changed more times than I could count. The people who used it still asked whether the ground would hold.
-
 A man came up from the lower market with salt drying on his sleeve. He was one of the traders who carried news along the coast. He had not brought salt today.
 
 "Who sent you?" the gatekeeper asked.
