@@ -10,13 +10,13 @@
     {
       "title": "A later, conflicting release tradition",
       "kind": "retrospective",
-      "body": "Seventeenth-century Aganduru Moriz is credited in later scholarship with a different account: del Cano refuses offered gold and releases the prince. This conflicts with Pigafetta's report of Carvalho accepting gold. The project's cited original Spanish passage in CODOIN vol. 78 (1882), pp. 59–60, has not been collated, so this is an attributed later account rather than a verified quotation or an independently observed 1521 event.",
+      "body": "Aganduru Móriz's seventeenth-century narrative says del Cano released the Luzon prince and declined offered gold, contradicting Pigafetta's account of Carvalho accepting gold. Aganduru's Spanish wording has now been directly checked in the indexed text of the 1882 CODOIN vol. 78, printed pp. 59–60; its scanned page images and underlying manuscript remain uncollated. Verification of what this later chronicler wrote does not make his version an eyewitness fact.",
       "sourceId": "aganduru-moriz"
     },
     {
       "title": "The captive witnesses and selective release are invented",
       "kind": "fiction",
-      "body": "The multilingual sailor, woman in blue, injured younger woman, older mother searching for her swimmer son, boy tending a splinted sailor, junk master seeking his brother, and Ache's particular confinement and release conversations are fictional scene constructions. Pigafetta's expedition narrative does not document these individuals, their named messages or the novel's division between people sent ashore and people remaining captive. The woman in blue asks Ache to report that she was alive but not released; the story does not establish her eventual fate."
+      "body": "The multilingual sailor, woman in blue, injured younger woman, older mother searching for her swimmer son, boy tending a splinted sailor, junk master seeking his brother, and Ache's particular confinement and release conversations are fictional scene constructions. A separate 1521 document recorded by Martín Méndez reports Carvalho's statement at Tidore on 13 November that three women seized from a Luzon vessel were still held; the 14 November entry records their transfer to Tidore's ruler (1920 published transcription, Document 105, pp. 175–178). That document neither identifies the novel's women nor establishes their eventual freedom or return. The woman in blue asks Ache to report that she was alive but not released; her fictional fate remains unknown."
     },
     {
       "title": "Chronology remains an open source question",
@@ -26,6 +26,17 @@
         {
           "label": "NHCP edited Roteiro (2025), Document 13",
           "url": "https://research.unl.pt/ws/portalfiles/portal/154265093/HistoriaObscura_vol1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A contemporaneous account of a next-day capture",
+      "kind": "documented",
+      "body": "At Tidore on 13 November 1521, expedition pilot Juan Carvalho told the ruler, in a statement recorded by Martín Méndez, that the Europeans first seized a junk and a prao near Brunei and captured a separate junk carrying a son of Luzon's ruler the following day (1920 transcription of the Libro de las paces y amistades, Document 105, pp. 175–176). This retrospective statement by a participant differs from a strictly same-day reading of Pigafetta's 29 July account; it does not supply an exact departure date or prove the novel's hour-by-hour captivity. The archival folio and printed page images have not been checked.",
+      "links": [
+        {
+          "label": "Méndez-Carvalho testimony, 1920 transcription (Document 105)",
+          "url": "https://es.scribd.com/document/399553318/Coleccion-General-de-Documentos-Relativos-a-Las-Islas-Filipinas-Existentes-en-El-Archivo-de-Indias-de-Sevilla-III"
         }
       ]
     }
