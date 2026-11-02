@@ -1356,60 +1356,39 @@ She nodded as though this was the answer she had expected. She took her basket a
 
 ***
 
-The keeper called Iya when she saw her at the market that afternoon. Iya had come on her own business, bringing two baskets of dried fish to exchange for rice. She had not crossed for our hearing. She sat only after she had set the baskets where she could watch them.
+The keeper called Iya when she saw her at the market that afternoon. Iya had brought two baskets of dried fish to trade for rice. She set them where she could watch them before sitting.
 
-"I heard Bina refused a journey," Iya said.
+"I heard Bina refused a journey," she said.
 
-"She refused a man who wanted her to ask Nali about jars," I answered.
+"To carry a stranger's question about jars. He had not loaded them."
 
-"That is her choice."
+"Then he can ask Nali himself, if he can arrange the crossing. She may hear him. She may not."
 
-"The man had not hired a boat. He wanted to know whom he could ask."
+I looked at Iya's baskets and almost asked her to take the question. She moved one closer to her foot.
 
-"Then tell him he may come to Nali without a load and ask her himself, if he can arrange a journey. She may hear him. She may not. I cannot promise for her."
+"If I go home, I may tell Nali what I heard here, if she asks," she said. "I will not carry a stranger's question or make my sister listen."
 
-"Could you take his question next time you go home?"
+The keeper laid the two strips between us.
 
-"I could, if I choose. I do not know the man or his jars. I will not promise to make my sister listen."
+"I saw Ranu leave this bank and return," she said, touching the first. "I heard Iya call across that Nali allowed that journey. I did not see the path beyond the roots." She touched the second. "Bina told me Nali named the higher path and refused the rack. I did not hear Nali say it."
 
-"Then what can we agree to remember?"
+"And if I bring another account?" Iya asked.
 
-Iya looked at the two strips on the shelf.
+"I will ask who was there. Being Nali's sister does not erase Bina's words."
 
-"Remember that you heard me say Nali would hear a person who came to ask. Remember also that she has not promised an answer. When someone asks about the crossing, say who saw the journey and who only heard about it."
+Iya turned to me. "Do you wish those strips said more?"
 
-The keeper took the first strip down.
-
-"I saw Ranu leave this bank and return. I heard you call across that Nali allowed that journey. I did not see which path Ranu took beyond the roots."
-
-She set the strip down and took the second.
-
-"Bina told me she heard Nali name the higher path and refuse the rack path. I did not hear Nali say it. Bina did. I will not tell a stranger I heard it myself."
-
-Iya touched neither strip.
-
-"And if I come with a different account?" she asked.
-
-"I will hear it," the keeper said. "I will ask who was there. I will not cut away Bina's words because you are Nali's sister, nor keep them because Ache likes them."
-
-"Do you like them?" Iya asked me.
-
-"They cost a man a boat's morning. They cost another man his way to sell pots. I wanted the first account to be enough."
+"They cost one man a boat's morning and another his chance to sell pots. I wished the first account would be enough."
 
 "And now?"
 
-"Now I know what Bina heard. I will tell it when I am asked, including the part that sends people away."
+"I will tell what was seen and what was reported. Bina refused another journey. I will not make her report a promise."
 
-Iya picked up her baskets.
+"Then you heard me," Iya said. "I have not promised another visit."
 
-"Then I have heard you say that. I can tell Nali if she asks what happened here. I am not agreeing to come again."
+She lifted one basket, then paused to settle the strap. I moved to take the other. She shook her head. The boy she had paid came from the doorway when she called and carried it toward the market.
 
-"Nor am I asking you to."
-
-She lifted one basket onto her hip and left the other at her feet while she adjusted the strap. I went to help, but she shook her head. A boy she had paid was waiting at the doorway. He took the second basket when she called him, and they went toward the market together.
-
-The keeper put the strips back with space between them. She had not made a new mark. I had not appointed a witness. We had heard one another, and none of us had agreed to more than that.
-
+The keeper returned the strips to the shelf with space between them. No new mark was cut.
 ***
 
 At the landing, the cord owner was speaking to two men I had not seen before. One wore a short cloth stained with the red earth of the upper market. The other carried a measuring cord and a small clay weight. They had come to ask about moving jars and pots when the water rose.
