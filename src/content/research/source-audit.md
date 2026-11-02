@@ -4,7 +4,7 @@ name: Source audit
 aliases: [Bibliography audit, Citation gaps]
 status: uncertain
 developmentStatus: current
-related: [foreign-contacts-ache-era, aganduru-moriz, albo, pigafetta, mafra, legazpi-relacion, riquel-1571, relacion-1572, blair-robertson, william-henry-scott, cesar-adib-majul, luis-camara-dery, chirino, gaspar-de-san-agustin, rizal-annotations]
+related: [foreign-contacts-ache-era, aganduru-moriz, albo, pigafetta, mendez-carvalho-1521, mafra, legazpi-relacion, riquel-1571, relacion-1572, blair-robertson, william-henry-scott, cesar-adib-majul, luis-camara-dery, chirino, gaspar-de-san-agustin, rizal-annotations]
 sources: []
 timeline: []
 ---
@@ -17,6 +17,10 @@ Aganduru Moriz, Chirino, Morga, and Gaspar de San Agustín are kept as near-prim
 ## Secondary scholarship
 
 William Henry Scott, Cesar Adib Majul, Luis Camara Dery, Félix de Huerta, Rizal's annotations, and other later works are kept separate from primary testimony.
+
+## 1521 Tidore testimony and Brunei chronology
+
+The [Méndez–Carvalho 1521 source dossier](/raha-ache/sources/mendez-carvalho-1521/) records the 13–14 November testimony and transfer entries in the 1920 printed edition of Document 105. The speaker's retrospective next-day capture statement is distinct from the editor's archival transcription, and neither establishes a final Brunei departure date or the captive women's later fate. Compare with Pigafetta, Albo and the Genoese pilot before altering Book II's chronology.
 
 ## Documentary collections
 
