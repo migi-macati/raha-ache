@@ -486,51 +486,37 @@ The other two covered baskets were still aboard. No one had yet brought them up.
 
 The two baskets were still in the boat when the owner told his men to take them away.
 
-The man at the stern looked toward the platform. He had his pole in the water, holding the hull clear of the post. The young carrier stood above him, empty-handed and unpaid.
+The man at the stern held the hull off the post. Behind it another boat waited, its boy calling for the steps. The young carrier stood above him, empty-handed and unpaid.
 
-“Where?” the man at the stern asked.
+“Where?” the sternman asked.
 
-“Down to the other landing.”
+“Other landing,” the owner said.
 
 “There are boats there.”
 
-“Then wait your turn.”
+“Then wait.”
 
-The woman who watched our receiving platform put one foot against the first basket. Its covering lay open. The cracked bowl rested on a fold of cloth beside it, where the owner had left it.
+The woman put one foot against the open first basket. The cracked bowl lay beside it.
 
-“What of this one?” she asked.
+“What of this one?”
 
 “Put it back.”
 
-“Whose hands will put it back?”
+“Whose hands?”
 
-The owner looked at the young carrier. The carrier did not move.
+The carrier stayed where he was. “Not before I am paid.”
 
-“I have done my carrying,” he said.
+The cord keeper rose. “If you take it back, I will count it as taken back. The bowl was found cracked when the covering was opened here.”
 
-“You have done damage.”
+“Because he struck it,” the owner said.
 
-“You have not paid me.”
+The old man looked at me.
 
-The man at the stern pushed against the post. The boat shifted a little and came back. Behind it another hull was waiting to reach the steps, its bow held off by a boy with a paddle. He called to ask whether we were finished. No one answered him.
+“I heard it set down.”
 
-The older cord keeper rose from his place beside Daran. He had made a knot when the first basket reached the platform. He had not made another.
+“You have said that.”
 
-“If you take it back,” he told the owner, “I will say that you took it back.”
-
-“And the bowl?”
-
-“We found it cracked when the covering was opened here.”
-
-“Because he struck the basket.”
-
-The old man looked at me. I wished he had not.
-
-“I heard the basket put down,” I said.
-
-“You have said that,” the owner answered.
-
-He was right. I had said it so often that I could hear myself becoming tiresome. The carrier's wages had not moved any nearer to his hand.
+I had said it so often that the words were beginning to shame me. The carrier was still unpaid.
 
 Daran brought the empty baskets away from the steps. He had to turn sideways to pass the owner. The owner did not make room for him until Daran stopped and waited.
 
@@ -552,25 +538,21 @@ The woman did not touch the covering. She told the packer to untie it himself.
 
 He loosened the cord and lifted the mat. Dry leaves lay between the bowls, curled into small brown pockets. The top two were whole. So were the next three. The packer took them out one at a time and laid them in a row.
 
-The owner folded his arms.
-
-“Now you have seen how they were packed.”
-
-The woman took a leaf from the bottom of the basket. It had darkened along one edge. She rubbed it between her fingers, then let it fall.
+The owner folded his arms. The woman took a leaf from the bottom of the basket. It had darkened along one edge.
 
 “Was this wet when you packed it?”
 
-The man with the scar leaned close. “I don't remember.”
+“I don't remember,” the packer said.
 
 “Did water come into the boat?”
 
 “Water comes into every boat.”
 
-The owner gave a short laugh. “Now we are to blame the water for a broken bowl.”
+The owner laughed. “Now the water broke it?”
 
-I looked from the damp leaf to the cracked rim on the cloth. I wanted the leaf to mean something. Perhaps the first basket had been soaked. Perhaps its padding had slipped before the young man lifted it. I had not seen the leaves in that basket before the owner pulled them aside. A wet leaf would not tell me when a bowl had broken.
+I wanted the damp leaf to tell me whether the padding had shifted before the basket reached the steps. It could not tell me when the bowl broke.
 
-Daran came to stand beside me.
+Daran came beside me.
 
 “You are looking for a mark,” he said.
 
@@ -578,31 +560,29 @@ Daran came to stand beside me.
 
 “There are many marks on things that have traveled.”
 
-He went back to his cord.
+He returned to the cord.
 
 The man at the stern called that he could no longer keep the boat in place without blocking the one behind. The owner told him to move farther out. The second basket stood open now, its bowls spread across the platform. The man with the scar looked at his hands, as if he had only just understood how long he might be needed.
 
 The owner turned to the young carrier.
 
-“You see what your refusal has done? We are still here.”
+“You see what your refusal has done?”
 
-The carrier looked toward the bowls. “I did not refuse to carry the first.”
+“I carried the first.”
 
-“Then finish your work.”
+“Then finish.”
 
 “My payment.”
 
-The owner drew the same small piece of silver from his fold. He held it between two fingers.
+The owner offered the same small piece of silver. The carrier looked away.
 
-The young man glanced at it and looked away.
+“You promised more aboard.”
 
-“You told me more before we came ashore.”
+“Before you broke a bowl.”
 
-“You had not broken anything before we came ashore.”
+The packer stopped lifting bowls. The carrier saw that he had heard.
 
-The man with the scar stopped lifting bowls. I saw the carrier notice. It mattered to him that someone else had heard the words.
-
-I moved toward the owner, though I had no idea what I could ask him to do. I could have offered my own food. It would not have paid the promised wage, and the man might have taken it as payment for my silence. I could have called on Siripada's name. I had no permission to make him answer for a stranger's basket.
+I took a step forward, then stopped. My food would not pay the promised wage, and Siripada had given me no authority to answer for a stranger's goods.
 
 A wet mat brushed my ankle.
 
