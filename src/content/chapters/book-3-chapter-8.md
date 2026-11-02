@@ -1366,11 +1366,11 @@ The keeper called Iya when she saw her at the market that afternoon. Iya had bro
 
 I looked at Iya's baskets and almost asked her to take the question. She moved one closer to her foot.
 
-"If I go home, I may tell Nali what I heard here, if she asks," she said. "I will not carry a stranger's question or make my sister listen."
+"If I go home, I may tell Nali what I heard here, if she asks," she said. "I have not agreed to carry this stranger's question or make my sister listen."
 
 The keeper laid the two strips between us.
 
-"I saw Ranu leave this bank and return," she said, touching the first. "I heard Iya call across that Nali allowed that journey. I did not see the path beyond the roots." She touched the second. "Bina told me Nali named the higher path and refused the rack. I did not hear Nali say it."
+"I saw Ranu leave this bank and return," she said, touching the first. "I heard you call across that Nali allowed that journey. I did not see the path beyond the roots." She touched the second. "Bina told me Nali named the higher path and refused the rack. I did not hear Nali say it."
 
 "And if I bring another account?" Iya asked.
 
