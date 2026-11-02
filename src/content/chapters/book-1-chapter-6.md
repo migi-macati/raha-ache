@@ -44,51 +44,19 @@ I stood with one foot on the packed earth outside. Ula was threading small shell
 
 “That I had a question for a man who might know another man.”
 
-I felt my mouth tighten. “You could have told her his name.”
+I nearly complained that Ula could have given the captain's name. I had never learned it. I remembered his Malay, the men watching the boats behind him, and how pleased I had been to answer. If Sulad had sent me to find a fish seller without asking his name, I would have laughed at him.
 
-“You never gave me his name.”
+“I gave you no useful errand,” I said. “Could her brother ask at the upriver landing for the captain who spoke Malay? I would pay for the asking, even if no one knew him, once we agreed on a price.”
 
-I had described the captain from the upriver landing: the Malay he spoke, the way he listened before answering, the men near him who had watched the boats instead of me. I had not thought to ask what he was called. I remembered how pleased I had been to understand enough of his words to answer. I remembered less clearly what I had said in return.
-
-“Could she take a message without it?”
-
-“She could take a message. To whom?”
-
-“To the captain.”
-
-“Which captain?”
-
-“The one I met.”
-
-Ula let the cord fall across her lap.
-
-I heard myself. If Sulad had spoken that way about a fish seller, I would have laughed at him.
-
-“Then ask her brother to inquire at the landing,” I said. “He might know the men who were there.”
-
-“He might. He is not here.”
+Ula let the cord fall across her lap. “You are beginning at the right end. But her brother is away.”
 
 “When will he return?”
 
-“She does not know.”
+“His sister does not know. He carries goods when there are goods to carry. He has a wife and two children.”
 
-“But he carries goods.”
+“He isn't waiting upriver for me to remember a man's name.”
 
-“He carries them when there are goods to carry. He has a wife and two children. He is not waiting upriver for you to remember a man's name.”
-
-The words stung more because Ula said them without anger. She moved another shell along the cord and checked it against the others.
-
-“I could pay him,” I said.
-
-“For going?”
-
-“For asking.”
-
-“And if he asks three men and none knows yours?”
-
-“I would still pay him for his time.”
-
-“Would you?” She looked up. “You left one piece of silver and did not tell me what you expected it to buy.”
+“No,” she said. “And you left a piece of silver without telling me what it was meant to buy.”
 
 I looked at the shell on the floor.
 
@@ -100,9 +68,9 @@ I looked at the shell on the floor.
 
 I crossed the threshold and picked up the silver. It was warm where the sun had reached the shell. I wanted to set it down again and tell her she was making too much of a small thing. Instead I closed my fingers around it.
 
-“What would be fair?” I asked.
+“How should I ask?” I said.
 
-“That depends on the errand. First find out whether the brother will ask. Then what he wants for asking. Then how you will hear his answer. I will not promise him your money.”
+“First find out whether the brother will take the errand. Then agree on a price and a way to hear his answer. I will not promise him your money.”
 
 “Could you ask the woman to send word when he returns?”
 
@@ -130,9 +98,9 @@ She laid the finished cord beside the broken shell. “There is something else. 
 
 I sat at the threshold where I could see the river through the gap between houses. Men were lifting baskets from a boat onto the bank. One basket split at its seam, and its owner caught it before the contents fell. No one stopped to look at me.
 
-“Tell him I want to speak with the captain,” I said at last. “Only that. If he can find him, ask where and when. If he cannot, I will pay for the asking, provided we agree on the price first.”
+“Tell him I want to speak with the captain,” I said at last. “Only that. If he finds him, ask where and when.”
 
-Ula nodded once. It was the first answer I had given that she did not have to pull apart.
+Ula nodded once. I had managed to ask for a meeting without claiming a voyage.
 
 “And if he says no?” she asked.
 
