@@ -164,6 +164,10 @@
     {
       "lesson": "For retrospective prose experiments, count the actual published Markdown scene separators and trace payment provenance and ownership across chapters before inventing a character sacrifice; a Studio six-scene plan is not evidence of six published scenes, and wages from different employers must not be conflated.",
       "evidence": "1 Nov 2026, PR #202: published III.9 has 14 Markdown scenes and III.10 has 18, not six each. The first B1 compression sample incorrectly attributed Tesa wages accepted by Amaya to Sela's basket payment; corrected in commit 03763b8 before review. Existing Sela fish losses were also verified rather than adding a fabricated new loss."
+    },
+    {
+      "lesson": "Before citing a GitHub file blob or commit SHA in a literary audit, fetch the exact object and use the returned identifier; never fill a hash from inference or a placeholder. Verify the persisted citation before opening a PR.",
+      "evidence": "3 Nov 2026 RA-LIT-72: an unverified III.9 blob SHA was initially entered in the audit, then replaced with fetched blob e595d69efbc55884b03642640819b3759899c81f in commit 662765a3042ed9b3f72f5ede3fe923c910824a19 before PR #249 CI 41524452236 passed and merge d7c9466ba6ad220f5e2f047e885e494d48e991d8."
     }
   ],
   "studioWork": {
