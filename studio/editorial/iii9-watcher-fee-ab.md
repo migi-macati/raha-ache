@@ -1,6 +1,6 @@
 # III.9 §§13–14 watcher-fee A/B, controlled Studio experiment
 
-**Status: HOLD / Studio-only.** 2 November 2026, 13:00 PHT. No change to published prose, chronology, chapter count, historical notes, or release checkpoint.
+**Status: REJECT B after internal causal comparison / Studio-only.** 2 November 2026, 13:00 PHT. No change to published prose, chronology, chapter count, historical notes, or release checkpoint.
 
 ## Reproducible complete A control
 
@@ -16,7 +16,7 @@ A rehearses a proposed charge before Hiran's intervention. B tries to shorten th
 | Keeper's first question in §13 | Repeats three demands before payment | Knots placed beside blank strip; keeper asks directly who pays | Does physical action quicken the turn without implying the keeper endorsed a fee? |
 | Hiran's arrival in §14 | Re-explains disputed charge | Cord owner names trader as proposer | Does this improperly absolve the cord owner of rumor responsibility? |
 
-**Initial internal judgment: HOLD.** The changed passage is shorter but still stages the same hearing, the same independent refusals and the same departure to the competing landing. No new irreversible loss, emotional reversal or substantive earlier decision is introduced. In particular, the third substitution risks retrospectively cleaning up the cord owner's ambiguity about the oil seller. Do not promote B to public prose merely because it is shorter. Compare full III.9 and III.10 with actual independent reader feedback; if B weakens culpability or procedural tension, reject. Reader feedback: **none received**. No numeric quality improvement claimed.
+**Decision: REJECT B, preserve A.** The changed passage is shorter but still stages the same hearing, the same independent refusals and the same departure to the competing landing. No new irreversible loss, emotional reversal or substantive earlier decision is introduced. In particular, the third substitution risks retrospectively cleaning up the cord owner's ambiguity about the oil seller. B removes only 25 words across 2,551 words, does not change the hearing's scene engine or time to irreversible loss, and its third substitution risks making the cord owner more candid about the fee than his earlier rumor management warrants. That is sufficient internal counterevidence to reject this exact B; retain the canonical A. Independent feedback is still needed to diagnose broader pacing, but is not needed to prevent a weaker revision. Reader feedback: **none received**. No numeric quality improvement claimed.
 
 ## Complete B variant (two sections)
 
