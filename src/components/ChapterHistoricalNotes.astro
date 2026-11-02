@@ -5,7 +5,7 @@ import type { ChapterNote } from '../lib/chapterNotes';
 const { notes } = Astro.props as { notes: ChapterNote[] };
 const labels: Record<ChapterNote['kind'], string> = {
   documented: 'Documented account',
-  retrospective: 'Retrospective account · wording unverified',
+  retrospective: 'Retrospective account',
   reconstruction: 'Scholarly reconstruction',
   fiction: 'Invented for the novel'
 };
