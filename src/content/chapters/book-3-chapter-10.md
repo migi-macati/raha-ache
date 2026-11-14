@@ -978,6 +978,6 @@ The owner sounded with his pole, chose the old stones a little farther along, an
 
 I had once wanted every owner to hear that our landing was open. Now I could tell the next one where the wood ended, where the stones began, and who would have to answer before a basket could stand above them. That was enough to send some boats away. It had brought one man ashore.
 
-Amaya had told me what my mother asked the household to keep alive. She had not told me where my mother went. I had asked her before strangers, and she had refused to answer for a woman who was not there. I had been angry enough to mistake that refusal for an answer. The question was still mine to ask.
+Amaya had carried away the measure of the cloth I still owed her. She had kept the red wood from my mother's post, too. When I asked where my mother went, she had refused to answer before the others. I could have followed her now and asked again. She had already gone beyond the bend.
 
 Behind me someone called for a carrier. I looked at the sun before I answered.
