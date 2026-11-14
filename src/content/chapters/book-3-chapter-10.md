@@ -978,4 +978,6 @@ The owner sounded with his pole, chose the old stones a little farther along, an
 
 I had once wanted every owner to hear that our landing was open. Now I could tell the next one where the wood ended, where the stones began, and who would have to answer before a basket could stand above them. That was enough to send some boats away. It had brought one man ashore.
 
+My mother had left the hall in other hands before I came back. I still did not know where she had gone. I knew who had mended the roof, who had fed the people beneath it, and whose permission I would need to work there. I had wanted Amaya to give me an answer about my mother. She had given me the names of people I could ask, and work I could do while I waited. I had not yet asked them all.
+
 Behind me someone called for a carrier. I looked at the sun before I answered.
