@@ -76,3 +76,26 @@
 **Test against control:** Ache loses the chance to accompany Amaya on this particular search; he cannot recover that afternoon. No claim is made that the messenger actually arrives or that a permanent last chance is lost. Amaya decides her own route and need not disclose a confidence. The choice makes his existing punctual arrival personally costly without another wage negotiation. The candidate may still be too small in scale for a trilogy climax; reject if cold readers cannot identify the sacrificed opportunity or if the new messenger lead reads as a contrived coincidence. Compare with PR #259's reminder and the unmodified control; do not combine variants automatically. No change to canonical prose, source records or checkpoint.
 
 **Next tightening test:** Check the full III.10 intervening timber sequence for elapsed time and whether the fork is geographically plausible; if not, move the decision to Ache's existing departure toward Tesa and remove the invented fork. Test whether the unanswered possibility requires an explicit later consequence; do not invent news merely to close the scene. Independent reader assessment remains pending.
+
+
+### M2 continuity gate — 21 November 2026, 05:57 PHT
+
+Read main III.10 lines around the appointment through the roof beam, timber inspection, rejected carrying offer, Sela's contribution and departure for Tesa. There are about 190 source lines between the proposed insertions. The existing departure already supplies a decision point; a new fork and an unverified river route are unnecessary. The conditional lead also needs a time window: otherwise Ache could search after his paid work. III.1 establishes only a conditional promise to reach a message carrier; it does not prove the mother's survival. Avoid assigning the carrier a gender or making an unsupported claim about the carrier's itinerary.
+
+**M2b replacement for insertion A (after Tesa's rice exchange and before Ache begins counting time):**
+
+> Amaya picked up her basket. “I heard there may be someone at the bend this afternoon who knows where to find the person I told you about.”
+>
+> “Can I come?”
+>
+> “I will ask when I have finished here. I cannot tell you how long anyone will wait.”
+>
+> I looked at the post again.
+
+**M2b replacement for insertion B:** insert immediately before the existing sentence beginning “Madan's niece put the cord away with both twists still in it.”
+
+> I could go to the bend first. I might find Amaya there. I might spend the rest of the light looking for her.
+>
+> The last time Tesa had waited for me, I had not come.
+
+Retain the canonical departure and punctual arrival. No new fork, no promise of a meeting, no maternal revelation, no changes to the final line. The lead is an explicitly fictional possibility; it still risks coincidence. M2b is preferable to M2 on continuity and economy, but may reduce urgency too far. Test whether readers infer the emotional sacrifice without explaining it later. If they cannot, reject rather than stack reminders. Preserve the original and #259 as separate controls. Exact-head M2 Studio CI run 44817163550, job 136568349287, succeeded; that does not validate M2b or literary merit.
