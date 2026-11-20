@@ -47,3 +47,32 @@
 5. Keep all experiments in Studio until scoped review, exact-head CI, independent core-only reader assessment and deployment checks. No self-certified 10/10 score.
 
 **Quality criterion:** The eventual climax should make Ache's altered relationship to power *hurt* and change another person's future. A more explicit lesson, longer chapter or invented historical spectacle is not sufficient.
+
+
+## Experiment M2 — the missed messenger (21 November 2026)
+
+**Draft, not canon.** Source control: III.1 establishes Amaya's conditional offer to tell Ache's mother he has come if she can reach the person who carries her messages. It does not establish that the mother is alive or where she is. III.10 establishes Tesa's appointment at the shade post, Ache's prior failure to keep a carrying appointment, his cloth debt, and his eventual punctual arrival. The Pires source record supports general trade context only, not this fictional household encounter. Preserve III.9's ending, III.10's physical landing resolution, final sentence and III.12's copper-bowl payoff.
+
+**Proposed insertion A:** III.10, after “I will come,” before Tesa asks Amaya about the rice. The messenger's possible appearance is new fictional connective tissue, not a historical claim.
+
+> Amaya touched my elbow when I turned away.
+>
+> “The person I told you about may come downriver today.”
+>
+> It took me a moment to understand which person she meant.
+>
+> “Will you take me?”
+>
+> “I am going to look for her. I do not know when she will come.”
+>
+> I looked at Tesa's post. I had spent years wishing for a boat that would take me home. Now I could see the water from where I stood, and I had given away the afternoon.
+
+**Proposed insertion B:** Immediately before the existing “When the shade touched Tesa's post, I was there.” Retain the following canonical scene unchanged.
+
+> At the fork I could still take the river path. Amaya had gone that way. I stood long enough for a woman with a bundle of wet cloth to ask me to move.
+>
+> I went to Tesa.
+
+**Test against control:** Ache loses the chance to accompany Amaya on this particular search; he cannot recover that afternoon. No claim is made that the messenger actually arrives or that a permanent last chance is lost. Amaya decides her own route and need not disclose a confidence. The choice makes his existing punctual arrival personally costly without another wage negotiation. The candidate may still be too small in scale for a trilogy climax; reject if cold readers cannot identify the sacrificed opportunity or if the new messenger lead reads as a contrived coincidence. Compare with PR #259's reminder and the unmodified control; do not combine variants automatically. No change to canonical prose, source records or checkpoint.
+
+**Next tightening test:** Check the full III.10 intervening timber sequence for elapsed time and whether the fork is geographically plausible; if not, move the decision to Ache's existing departure toward Tesa and remove the invented fork. Test whether the unanswered possibility requires an explicit later consequence; do not invent news merely to close the scene. Independent reader assessment remains pending.
