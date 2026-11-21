@@ -318,7 +318,7 @@ Tahir made a separate mark.
 
 "Who gave permission?"
 
-The master looked out toward the foreign vessels. "A man who spoke to the one with the writing board. I do not know his name."
+The master looked out toward the mouth of the harbor. "A man who spoke to the one with the writing board. I do not know his name."
 
 Tahir did not write a name for him.
 
@@ -1116,7 +1116,7 @@ She sat again. I knelt on the other side of the sail and held the patch flat whi
 
 "Upriver first. A household there owes me baskets from the last delivery. If I do not collect them, they will give them to someone who comes sooner. Then I may carry rice down to the outer settlements. The people who hired me before the fighting have not stopped needing food."
 
-"Would you go while the foreign ships are still outside?"
+"Would you go without knowing where the foreign ships are?"
 
 "Not beyond the mouth until I know the water. I can work upriver without crossing their path."
 
@@ -1416,7 +1416,7 @@ Jamil read the headings. He did not ask why I had made them.
 
 "I won't."
 
-He turned the board over. On the back Hasan's clerk had marked the two owners' terms for journeys they might make later, leaving blank the places they had not agreed to visit. One was willing to carry messages upriver. Another might go to the outer settlements after his cargo had been delivered. Neither would cross to the foreign ships. I had not written Ruma's name beside either offer.
+He turned the board over. On the back Hasan's clerk had marked the two owners' terms for journeys they might make later, leaving blank the places they had not agreed to visit. One was willing to carry messages upriver. Another might go to the outer settlements after his cargo had been delivered. Neither would go looking for the foreign ships. I had not written Ruma's name beside either offer.
 
 "Who pays?" Jamil asked.
 
