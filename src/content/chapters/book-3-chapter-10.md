@@ -222,7 +222,17 @@ Tesa looked at Amaya.
 
 "Then he knows how to finish one job. We will see whether he can finish another."
 
-Amaya set her empty basket beside the mat. She had not come to speak for me. She had come to see whether the work existed before I promised it. I watched the shade move a finger's breadth along the ground and began to count the time until I had to return.
+Amaya set her empty basket beside the mat. She had not come to speak for me. She had come to see whether the work existed before I promised it.
+
+Amaya picked up her basket. "I heard there may be someone at the bend this afternoon who knows where to find the person I told you about."
+
+"Can I come?"
+
+"I will ask when I have finished here. I cannot tell you how long anyone will wait."
+
+I looked at the post again.
+
+I watched the shade move a finger's breadth along the ground and began to count the time until I had to return.
 
 ***
 
@@ -397,6 +407,10 @@ Raya took the cord from Madan's niece. "I will test the stone before the light g
 I could hear the market sellers calling from beyond the yard. The shadow would be reaching the post soon.
 
 Sela picked up her baskets. "If Raya says the stone holds, I will come back with Dala's answer. I will not promise my buyer this landing yet."
+
+I could go to the bend first. I might find Amaya there. I might spend the rest of the light looking for her.
+
+The last time Tesa had waited for me, I had not come.
 
 Madan's niece put the cord away with both twists still in it. I went toward Tesa's awning. Behind me the timber stayed where it had been, and for once I knew exactly why no one was lifting it.
 
