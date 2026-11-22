@@ -224,7 +224,7 @@ Tesa looked at Amaya.
 
 Amaya set her empty basket beside the mat. She had not come to speak for me. She had come to see whether the work existed before I promised it.
 
-Amaya picked up her basket. "I heard there may be someone at the bend this afternoon who knows where to find the person I told you about."
+Amaya picked up her basket. "I heard there may be someone at the bend this afternoon who knows how to reach the person who carries your mother’s messages."
 
 "Can I come?"
 
@@ -408,7 +408,7 @@ I could hear the market sellers calling from beyond the yard. The shadow would b
 
 Sela picked up her baskets. "If Raya says the stone holds, I will come back with Dala's answer. I will not promise my buyer this landing yet."
 
-I could go to the bend first. I might find Amaya there. I might spend the rest of the light looking for her.
+I could go to the bend first. I might find Amaya there. Someone there might yet know how to get word to my mother.
 
 The last time Tesa had waited for me, I had not come.
 
