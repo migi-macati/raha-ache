@@ -118,7 +118,7 @@ Bulkan ran his thumb along the fastening. The carpenter waited for him to move.
 
 "Then you know whose boat your men would stand in front of."
 
-I did. Sima had paid for a crossing and still had no cargo aboard. The young rower had no wages. I wanted twelve armed men to make that confusion look like an enemy.
+I did. Sima had paid for a crossing and still had no cargo aboard. The young rower had no wages. I wanted twelve men to make that confusion look like an enemy.
 
 "One boat," I said. "Set apart from the working crews. Someone to tell us if a vessel is taken by force."
 
