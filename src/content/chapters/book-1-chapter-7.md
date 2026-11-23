@@ -652,7 +652,7 @@ Sulad held the jar beside me. For once I let the silence belong to someone else.
 
 The fisherman lifted the wet end of his net from the ground and found a stone caught in it. He shook the mesh until the stone fell out. Then he put the net down again, in the same place.
 
-I had expected him to move it when the buyer asked. He had listened to the request without saying no. I was learning that silence could last longer than an answer.
+I had expected him to move it when the buyer asked. He had listened to the request without saying no.
 
 The visiting boat still lay beyond the post. Its men had changed hands on the poles so often that the wood shone where they gripped it. Nima sat beside the covered bundle, keeping one foot against it when the boat rolled. I could see a dark line creeping along the covering toward the fold beneath.
 
@@ -914,7 +914,7 @@ I looked toward the buyer. He was busy with a man who wanted to inspect the bask
 
 “I will,” I said.
 
-Mulaw moved to the pole. I had wanted him to offer something that would survive his departure: a name to speak elsewhere, a friend who would carry us, a debt that could be collected. He had given me his name and advice that cost him nothing.
+Mulaw moved to the pole. I had wanted him to offer something that would survive his departure: a name to speak elsewhere, a friend who would carry us, a debt that could be collected. He had given me his name.
 
 The boat moved away from the post. Nima kept one hand on the bundle until they were beyond the shallows.
 
