@@ -156,7 +156,7 @@ I stared at it. “For what?”
 
 “She didn't. I was going upriver with goods. I asked while I was there. You can keep your silver.”
 
-He had done the work without a bargain. I could refuse him; he could refuse the next errand. The silver lay against my skin where I had carried it from home.
+The silver lay against my skin where I had carried it from home.
 
 “How much would you take?”
 
@@ -180,7 +180,7 @@ He turned back to the jars. I could have left with the same captain I had begun 
 
 “Because you will sound like a man asking a fisherman to bring him a mountain.”
 
-I wanted to ask whether everyone who worked the river had agreed to speak to me as Ula did. But the brother had already given me what I paid for. He owed me nothing more.
+I wanted to ask whether everyone who worked the river had agreed to speak to me as Ula did. I kept the question to myself.
 
 “Where is the trader?”
 
@@ -212,7 +212,7 @@ The man put down the slat.
 
 “It is the answer I have.”
 
-He lifted the nearest basket, judged its weight and set it beside another. I had thought the voyage would begin with a name on a shore. To him it began with what he could sell there.
+He lifted the nearest basket, judged its weight and set it beside another.
 
 “Could I come with you until you stop?” I asked.
 
@@ -306,7 +306,7 @@ The brother walked beside me as far as the first houses. He did not offer to car
 
 “He did speak differently when he guessed.”
 
-I thought of the care in the trader's eyes. It had not been respect.
+I remembered the way the trader had looked at my clothes, then at the brother.
 
 “Would you go on that boat?” I asked.
 
