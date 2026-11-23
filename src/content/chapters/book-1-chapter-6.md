@@ -68,33 +68,19 @@ I looked at the shell on the floor.
 
 I crossed the threshold and picked up the silver. It was warm where the sun had reached the shell. I wanted to set it down again and tell her she was making too much of a small thing. Instead I closed my fingers around it.
 
-“How should I ask?” I said.
+“Could you ask the woman to send word when her brother returns?” I said. “If he'll take the errand, I'll agree on a price with him myself. I won't leave silver on your floor again.”
 
-“First find out whether the brother will take the errand. Then agree on a price and a way to hear his answer. I will not promise him your money.”
+Ula drew the cord taut. “What shall I tell her you're looking for?”
 
-“Could you ask the woman to send word when he returns?”
+“A captain I met once and was too proud to question properly.”
 
-“I can do that.”
-
-“What will you tell her?”
-
-Ula drew the cord taut. “That a young man in Maynila is trying to find a captain he met once and was too proud to question properly.”
-
-“That will make him eager to help.”
-
-“It may make him remember you.”
+“That may help her remember you.”
 
 I laughed, though I did not want to. Ula's mouth moved at one corner.
 
-She laid the finished cord beside the broken shell. “There is something else. If the brother finds this man, what do you want him to say?”
+“And what should her brother say if he finds the man?”
 
-“That I need passage to Brunei.”
-
-“On what boat? With what cargo? At what price?”
-
-“I don't know yet.”
-
-“Then you have two questions, not one.”
+I nearly said that I needed passage to Brunei. I could hear the captain asking what boat, what cargo, what price, and knew I had no answers.
 
 I sat at the threshold where I could see the river through the gap between houses. Men were lifting baskets from a boat onto the bank. One basket split at its seam, and its owner caught it before the contents fell. No one stopped to look at me.
 
