@@ -1278,7 +1278,7 @@ Sulad moved our jar forward with the others. “You can go back and ask.”
 
 I stayed beside him.
 
-The man ahead of us lifted his jar, tested its weight, and walked away. The children moved their jars forward. I watched Sulad set ours beside theirs. We had paid to cross the water, and now we were waiting behind children to fill a jar.
+The man ahead of us lifted his jar, tested its weight, and walked away. The children moved their jars forward. I watched the children shift their jars ahead of ours. We had paid to cross the water, and now we were waiting behind children to fill a jar.
 
 When we returned to the landing, the trader was no longer arguing. The buyer had accepted part of the cargo and refused the damp baskets. The crew had moved the rejected goods into the shade. Their boat was being readied for another errand, though no one would tell me where it might go.
 
