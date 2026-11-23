@@ -238,41 +238,31 @@ He looked at me.
 
 “Mostly, my lady.”
 
-She examined the tally. “You ordered men away from their work.”
+She examined the tally. “Who pulled up the stakes?”
 
-“They were closest.”
+“The men on the quay.”
 
-“Did you know what they were carrying?”
+“Which men?”
 
-“No.”
+I could remember the hand that caught the rope, but not the face above it.
 
-“Did you know who owned the fishing stakes?”
+“The porter ran when he recognized me,” I said. “I don't know the others.”
 
-“No.”
-
-“Did you know who would repair the boat you borrowed?”
-
-I looked down.
-
-“And the rower?”
+She moved the tally toward me. I recognized the marks for the broken jars. The steward had put the damaged net beside them. Below that was the rower.
 
 “He would have been hurt if the boat overturned.”
 
-“Perhaps. Was he hurt when you turned it into the quay?”
+My mother waited.
 
-I stared at her. It was not a question I wanted her to ask in front of Sulad.
+“The hull caught his hand,” I said.
 
-“I was trying to save them.”
+Sulad was looking at the floor. I could still have left out the sail. My mother had not asked him again.
 
-“I know what you were trying to do.”
+“He told me to lower it. I thought I had time.”
 
-“Your father left you a claim to Maynila,” she said. “He did not leave you a separate river.”
+She looked at Sulad, then back at me.
 
-I had never known my father. I knew him through the empty place beside her at ceremonies, and through older men who studied my face before they spoke.
-
-“I didn't say the river was mine.”
-
-“No. But they recognized you and came running. You did not have to say the river was yours.”
+I wished I had waited until we were alone to say it.
 
 “I saved the child.”
 
