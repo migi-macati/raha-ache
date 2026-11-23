@@ -136,10 +136,6 @@ The carpenter struck the fastening into place. I felt the blow through the groun
 
 Bulkan had once made me repeat a turn until my hands blistered. I had cursed him for it and the next day found myself making the turn correctly without thinking. I wanted him to be wrong now. I wanted him to be an old man who had forgotten what courage was for.
 
-The carpenter struck the fastening into place. I felt the blow through the ground.
-
-Bulkan had once made me repeat a turn until my hands blistered. I had cursed him for it and then, the next day, found myself making the turn correctly without thinking. I wanted him to be wrong now. I wanted him to be an old man who had forgotten what courage was for.
-
 "Would you stand with me?" I asked.
 
 "If your mother sends me."
