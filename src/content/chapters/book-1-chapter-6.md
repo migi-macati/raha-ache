@@ -1274,11 +1274,9 @@ There was a shallow place where people drew water. Two children stood beside a r
 
 “You could have asked her about a boat,” I said.
 
-“She was selling fish.”
+Sulad moved our jar forward with the others. “You can go back and ask.”
 
-“She might know.”
-
-“She might. She also knew where the water was.”
+I stayed beside him.
 
 The man ahead of us lifted his jar, tested its weight, and walked away. The children moved their jars forward. I watched Sulad set ours beside theirs. We had paid to cross the water, and now we were waiting behind children to fill a jar.
 
