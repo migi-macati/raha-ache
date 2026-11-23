@@ -48,7 +48,7 @@ I nearly complained that Ula could have given the captain's name. I had never le
 
 “I gave you no useful errand,” I said. “Could her brother ask at the upriver landing for the captain who spoke Malay? I would pay for the asking, even if no one knew him, once we agreed on a price.”
 
-Ula let the cord fall across her lap. “You are beginning at the right end. But her brother is away.”
+Ula let the cord fall across her lap. “Her brother is away.”
 
 “When will he return?”
 
@@ -86,13 +86,13 @@ I sat at the threshold where I could see the river through the gap between house
 
 “Tell him I want to speak with the captain,” I said at last. “Only that. If he finds him, ask where and when.”
 
-Ula nodded once. I had managed to ask for a meeting without claiming a voyage.
+Ula nodded once.
 
 “And if he says no?” she asked.
 
 “Then I have to find another way.”
 
-“Good. Now you have a message.”
+Ula drew the cord back toward her work.
 
 I turned the silver over in my palm. It had been easier to imagine a voyage than to arrange the first question.
 
