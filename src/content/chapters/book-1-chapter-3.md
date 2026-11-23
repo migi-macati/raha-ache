@@ -482,33 +482,15 @@ Ula’s did not.
 
 “Perhaps.”
 
-I had expected resistance. The answer stopped me.
+She bent over her basket and began sorting the things she had brought back from the gathering.
 
-Ula looked toward the bank.
+I waited for her to say more.
 
-“But a ruler who waits for everyone to agree before he protects them will rule an empty shore.”
+She held up a little bowl. “Would you put this somewhere it won't break?”
 
-“That is politics, not belief.”
+I wedged it between the rolled shade and my bundle. Sulad had stopped looking at me.
 
-“Do you think people separate themselves so neatly?”
-
-I did not answer.
-
-She touched the cords around her wrist.
-
-“I laughed when the captain corrected your Malay,” she said. “I enjoyed it more than I should have.”
-
-“I noticed,” I said.
-
-“You do not have to ask these things for the spirits’ sake, Ache. Ask them for the people’s.”
-
-I wanted to tell her that faith mattered because truth mattered, not because it was convenient for government.
-
-I still believed that.
-
-I also remembered the merchant at our hall who wanted one record for both shores because arguments over authority were costing him money.
-
-People crossed boundaries more easily than rulers drew them.
+I still wanted an answer. I wanted him to give it to me, and I was beginning to think I knew which answer I wanted.
 
 Sulad resumed paddling.
 
