@@ -916,6 +916,6 @@ When the second bundle was secured, she fetched a leaf packet from beside the sc
 
 Afterward we sat near the screen with the jar between us. The mat-mender had gone inside. Sulad divided his packet, wrapped one portion again for morning, and placed the other in my hand. I tucked it inside my cloth without opening it. The boat rocked once against its pole and settled.
 
-There was no roof over us. I could not see the next landing, and the woman had not told us what lay beyond it. But I knew which bundle I had carried, what she had promised, and when she would leave.
+The bank smelled of wet leaf and mud. Beyond the moored boat, the river vanished into the dark. I kept the food packet beneath my folded cloth, where I could find it before morning.
 
 Sulad lay down with his back toward the water. His hands were still moving in the dark, making the turn the mat-mender had taught him.
