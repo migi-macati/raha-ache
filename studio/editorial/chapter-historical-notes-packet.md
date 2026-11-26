@@ -2,6 +2,19 @@
 
 **Status (verified 1 November 2026, 21:04 PHT):** All 32 canonical chapters have published historical-note JSON packets on main, following merged PRs #215 and #216 and successful GitHub Pages build/deploy at main `529588457cedf7b678bb31557d4a82824abf6f07` (run `41304644266`, build and deploy successful). This retrospective source-audit queue retains earlier branch-written progress snapshots as historical records; their pending release gates are now satisfied. **Coverage: 32/32 (100%).** All 30 core chapters and Book III bonus Chapters 11–12 remain published. Browser-rendered notes and audible Read Aloud remain unverified. Do not reopen completed publication steps.
 
+## II.7–9 · The junk master's “yesterday” (26 November 2026)
+
+Keep the line. The apparent extra days occur after the master speaks. On the internal sequence there is no demonstrated contradiction to correct.
+
+| Relative time in the novel | Evidence in the chapters |
+| --- | --- |
+| Encounter | II.7 closes with hooks on the junk. II.8 continues the boarding, capture and release. At dusk Ache can see a ship beyond the shoals. That evening he goes to Nasir's sister. |
+| Same evening | II.9 opens at her fish stall. Ache tells her he returned that day. Later in II.9 he recalls her correcting the board the evening before. |
+| Following morning | Ache goes to the landing at first light. The damaged junk comes in. Its master recalls seeing his crew counted aboard the high ship “yesterday.” He looks toward the harbor mouth; he does not report seeing the foreign ship there that morning. |
+| Subsequent delays | The two days mentioned by the master are an estimate for repair, immediately revised after inspection. The three later mornings concern a different boat going to the traps. |
+
+Pigafetta dates the approach of the local vessels and the expedition's hurried movement and attack to Monday 29 July. His account places the Luzon prince aboard a captured junk and attributes a motive for his release to information learned later. Albo independently gives the order of movement out, capture and release. His Brunei passage supplies no separate calendar day for the crew count or final departure. The accounts differ on the number of junks captured. Neither documents the fictional master's words, the dusk sightline, a named Ache, or the timing of the repaired boat. These are readings of two witnesses in English translation, not a collation of the original manuscripts. See [Pigafetta, Brunei encounter](https://en.wikisource.org/wiki/The_First_Voyage_Round_the_World/Pigafetta%27s_Account_of_Magellan%27s_Voyage) and [Albo, Brunei passage](https://en.wikisource.org/wiki/The_First_Voyage_Round_the_World/Log-Book_of_Francisco_Alvo_or_Alvaro).
+
 ## Reader experience and editorial contract
 
 Keep the first-person narrative uninterrupted. Place an optional, collapsed **Historical Notes & Sources** section after the final paragraph and before chapter navigation/comments. Do not put distracting numbered footnote markers in dialogue or imply that fictional conversations are recorded history. Each note should link to an existing Universe/source entry where possible, give the precise source locator (author, title, date, edition and page or passage where verified), and explicitly distinguish:
