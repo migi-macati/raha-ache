@@ -1350,27 +1350,19 @@ I went back to Sulad. He was crouched by the rejected baskets, talking with the 
 
 “Finding out whether he needs hands.”
 
-The buyer looked at me. “Can you carry a basket without dropping it?”
-
-“Yes.”
-
-“Can you carry one after someone tells you where?”
-
-I glanced at Sulad. “Yes.”
-
-“I'll pay you for the work when it's done. Food, if you want food. No place to sleep.”
+The buyer put an empty basket down between us. “Food for the work, when it's done. You'll have to sleep somewhere else.”
 
 “That is enough for now,” Sulad said.
 
 “It may not be enough for me,” I said.
 
-The buyer picked up an empty basket. “Then find someone offering more.”
+Sulad picked up the basket. For a moment I thought he meant to hand it to me. He went past me with it. The buyer showed him where the damp ones went.
 
-He turned away. Sulad watched me, waiting. I could have gone after the boatman and asked again. I could have told the buyer who my mother was. I could have stood there until someone grew tired of me and offered a little more simply to make me leave.
+From where I stood I could still see the two bundles in the smaller boat and the gap between them, just wide enough for us if we sat close. The boatman was tying off the second knot. Sulad had already come back for another basket.
 
-Instead I took the basket.
+I got to it first.
 
-The work was not difficult, though I had to be shown twice how to stack the damp ones so that air could pass between them. When we finished, the buyer gave us food and directed us to a household that sometimes let travelers sleep under its roof for payment. He did not promise that they would have room.
+“On its side,” the buyer called when I set it down. I tipped it over. He had to show me again with the next one before I saw the space he wanted between the wet reeds. When we finished, the buyer gave us food and directed us to a household that sometimes let travelers sleep under its roof for payment. He did not promise that they would have room.
 
 We ate sitting beside our jar. The trader's boat was still at the landing. The smaller boat had gone, leaving a wet mark where its rope had rubbed the post.
 
