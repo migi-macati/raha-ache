@@ -100,7 +100,7 @@ Harun laid a hand on the tube. He did not take it.
 
 Isan called the question. The man pointed toward the shore, well outside the opening I had called the river. He named a stretch of water where traders waited for a guide. He said the bottom was firm enough for a small anchor, though the tide ran hard on the turn.
 
-I knew the place. Or I knew a place that had been near it. My father had once stopped there to wait for a boat from the upper river. I remembered a stand of trees with roots rising out of the mud. The trees were gone. I could see only a low bank and a dark line of poles.
+I knew the place. Or I knew a place that had been near it. My mother had shown me where my father once waited for a boat from upriver. I remembered her arm crossing in front of my face as she pointed, and the roots of trees standing up out of the mud. I looked for the trees first. They were gone. I could see only a low bank and a dark line of poles.
 
 The man in the small craft said something else. I heard a word that could mean a landing or a share. Isan asked him to repeat it.
 

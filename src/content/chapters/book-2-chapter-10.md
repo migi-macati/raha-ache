@@ -1288,7 +1288,7 @@ Harun asked whether I had brought my gear. I showed him the small bundle at my f
 
 "Then we can go," he said.
 
-The steersman waited for Harun's order. The crew had the lines in their hands. I looked back toward the houses, the yards, the palace roofs beyond them. Somewhere inside those streets were people whose names I had learned because they needed something from me. They would continue to need it after I was gone. I had left their questions with people who could answer them. That was the most I had done.
+The steersman waited for Harun's order. The crew had the lines in their hands. I looked back toward the houses, the yards, the palace roofs beyond them. From here I could not pick out Laila's yard. The grain would come in before dark. I caught myself hoping the new hand would count a basket twice, just so that for a moment she might wish I had stayed.
 
 Harun asked me where I wanted the first message sent if we reached the northern coast.
 
