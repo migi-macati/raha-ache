@@ -308,6 +308,4 @@ He spread the wet net across his knees. There were more broken knots than I had 
 
 Sulad crouched beside us without a word.
 
-I had won the wager around the post, if anyone still cared to count it.
-
-Sulad never asked for his rice cakes.
+The packet of rice cakes slipped out of his cloth. He set it beside my knee and showed me which end of the net to hold. I kept my opinion of the turn at the post to myself.

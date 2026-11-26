@@ -714,13 +714,19 @@ She looked at the silver without touching it. “And how much did you spend find
 
 “That was not my question.”
 
-I told her about the man who had asked at the upriver landing and been paid for an honest failure. She asked what he had promised before taking the money. I said he had promised to ask two men, and had asked them.
+I told her about the man who had asked at the upriver landing and been paid for an honest failure.
 
-“Then that was a bargain kept,” she said.
+“What did he promise you?” she asked.
 
-“It brought me no captain.”
+“Nothing. He was there on his own business. By the time we talked about money he had asked two men.”
 
-“It brought you an answer.”
+“You could have kept your silver.”
+
+I had thought of keeping it. I left that part out.
+
+“I would have liked to come home with the captain’s name, at least.”
+
+“So would I,” she said.
 
 She went to the chest and took out the wooden box. Bulkan turned toward the doorway, but she called him back.
 
@@ -1358,7 +1364,7 @@ The buyer put an empty basket down between us. “Food for the work, when it's d
 
 Sulad picked up the basket. For a moment I thought he meant to hand it to me. He went past me with it. The buyer showed him where the damp ones went.
 
-From where I stood I could still see the two bundles in the smaller boat and the gap between them, just wide enough for us if we sat close. The boatman was tying off the second knot. Sulad had already come back for another basket.
+From where I stood I could still see the two bundles in the smaller boat and the gap between them, just wide enough for us if we sat close. The boatman sat down in the gap. Sulad had already come back for another basket.
 
 I got to it first.
 
