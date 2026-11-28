@@ -128,9 +128,9 @@ There was a stout mooring post on the quay. If we could bring the line to the me
 
 Sulad studied the distance. “That could work. But the sail stays down.”
 
-I nodded. He did not look convinced.
+I let the sail partway down. The loose end of our line was slipping past. I could finish with the sail or catch the rope while it was still beside us. I caught the rope. There would be time at the quay.
 
-We recovered the loose line, paddled toward the quay, and called for help. Men looked up from their work. Then one recognized me.
+We paddled toward the quay with the wet line trailing over my knee and called for help. Men looked up from their work. Then one recognized me.
 
 “The young raha!”
 
@@ -142,15 +142,13 @@ The line tightened. The cargo boat began to turn.
 
 For a moment I thought we had done it perfectly.
 
-Then the sail, which I had failed to lower completely, filled with a sudden gust. Our bow swung into the tightening rope. Sulad shoved with his paddle, but the outrigger struck a submerged stake.
+The patch snapped taut above my head. Our bow swung into the tightening rope. Sulad shoved with his paddle, but the outrigger struck a submerged stake.
 
 Wood cracked beneath us.
 
 Water splashed over my feet. A length of our outrigger floated away.
 
-The cargo boat hit the quay. Several jars shattered. Men shouted and hauled at the rope.
-
-A rower reached for the quay to steady himself. The hull struck before he could pull his hand free. He cried out and stumbled back, clutching his wrist against his chest.
+A rower reached for the quay to steady himself. The hull struck with his hand still between the wood and the piling. I heard the jars go. I saw his mouth open before I heard him. He stumbled back, clutching his wrist against his chest.
 
 But the hull stayed upright.
 
