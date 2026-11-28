@@ -584,7 +584,7 @@ I wanted to say I had only been thinking aloud. The fisherman would have heard t
 
 “I know.”
 
-He picked up our jar. He came because he wanted to hear what I would say, not because I had persuaded him.
+He picked up our jar.
 
 At the landing, the man I had paid was gone. The buyer was counting the baskets nearest the path, touching each one as he passed. The fisherman had lifted a corner of his net to shake out the grit. No one had moved the bundle of cloth. Nima was still beside it.
 
@@ -624,7 +624,7 @@ Because I had thought Sulad would stay. Because I had seen him carry water, and 
 
 “I shouldn't have spoken for him,” I said. “You have my word for my hands. Not his.”
 
-Sulad's expression did not change. He had not asked for an apology. He had asked me to stop making bargains he would have to keep.
+Sulad's expression did not change.
 
 The buyer moved a basket with his foot, no farther than the width of his sandal.
 
@@ -652,7 +652,7 @@ Sulad held the jar beside me. For once I let the silence belong to someone else.
 
 The fisherman lifted the wet end of his net from the ground and found a stone caught in it. He shook the mesh until the stone fell out. Then he put the net down again, in the same place.
 
-I had expected him to move it when the buyer asked. He had listened to the request without saying no. I was learning that silence could last longer than an answer.
+I had expected him to move it when the buyer asked. He had listened to the request without saying no.
 
 The visiting boat still lay beyond the post. Its men had changed hands on the poles so often that the wood shone where they gripped it. Nima sat beside the covered bundle, keeping one foot against it when the boat rolled. I could see a dark line creeping along the covering toward the fold beneath.
 
@@ -706,7 +706,7 @@ The fisherman looked from him to me. “And if he leaves?”
 
 “Then I carry them,” I said.
 
-Sulad glanced at me. He was not smiling. It was the first answer I had given that did not borrow his hands.
+Sulad glanced at me. He was not smiling.
 
 The buyer made us show where the baskets would go. I carried one to the strip of hard ground above the water, where the fisherman could still spread his net without laying it over them. The buyer moved it half a pace farther from the path. Only then did he nod.
 
@@ -914,7 +914,7 @@ I looked toward the buyer. He was busy with a man who wanted to inspect the bask
 
 “I will,” I said.
 
-Mulaw moved to the pole. I had wanted him to offer something that would survive his departure: a name to speak elsewhere, a friend who would carry us, a debt that could be collected. He had given me his name and advice that cost him nothing.
+Mulaw moved to the pole. I had wanted him to offer something that would survive his departure: a name to speak elsewhere, a friend who would carry us, a debt that could be collected. He had given me his name.
 
 The boat moved away from the post. Nima kept one hand on the bundle until they were beyond the shallows.
 

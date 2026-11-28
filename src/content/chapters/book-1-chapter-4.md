@@ -294,15 +294,11 @@ No one had ordered him across the river. He had chosen where he expected to find
 
 "Then they will bring their own terms."
 
-"They already do. If I send their crews away, the cargo may follow them. Which of our boats will take tomorrow's baskets? Whose food will keep the rowers here while they wait?"
+She watched the merchant go. I looked toward the fishing stakes Sulad had carried away.
 
-I looked toward the fishing stakes Sulad had carried away. "We can find men."
+"We can find men."
 
-"Find them first. Find what they will eat. I cannot promise a boat with someone else's arms."
-
-"You would leave this shore in their hands?"
-
-"I would keep a shore where boats still come."
+She held out her hand for the board. I gave it to her, thinking she meant to send me to find a crew.
 
 She beckoned to our steward. "Go to Tondo's landing tomorrow. Ask what it would take to keep those crews working from our shore. Bring me their terms before you agree to anything."
 

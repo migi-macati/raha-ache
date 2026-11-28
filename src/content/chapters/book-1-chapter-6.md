@@ -48,7 +48,7 @@ I nearly complained that Ula could have given the captain's name. I had never le
 
 “I gave you no useful errand,” I said. “Could her brother ask at the upriver landing for the captain who spoke Malay? I would pay for the asking, even if no one knew him, once we agreed on a price.”
 
-Ula let the cord fall across her lap. “You are beginning at the right end. But her brother is away.”
+Ula let the cord fall across her lap. “Her brother is away.”
 
 “When will he return?”
 
@@ -68,45 +68,31 @@ I looked at the shell on the floor.
 
 I crossed the threshold and picked up the silver. It was warm where the sun had reached the shell. I wanted to set it down again and tell her she was making too much of a small thing. Instead I closed my fingers around it.
 
-“How should I ask?” I said.
+“Could you ask the woman to send word when her brother returns?” I said. “If he'll take the errand, I'll agree on a price with him myself. I won't leave silver on your floor again.”
 
-“First find out whether the brother will take the errand. Then agree on a price and a way to hear his answer. I will not promise him your money.”
+Ula drew the cord taut. “What shall I tell her you're looking for?”
 
-“Could you ask the woman to send word when he returns?”
+“A captain I met once and was too proud to question properly.”
 
-“I can do that.”
-
-“What will you tell her?”
-
-Ula drew the cord taut. “That a young man in Maynila is trying to find a captain he met once and was too proud to question properly.”
-
-“That will make him eager to help.”
-
-“It may make him remember you.”
+“That may help her remember you.”
 
 I laughed, though I did not want to. Ula's mouth moved at one corner.
 
-She laid the finished cord beside the broken shell. “There is something else. If the brother finds this man, what do you want him to say?”
+“And what should her brother say if he finds the man?”
 
-“That I need passage to Brunei.”
-
-“On what boat? With what cargo? At what price?”
-
-“I don't know yet.”
-
-“Then you have two questions, not one.”
+I nearly said that I needed passage to Brunei. I could hear the captain asking what boat, what cargo, what price, and knew I had no answers.
 
 I sat at the threshold where I could see the river through the gap between houses. Men were lifting baskets from a boat onto the bank. One basket split at its seam, and its owner caught it before the contents fell. No one stopped to look at me.
 
 “Tell him I want to speak with the captain,” I said at last. “Only that. If he finds him, ask where and when.”
 
-Ula nodded once. I had managed to ask for a meeting without claiming a voyage.
+Ula nodded once.
 
 “And if he says no?” she asked.
 
 “Then I have to find another way.”
 
-“Good. Now you have a message.”
+Ula drew the cord back toward her work.
 
 I turned the silver over in my palm. It had been easier to imagine a voyage than to arrange the first question.
 
@@ -170,7 +156,7 @@ I stared at it. “For what?”
 
 “She didn't. I was going upriver with goods. I asked while I was there. You can keep your silver.”
 
-He had done the work without a bargain. I could refuse him; he could refuse the next errand. The silver lay against my skin where I had carried it from home.
+The silver lay against my skin where I had carried it from home.
 
 “How much would you take?”
 
@@ -194,7 +180,7 @@ He turned back to the jars. I could have left with the same captain I had begun 
 
 “Because you will sound like a man asking a fisherman to bring him a mountain.”
 
-I wanted to ask whether everyone who worked the river had agreed to speak to me as Ula did. But the brother had already given me what I paid for. He owed me nothing more.
+I wanted to ask whether everyone who worked the river had agreed to speak to me as Ula did. I kept the question to myself.
 
 “Where is the trader?”
 
@@ -226,7 +212,7 @@ The man put down the slat.
 
 “It is the answer I have.”
 
-He lifted the nearest basket, judged its weight and set it beside another. I had thought the voyage would begin with a name on a shore. To him it began with what he could sell there.
+He lifted the nearest basket, judged its weight and set it beside another.
 
 “Could I come with you until you stop?” I asked.
 
@@ -320,7 +306,7 @@ The brother walked beside me as far as the first houses. He did not offer to car
 
 “He did speak differently when he guessed.”
 
-I thought of the care in the trader's eyes. It had not been respect.
+I remembered the way the trader had looked at my clothes, then at the brother.
 
 “Would you go on that boat?” I asked.
 
@@ -728,13 +714,19 @@ She looked at the silver without touching it. “And how much did you spend find
 
 “That was not my question.”
 
-I told her about the man who had asked at the upriver landing and been paid for an honest failure. She asked what he had promised before taking the money. I said he had promised to ask two men, and had asked them.
+I told her about the man who had asked at the upriver landing and been paid for an honest failure.
 
-“Then that was a bargain kept,” she said.
+“What did he promise you?” she asked.
 
-“It brought me no captain.”
+“Nothing. He was there on his own business. By the time we talked about money he had asked two men.”
 
-“It brought you an answer.”
+“You could have kept your silver.”
+
+I had thought of keeping it. I left that part out.
+
+“I would have liked to come home with the captain’s name, at least.”
+
+“So would I,” she said.
 
 She went to the chest and took out the wooden box. Bulkan turned toward the doorway, but she called him back.
 
@@ -1288,13 +1280,11 @@ There was a shallow place where people drew water. Two children stood beside a r
 
 “You could have asked her about a boat,” I said.
 
-“She was selling fish.”
+Sulad moved our jar forward with the others. “You can go back and ask.”
 
-“She might know.”
+I stayed beside him.
 
-“She might. She also knew where the water was.”
-
-The man ahead of us lifted his jar, tested its weight, and walked away. The children moved their jars forward. I watched Sulad set ours beside theirs. We had paid to cross the water, and now we were waiting behind children to fill a jar.
+The man ahead of us lifted his jar, tested its weight, and walked away. The children moved their jars forward. I watched the children shift their jars ahead of ours. We had paid to cross the water, and now we were waiting behind children to fill a jar.
 
 When we returned to the landing, the trader was no longer arguing. The buyer had accepted part of the cargo and refused the damp baskets. The crew had moved the rejected goods into the shade. Their boat was being readied for another errand, though no one would tell me where it might go.
 
@@ -1366,27 +1356,19 @@ I went back to Sulad. He was crouched by the rejected baskets, talking with the 
 
 “Finding out whether he needs hands.”
 
-The buyer looked at me. “Can you carry a basket without dropping it?”
-
-“Yes.”
-
-“Can you carry one after someone tells you where?”
-
-I glanced at Sulad. “Yes.”
-
-“I'll pay you for the work when it's done. Food, if you want food. No place to sleep.”
+The buyer put an empty basket down between us. “Food for the work, when it's done. You'll have to sleep somewhere else.”
 
 “That is enough for now,” Sulad said.
 
 “It may not be enough for me,” I said.
 
-The buyer picked up an empty basket. “Then find someone offering more.”
+Sulad picked up the basket. For a moment I thought he meant to hand it to me. He went past me with it. The buyer showed him where the damp ones went.
 
-He turned away. Sulad watched me, waiting. I could have gone after the boatman and asked again. I could have told the buyer who my mother was. I could have stood there until someone grew tired of me and offered a little more simply to make me leave.
+From where I stood I could still see the two bundles in the smaller boat and the gap between them, just wide enough for us if we sat close. The boatman sat down in the gap. Sulad had already come back for another basket.
 
-Instead I took the basket.
+I got to it first.
 
-The work was not difficult, though I had to be shown twice how to stack the damp ones so that air could pass between them. When we finished, the buyer gave us food and directed us to a household that sometimes let travelers sleep under its roof for payment. He did not promise that they would have room.
+“On its side,” the buyer called when I set it down. I tipped it over. He had to show me again with the next one before I saw the space he wanted between the wet reeds. When we finished, the buyer gave us food and directed us to a household that sometimes let travelers sleep under its roof for payment. He did not promise that they would have room.
 
 We ate sitting beside our jar. The trader's boat was still at the landing. The smaller boat had gone, leaving a wet mark where its rope had rubbed the post.
 

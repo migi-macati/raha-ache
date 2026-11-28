@@ -104,53 +104,37 @@ Bulkan was beside the damaged outrigger when I found him. He had one foot agains
 Bulkan stood. He had been my teacher long enough to know when I was trying to turn a question into an order.
 
 
-"How many?" he asked.
+"Two boats," I said. "A dozen men. At the landing."
 
-"Enough that Tondo's crews stop acting as though this is their shore."
+"To watch?"
 
-He glanced toward the water. "How many is enough?"
+"To make the Tondo crews think twice."
 
-"Two boats. A dozen men."
+Bulkan ran his thumb along the fastening. The carpenter waited for him to move.
 
-"Doing what?"
+"Yesterday those rowers were hired by one of our own households," he said.
 
-"Watching."
+"I know who hired them."
 
-"Watching whom?"
+"Then you know whose boat your men would stand in front of."
 
-"The men who come to take our work."
+I did. Sima had paid for a crossing and still had no cargo aboard. The young rower had no wages. I wanted twelve men to make that confusion look like an enemy.
 
-Bulkan ran his thumb along the edge of the fastening. The carpenter waited for him to move.
+"One boat," I said. "Set apart from the working crews. Someone to tell us if a vessel is taken by force."
 
-"Yesterday the rowers came because a household hired them," he said. "Would you have your men stop the next crew from coming?"
+Bulkan moved his foot so the carpenter could finish. "I can arrange a watch. Your mother must know who feeds them."
 
-"Not if they are paid fairly."
+"I'll tell her."
 
-"Who will decide that at the water?"
+"And if a Tondo rower laughs at your watch?"
 
-"I will."
+I looked at the pale strip of new wood along the hull. "They stay in the boat."
 
-"And when you are not there?"
-
-I looked at the hull. A narrow strip of new wood had been fitted along the side, pale against the old planking. The carpenter had done good work. He was waiting to finish it.
-
-"I want them to know we are not helpless," I said.
-
-Bulkan moved his foot so the carpenter could work.
-
-"I can put a boat near the landing," he said. "A man can tell us what he sees. If someone tries to take a vessel by force, that is another matter. But if your men stand there all day while the crews work, they will want food. They will want to know who sent them. And the first time a Tondo rower laughs at them, you will have to decide whether the laughter is worth a fight."
-
-"I would decide."
-
-"I believe you."
-
-He said it so readily that I looked at him.
-
-"I have seen you decide quickly," he continued. "I have also seen the boat afterward."
+He studied me. "Will you?"
 
 The carpenter struck the fastening into place. I felt the blow through the ground.
 
-Bulkan had once made me repeat a turn until my hands blistered. I had cursed him for it and then, the next day, found myself making the turn correctly without thinking. I wanted him to be wrong now. I wanted him to be an old man who had forgotten what courage was for.
+Bulkan had once made me repeat a turn until my hands blistered. I had cursed him for it and the next day found myself making the turn correctly without thinking. I wanted him to be wrong now. I wanted him to be an old man who had forgotten what courage was for.
 
 "Would you stand with me?" I asked.
 

@@ -128,9 +128,9 @@ There was a stout mooring post on the quay. If we could bring the line to the me
 
 Sulad studied the distance. “That could work. But the sail stays down.”
 
-I nodded. He did not look convinced.
+I let the sail partway down. The loose end of our line was slipping past. I could finish with the sail or catch the rope while it was still beside us. I caught the rope. There would be time at the quay.
 
-We recovered the loose line, paddled toward the quay, and called for help. Men looked up from their work. Then one recognized me.
+We paddled toward the quay with the wet line trailing over my knee and called for help. Men looked up from their work. Then one recognized me.
 
 “The young raha!”
 
@@ -142,15 +142,13 @@ The line tightened. The cargo boat began to turn.
 
 For a moment I thought we had done it perfectly.
 
-Then the sail, which I had failed to lower completely, filled with a sudden gust. Our bow swung into the tightening rope. Sulad shoved with his paddle, but the outrigger struck a submerged stake.
+The patch snapped taut above my head. Our bow swung into the tightening rope. Sulad shoved with his paddle, but the outrigger struck a submerged stake.
 
 Wood cracked beneath us.
 
 Water splashed over my feet. A length of our outrigger floated away.
 
-The cargo boat hit the quay. Several jars shattered. Men shouted and hauled at the rope.
-
-A rower reached for the quay to steady himself. The hull struck before he could pull his hand free. He cried out and stumbled back, clutching his wrist against his chest.
+A rower reached for the quay to steady himself. The hull struck with his hand still between the wood and the piling. I heard the jars go. I saw his mouth open before I heard him. He stumbled back, clutching his wrist against his chest.
 
 But the hull stayed upright.
 
@@ -238,41 +236,31 @@ He looked at me.
 
 “Mostly, my lady.”
 
-She examined the tally. “You ordered men away from their work.”
+She examined the tally. “Who pulled up the stakes?”
 
-“They were closest.”
+“The men on the quay.”
 
-“Did you know what they were carrying?”
+“Which men?”
 
-“No.”
+I could remember the hand that caught the rope, but not the face above it.
 
-“Did you know who owned the fishing stakes?”
+“The porter ran when he recognized me,” I said. “I don't know the others.”
 
-“No.”
-
-“Did you know who would repair the boat you borrowed?”
-
-I looked down.
-
-“And the rower?”
+She moved the tally toward me. I recognized the marks for the broken jars. The steward had put the damaged net beside them. Below that was the rower.
 
 “He would have been hurt if the boat overturned.”
 
-“Perhaps. Was he hurt when you turned it into the quay?”
+My mother waited.
 
-I stared at her. It was not a question I wanted her to ask in front of Sulad.
+“The hull caught his hand,” I said.
 
-“I was trying to save them.”
+Sulad was looking at the floor. I could still have left out the sail. My mother had not asked him again.
 
-“I know what you were trying to do.”
+“He told me to lower it. I thought I had time.”
 
-“Your father left you a claim to Maynila,” she said. “He did not leave you a separate river.”
+She looked at Sulad, then back at me.
 
-I had never known my father. I knew him through the empty place beside her at ceremonies, and through older men who studied my face before they spoke.
-
-“I didn't say the river was mine.”
-
-“No. But they recognized you and came running. You did not have to say the river was yours.”
+I wished I had waited until we were alone to say it.
 
 “I saved the child.”
 
@@ -318,6 +306,4 @@ He spread the wet net across his knees. There were more broken knots than I had 
 
 Sulad crouched beside us without a word.
 
-I had won the wager around the post, if anyone still cared to count it.
-
-Sulad never asked for his rice cakes.
+The packet of rice cakes slipped out of his cloth. He set it beside my knee and showed me which end of the net to hold. I kept my opinion of the turn at the post to myself.

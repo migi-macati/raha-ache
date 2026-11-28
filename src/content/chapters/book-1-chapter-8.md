@@ -900,7 +900,13 @@ I felt an answer rise in my mouth, something about how far we still had to trave
 
 “One landing,” I said.
 
-We told the woman together. She made each of us repeat the work we would do: I would help load the last bundle and unload both at the next landing; Sulad would help keep the mats clear of water and unload them, but he would not be put at a pole he did not know how to use. Our jar could come if it was tied down. We would keep the food we had earned. She owed us no further passage, and if the boat could not leave, we would still be paid for the work already done.
+We told the woman together.
+
+“You load the last bundle and unload both when we land,” she said to me. She turned to Sulad. “You keep the mats dry and help him unload.”
+
+“I won't take a pole,” Sulad said. “I don't know how.”
+
+“Then leave it to my brother.” She pointed at our jar. “Tie that down. Keep the food you've earned. I owe you one landing if there's room when we leave. The work is paid even if we don't sail.”
 
 “Be here before the light reaches that tree,” she said, pointing above the screen. “If the water is wrong, we wait. If you are late, we do not.”
 
@@ -910,6 +916,6 @@ When the second bundle was secured, she fetched a leaf packet from beside the sc
 
 Afterward we sat near the screen with the jar between us. The mat-mender had gone inside. Sulad divided his packet, wrapped one portion again for morning, and placed the other in my hand. I tucked it inside my cloth without opening it. The boat rocked once against its pole and settled.
 
-There was no roof over us. I could not see the next landing, and the woman had not told us what lay beyond it. But I knew which bundle I had carried, what she had promised, and when she would leave.
+The bank smelled of wet leaf and mud. Beyond the moored boat, the river vanished into the dark. I kept the food packet beneath my folded cloth, where I could find it before morning.
 
 Sulad lay down with his back toward the water. His hands were still moving in the dark, making the turn the mat-mender had taught him.
